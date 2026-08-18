@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T00:50:07.858533+09:00",
+  "updated": "2026-08-19T07:55:40.494533+09:00",
   "count": 51,
   "books": [
     {
@@ -33,21 +33,21 @@
       "is_comic": false
     },
     {
-      "id": "7766c199cb754c19",
-      "title": "내가 죽였다",
-      "author": "정해연",
-      "cover": "https://image.millie.co.kr/service/cover/180163843/bf4ce2d9527c4f3da4c361c46f7037c4.jpg",
-      "open_date": "2026-08-24",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "cbc60d16e5514b00",
       "title": "투명한 나선",
       "author": "히가시노 게이고 지음 / 김선영 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180170965/ab8e2f67250040f6aec3ac6f66e23d05.jpg",
       "open_date": "2026-08-31",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "7766c199cb754c19",
+      "title": "내가 죽였다",
+      "author": "정해연",
+      "cover": "https://image.millie.co.kr/service/cover/180163843/bf4ce2d9527c4f3da4c361c46f7037c4.jpg",
+      "open_date": "2026-08-24",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -123,16 +123,6 @@
       "is_comic": false
     },
     {
-      "id": "1cdfbe2e13e2485f",
-      "title": "가가린이 들려주는 무중력 이야기",
-      "author": "정완상",
-      "cover": "https://image.millie.co.kr/service/cover/3330348/14770591af504f8a8d34e115c7a814f9.jpg",
-      "open_date": "2099-12-31",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "2a1491c6c0674074",
       "title": "찰리 멍거 바이블 완결판",
       "author": "김재현, 이건",
@@ -143,11 +133,11 @@
       "is_comic": false
     },
     {
-      "id": "fde9bbb1bfe94530",
-      "title": "생각을 외주화한 사람들",
-      "author": "정재민, 김영주",
-      "cover": "https://image.millie.co.kr/service/cover/180172750/4c5c0532520f4b26b8a1da2ee3b1de76.jpg",
-      "open_date": "2026-08-25",
+      "id": "1cdfbe2e13e2485f",
+      "title": "가가린이 들려주는 무중력 이야기",
+      "author": "정완상",
+      "cover": "https://image.millie.co.kr/service/cover/3330348/14770591af504f8a8d34e115c7a814f9.jpg",
+      "open_date": "2099-12-31",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -158,6 +148,16 @@
       "author": "에리히 프롬 지음 / 신소희 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180174041/921b5d7d63da4c30ba0fc55f4b347695.jpg",
       "open_date": "2026-08-28",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "fde9bbb1bfe94530",
+      "title": "생각을 외주화한 사람들",
+      "author": "정재민, 김영주",
+      "cover": "https://image.millie.co.kr/service/cover/180172750/4c5c0532520f4b26b8a1da2ee3b1de76.jpg",
+      "open_date": "2026-08-25",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -183,21 +183,21 @@
       "is_comic": false
     },
     {
-      "id": "62861c55450f4d1c",
-      "title": "일본 현지 슈퍼마켓 대백과",
-      "author": "스가와라 요시미 지음 / 이혜윤 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180172758/8a1064236b4b4bc89069486e8358c8ef.jpg",
-      "open_date": "2026-08-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "e080b111c85d4adc",
       "title": "소금호수, 우리가 사랑한 이상한 세계",
       "author": "캐롤라인 트레이시 지음 / 김민정 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180174118/9f47e38436aa488abe10a984baaeb343.jpg",
       "open_date": "2026-08-26",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "62861c55450f4d1c",
+      "title": "일본 현지 슈퍼마켓 대백과",
+      "author": "스가와라 요시미 지음 / 이혜윤 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180172758/8a1064236b4b4bc89069486e8358c8ef.jpg",
+      "open_date": "2026-08-23",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -223,16 +223,6 @@
       "is_comic": false
     },
     {
-      "id": "20cc4c0bae884d79",
-      "title": "4호 시장을 사라! 펀드와 ETF의 이해 [하루 10분, 경제로 세상 듣기 시즌2]",
-      "author": "재정경제부",
-      "cover": "https://image.millie.co.kr/service/cover/180171853/3a9c6e8b67434f9ab1934000a2bff491.jpg",
-      "open_date": "2026-10-01",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "67f585bec69a4f0c",
       "title": "스파클",
       "author": "최현진",
@@ -253,12 +243,22 @@
       "is_comic": false
     },
     {
-      "id": "305472f7209a482c",
-      "title": "조용히 계속하는 사람",
-      "author": "브랜든 최",
-      "cover": "https://image.millie.co.kr/service/cover/180166981/ad0561a59e704f1d97d5dcb26bb8a504.jpg",
-      "open_date": "2026-09-16",
+      "id": "20cc4c0bae884d79",
+      "title": "4호 시장을 사라! 펀드와 ETF의 이해 [하루 10분, 경제로 세상 듣기 시즌2]",
+      "author": "재정경제부",
+      "cover": "https://image.millie.co.kr/service/cover/180171853/3a9c6e8b67434f9ab1934000a2bff491.jpg",
+      "open_date": "2026-10-01",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "568212487c54403c",
+      "title": "아이기스AIgis",
+      "author": "하야마 토오루 지음 / 정상우 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180173978/6cdfec60be6c47da9b1eb532c22bd693.jpg",
+      "open_date": "2026-08-24",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -273,31 +273,41 @@
       "is_comic": false
     },
     {
-      "id": "38cb3a05459343b1",
-      "title": "씨네 클래식",
-      "author": "김성현",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179677386/a7df5663626940c39245e2b282d7b8f6.jpg",
-      "open_date": "2026-08-24",
+      "id": "f30f9926c9994ddb",
+      "title": "생각이 많은 10대를 위한 국제 관계",
+      "author": "박창섭 지음 / 나수은 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180172714/87842fbcf6c944db94799213f1d12143.jpg",
+      "open_date": "2026-08-20",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "e1f7284fc90f43e3",
-      "title": "내란 예방 경제학",
-      "author": "원승연, 강신욱, 김혜원, 허석균, 주상영, 박복영, 지만수, 김계환, 정세은, 이선화, 임일섭, 박성욱, 박창균",
-      "cover": "https://image.millie.co.kr/service/cover/180174444/554a62644b6441ffb1fb4a5af7b80940.jpg",
-      "open_date": "2026-08-24",
+      "id": "981d19839aba482b",
+      "title": "쾌적한 사회의 불쾌함",
+      "author": "구마시로 도루 지음 / 이정미 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180172717/d97b6e0696dc444e8fd79f74cf33de30.jpg",
+      "open_date": "2026-08-20",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "cc2e2ba389ae42fa",
-      "title": "정책의 시간",
-      "author": "원승연, 박민수, 류덕현, 우석진, 홍석철, 강창희, 허석균, 이상영, 김정호, 지만수, 주병기",
-      "cover": "https://image.millie.co.kr/service/cover/180174443/d1afe8bc0cb5422794d1049cc72a4323.jpg",
-      "open_date": "2026-08-24",
+      "id": "86b4e845ec3a469c",
+      "title": "피터케이의 이기는 투자 불변의 법칙",
+      "author": "피터케이",
+      "cover": "https://image.millie.co.kr/service/cover/180171304/563489b7ce1f485482486eabc80da2a0.jpg",
+      "open_date": "2026-08-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "158187826dfe438d",
+      "title": "뇌가 멈추기 전에",
+      "author": "이승훈",
+      "cover": "https://image.millie.co.kr/service/cover/180171039/cc9593093fbb4ad49e9abbad0c82c327.jpg",
+      "open_date": "2026-08-21",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -323,6 +333,16 @@
       "is_comic": false
     },
     {
+      "id": "ce57b451cb0c4346",
+      "title": "CIA 심리학",
+      "author": "리처드 휴어 주니어",
+      "cover": "https://image.millie.co.kr/service/cover/180129567/f59f08c282d84388819e5a3282689cf1.jpg",
+      "open_date": "2026-08-24",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "dd7c186d3edb48a6",
       "title": "마흔에 읽는 천자문",
       "author": "허경진",
@@ -333,11 +353,11 @@
       "is_comic": false
     },
     {
-      "id": "f30f9926c9994ddb",
-      "title": "생각이 많은 10대를 위한 국제 관계",
-      "author": "박창섭 지음 / 나수은 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180172714/87842fbcf6c944db94799213f1d12143.jpg",
-      "open_date": "2026-08-20",
+      "id": "305472f7209a482c",
+      "title": "조용히 계속하는 사람",
+      "author": "브랜든 최",
+      "cover": "https://image.millie.co.kr/service/cover/180166981/ad0561a59e704f1d97d5dcb26bb8a504.jpg",
+      "open_date": "2026-09-16",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -357,16 +377,6 @@
       "title": "인물 따라 공간 따라 역사 문화 산책",
       "author": "신병주",
       "cover": "https://image.millie.co.kr/service/cover/180172716/46b7685c87774ac695a8305e3c6f7c86.jpg",
-      "open_date": "2026-08-20",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "981d19839aba482b",
-      "title": "쾌적한 사회의 불쾌함",
-      "author": "구마시로 도루 지음 / 이정미 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180172717/d97b6e0696dc444e8fd79f74cf33de30.jpg",
       "open_date": "2026-08-20",
       "is_audiobook": true,
       "is_series": false,
@@ -413,52 +423,12 @@
       "is_comic": false
     },
     {
-      "id": "cb48f93b4aee4ad7",
-      "title": "한국경제 빅 이슈",
-      "author": "서울사회경제연구소",
-      "cover": "https://image.millie.co.kr/service/cover/180174437/b35f02d5d2434d93b1e3961adaddb416.jpg",
-      "open_date": "2026-08-24",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "158187826dfe438d",
-      "title": "뇌가 멈추기 전에",
-      "author": "이승훈",
-      "cover": "https://image.millie.co.kr/service/cover/180171039/cc9593093fbb4ad49e9abbad0c82c327.jpg",
-      "open_date": "2026-08-21",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "86b4e845ec3a469c",
-      "title": "피터케이의 이기는 투자 불변의 법칙",
-      "author": "피터케이",
-      "cover": "https://image.millie.co.kr/service/cover/180171304/563489b7ce1f485482486eabc80da2a0.jpg",
-      "open_date": "2026-08-21",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "d3230ba4a9724a46",
       "title": "당신의 뇌는 지금 뛰고 있는가",
       "author": "마누엘라 마케도니아 지음 / 박종대 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180171817/ff4a6e112e0b4c77ae5508abed70fade.jpg",
       "open_date": "2026-08-24",
       "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "568212487c54403c",
-      "title": "아이기스AIgis",
-      "author": "하야마 토오루 지음 / 정상우 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180173978/6cdfec60be6c47da9b1eb532c22bd693.jpg",
-      "open_date": "2026-08-24",
-      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -483,20 +453,40 @@
       "is_comic": false
     },
     {
-      "id": "ce57b451cb0c4346",
-      "title": "CIA 심리학",
-      "author": "리처드 휴어 주니어",
-      "cover": "https://image.millie.co.kr/service/cover/180129567/f59f08c282d84388819e5a3282689cf1.jpg",
+      "id": "38cb3a05459343b1",
+      "title": "씨네 클래식",
+      "author": "김성현",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179677386/a7df5663626940c39245e2b282d7b8f6.jpg",
       "open_date": "2026-08-24",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "249896a3ef044b5f",
-      "title": "아주 긴밀한 연결",
-      "author": "곽민준",
-      "cover": "https://image.millie.co.kr/service/cover/180174423/c17098b6e1ac4fa7b9ce745c1e986072.jpg",
+      "id": "e1f7284fc90f43e3",
+      "title": "내란 예방 경제학",
+      "author": "원승연, 강신욱, 김혜원, 허석균, 주상영, 박복영, 지만수, 김계환, 정세은, 이선화, 임일섭, 박성욱, 박창균",
+      "cover": "https://image.millie.co.kr/service/cover/180174444/554a62644b6441ffb1fb4a5af7b80940.jpg",
+      "open_date": "2026-08-24",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "cc2e2ba389ae42fa",
+      "title": "정책의 시간",
+      "author": "원승연, 박민수, 류덕현, 우석진, 홍석철, 강창희, 허석균, 이상영, 김정호, 지만수, 주병기",
+      "cover": "https://image.millie.co.kr/service/cover/180174443/d1afe8bc0cb5422794d1049cc72a4323.jpg",
+      "open_date": "2026-08-24",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "cb48f93b4aee4ad7",
+      "title": "한국경제 빅 이슈",
+      "author": "서울사회경제연구소",
+      "cover": "https://image.millie.co.kr/service/cover/180174437/b35f02d5d2434d93b1e3961adaddb416.jpg",
       "open_date": "2026-08-24",
       "is_audiobook": true,
       "is_series": false,
@@ -507,6 +497,16 @@
       "title": "99%를 위한 경제학",
       "author": "김재수",
       "cover": "https://image.millie.co.kr/service/cover/180174426/e17fb11def5e4cdfb6ac2282db70aee9.jpg",
+      "open_date": "2026-08-24",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "249896a3ef044b5f",
+      "title": "아주 긴밀한 연결",
+      "author": "곽민준",
+      "cover": "https://image.millie.co.kr/service/cover/180174423/c17098b6e1ac4fa7b9ce745c1e986072.jpg",
       "open_date": "2026-08-24",
       "is_audiobook": true,
       "is_series": false,
