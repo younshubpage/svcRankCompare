@@ -38,7 +38,11 @@ from playwright.sync_api import sync_playwright
 # ---------- 기본 설정 ----------
 KST = timezone(timedelta(hours=9))
 NOW_KST = datetime.now(KST)
-TODAY = NOW_KST.strftime("%Y-%m-%d")
+# 각 서비스의 "일간" 랭킹은 전날 하루치 활동을 집계해서 보여준다
+# (예: 밀리의서재는 오늘 접속해도 화면에 어제 날짜가 찍혀 있음).
+# 그래서 크롤러가 실행된 날짜가 아니라, 그 랭킹이 실제로 반영하는 날짜를
+# "오늘"로 기록한다.
+TODAY = (NOW_KST - timedelta(days=1)).strftime("%Y-%m-%d")
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root
 DATA_JSON = os.path.join(BASE_DIR, "data.json")
