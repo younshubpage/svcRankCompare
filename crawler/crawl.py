@@ -6,9 +6,10 @@
 대상:
     - 교보문고 SAM 무제한 베스트 (sam.kyobobook.co.kr, 브라우저 렌더링 필요)
     - 교보문고 SAM 프리미엄 베스트 (sam.kyobobook.co.kr, 브라우저 렌더링 필요)
-    - 밀리의서재 일간 랭킹 (apis.millie.co.kr 공개 API, requests만으로 수집 가능)
+    - 밀리의서재 일간 랭킹 (apis.millie.co.kr 공개 API. 데이터센터 IP의 일반
+      HTTP 요청은 403으로 막혀서 브라우저 탭 안에서 fetch()로 호출해야 함)
     - 예스24 크레마클럽 인기 (cremaclub.yes24.com 공개 API, requests만으로 수집 가능)
-    - 밀리의서재 공개예정 도서 (apis.millie.co.kr 공개 API, requests만으로 수집 가능)
+    - 밀리의서재 공개예정 도서 (apis.millie.co.kr 공개 API, 위와 동일하게 브라우저 필요)
 
 실행 방법:
     pip install -r requirements.txt
@@ -28,6 +29,7 @@ import os
 import re
 import sys
 from datetime import datetime, timedelta, timezone
+from urllib.parse import urlencode
 
 import requests
 from bs4 import BeautifulSoup
@@ -101,12 +103,29 @@ def scrape_kyobo_sam(page, url):
     return results
 
 
-def scrape_millie_rank(limit=RANK_LIMIT):
-    """밀리의서재 일간 종합 랭킹 (공개 API, 로그인/브라우저 불필요)."""
+def fetch_json_via_browser(page, url, params=None):
+    """apis.millie.co.kr는 데이터센터 IP(예: GitHub Actions 러너)에서 오는
+    일반 HTTP 클라이언트(requests 등) 요청을 403으로 차단한다. 이미 열려있는
+    Playwright 브라우저 탭 안에서 fetch()를 실행하면 실제 브라우저의 요청으로
+    처리되어 차단되지 않는다."""
+    full_url = url
+    if params:
+        full_url = url + "?" + urlencode(params)
+    return page.evaluate(
+        """async (u) => {
+            const res = await fetch(u, {headers: {"Accept": "application/json"}});
+            if (!res.ok) throw new Error("HTTP " + res.status + " for " + u);
+            return await res.json();
+        }""",
+        full_url,
+    )
+
+
+def scrape_millie_rank(page, limit=RANK_LIMIT):
+    """밀리의서재 일간 종합 랭킹 (공개 API, 브라우저 탭 안에서 fetch)."""
     params = {"adult": 0, "offset": 0, "size": limit, "range": "day", "book_type_code": "01"}
-    r = requests.get(STORE_URLS["millie"], params=params, headers={"User-Agent": UA}, timeout=20)
-    r.raise_for_status()
-    items = r.json().get("data", [])
+    data = fetch_json_via_browser(page, STORE_URLS["millie"], params)
+    items = data.get("data", [])
     results = []
     for idx, b in enumerate(items, start=1):
         results.append(
@@ -152,14 +171,8 @@ def scrape_yes24_crema(limit=RANK_LIMIT):
     return results
 
 
-SCRAPERS_HTTP = {
-    "millie": scrape_millie_rank,
-    "yes24_crema": scrape_yes24_crema,
-}
-
-
-def scrape_upcoming(limit=60):
-    """밀리의서재 공개예정 도서 목록 (전체 탭, 공개 API)."""
+def scrape_upcoming(page, limit=60):
+    """밀리의서재 공개예정 도서 목록 (전체 탭, 공개 API, 브라우저 탭 안에서 fetch)."""
     url = "https://apis.millie.co.kr/public/curation/coming-soon/books/"
     params = {
         "category": "total",
@@ -169,9 +182,7 @@ def scrape_upcoming(limit=60):
         "limit": limit,
         "offset": 0,
     }
-    r = requests.get(url, params=params, headers={"User-Agent": UA}, timeout=20)
-    r.raise_for_status()
-    data = r.json()
+    data = fetch_json_via_browser(page, url, params)
     books = []
     for b in data.get("results", []) or []:
         badge = b.get("badge") or {}
@@ -295,22 +306,25 @@ def main():
 
     scraped = {}
     errors = {}
+    upcoming = None
 
-    # 1) requests만으로 되는 서비스 먼저 수집 (밀리의서재, 예스24 크레마클럽)
-    for store, fn in SCRAPERS_HTTP.items():
-        try:
-            scraped[store] = fn()
-            print(f"[OK] {store}: {len(scraped[store])}건 수집")
-        except Exception as e:
-            scraped[store] = []
-            errors[store] = str(e)
-            print(f"[FAIL] {store}: {e}", file=sys.stderr)
+    # 1) requests만으로 되는 서비스 (예스24 크레마클럽 - 데이터센터 IP도 허용됨)
+    try:
+        scraped["yes24_crema"] = scrape_yes24_crema()
+        print(f"[OK] yes24_crema: {len(scraped['yes24_crema'])}건 수집")
+    except Exception as e:
+        scraped["yes24_crema"] = []
+        errors["yes24_crema"] = str(e)
+        print(f"[FAIL] yes24_crema: {e}", file=sys.stderr)
 
-    # 2) 브라우저 렌더링이 필요한 교보문고 SAM (무제한/프리미엄)
+    # 2) 브라우저가 필요한 나머지: 교보문고 SAM(DOM 렌더링), 밀리의서재(탭 안에서 fetch)
+    #    밀리의서재 API(apis.millie.co.kr)는 GitHub Actions 같은 데이터센터 IP의
+    #    일반 HTTP 요청은 403으로 막아서, 반드시 브라우저 탭 안에서 호출해야 한다.
     with sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page(locale="ko-KR", user_agent=UA)
         page.set_default_timeout(60000)
+
         for store in ("kyobo_unlimited", "kyobo_premium"):
             try:
                 scraped[store] = scrape_kyobo_sam(page, STORE_URLS[store])
@@ -319,6 +333,23 @@ def main():
                 scraped[store] = []
                 errors[store] = str(e)
                 print(f"[FAIL] {store}: {e}", file=sys.stderr)
+
+        try:
+            page.goto("https://www.millie.co.kr/v4/now/millie-ranking", wait_until="domcontentloaded", timeout=60000)
+            scraped["millie"] = scrape_millie_rank(page)
+            print(f"[OK] millie: {len(scraped['millie'])}건 수집")
+        except Exception as e:
+            scraped["millie"] = []
+            errors["millie"] = str(e)
+            print(f"[FAIL] millie: {e}", file=sys.stderr)
+
+        try:
+            upcoming = scrape_upcoming(page)
+            print(f"[OK] upcoming: {len(upcoming['books'])}건 수집")
+        except Exception as e:
+            errors["upcoming"] = str(e)
+            print(f"[FAIL] upcoming: {e}", file=sys.stderr)
+
         browser.close()
 
     books = build_books(scraped)
@@ -339,15 +370,10 @@ def main():
 
     print(f"완료: 총 {len(books)}권, data.json / history.json 저장됨")
 
-    # 3) 밀리의서재 공개예정 도서 목록
-    try:
-        upcoming = scrape_upcoming()
+    if upcoming is not None:
         with open(UPCOMING_JSON, "w", encoding="utf-8") as f:
             json.dump(upcoming, f, ensure_ascii=False, indent=2)
         print(f"완료: 공개예정 도서 {len(upcoming['books'])}권, upcoming.json 저장됨")
-    except Exception as e:
-        errors["upcoming"] = str(e)
-        print(f"[FAIL] upcoming: {e}", file=sys.stderr)
 
     if errors:
         print(f"일부 수집 실패: {list(errors.keys())} (다음 실행 때 재시도됩니다)")

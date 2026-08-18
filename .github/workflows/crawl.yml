@@ -33,6 +33,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json history.json upcoming.json
+          for f in data.json history.json upcoming.json; do
+            [ -f "$f" ] && git add "$f"
+          done
           git diff --cached --quiet || git commit -m "chore: 구독 서비스 도서 베스트/공개예정 데이터 갱신 ($(date +'%Y-%m-%d'))"
           git push
