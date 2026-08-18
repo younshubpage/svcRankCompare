@@ -1,0 +1,357 @@
+# -*- coding: utf-8 -*-
+"""
+매일 아침 4개 구독 서비스의 도서 베스트 순위와 밀리의서재 공개예정 도서 목록을
+긁어와서 data.json / history.json / upcoming.json 을 만드는 스크립트.
+
+대상:
+    - 교보문고 SAM 무제한 베스트 (sam.kyobobook.co.kr, 브라우저 렌더링 필요)
+    - 교보문고 SAM 프리미엄 베스트 (sam.kyobobook.co.kr, 브라우저 렌더링 필요)
+    - 밀리의서재 일간 랭킹 (apis.millie.co.kr 공개 API, requests만으로 수집 가능)
+    - 예스24 크레마클럽 인기 (cremaclub.yes24.com 공개 API, requests만으로 수집 가능)
+    - 밀리의서재 공개예정 도서 (apis.millie.co.kr 공개 API, requests만으로 수집 가능)
+
+실행 방법:
+    pip install -r requirements.txt
+    playwright install --with-deps chromium
+    python crawl.py
+
+결과물:
+    ../data.json      - 오늘자 4개 서비스 순위 (index.html 1번 탭)
+    ../history.json   - 날짜별 순위 히스토리 누적 (최근 90일)
+    ../upcoming.json  - 밀리의서재 공개예정 도서 목록 (index.html 2번 탭)
+
+※ 사이트 구조가 바뀌면 아래 SELECTORS / API 부분만 고치면 됩니다.
+   (2026-08-18에 실제 응답을 확인해서 작성됨)
+"""
+import json
+import os
+import re
+import sys
+from datetime import datetime, timedelta, timezone
+
+import requests
+from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
+
+# ---------- 기본 설정 ----------
+KST = timezone(timedelta(hours=9))
+NOW_KST = datetime.now(KST)
+TODAY = NOW_KST.strftime("%Y-%m-%d")
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo root
+DATA_JSON = os.path.join(BASE_DIR, "data.json")
+HISTORY_JSON = os.path.join(BASE_DIR, "history.json")
+UPCOMING_JSON = os.path.join(BASE_DIR, "upcoming.json")
+
+STORES = ["kyobo_unlimited", "kyobo_premium", "millie", "yes24_crema"]
+STORE_URLS = {
+    "kyobo_unlimited": "https://sam.kyobobook.co.kr/dig/sam/landing/best",
+    "kyobo_premium": "https://sam.kyobobook.co.kr/dig/sam/landing/best?pageDvsn=premium",
+    "millie": "https://apis.millie.co.kr/public/rank/millie/",
+    "yes24_crema": "https://cremaclub.yes24.com/Bookclub/GetBookclubSumGoodsList",
+}
+RANK_LIMIT = 50
+HISTORY_MAX_DAYS = 90
+
+UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
+
+
+def norm_title(title: str) -> str:
+    """서로 다른 서비스의 같은 책을 매칭하기 위해 제목을 정규화."""
+    t = re.sub(r"[\s\(\)\[\]『』《》〈〉·:：,.\-!?'\"“”‘’]", "", title or "")
+    return t.lower()
+
+
+# ---------- 서비스별 크롤링 함수 ----------
+def scrape_kyobo_sam(page, url):
+    """교보문고 SAM (무제한/프리미엄) 일간 베스트.
+    sam.kyobobook.co.kr는 클라이언트 렌더링 페이지이며, 기존 교보문고 eBook
+    베스트 페이지(ebook.kyobobook.co.kr)와 동일한 #prdList / div.prodDt
+    컴포넌트를 재사용하고 있어 같은 셀렉터로 수집한다.
+    """
+    page.goto(url, wait_until="networkidle", timeout=60000)
+    page.wait_for_selector("div#prdList div.prodDt", timeout=20000)
+    items = page.query_selector_all("div#prdList > div.prodDt")
+    results = []
+    for li in items:
+        rank_el = li.query_selector("em.rank")
+        if not rank_el:
+            continue
+        try:
+            rank = int(rank_el.inner_text().strip())
+        except ValueError:
+            continue
+
+        title_el = li.query_selector("h3 a")
+        title = title_el.inner_text().strip() if title_el else ""
+        href = title_el.get_attribute("href") if title_el else ""
+        pid = href.rstrip("/").split("/")[-1] if href else ""
+
+        info_spans = li.query_selector_all("p.prodDt_info > span")
+        texts = [s.inner_text().strip() for s in info_spans]
+        author = texts[0] if len(texts) > 0 else ""
+        pub = texts[1] if len(texts) > 1 else ""
+
+        results.append(
+            {"t": rank, "title": title, "author": author, "pub": pub, "pid": pid, "ship": ""}
+        )
+    return results
+
+
+def scrape_millie_rank(limit=RANK_LIMIT):
+    """밀리의서재 일간 종합 랭킹 (공개 API, 로그인/브라우저 불필요)."""
+    params = {"adult": 0, "offset": 0, "size": limit, "range": "day", "book_type_code": "01"}
+    r = requests.get(STORE_URLS["millie"], params=params, headers={"User-Agent": UA}, timeout=20)
+    r.raise_for_status()
+    items = r.json().get("data", [])
+    results = []
+    for idx, b in enumerate(items, start=1):
+        results.append(
+            {
+                "t": idx,
+                "title": b.get("book_name", ""),
+                "author": b.get("author", ""),
+                "pub": "",
+                "pid": b.get("book_seq") or b.get("book_id") or "",
+                "ship": "",
+            }
+        )
+    return results
+
+
+def scrape_yes24_crema(limit=RANK_LIMIT):
+    """예스24 크레마클럽 인기(BEST) 목록 (공개 AJAX 엔드포인트, 브라우저 불필요)."""
+    params = {"pageNo": 1, "pageSize": limit, "dispNo": "", "order": 10, "pageGb": "BEST"}
+    r = requests.get(
+        STORE_URLS["yes24_crema"], params=params, headers={"User-Agent": UA}, timeout=20
+    )
+    r.raise_for_status()
+    r.encoding = "utf-8"
+    soup = BeautifulSoup(r.text, "html.parser")
+    items = soup.select("ul#ulBestBookClubGoods > li")
+    results = []
+    for idx, li in enumerate(items, start=1):
+        rank_el = li.select_one(".info_row.info_rank em")
+        title_el = li.select_one("a.gd_name")
+        author_el = li.select_one(".authPub.info_auth")
+        add_btn = li.select_one("a.btn_addBC")
+        try:
+            rank = int(rank_el.get_text(strip=True)) if rank_el else idx
+        except ValueError:
+            rank = idx
+        title = title_el.get_text(strip=True) if title_el else ""
+        author = author_el.get_text(strip=True) if author_el else ""
+        pid = add_btn.get("data-goods-no") if add_btn else ""
+
+        results.append(
+            {"t": rank, "title": title, "author": author, "pub": "", "pid": pid or "", "ship": ""}
+        )
+    return results
+
+
+SCRAPERS_HTTP = {
+    "millie": scrape_millie_rank,
+    "yes24_crema": scrape_yes24_crema,
+}
+
+
+def scrape_upcoming(limit=60):
+    """밀리의서재 공개예정 도서 목록 (전체 탭, 공개 API)."""
+    url = "https://apis.millie.co.kr/public/curation/coming-soon/books/"
+    params = {
+        "category": "total",
+        "book_type_code": "01",
+        "adult_yn": "N",
+        "order_by": "popular",
+        "limit": limit,
+        "offset": 0,
+    }
+    r = requests.get(url, params=params, headers={"User-Agent": UA}, timeout=20)
+    r.raise_for_status()
+    data = r.json()
+    books = []
+    for b in data.get("results", []) or []:
+        badge = b.get("badge") or {}
+        books.append(
+            {
+                "id": b.get("content_seq") or "",
+                "title": b.get("book_name", ""),
+                "author": b.get("author", ""),
+                "cover": b.get("cover_image_url", ""),
+                "open_date": (b.get("service_open_date") or "").split(" ")[0],
+                "is_audiobook": bool(badge.get("is_audiobook")),
+                "is_series": bool(badge.get("is_series")),
+                "is_comic": bool(badge.get("is_comic")),
+            }
+        )
+    return {"updated": NOW_KST.isoformat(), "count": data.get("count", len(books)), "books": books}
+
+
+# ---------- 병합 / 전일 대비 계산 ----------
+def build_books(scraped: dict) -> list:
+    """서로 다른 서비스 결과를 같은 책끼리 묶는다 (제목 정규화 매칭)."""
+    merged = {}
+    for store, items in scraped.items():
+        for it in items:
+            key = norm_title(it["title"])
+            if not key:
+                continue
+            if key not in merged:
+                merged[key] = {
+                    "isbn": key,
+                    "title": it["title"],
+                    "author": it["author"],
+                    "pub": it["pub"],
+                }
+            merged[key][store] = {"t": it["t"], "pid": it["pid"], "ship": it.get("ship", "")}
+    return list(merged.values())
+
+
+def load_prev_pid_ranks():
+    """어제자 data.json에서 (서비스, 상품ID) -> 순위 매핑을 읽어온다."""
+    if not os.path.exists(DATA_JSON):
+        return {s: {} for s in STORES}, None
+    try:
+        with open(DATA_JSON, encoding="utf-8") as f:
+            old = json.load(f)
+    except Exception:
+        return {s: {} for s in STORES}, None
+
+    prev_date = old.get("today")
+    pid_ranks = {s: {} for s in STORES}
+    for cat in old.get("data", {}).values():
+        for b in cat.get("books", []):
+            for s in STORES:
+                v = b.get(s)
+                if v and v.get("pid"):
+                    pid_ranks[s][v["pid"]] = v["t"]
+    return pid_ranks, prev_date
+
+
+def apply_prev_ranks(books: list, pid_ranks: dict):
+    for b in books:
+        for s in STORES:
+            v = b.get(s)
+            if v:
+                v["p"] = pid_ranks.get(s, {}).get(v["pid"])  # 없으면 None(=신규 NEW)
+
+
+# ---------- 히스토리 누적 ----------
+def update_history(output: dict):
+    if os.path.exists(HISTORY_JSON):
+        try:
+            with open(HISTORY_JSON, encoding="utf-8") as f:
+                hist = json.load(f)
+        except Exception:
+            hist = {"dates": [], "books": {}}
+    else:
+        hist = {"dates": [], "books": {}}
+
+    if TODAY in hist["dates"]:
+        idx = hist["dates"].index(TODAY)
+    else:
+        hist["dates"].append(TODAY)
+        idx = len(hist["dates"]) - 1
+        for bk in hist["books"].values():
+            for cat_series in bk.get("series", {}).values():
+                for arr in cat_series.values():
+                    arr.append(None)
+
+    n = len(hist["dates"])
+    for b in output["data"]["all"]["books"]:
+        key = b["isbn"]
+        bk = hist["books"].setdefault(
+            key, {"title": b["title"], "author": b["author"], "pub": b["pub"], "series": {}}
+        )
+        bk["title"], bk["author"], bk["pub"] = b["title"], b["author"], b["pub"]
+        cat_series = bk["series"].setdefault("all", {})
+        for s in STORES:
+            arr = cat_series.setdefault(s, [None] * n)
+            while len(arr) < n:
+                arr.append(None)
+            v = b.get(s)
+            arr[idx] = v["t"] if v else None
+        b["hkey"] = key  # index.html이 히스토리 팝업에서 사용
+
+    # 90일 넘으면 앞부분 자르기
+    if len(hist["dates"]) > HISTORY_MAX_DAYS:
+        cut = len(hist["dates"]) - HISTORY_MAX_DAYS
+        hist["dates"] = hist["dates"][cut:]
+        for bk in hist["books"].values():
+            for cat_series in bk.get("series", {}).values():
+                for k in list(cat_series.keys()):
+                    cat_series[k] = cat_series[k][cut:]
+
+    with open(HISTORY_JSON, "w", encoding="utf-8") as f:
+        json.dump(hist, f, ensure_ascii=False, indent=2)
+
+
+# ---------- 메인 ----------
+def main():
+    pid_ranks, prev_date = load_prev_pid_ranks()
+
+    scraped = {}
+    errors = {}
+
+    # 1) requests만으로 되는 서비스 먼저 수집 (밀리의서재, 예스24 크레마클럽)
+    for store, fn in SCRAPERS_HTTP.items():
+        try:
+            scraped[store] = fn()
+            print(f"[OK] {store}: {len(scraped[store])}건 수집")
+        except Exception as e:
+            scraped[store] = []
+            errors[store] = str(e)
+            print(f"[FAIL] {store}: {e}", file=sys.stderr)
+
+    # 2) 브라우저 렌더링이 필요한 교보문고 SAM (무제한/프리미엄)
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        page = browser.new_page(locale="ko-KR", user_agent=UA)
+        page.set_default_timeout(60000)
+        for store in ("kyobo_unlimited", "kyobo_premium"):
+            try:
+                scraped[store] = scrape_kyobo_sam(page, STORE_URLS[store])
+                print(f"[OK] {store}: {len(scraped[store])}건 수집")
+            except Exception as e:
+                scraped[store] = []
+                errors[store] = str(e)
+                print(f"[FAIL] {store}: {e}", file=sys.stderr)
+        browser.close()
+
+    books = build_books(scraped)
+    apply_prev_ranks(books, pid_ranks)
+
+    output = {
+        "today": TODAY,
+        "prev": prev_date,
+        "surge_gap": 4,
+        "categories": [{"id": "all", "label": "전체"}],
+        "data": {"all": {"books": books}},
+    }
+
+    update_history(output)  # books에 hkey 채워짐 (output과 같은 객체 참조)
+
+    with open(DATA_JSON, "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+
+    print(f"완료: 총 {len(books)}권, data.json / history.json 저장됨")
+
+    # 3) 밀리의서재 공개예정 도서 목록
+    try:
+        upcoming = scrape_upcoming()
+        with open(UPCOMING_JSON, "w", encoding="utf-8") as f:
+            json.dump(upcoming, f, ensure_ascii=False, indent=2)
+        print(f"완료: 공개예정 도서 {len(upcoming['books'])}권, upcoming.json 저장됨")
+    except Exception as e:
+        errors["upcoming"] = str(e)
+        print(f"[FAIL] upcoming: {e}", file=sys.stderr)
+
+    if errors:
+        print(f"일부 수집 실패: {list(errors.keys())} (다음 실행 때 재시도됩니다)")
+
+
+if __name__ == "__main__":
+    main()
