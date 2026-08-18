@@ -10,7 +10,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            16
+            4
           ],
           "kyobo_premium": [
             5
@@ -247,7 +247,7 @@
             18
           ],
           "millie": [
-            21
+            6
           ],
           "yes24_crema": [
             12
@@ -283,7 +283,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            null
+            6
           ],
           "kyobo_premium": [
             8
@@ -583,7 +583,7 @@
             null
           ],
           "millie": [
-            23
+            15
           ],
           "yes24_crema": [
             28
@@ -1060,7 +1060,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            2
+            5
           ],
           "kyobo_premium": [
             11
@@ -1081,7 +1081,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            3
+            2
           ],
           "kyobo_premium": [
             3
@@ -1102,7 +1102,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            4
+            3
           ],
           "kyobo_premium": [
             2
@@ -1123,7 +1123,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            5
+            11
           ],
           "kyobo_premium": [
             null
@@ -1144,7 +1144,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            6
+            8
           ],
           "kyobo_premium": [
             null
@@ -1165,7 +1165,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            7
+            10
           ],
           "kyobo_premium": [
             null
@@ -1186,7 +1186,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            8
+            9
           ],
           "kyobo_premium": [
             null
@@ -1207,7 +1207,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            9
+            12
           ],
           "kyobo_premium": [
             null
@@ -1228,7 +1228,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            10
+            16
           ],
           "kyobo_premium": [
             null
@@ -1249,7 +1249,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            11
+            13
           ],
           "kyobo_premium": [
             null
@@ -1270,7 +1270,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            12
+            15
           ],
           "kyobo_premium": [
             null
@@ -1291,7 +1291,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            13
+            19
           ],
           "kyobo_premium": [
             null
@@ -1312,7 +1312,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            14
+            17
           ],
           "kyobo_premium": [
             null
@@ -1333,7 +1333,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            15
+            14
           ],
           "kyobo_premium": [
             null
@@ -1396,7 +1396,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            19
+            20
           ],
           "kyobo_premium": [
             null
@@ -1417,7 +1417,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            20
+            18
           ],
           "kyobo_premium": [
             null
@@ -1480,7 +1480,7 @@
       "series": {
         "all": {
           "kyobo_unlimited": [
-            null
+            7
           ],
           "kyobo_premium": [
             9
@@ -1717,7 +1717,7 @@
             null
           ],
           "millie": [
-            8
+            3
           ],
           "yes24_crema": [
             null
@@ -2453,6 +2453,195 @@
           ],
           "millie": [
             50
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "오디세이아영화<오디세이>원작__audio": {
+      "title": "오디세이아(영화 <오디세이> 원작)",
+      "author": "호메로스 지음 / 박문재 옮김",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            8
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "네번째여름__audio": {
+      "title": "네 번째 여름",
+      "author": "류현재",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            16
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "독하게돈공부__audio": {
+      "title": "독하게 돈 공부",
+      "author": "박소연",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            21
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "내면근력__audio": {
+      "title": "내면 근력",
+      "author": "짐 머피 지음 / 지여울 옮김",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            23
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "경애의마음__audio": {
+      "title": "경애의 마음",
+      "author": "김금희",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            26
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "프로젝트헤일메리__audio": {
+      "title": "프로젝트 헤일메리",
+      "author": "앤디 위어",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            30
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "왜나는너를사랑하는가__audio": {
+      "title": "왜 나는 너를 사랑하는가",
+      "author": "알랭 드 보통",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            40
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "최소한의한국사__audio": {
+      "title": "최소한의 한국사",
+      "author": "최태성",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            43
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "김미경의플러스휴먼보통인간의한계를깨부수는ai진화전략__audio": {
+      "title": "김미경의 플러스 휴먼: 보통 인간의 한계를 깨부수는 AI 진화 전략",
+      "author": "김미경",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            49
           ],
           "yes24_crema": [
             null
