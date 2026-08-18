@@ -122,12 +122,18 @@ def fetch_json_via_browser(page, url, params=None):
 
 
 def scrape_millie_rank(page, limit=RANK_LIMIT):
-    """밀리의서재 일간 종합 랭킹 (공개 API, 브라우저 탭 안에서 fetch)."""
+    """밀리의서재 일간 종합 랭킹 (공개 API, 브라우저 탭 안에서 fetch).
+    같은 랭킹 안에 전자책판과 오디오북판이 같은 제목으로 함께 섞여 나온다
+    (예: 'A' 전자책 3위, 'A' 오디오북 6위). 제목만으로 병합하면 서로 다른
+    상품인데도 같은 책으로 합쳐져 순위가 사라져 버리므로, 오디오북 여부를
+    함께 표기해서 병합 시 구분되게 한다.
+    """
     params = {"adult": 0, "offset": 0, "size": limit, "range": "day", "book_type_code": "01"}
     data = fetch_json_via_browser(page, STORE_URLS["millie"], params)
     items = data.get("data", [])
     results = []
     for idx, b in enumerate(items, start=1):
+        badge = b.get("badge") or {}
         results.append(
             {
                 "t": idx,
@@ -136,6 +142,7 @@ def scrape_millie_rank(page, limit=RANK_LIMIT):
                 "pub": "",
                 "pid": b.get("book_seq") or b.get("book_id") or "",
                 "ship": "",
+                "audio": bool(badge.get("is_audiobook")),
             }
         )
     return results
@@ -203,13 +210,17 @@ def scrape_upcoming(page, limit=60):
 
 # ---------- 병합 / 전일 대비 계산 ----------
 def build_books(scraped: dict) -> list:
-    """서로 다른 서비스 결과를 같은 책끼리 묶는다 (제목 정규화 매칭)."""
+    """서로 다른 서비스 결과를 같은 책끼리 묶는다 (제목 정규화 매칭).
+    오디오북판은 전자책판과 제목이 같아도 별개 상품이므로 병합 키를 분리한다.
+    """
     merged = {}
     for store, items in scraped.items():
         for it in items:
-            key = norm_title(it["title"])
-            if not key:
+            base_key = norm_title(it["title"])
+            if not base_key:
                 continue
+            is_audio = bool(it.get("audio"))
+            key = base_key + "__audio" if is_audio else base_key
             if key not in merged:
                 merged[key] = {
                     "isbn": key,
@@ -217,7 +228,12 @@ def build_books(scraped: dict) -> list:
                     "author": it["author"],
                     "pub": it["pub"],
                 }
-            merged[key][store] = {"t": it["t"], "pid": it["pid"], "ship": it.get("ship", "")}
+            merged[key][store] = {
+                "t": it["t"],
+                "pid": it["pid"],
+                "ship": it.get("ship", ""),
+                "audio": is_audio,
+            }
     return list(merged.values())
 
 

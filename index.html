@@ -86,6 +86,7 @@
   .chip{font-family:'Roboto',sans-serif;font-weight:700;font-size:11px;padding:1px 6px;border-radius:3px;letter-spacing:0;line-height:1.5}
   .chip.surge{background:var(--green);color:#fff}
   .chip.new{background:var(--blue);color:#fff}
+  .chip.audio{background:#8B5CF6;color:#fff}
 
   /* ---------- Category bar ---------- */
   .cat-bar{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px;padding-bottom:2px}
@@ -263,6 +264,7 @@
     <div class="legend">
       <span><span class="chip surge">급등</span> 4계단 이상 상승</span>
       <span><span class="chip new">NEW</span> 신규 진입</span>
+      <span><span class="chip audio">오디오북</span> 오디오북 전용판</span>
       <span><span class="dot" style="background:var(--green)"></span> 상승</span>
       <span><span class="dot" style="background:var(--red)"></span> 하락</span>
     </div>
@@ -305,8 +307,8 @@
       </div>
       <div class="bk-seg bk-period" id="bk-period-seg">
         <button data-p="7"  class="active" onclick="setHistPeriod(7)">7일</button>
+        <button data-p="15" onclick="setHistPeriod(15)">15일</button>
         <button data-p="30" onclick="setHistPeriod(30)">30일</button>
-        <button data-p="90" onclick="setHistPeriod(90)">90일</button>
       </div>
     </div>
     <div class="bk-chart-wrap" id="bk-chart-wrap">
@@ -323,8 +325,8 @@ let SURGE_GAP = 4; // 급등 기준: N계단 이상 상승
 
 // 서비스 정의: key는 data.json / 크롤러와 동일하게 맞춰야 함
 const STORES = [
-  {key:"kyobo_unlimited", name:"교보문고 SAM 무제한"},
-  {key:"kyobo_premium",   name:"교보문고 SAM 프리미엄"},
+  {key:"kyobo_unlimited", name:"교보문고 sam 무제한"},
+  {key:"kyobo_premium",   name:"교보문고 sam 프리미엄"},
   {key:"millie",          name:"밀리의서재"},
   {key:"yes24_crema",     name:"예스24 크레마클럽"},
 ];
@@ -404,8 +406,8 @@ let books = DATASET.all.books;        // 현재 카테고리의 책 목록
 
 function storeCount(b){return STORES.filter(s=>b[s.key]).length;}
 
-// 화면 표시 개수 제한: 전체 50, 분야별 30
-function viewLimit(){ return currentCat === "all" ? 50 : 30; }
+// 화면 표시 개수 제한: 교보문고 sam이 20위까지만 제공해서 4사 모두 TOP 20으로 통일
+function viewLimit(){ return 20; }
 
 function movement(rank){
   if(!rank) return null;
@@ -453,12 +455,13 @@ function renderStores(){
         const m = movement(b[s.key]);
         const surge = m && m.surge;
         const cross = storeCount(b)>=2 ? `<span class="cross">${storeCount(b)}사</span>` : "";
+        const audioTag = b[s.key].audio ? `<span class="chip audio">오디오북</span>` : "";
         const bi = STORE_BOOKS.push(b)-1;
         rows += `
           <li class="row bk-clickable ${surge?'surge':''}" onclick="openBook(STORE_BOOKS[${bi}])">
             <div class="rank num">${b[s.key].t}</div>
             <div class="info">
-              <div class="bk-title">${b.title}</div>
+              <div class="bk-title">${b.title} ${audioTag}</div>
               <div class="bk-meta">${joinDot(b.author,b.pub)} ${cross}</div>
               ${b[s.key].ship ? `<div class="bk-ship">${b[s.key].ship}</div>` : ''}
             </div>
@@ -517,10 +520,10 @@ async function openBook(book){
   // 기간탭: 데이터 범위에 따라 활성/비활성
   if(h){
     const span=dateSpanDays(h.dates);
-    document.querySelector('#bk-period-seg [data-p="30"]').disabled = span<=7;
-    document.querySelector('#bk-period-seg [data-p="90"]').disabled = span<=30;
+    document.querySelector('#bk-period-seg [data-p="15"]').disabled = span<=7;
+    document.querySelector('#bk-period-seg [data-p="30"]').disabled = span<=15;
   }
-  // 기간 버튼도 7일로 초기화(이전 팝업에서 30/90 눌렀던 하이라이트가 남지 않도록)
+  // 기간 버튼도 7일로 초기화(이전 팝업에서 15/30 눌렀던 하이라이트가 남지 않도록)
   document.querySelectorAll('#bk-period-seg button').forEach(b=>b.classList.toggle("active", +b.dataset.p===7));
   setHistCat("all");
 }
