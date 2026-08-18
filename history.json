@@ -1,0 +1,2464 @@
+{
+  "dates": [
+    "2026-08-19"
+  ],
+  "books": {
+    "독서의기술": {
+      "title": "독서의 기술",
+      "author": "고명환 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            16
+          ],
+          "kyobo_premium": [
+            5
+          ],
+          "millie": [
+            7
+          ],
+          "yes24_crema": [
+            1
+          ]
+        }
+      }
+    },
+    "오뒷세이아": {
+      "title": "오뒷세이아",
+      "author": "호메로스 저/천병희 역 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            20
+          ],
+          "yes24_crema": [
+            2
+          ]
+        }
+      }
+    },
+    "윗집부부": {
+      "title": "윗집 부부",
+      "author": "황보름 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            3
+          ]
+        }
+      }
+    },
+    "세입자": {
+      "title": "세입자",
+      "author": "프리다 맥파든 저/이경아 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            4
+          ],
+          "yes24_crema": [
+            4
+          ]
+        }
+      }
+    },
+    "i": {
+      "title": "I",
+      "author": "미치오 슈스케 저/이규원 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            5
+          ]
+        }
+      }
+    },
+    "오디세이아고대그리스어완역본": {
+      "title": "오디세이아 (고대 그리스어 완역본)",
+      "author": "호메로스 저/페테르 파울 루벤스 그림/박문재 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            1
+          ],
+          "kyobo_premium": [
+            1
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            6
+          ]
+        }
+      }
+    },
+    "일상질문사전": {
+      "title": "일상 질문 사전",
+      "author": "전성원 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            7
+          ]
+        }
+      }
+    },
+    "불안한날에니체를읽는다": {
+      "title": "불안한 날에 니체를 읽는다",
+      "author": "프리드리히 니체 저/김상현 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            8
+          ]
+        }
+      }
+    },
+    "일본현지슈퍼마켓대백과": {
+      "title": "일본 현지 슈퍼마켓 대백과",
+      "author": "스가와라 요시미 저/이혜윤 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            9
+          ]
+        }
+      }
+    },
+    "일리아스": {
+      "title": "일리아스",
+      "author": "호메로스 저/천병희 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            10
+          ]
+        }
+      }
+    },
+    "싫어하는사람을사라지게하는방법": {
+      "title": "싫어하는 사람을 사라지게 하는 방법",
+      "author": "호리 모토코 저/이은혜 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            31
+          ],
+          "yes24_crema": [
+            11
+          ]
+        }
+      }
+    },
+    "독하게돈공부": {
+      "title": "독하게 돈 공부",
+      "author": "박소연 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            18
+          ],
+          "millie": [
+            21
+          ],
+          "yes24_crema": [
+            12
+          ]
+        }
+      }
+    },
+    "테오": {
+      "title": "테오",
+      "author": "앨런 레비 저/노지양 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            4
+          ],
+          "millie": [
+            10
+          ],
+          "yes24_crema": [
+            13
+          ]
+        }
+      }
+    },
+    "직장인입니다만주식으로더법니다": {
+      "title": "직장인입니다만, 주식으로 더 법니다",
+      "author": "서정,제시모어,쓰리쿼터 저/권오태,시그널리포트 편",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            8
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            14
+          ]
+        }
+      }
+    },
+    "야수의산": {
+      "title": "야수의 산",
+      "author": "홍진희 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            15
+          ]
+        }
+      }
+    },
+    "철학카페에서문학읽기": {
+      "title": "철학카페에서 문학 읽기",
+      "author": "김용규 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            16
+          ]
+        }
+      }
+    },
+    "알면잠못드는위험한인문학": {
+      "title": "알면 잠 못 드는 위험한 인문학",
+      "author": "다크모드 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            17
+          ]
+        }
+      }
+    },
+    "삶에사랑이없다면그무엇이의미있으랴": {
+      "title": "삶에 사랑이 없다면, 그 무엇이 의미 있으랴",
+      "author": "에리히 프롬 저/이근오 편",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            18
+          ]
+        }
+      }
+    },
+    "더골1": {
+      "title": "더 골 1",
+      "author": "엘리 골드렛 저/강승덕,김일운,김효 역/정재승 해제",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            19
+          ]
+        }
+      }
+    },
+    "영어귀뚫기": {
+      "title": "영어 귀 뚫기",
+      "author": "집영 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            20
+          ]
+        }
+      }
+    },
+    "당신은더잘쓰게된다": {
+      "title": "당신은 더 잘 쓰게 된다",
+      "author": "이기원 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            21
+          ]
+        }
+      }
+    },
+    "저속노화다이어트의정석": {
+      "title": "저속노화 다이어트의 정석",
+      "author": "유혜미 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            22
+          ]
+        }
+      }
+    },
+    "싯다르타": {
+      "title": "싯다르타",
+      "author": "헤르만 헤세 저/김길웅 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            13
+          ],
+          "yes24_crema": [
+            23
+          ]
+        }
+      }
+    },
+    "수영그만두기": {
+      "title": "수영 그만두기",
+      "author": "린 섀프턴 저/최리외 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            24
+          ]
+        }
+      }
+    },
+    "살인자의쇼핑목록": {
+      "title": "살인자의 쇼핑목록",
+      "author": "강지영 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            25
+          ]
+        }
+      }
+    },
+    "개처럼인생을살아라": {
+      "title": "개처럼 인생을 살아라",
+      "author": "디오게네스 저/이근오 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            26
+          ]
+        }
+      }
+    },
+    "그대는인생에서무엇을놓치고있는가": {
+      "title": "그대는 인생에서 무엇을 놓치고 있는가",
+      "author": "세종대왕 저/이근오 편",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            27
+          ]
+        }
+      }
+    },
+    "내면근력": {
+      "title": "내면 근력",
+      "author": "짐 머피 저/지여울 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            23
+          ],
+          "yes24_crema": [
+            28
+          ]
+        }
+      }
+    },
+    "사주신살도감": {
+      "title": "사주신살도감",
+      "author": "애옹희 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            29
+          ]
+        }
+      }
+    },
+    "당신의마지막집은어디입니까": {
+      "title": "당신의 마지막 집은 어디입니까?",
+      "author": "랭커 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            30
+          ]
+        }
+      }
+    },
+    "저는2천만원으로시작해5년만에85개의프랜차이즈를운영하는92년생입니다": {
+      "title": "저는 2천만 원으로 시작해 5년 만에 85개의 프랜차이즈를 운영하는 92년생입니다",
+      "author": "깡대표(강규원) 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            31
+          ]
+        }
+      }
+    },
+    "한국영화가꿈꾼복수들": {
+      "title": "한국영화가 꿈꾼 복수들",
+      "author": "강성률 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            32
+          ]
+        }
+      }
+    },
+    "1년단3번경매로연봉을번다": {
+      "title": "1년 단 3번 경매로 연봉을 번다",
+      "author": "유재현 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            33
+          ]
+        }
+      }
+    },
+    "매일맛있는고기요리레시피55": {
+      "title": "매일 맛있는 고기 요리 레시피 55",
+      "author": "후카자와 아야 저/최선아 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            34
+          ]
+        }
+      }
+    },
+    "얼음녹이기": {
+      "title": "얼음 녹이기",
+      "author": "김서해 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            35
+          ]
+        }
+      }
+    },
+    "달러구트꿈백화점0": {
+      "title": "달러구트 꿈 백화점 0",
+      "author": "이미예 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            36
+          ]
+        }
+      }
+    },
+    "정프로의한없이가벼운경제상식": {
+      "title": "정프로의 한없이 가벼운 경제 상식",
+      "author": "정영진 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            37
+          ]
+        }
+      }
+    },
+    "심여사는킬러": {
+      "title": "심여사는 킬러",
+      "author": "강지영 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            38
+          ]
+        }
+      }
+    },
+    "내가죽였다": {
+      "title": "내가 죽였다",
+      "author": "정해연 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            39
+          ]
+        }
+      }
+    },
+    "npc월드": {
+      "title": "NPC 월드",
+      "author": "플레이어 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            40
+          ]
+        }
+      }
+    },
+    "가공범": {
+      "title": "가공범",
+      "author": "히가시노 게이고 저/김선영 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            41
+          ]
+        }
+      }
+    },
+    "그리스로마신화1권개정판": {
+      "title": "그리스 로마 신화 1권 (개정판)",
+      "author": "박시연 글/최우빈 그림/김헌 감수",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            42
+          ]
+        }
+      }
+    },
+    "부동산절세성공법칙": {
+      "title": "부동산 절세 성공법칙",
+      "author": "공찬규 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            43
+          ]
+        }
+      }
+    },
+    "니체의초월자": {
+      "title": "니체의 초월자",
+      "author": "프리드리히 니체 저/김철 편역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            28
+          ],
+          "yes24_crema": [
+            44
+          ]
+        }
+      }
+    },
+    "지붕위의방": {
+      "title": "지붕 위의 방",
+      "author": "러스킨 본드 저/박산호 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            45
+          ]
+        }
+      }
+    },
+    "벌거벗은한국사근현대편": {
+      "title": "벌거벗은 한국사 : 근현대편",
+      "author": "tvN STORY 〈벌거벗은 한국사〉 제작팀 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            46
+          ]
+        }
+      }
+    },
+    "부는어떻게완성되는가부동산세금편": {
+      "title": "부는 어떻게 완성되는가 : 부동산 세금 편",
+      "author": "고경남 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            47
+          ]
+        }
+      }
+    },
+    "단죄의신들": {
+      "title": "단죄의 신들",
+      "author": "박해로 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            48
+          ]
+        }
+      }
+    },
+    "내가죽이지않았다": {
+      "title": "내가 죽이지 않았다",
+      "author": "정해연 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            49
+          ]
+        }
+      }
+    },
+    "귀야옹씨의조그만상실에관하여": {
+      "title": "귀야옹 씨의 조그만 상실에 관하여",
+      "author": "정보라 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            50
+          ]
+        }
+      }
+    },
+    "그리스로마신화1": {
+      "title": "그리스 로마 신화 1",
+      "author": "토머스 불핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            2
+          ],
+          "kyobo_premium": [
+            11
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "챗gpt제미나이클로드까지모두를위한ai": {
+      "title": "챗GPT · 제미나이 · 클로드까지 모두를 위한 AI",
+      "author": "지현이(디지털거북이) 지음",
+      "pub": "시프트",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            3
+          ],
+          "kyobo_premium": [
+            3
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "투명한나선": {
+      "title": "투명한 나선",
+      "author": "히가시노 게이고 지음",
+      "pub": "북다",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            4
+          ],
+          "kyobo_premium": [
+            2
+          ],
+          "millie": [
+            1
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화20아이네이아스와로마": {
+      "title": "그리스 로마 신화. 20: 아이네이아스와 로마",
+      "author": "토머스 불핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            5
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화14트로이": {
+      "title": "그리스 로마 신화 14(트로이)",
+      "author": "토머스 볼핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            6
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화15오디세우스의출항": {
+      "title": "그리스 로마 신화 15(오디세우스의 출항)",
+      "author": "토머스 볼핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            7
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화2": {
+      "title": "그리스 로마 신화 2",
+      "author": "토머스 볼핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            8
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화19오디세우스의복수": {
+      "title": "그리스 로마 신화. 19: 오디세우스의 복수",
+      "author": "토머스 불핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            9
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화16마법사여신키르케": {
+      "title": "그리스 로마 신화 16(마법사 여신 키르케)",
+      "author": "토마스 블핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            10
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화3": {
+      "title": "그리스 로마 신화 3",
+      "author": "토머스 볼핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            11
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화17칼립소여신과구혼자들": {
+      "title": "그리스 로마 신화 17(칼립소 여신과 구혼자들)",
+      "author": "토머스 불핀츠 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            12
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화13슬픈운명": {
+      "title": "그리스 로마 신화 13(슬픈운명)",
+      "author": "토머스 볼핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            13
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화4페르세우스와메두사": {
+      "title": "그리스 로마 신화 4(페르세우스와메두사)",
+      "author": "토머스 불핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            14
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화18오이타카아타카": {
+      "title": "그리스 로마 신화 18(오 이타카 아타카)",
+      "author": "토머스 불핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            15
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화6영웅헤라클레스": {
+      "title": "그리스 로마 신화 6(영웅 헤라클레스)",
+      "author": "토머스 볼핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            17
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화12신들의싸움": {
+      "title": "그리스 로마 신화 12(신들의 싸움)",
+      "author": "토머스 볼핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            18
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화11운명의대결": {
+      "title": "그리스 로마 신화 11(운명의 대결)",
+      "author": "토머스 볼핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            19
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화9가장아름다운여신": {
+      "title": "그리스 로마 신화 9(가장 아름다운 여신)",
+      "author": "토머스 볼핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            20
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "삶은그대에게잘해줄의무가없다": {
+      "title": "삶은 그대에게 잘해줄 의무가 없다",
+      "author": "페마 쵸드론 지음",
+      "pub": "윌마",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            6
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "부의갈림길": {
+      "title": "부의 갈림길",
+      "author": "오건영 지음",
+      "pub": "포레스트북스",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            7
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "너는원래괜찮은사람이야": {
+      "title": "너는 원래 괜찮은 사람이야",
+      "author": "윤지영 지음",
+      "pub": "터닝페이지",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            9
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "우월한열등감": {
+      "title": "우월한 열등감",
+      "author": "알프레드 아들러 지음",
+      "pub": "저녁달",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            10
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "행복": {
+      "title": "행복",
+      "author": "법륜 지음",
+      "pub": "정토출판",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            12
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "김헌의그리스로마신화": {
+      "title": "김헌의 그리스 로마 신화",
+      "author": "김헌",
+      "pub": "을유문화사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            13
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "떨지않고말하는법": {
+      "title": "떨지 않고 말하는 법",
+      "author": "장은숙 지음",
+      "pub": "몽스북",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            14
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "마음의이름": {
+      "title": "마음의 이름",
+      "author": "잔보 글/그림",
+      "pub": "나무사이",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            15
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "수족관": {
+      "title": "수족관",
+      "author": "유래혁 지음",
+      "pub": "포스터샵",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            16
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "에이든국내여행맵북koreamapbook": {
+      "title": "에이든 국내여행 맵북 KOREA MAP BOOK",
+      "author": "이정기, 타블라라사 편집부 지음",
+      "pub": "타블라라사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            17
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "영혼의왈츠1": {
+      "title": "영혼의 왈츠 1",
+      "author": "베르나르 베르베르 지음",
+      "pub": "열린책들",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            19
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "신퇴마록신세편1": {
+      "title": "신 퇴마록 신세편 1",
+      "author": "이우혁 지음",
+      "pub": "반타",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            20
+          ],
+          "millie": [
+            null
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "만화로보는그리스로마신화1": {
+      "title": "만화로 보는 그리스 로마 신화 1",
+      "author": "토머스불핀치 지음, 이광진 옮김",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            2
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "오디세이아영화<오디세이>원작": {
+      "title": "오디세이아 (영화 <오디세이> 원작)",
+      "author": "호메로스 지음 / 페테르 파울 루벤스 외 그림 / 박문재 옮김",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            8
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "우리가빛의속도로갈수없다면": {
+      "title": "우리가 빛의 속도로 갈 수 없다면",
+      "author": "김초엽 지음",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            5
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "빵충사육준수사항": {
+      "title": "빵충 사육 준수 사항",
+      "author": "김혜영",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            9
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "용의자x의헌신": {
+      "title": "용의자 X의 헌신",
+      "author": "히가시노 게이고 지음 / 양억관 옮김",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            11
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "혼모노": {
+      "title": "혼모노",
+      "author": "성해나",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            12
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "어쩌면내가가장듣고싶었던말리커버양장본": {
+      "title": "어쩌면 내가 가장 듣고 싶었던 말 (리커버 양장본)",
+      "author": "정희재 지음",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            14
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "네번째여름": {
+      "title": "네 번째 여름",
+      "author": "류현재",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            16
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "오늘15분만오디세이": {
+      "title": "오늘 15분만, 오디세이",
+      "author": "밀리의서재",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            17
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "나미야잡화점의기적": {
+      "title": "나미야 잡화점의 기적",
+      "author": "히가시노 게이고 지음 / 양윤옥 옮김",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            18
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "사랑의기술": {
+      "title": "사랑의 기술",
+      "author": "에리히 프롬 지음 / 강주헌 옮김",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            19
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "안녕이라그랬어": {
+      "title": "안녕이라 그랬어",
+      "author": "김애란",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            22
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "아주작은습관의힘": {
+      "title": "아주 작은 습관의 힘",
+      "author": "제임스 클리어 지음 / 이한이 옮김 ",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            24
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "달러구트꿈백화점": {
+      "title": "달러구트 꿈 백화점",
+      "author": "이미예 지음",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            25
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "경애의마음": {
+      "title": "경애의 마음",
+      "author": "김금희",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            26
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "토지1": {
+      "title": "토지 1",
+      "author": "박경리",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            27
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "대온실수리보고서": {
+      "title": "대온실 수리 보고서",
+      "author": "김금희",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            29
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "프로젝트헤일메리": {
+      "title": "프로젝트 헤일메리",
+      "author": "앤디 위어",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            30
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "업무와일상을정리하는새로운방법노션": {
+      "title": "업무와 일상을 정리하는 새로운 방법 노션",
+      "author": "전시진",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            32
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "홍학의자리": {
+      "title": "홍학의 자리",
+      "author": "정해연",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            33
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "사라지는돈살아남는돈불어나는돈": {
+      "title": "사라지는 돈, 살아남는 돈, 불어나는 돈",
+      "author": "김효진",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            34
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "가면산장살인사건": {
+      "title": "가면 산장 살인 사건",
+      "author": "히가시노 게이고 / 김난주",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            35
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "7년의밤": {
+      "title": "7년의 밤",
+      "author": "정유정",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            36
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "여름을한입베어물었더니": {
+      "title": "여름을 한 입 베어 물었더니",
+      "author": "이꽃님",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            37
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "구의증명": {
+      "title": "구의 증명",
+      "author": "최진영 ",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            38
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "불편한편의점": {
+      "title": "불편한 편의점",
+      "author": "김호연 지음",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            39
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "왜나는너를사랑하는가": {
+      "title": "왜 나는 너를 사랑하는가",
+      "author": "알랭 드 보통",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            40
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "언젠가우리가같은별을바라본다면": {
+      "title": "언젠가 우리가 같은 별을 바라본다면  ",
+      "author": "차인표 지음 / 제딧 그림 ",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            41
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "오디세이아": {
+      "title": "오디세이아",
+      "author": "호메로스 지음, 임명현 옮김",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            42
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "최소한의한국사": {
+      "title": "최소한의 한국사",
+      "author": "최태성",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            43
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "그리스로마신화0": {
+      "title": "그리스 로마 신화 0",
+      "author": "김민희 지음 / 최우빈 그림 / 강대진 감수",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            44
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "환율의대전환": {
+      "title": "환율의 대전환",
+      "author": "오건영",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            45
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "양들의침묵": {
+      "title": "양들의 침묵",
+      "author": "토머스 해리스",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            46
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "총균쇠": {
+      "title": "총 균 쇠",
+      "author": "재레드 다이아몬드 지음 / 강주헌 옮김",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            47
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "브로콜리지만사랑받고싶어두번째이야기": {
+      "title": "브로콜리지만 사랑받고 싶어: 두 번째 이야기",
+      "author": "달다름 지음 / 서영 그림",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            48
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "김미경의플러스휴먼보통인간의한계를깨부수는ai진화전략": {
+      "title": "김미경의 플러스 휴먼: 보통 인간의 한계를 깨부수는 AI 진화 전략",
+      "author": "김미경",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            49
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    },
+    "매경이코노미2372호": {
+      "title": "매경이코노미 2372호",
+      "author": "매경이코노미 편집부",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null
+          ],
+          "kyobo_premium": [
+            null
+          ],
+          "millie": [
+            50
+          ],
+          "yes24_crema": [
+            null
+          ]
+        }
+      }
+    }
+  }
+}
