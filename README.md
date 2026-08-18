@@ -22,7 +22,7 @@ svcRankCompare/
 │   └── requirements.txt
 └── .github/
     └── workflows/
-        └── daily-crawl.yml             ← "매일 아침 자동 실행해라" 설정
+        └── crawl.yml                   ← "매일 아침 자동 실행해라" 설정
 ```
 
 `data.json` / `history.json` / `upcoming.json` 은 크롤러가 처음 실행되면 자동으로
@@ -68,7 +68,7 @@ svcRankCompare/
    (SAMPLE 표시가 사라지고 진짜 책 제목들이 보이면 성공)
 
 이후로는 **매일 한국시간 오전 7시**에 자동으로 실행됩니다.
-(더 이르게/늦게 하고 싶으면 `.github/workflows/daily-crawl.yml` 파일의
+(더 이르게/늦게 하고 싶으면 `.github/workflows/crawl.yml` 파일의
 `cron: '0 22 * * *'` 부분의 숫자를 바꾸면 됩니다 — UTC 기준 시간이라 한국시간보다
 9시간 느립니다)
 
