@@ -21,6 +21,10 @@
     ../history.json   - 날짜별 순위 히스토리 누적 (최근 90일)
     ../upcoming.json  - 밀리의서재 공개예정 도서 목록 (index.html 2번 탭)
 
+밀리의서재 랭킹 API/예스24 크레마클럽 목록에는 출판사 정보가 없어서, 화면과
+엑셀 다운로드에 실제로 노출되는 TOP 20에 한해 각 책의 상세 페이지에서 출판사를
+추가로 조회한다 (PUB_LOOKUP_LIMIT).
+
 ※ 사이트 구조가 바뀌면 아래 SELECTORS / API 부분만 고치면 됩니다.
    (2026-08-18에 실제 응답을 확인해서 작성됨)
 """
@@ -58,6 +62,7 @@ STORE_URLS = {
 }
 RANK_LIMIT = 50
 HISTORY_MAX_DAYS = 90
+PUB_LOOKUP_LIMIT = 20  # 화면/엑셀에 실제로 노출되는 개수(TOP 20)만큼만 출판사를 조회
 
 UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -125,6 +130,19 @@ def fetch_json_via_browser(page, url, params=None):
     )
 
 
+def fetch_millie_publisher(page, book_seq):
+    """밀리의서재 랭킹 API 응답에는 출판사 정보가 없어 책 상세 API에서 따로 가져온다."""
+    if not book_seq:
+        return ""
+    try:
+        data = fetch_json_via_browser(
+            page, f"https://apis.millie.co.kr/public/content/books/detail/{book_seq}/"
+        )
+        return (data.get("content_info") or {}).get("publisher") or ""
+    except Exception:
+        return ""
+
+
 def scrape_millie_rank(page, limit=RANK_LIMIT):
     """밀리의서재 일간 종합 랭킹 (공개 API, 브라우저 탭 안에서 fetch).
     같은 랭킹 안에 전자책판과 오디오북판이 같은 제목으로 함께 섞여 나온다
@@ -138,18 +156,38 @@ def scrape_millie_rank(page, limit=RANK_LIMIT):
     results = []
     for idx, b in enumerate(items, start=1):
         badge = b.get("badge") or {}
+        pid = b.get("book_seq") or b.get("book_id") or ""
+        pub = fetch_millie_publisher(page, pid) if idx <= PUB_LOOKUP_LIMIT else ""
         results.append(
             {
                 "t": idx,
                 "title": b.get("book_name", ""),
                 "author": b.get("author", ""),
-                "pub": "",
-                "pid": b.get("book_seq") or b.get("book_id") or "",
+                "pub": pub,
+                "pid": pid,
                 "ship": "",
                 "audio": bool(badge.get("is_audiobook")),
             }
         )
     return results
+
+
+def fetch_yes24_publisher(goods_no):
+    """예스24 크레마클럽 목록에도 출판사 정보가 없어 상품 상세 페이지(schema.org
+    JSON-LD)에서 따로 가져온다."""
+    if not goods_no:
+        return ""
+    try:
+        r = requests.get(
+            f"https://www.yes24.com/Product/Goods/{goods_no}",
+            headers={"User-Agent": UA},
+            timeout=15,
+        )
+        r.raise_for_status()
+        m = re.search(r'"publisher"\s*:\s*\{[^}]*?"name"\s*:\s*"([^"]+)"', r.text)
+        return m.group(1) if m else ""
+    except Exception:
+        return ""
 
 
 def scrape_yes24_crema(limit=RANK_LIMIT):
@@ -175,9 +213,10 @@ def scrape_yes24_crema(limit=RANK_LIMIT):
         title = title_el.get_text(strip=True) if title_el else ""
         author = author_el.get_text(strip=True) if author_el else ""
         pid = add_btn.get("data-goods-no") if add_btn else ""
+        pub = fetch_yes24_publisher(pid) if idx <= PUB_LOOKUP_LIMIT else ""
 
         results.append(
-            {"t": rank, "title": title, "author": author, "pub": "", "pid": pid or "", "ship": ""}
+            {"t": rank, "title": title, "author": author, "pub": pub, "pid": pid or "", "ship": ""}
         )
     return results
 
@@ -232,6 +271,13 @@ def build_books(scraped: dict) -> list:
                     "author": it["author"],
                     "pub": it["pub"],
                 }
+            else:
+                # 먼저 처리된 서비스에 저자/출판사가 비어 있으면 나중 서비스 값으로 채운다
+                entry = merged[key]
+                if not entry.get("pub") and it.get("pub"):
+                    entry["pub"] = it["pub"]
+                if not entry.get("author") and it.get("author"):
+                    entry["author"] = it["author"]
             merged[key][store] = {
                 "t": it["t"],
                 "pid": it["pid"],
