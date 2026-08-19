@@ -2,8 +2,11 @@ name: Daily Bestseller Crawl
 
 on:
   schedule:
-    # UTC 22:00 = 한국시간(KST) 오전 7:00
-    - cron: '0 22 * * *'
+    # UTC 23:30 = 한국시간(KST) 오전 8:30
+    # (밀리의서재가 자체적으로 그날 랭킹을 KST 오전 7:50경에 갱신하는 것을
+    #  확인해서, 그보다 늦게 돌도록 여유를 두었다. 너무 이르면 전날과 똑같은
+    #  스냅샷을 두 번 긁어서 "전일 대비 변동"이 항상 0으로 나오는 문제가 있었음)
+    - cron: '30 23 * * *'
   workflow_dispatch: {}   # 저장소 Actions 탭에서 수동 실행도 가능
 
 permissions:
