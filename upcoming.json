@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T07:54:48.199751+09:00",
+  "updated": "2026-08-20T08:45:57.511539+09:00",
   "count": 44,
   "books": [
     {
@@ -73,16 +73,6 @@
       "is_comic": false
     },
     {
-      "id": "6bba99a554fc4ca4",
-      "title": "헤르만 헤세의 게으름의 기술",
-      "author": "헤르만 헤세 지음 / 유영미 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180171291/e8a61a5c324b46f997a0a07b251f5705.jpg",
-      "open_date": "2026-08-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "f5f328b7588240b9",
       "title": "테오",
       "author": "앨런 레비 지음 / 노지양 옮김",
@@ -93,21 +83,21 @@
       "is_comic": false
     },
     {
-      "id": "a321dd95cf564ea7",
-      "title": "너는 원래 괜찮은 사람이야",
-      "author": "윤지영",
-      "cover": "https://image.millie.co.kr/service/cover/180173290/2b582703e1ac4c44a405ccb17ca62014.jpg",
-      "open_date": "2026-08-31",
+      "id": "6bba99a554fc4ca4",
+      "title": "헤르만 헤세의 게으름의 기술",
+      "author": "헤르만 헤세 지음 / 유영미 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180171291/e8a61a5c324b46f997a0a07b251f5705.jpg",
+      "open_date": "2026-08-23",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "fe371a7023a343c5",
-      "title": "긴나미 상점가의 사건 노트 : 형제 편",
-      "author": "이노우에 마기 지음 / 김은모 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180172740/172718371c1146c9844425a8412acdd4.jpg",
-      "open_date": "2026-08-22",
+      "id": "a321dd95cf564ea7",
+      "title": "너는 원래 괜찮은 사람이야",
+      "author": "윤지영",
+      "cover": "https://image.millie.co.kr/service/cover/180173290/2b582703e1ac4c44a405ccb17ca62014.jpg",
+      "open_date": "2026-08-31",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -123,11 +113,11 @@
       "is_comic": false
     },
     {
-      "id": "1cdfbe2e13e2485f",
-      "title": "가가린이 들려주는 무중력 이야기",
-      "author": "정완상",
-      "cover": "https://image.millie.co.kr/service/cover/3330348/14770591af504f8a8d34e115c7a814f9.jpg",
-      "open_date": "2099-12-31",
+      "id": "fe371a7023a343c5",
+      "title": "긴나미 상점가의 사건 노트 : 형제 편",
+      "author": "이노우에 마기 지음 / 김은모 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180172740/172718371c1146c9844425a8412acdd4.jpg",
+      "open_date": "2026-08-22",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -148,6 +138,16 @@
       "author": "정재민, 김영주",
       "cover": "https://image.millie.co.kr/service/cover/180172750/4c5c0532520f4b26b8a1da2ee3b1de76.jpg",
       "open_date": "2026-08-25",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "1cdfbe2e13e2485f",
+      "title": "가가린이 들려주는 무중력 이야기",
+      "author": "정완상",
+      "cover": "https://image.millie.co.kr/service/cover/3330348/14770591af504f8a8d34e115c7a814f9.jpg",
+      "open_date": "2099-12-31",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -193,22 +193,22 @@
       "is_comic": false
     },
     {
-      "id": "960688df14f04996",
-      "title": "3호 당신이 그 주식을 산 진짜 이유는? [하루 10분, 경제로 세상 듣기 시즌2]",
-      "author": "재정경제부",
-      "cover": "https://image.millie.co.kr/service/cover/180171852/5adb5fe4e4304651bb8428920c71fdd5.jpg",
-      "open_date": "2026-09-01",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "1ef13727600a4221",
       "title": "관계에도 연습이 필요합니다",
       "author": "박상미",
       "cover": "https://image.millie.co.kr/service/cover/180173761/971ed2298fc5477f8bb1ba36e193f662.jpg",
       "open_date": "2026-08-27",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "960688df14f04996",
+      "title": "3호 당신이 그 주식을 산 진짜 이유는? [하루 10분, 경제로 세상 듣기 시즌2]",
+      "author": "재정경제부",
+      "cover": "https://image.millie.co.kr/service/cover/180171852/5adb5fe4e4304651bb8428920c71fdd5.jpg",
+      "open_date": "2026-09-01",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -283,26 +283,6 @@
       "is_comic": false
     },
     {
-      "id": "981d19839aba482b",
-      "title": "쾌적한 사회의 불쾌함",
-      "author": "구마시로 도루 지음 / 이정미 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180172717/d97b6e0696dc444e8fd79f74cf33de30.jpg",
-      "open_date": "2026-08-21",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3f0eefe669654571",
-      "title": "플라톤의 국가",
-      "author": "플라톤",
-      "cover": "https://image.millie.co.kr/service/cover/180174169/a5c6d3e3c64d46038e7c6c89eb29dd42.jpg",
-      "open_date": "2026-08-24",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "d3230ba4a9724a46",
       "title": "당신의 뇌는 지금 뛰고 있는가",
       "author": "마누엘라 마케도니아 지음 / 박종대 옮김",
@@ -323,50 +303,10 @@
       "is_comic": false
     },
     {
-      "id": "c4312cb6b07d4c65",
-      "title": "제너레이션 AI",
-      "author": "맷 브리턴 지음 / 조주희 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180171815/c0dd5fba736b4d9eb37aae81241132a8.jpg",
-      "open_date": "2026-08-21",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "dd7c186d3edb48a6",
-      "title": "마흔에 읽는 천자문",
-      "author": "허경진",
-      "cover": "https://image.millie.co.kr/service/cover/180171821/14b02363173b4112b45a7c4403bc9b4d.jpg",
-      "open_date": "2026-08-21",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "7b3860938fd244fc",
-      "title": "최고민수 요리 역사 특강",
-      "author": "최고민수(박민수)",
-      "cover": "https://image.millie.co.kr/service/cover/180172795/620cbb181cfd4af593268b4abecfd9a1.jpg",
-      "open_date": "2026-08-21",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "b9e41ad13c234238",
-      "title": "돈 버는 AI",
-      "author": "박성혁, 나탈리 허",
-      "cover": "https://image.millie.co.kr/service/cover/180173272/29c4deda2e434a44a30539e2794a01b2.jpg",
-      "open_date": "2026-08-21",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "38cb3a05459343b1",
-      "title": "씨네 클래식",
-      "author": "김성현",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179677386/a7df5663626940c39245e2b282d7b8f6.jpg",
+      "id": "e69a53b3dc494bcf",
+      "title": "99%를 위한 경제학",
+      "author": "김재수",
+      "cover": "https://image.millie.co.kr/service/cover/180174426/e17fb11def5e4cdfb6ac2282db70aee9.jpg",
       "open_date": "2026-08-24",
       "is_audiobook": true,
       "is_series": false,
@@ -383,11 +323,41 @@
       "is_comic": false
     },
     {
-      "id": "ce57b451cb0c4346",
-      "title": "CIA 심리학",
-      "author": "리처드 휴어 주니어",
-      "cover": "https://image.millie.co.kr/service/cover/180129567/f59f08c282d84388819e5a3282689cf1.jpg",
+      "id": "3f0eefe669654571",
+      "title": "플라톤의 국가",
+      "author": "플라톤",
+      "cover": "https://image.millie.co.kr/service/cover/180174169/a5c6d3e3c64d46038e7c6c89eb29dd42.jpg",
       "open_date": "2026-08-24",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "b9e41ad13c234238",
+      "title": "돈 버는 AI",
+      "author": "박성혁, 나탈리 허",
+      "cover": "https://image.millie.co.kr/service/cover/180173272/29c4deda2e434a44a30539e2794a01b2.jpg",
+      "open_date": "2026-08-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "981d19839aba482b",
+      "title": "쾌적한 사회의 불쾌함",
+      "author": "구마시로 도루 지음 / 이정미 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180172717/d97b6e0696dc444e8fd79f74cf33de30.jpg",
+      "open_date": "2026-08-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "dd7c186d3edb48a6",
+      "title": "마흔에 읽는 천자문",
+      "author": "허경진",
+      "cover": "https://image.millie.co.kr/service/cover/180171821/14b02363173b4112b45a7c4403bc9b4d.jpg",
+      "open_date": "2026-08-21",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -403,11 +373,41 @@
       "is_comic": false
     },
     {
-      "id": "e69a53b3dc494bcf",
-      "title": "99%를 위한 경제학",
-      "author": "김재수",
-      "cover": "https://image.millie.co.kr/service/cover/180174426/e17fb11def5e4cdfb6ac2282db70aee9.jpg",
+      "id": "ce57b451cb0c4346",
+      "title": "CIA 심리학",
+      "author": "리처드 휴어 주니어",
+      "cover": "https://image.millie.co.kr/service/cover/180129567/f59f08c282d84388819e5a3282689cf1.jpg",
       "open_date": "2026-08-24",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "38cb3a05459343b1",
+      "title": "씨네 클래식",
+      "author": "김성현",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179677386/a7df5663626940c39245e2b282d7b8f6.jpg",
+      "open_date": "2026-08-24",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "7b3860938fd244fc",
+      "title": "최고민수 요리 역사 특강",
+      "author": "최고민수(박민수)",
+      "cover": "https://image.millie.co.kr/service/cover/180172795/620cbb181cfd4af593268b4abecfd9a1.jpg",
+      "open_date": "2026-08-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "c4312cb6b07d4c65",
+      "title": "제너레이션 AI",
+      "author": "맷 브리턴 지음 / 조주희 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180171815/c0dd5fba736b4d9eb37aae81241132a8.jpg",
+      "open_date": "2026-08-21",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false

@@ -20,7 +20,7 @@
           ],
           "millie": [
             8,
-            8
+            11
           ],
           "yes24_crema": [
             1,
@@ -45,7 +45,7 @@
           ],
           "millie": [
             10,
-            10
+            21
           ],
           "yes24_crema": [
             2,
@@ -270,7 +270,7 @@
           ],
           "millie": [
             49,
-            46
+            48
           ],
           "yes24_crema": [
             11,
@@ -320,7 +320,7 @@
           ],
           "millie": [
             13,
-            13
+            16
           ],
           "yes24_crema": [
             13,
@@ -570,7 +570,7 @@
           ],
           "millie": [
             21,
-            20
+            18
           ],
           "yes24_crema": [
             23,
@@ -695,7 +695,7 @@
           ],
           "millie": [
             31,
-            29
+            34
           ],
           "yes24_crema": [
             28,
@@ -1095,7 +1095,7 @@
           ],
           "millie": [
             40,
-            38
+            39
           ],
           "yes24_crema": [
             44,
@@ -1320,7 +1320,7 @@
           ],
           "millie": [
             1,
-            1
+            2
           ],
           "yes24_crema": [
             null,
@@ -2020,7 +2020,7 @@
           ],
           "millie": [
             3,
-            3
+            4
           ],
           "yes24_crema": [
             null,
@@ -2045,7 +2045,7 @@
           ],
           "millie": [
             4,
-            4
+            3
           ],
           "yes24_crema": [
             null,
@@ -2070,7 +2070,7 @@
           ],
           "millie": [
             24,
-            37
+            32
           ],
           "yes24_crema": [
             null,
@@ -2095,7 +2095,7 @@
           ],
           "millie": [
             9,
-            9
+            13
           ],
           "yes24_crema": [
             null,
@@ -2145,7 +2145,7 @@
           ],
           "millie": [
             11,
-            11
+            10
           ],
           "yes24_crema": [
             null,
@@ -2220,7 +2220,7 @@
           ],
           "millie": [
             36,
-            33
+            36
           ],
           "yes24_crema": [
             null,
@@ -2245,7 +2245,7 @@
           ],
           "millie": [
             30,
-            28
+            23
           ],
           "yes24_crema": [
             null,
@@ -2257,7 +2257,7 @@
     "사랑의기술": {
       "title": "사랑의 기술",
       "author": "에리히 프롬 지음 / 강주헌 옮김",
-      "pub": "",
+      "pub": "문예출판사",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -2270,7 +2270,7 @@
           ],
           "millie": [
             29,
-            27
+            20
           ],
           "yes24_crema": [
             null,
@@ -2282,7 +2282,7 @@
     "안녕이라그랬어": {
       "title": "안녕이라 그랬어",
       "author": "김애란",
-      "pub": "",
+      "pub": "문학동네",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -2295,7 +2295,7 @@
           ],
           "millie": [
             22,
-            21
+            9
           ],
           "yes24_crema": [
             null,
@@ -2320,7 +2320,7 @@
           ],
           "millie": [
             25,
-            23
+            26
           ],
           "yes24_crema": [
             null,
@@ -2345,7 +2345,7 @@
           ],
           "millie": [
             33,
-            40
+            35
           ],
           "yes24_crema": [
             null,
@@ -2420,7 +2420,7 @@
           ],
           "millie": [
             39,
-            36
+            40
           ],
           "yes24_crema": [
             null,
@@ -2495,7 +2495,7 @@
           ],
           "millie": [
             45,
-            43
+            33
           ],
           "yes24_crema": [
             null,
@@ -2520,7 +2520,7 @@
           ],
           "millie": [
             32,
-            30
+            29
           ],
           "yes24_crema": [
             null,
@@ -2545,7 +2545,7 @@
           ],
           "millie": [
             46,
-            null
+            42
           ],
           "yes24_crema": [
             null,
@@ -2620,7 +2620,7 @@
           ],
           "millie": [
             38,
-            48
+            45
           ],
           "yes24_crema": [
             null,
@@ -2645,7 +2645,7 @@
           ],
           "millie": [
             39,
-            null
+            43
           ],
           "yes24_crema": [
             null,
@@ -2820,7 +2820,7 @@
           ],
           "millie": [
             48,
-            45
+            38
           ],
           "yes24_crema": [
             null,
@@ -2945,7 +2945,7 @@
           ],
           "millie": [
             7,
-            7
+            8
           ],
           "yes24_crema": [
             null,
@@ -2970,7 +2970,7 @@
           ],
           "millie": [
             14,
-            14
+            17
           ],
           "yes24_crema": [
             null,
@@ -2995,7 +2995,7 @@
           ],
           "millie": [
             16,
-            16
+            7
           ],
           "yes24_crema": [
             null,
@@ -3020,7 +3020,7 @@
           ],
           "millie": [
             38,
-            35
+            46
           ],
           "yes24_crema": [
             null,
@@ -3045,7 +3045,7 @@
           ],
           "millie": [
             47,
-            44
+            27
           ],
           "yes24_crema": [
             null,
@@ -3120,7 +3120,7 @@
           ],
           "millie": [
             28,
-            26
+            47
           ],
           "yes24_crema": [
             null,
@@ -3220,7 +3220,7 @@
           ],
           "millie": [
             null,
-            null
+            19
           ],
           "yes24_crema": [
             null,
@@ -3295,7 +3295,7 @@
           ],
           "millie": [
             2,
-            2
+            12
           ],
           "yes24_crema": [
             null,
@@ -3307,7 +3307,7 @@
     "인간을인간답게만드는불완전함에대하여": {
       "title": "인간을 인간답게 만드는 불완전함에 대하여",
       "author": "팀 하포드 지음 / 윤영삼 옮김",
-      "pub": "윌마",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -3320,7 +3320,7 @@
           ],
           "millie": [
             12,
-            12
+            22
           ],
           "yes24_crema": [
             null,
@@ -3407,7 +3407,7 @@
     "낙하__audio": {
       "title": "낙하",
       "author": "이희영",
-      "pub": "밀리의서재",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -3420,7 +3420,7 @@
           ],
           "millie": [
             20,
-            19
+            31
           ],
           "yes24_crema": [
             null,
@@ -3545,7 +3545,7 @@
           ],
           "millie": [
             37,
-            34
+            28
           ],
           "yes24_crema": [
             null,
@@ -4070,7 +4070,7 @@
           ],
           "millie": [
             null,
-            null
+            41
           ],
           "yes24_crema": [
             null,
@@ -4196,6 +4196,231 @@
           "millie": [
             null,
             49
+          ],
+          "yes24_crema": [
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "나도아직나를모른다": {
+      "title": "나도 아직 나를 모른다",
+      "author": "허지원 지음",
+      "pub": "김영사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            1
+          ],
+          "yes24_crema": [
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "슬픔이여안녕": {
+      "title": "슬픔이여 안녕",
+      "author": "프랑수아즈 사강 지음 / 김남주 옮김",
+      "pub": "아르테(arte)",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            14
+          ],
+          "yes24_crema": [
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "바깥은여름": {
+      "title": "바깥은 여름",
+      "author": "김애란",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            24
+          ],
+          "yes24_crema": [
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "이중하나는거짓말": {
+      "title": "이중 하나는 거짓말",
+      "author": "김애란",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            25
+          ],
+          "yes24_crema": [
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "나도아직나를모른다__audio": {
+      "title": "나도 아직 나를 모른다",
+      "author": "허지원 지음",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            30
+          ],
+          "yes24_crema": [
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "english9001기초회화": {
+      "title": "English 900 1: 기초회화",
+      "author": "Edwin T. Cornelius, Jr.",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            37
+          ],
+          "yes24_crema": [
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "아버지의해방일지": {
+      "title": "아버지의 해방일지",
+      "author": "정지아",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            44
+          ],
+          "yes24_crema": [
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "30분뇌과학drivingedition__audio": {
+      "title": "30분 뇌과학 Driving Edition",
+      "author": "미디어Q 편집부",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            49
+          ],
+          "yes24_crema": [
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "크리스마스타일__audio": {
+      "title": "크리스마스 타일",
+      "author": "김금희",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            50
           ],
           "yes24_crema": [
             null,
