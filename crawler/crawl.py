@@ -76,6 +76,14 @@ def norm_title(title: str) -> str:
     return t.lower()
 
 
+def first_publisher(name: str) -> str:
+    """공동 출판/임프린트 등으로 "숲,(주)숲코퍼레이션"처럼 콤마로 여러 출판사가
+    함께 오는 경우가 있어, 화면에는 첫 번째 출판사명만 표기한다."""
+    if not name:
+        return ""
+    return name.split(",")[0].strip()
+
+
 # ---------- 서비스별 크롤링 함수 ----------
 def scrape_kyobo_sam(page, url):
     """교보문고 SAM (무제한/프리미엄) 일간 베스트.
@@ -104,7 +112,7 @@ def scrape_kyobo_sam(page, url):
         info_spans = li.query_selector_all("p.prodDt_info > span")
         texts = [s.inner_text().strip() for s in info_spans]
         author = texts[0] if len(texts) > 0 else ""
-        pub = texts[1] if len(texts) > 1 else ""
+        pub = first_publisher(texts[1]) if len(texts) > 1 else ""
 
         results.append(
             {"t": rank, "title": title, "author": author, "pub": pub, "pid": pid, "ship": ""}
@@ -138,7 +146,7 @@ def fetch_millie_publisher(page, book_seq):
         data = fetch_json_via_browser(
             page, f"https://apis.millie.co.kr/public/content/books/detail/{book_seq}/"
         )
-        return (data.get("content_info") or {}).get("publisher") or ""
+        return first_publisher((data.get("content_info") or {}).get("publisher") or "")
     except Exception:
         return ""
 
@@ -185,7 +193,7 @@ def fetch_yes24_publisher(goods_no):
         )
         r.raise_for_status()
         m = re.search(r'"publisher"\s*:\s*\{[^}]*?"name"\s*:\s*"([^"]+)"', r.text)
-        return m.group(1) if m else ""
+        return first_publisher(m.group(1)) if m else ""
     except Exception:
         return ""
 
