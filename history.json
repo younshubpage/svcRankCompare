@@ -1,7 +1,8 @@
 {
   "dates": [
     "2026-08-18",
-    "2026-08-19"
+    "2026-08-19",
+    "2026-08-20"
   ],
   "books": {
     "독서의기술": {
@@ -12,19 +13,23 @@
         "all": {
           "kyobo_unlimited": [
             4,
-            4
+            4,
+            3
           ],
           "kyobo_premium": [
             7,
-            3
+            3,
+            2
           ],
           "millie": [
             8,
-            11
+            11,
+            13
           ],
           "yes24_crema": [
             1,
-            2
+            2,
+            4
           ]
         }
       }
@@ -37,18 +42,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             14,
+            null,
             null
           ],
           "millie": [
             10,
-            21
+            21,
+            26
           ],
           "yes24_crema": [
             2,
+            1,
             1
           ]
         }
@@ -62,19 +71,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             17,
-            null
+            null,
+            15
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             3,
-            4
+            4,
+            5
           ]
         }
       }
@@ -87,18 +100,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             null,
-            17
+            17,
+            null
           ],
           "millie": [
+            5,
             5,
             5
           ],
           "yes24_crema": [
             4,
+            3,
             3
           ]
         }
@@ -107,24 +124,28 @@
     "i": {
       "title": "I",
       "author": "미치오 슈스케 저/이규원 역",
-      "pub": "북스피어",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             5,
-            13
+            13,
+            31
           ]
         }
       }
@@ -137,19 +158,23 @@
         "all": {
           "kyobo_unlimited": [
             1,
+            1,
             1
           ],
           "kyobo_premium": [
             1,
-            1
+            1,
+            3
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             6,
-            6
+            6,
+            8
           ]
         }
       }
@@ -162,19 +187,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             7,
-            8
+            8,
+            7
           ]
         }
       }
@@ -187,19 +216,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             8,
-            5
+            5,
+            10
           ]
         }
       }
@@ -207,24 +240,28 @@
     "일본현지슈퍼마켓대백과": {
       "title": "일본 현지 슈퍼마켓 대백과",
       "author": "스가와라 요시미 저/이혜윤 역",
-      "pub": "클",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             9,
-            20
+            20,
+            36
           ]
         }
       }
@@ -237,18 +274,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             10,
+            15,
             15
           ]
         }
@@ -262,19 +303,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             49,
-            48
+            48,
+            46
           ],
           "yes24_crema": [
             11,
-            11
+            11,
+            9
           ]
         }
       }
@@ -287,19 +332,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             null,
-            8
+            8,
+            12
           ],
           "millie": [
             6,
-            6
+            6,
+            8
           ],
           "yes24_crema": [
             12,
-            7
+            7,
+            6
           ]
         }
       }
@@ -312,44 +361,52 @@
         "all": {
           "kyobo_unlimited": [
             null,
-            7
+            7,
+            16
           ],
           "kyobo_premium": [
             3,
-            4
+            4,
+            5
           ],
           "millie": [
             13,
-            16
+            16,
+            19
           ],
           "yes24_crema": [
             13,
-            12
+            12,
+            13
           ]
         }
       }
     },
     "직장인입니다만주식으로더법니다": {
       "title": "직장인입니다만, 주식으로 더 법니다",
-      "author": "서정,제시모어,쓰리쿼터 저/권오태,시그널리포트 편",
+      "author": "서정, 제시모어, 쓰리쿼터 지음",
       "pub": "경이로움",
       "series": {
         "all": {
           "kyobo_unlimited": [
             6,
-            6
+            6,
+            5
           ],
           "kyobo_premium": [
             null,
-            10
+            10,
+            8
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             14,
-            47
+            47,
+            null
           ]
         }
       }
@@ -362,19 +419,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             15,
-            29
+            29,
+            null
           ]
         }
       }
@@ -387,18 +448,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             16,
+            null,
             null
           ]
         }
@@ -407,24 +472,28 @@
     "알면잠못드는위험한인문학": {
       "title": "알면 잠 못 드는 위험한 인문학",
       "author": "다크모드 저",
-      "pub": "",
+      "pub": "모티브",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             17,
-            22
+            22,
+            16
           ]
         }
       }
@@ -437,19 +506,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             18,
-            46
+            46,
+            null
           ]
         }
       }
@@ -457,24 +530,28 @@
     "더골1": {
       "title": "더 골 1",
       "author": "엘리 골드렛 저/강승덕,김일운,김효 역/정재승 해제",
-      "pub": "",
+      "pub": "동양북스(동양books)",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             19,
-            21
+            21,
+            19
           ]
         }
       }
@@ -487,19 +564,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             20,
-            27
+            27,
+            34
           ]
         }
       }
@@ -512,19 +593,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             21,
-            33
+            33,
+            null
           ]
         }
       }
@@ -537,19 +622,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             22,
-            34
+            34,
+            null
           ]
         }
       }
@@ -562,19 +651,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             21,
-            18
+            18,
+            16
           ],
           "yes24_crema": [
             23,
-            41
+            41,
+            38
           ]
         }
       }
@@ -587,19 +680,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             24,
-            17
+            17,
+            18
           ]
         }
       }
@@ -612,19 +709,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             25,
-            null
+            null,
+            40
           ]
         }
       }
@@ -637,18 +738,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             26,
+            null,
             null
           ]
         }
@@ -662,19 +767,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             27,
-            42
+            42,
+            47
           ]
         }
       }
@@ -682,24 +791,28 @@
     "내면근력": {
       "title": "내면 근력",
       "author": "짐 머피 저/지여울 역",
-      "pub": "",
+      "pub": "윌북",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
             31,
-            34
+            34,
+            1
           ],
           "yes24_crema": [
             28,
-            26
+            26,
+            50
           ]
         }
       }
@@ -712,19 +825,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             29,
-            30
+            30,
+            46
           ]
         }
       }
@@ -737,18 +854,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             30,
+            null,
             null
           ]
         }
@@ -762,18 +883,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             31,
+            null,
             null
           ]
         }
@@ -787,18 +912,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             32,
+            null,
             null
           ]
         }
@@ -812,18 +941,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             33,
+            null,
             null
           ]
         }
@@ -837,18 +970,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             34,
+            null,
             null
           ]
         }
@@ -862,18 +999,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             35,
+            null,
             null
           ]
         }
@@ -887,19 +1028,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             36,
-            44
+            44,
+            35
           ]
         }
       }
@@ -912,19 +1057,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             37,
-            25
+            25,
+            23
           ]
         }
       }
@@ -937,44 +1086,52 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             38,
-            40
+            40,
+            null
           ]
         }
       }
     },
     "내가죽였다": {
       "title": "내가 죽였다",
-      "author": "정해연 저",
-      "pub": "",
+      "author": "정해연 지음",
+      "pub": "반타",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
-            null
+            null,
+            20
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             39,
-            43
+            43,
+            null
           ]
         }
       }
@@ -987,18 +1144,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             40,
+            null,
             null
           ]
         }
@@ -1012,19 +1173,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             41,
-            37
+            37,
+            30
           ]
         }
       }
@@ -1037,19 +1202,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             42,
-            50
+            50,
+            41
           ]
         }
       }
@@ -1062,18 +1231,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             43,
+            null,
             null
           ]
         }
@@ -1081,25 +1254,29 @@
     },
     "니체의초월자": {
       "title": "니체의 초월자",
-      "author": "프리드리히 니체 저/김철 편역",
+      "author": "프리드리히 니체 지음 / 김철 옮김",
       "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             19,
+            null,
             null
           ],
           "millie": [
             40,
-            39
+            39,
+            40
           ],
           "yes24_crema": [
             44,
-            48
+            48,
+            null
           ]
         }
       }
@@ -1112,18 +1289,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             45,
+            null,
             null
           ]
         }
@@ -1137,18 +1318,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             46,
+            null,
             null
           ]
         }
@@ -1162,18 +1347,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             47,
+            null,
             null
           ]
         }
@@ -1187,18 +1376,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             48,
+            null,
             null
           ]
         }
@@ -1212,18 +1405,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             49,
+            null,
             null
           ]
         }
@@ -1237,18 +1434,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             50,
+            null,
             null
           ]
         }
@@ -1262,17 +1463,21 @@
         "all": {
           "kyobo_unlimited": [
             5,
-            5
+            5,
+            7
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1281,25 +1486,29 @@
     },
     "챗gpt제미나이클로드까지모두를위한ai": {
       "title": "챗GPT · 제미나이 · 클로드까지 모두를 위한 AI",
-      "author": "지현이(디지털거북이) 지음",
+      "author": "지현이(디지털거북이) 저",
       "pub": "시프트",
       "series": {
         "all": {
           "kyobo_unlimited": [
             2,
+            2,
             2
           ],
           "kyobo_premium": [
             4,
-            2
+            2,
+            1
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             null,
-            null
+            null,
+            2
           ]
         }
       }
@@ -1312,17 +1521,21 @@
         "all": {
           "kyobo_unlimited": [
             3,
-            3
+            3,
+            4
           ],
           "kyobo_premium": [
             2,
-            5
+            5,
+            4
           ],
           "millie": [
             1,
+            2,
             2
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1337,17 +1550,21 @@
         "all": {
           "kyobo_unlimited": [
             11,
+            11,
             11
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1362,17 +1579,21 @@
         "all": {
           "kyobo_unlimited": [
             8,
+            8,
             8
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1387,17 +1608,21 @@
         "all": {
           "kyobo_unlimited": [
             10,
-            12
+            12,
+            18
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1412,17 +1637,21 @@
         "all": {
           "kyobo_unlimited": [
             9,
-            13
+            13,
+            10
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1437,17 +1666,21 @@
         "all": {
           "kyobo_unlimited": [
             12,
-            18
+            18,
+            12
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1462,17 +1695,21 @@
         "all": {
           "kyobo_unlimited": [
             16,
-            14
+            14,
+            null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1487,17 +1724,21 @@
         "all": {
           "kyobo_unlimited": [
             13,
-            16
+            16,
+            15
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1512,17 +1753,21 @@
         "all": {
           "kyobo_unlimited": [
             15,
-            15
+            15,
+            null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1537,17 +1782,21 @@
         "all": {
           "kyobo_unlimited": [
             19,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1562,17 +1811,21 @@
         "all": {
           "kyobo_unlimited": [
             17,
+            19,
             19
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1587,17 +1840,21 @@
         "all": {
           "kyobo_unlimited": [
             14,
-            null
+            null,
+            17
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1612,17 +1869,21 @@
         "all": {
           "kyobo_unlimited": [
             17,
-            null
+            null,
+            14
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1637,17 +1898,21 @@
         "all": {
           "kyobo_unlimited": [
             18,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1662,17 +1927,21 @@
         "all": {
           "kyobo_unlimited": [
             20,
-            null
+            null,
+            20
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1687,17 +1956,21 @@
         "all": {
           "kyobo_unlimited": [
             18,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1712,17 +1985,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             6,
-            6
+            6,
+            13
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1737,17 +2014,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             13,
-            13
+            13,
+            10
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1762,17 +2043,21 @@
         "all": {
           "kyobo_unlimited": [
             7,
-            9
+            9,
+            6
           ],
           "kyobo_premium": [
             5,
-            11
+            11,
+            7
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1787,17 +2072,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
-            10
+            10,
+            9
           ],
           "kyobo_premium": [
             8,
-            16
+            16,
+            9
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1812,17 +2101,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             10,
-            15
+            15,
+            11
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1837,17 +2130,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             13,
+            null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1862,17 +2159,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
-            20
+            20,
+            null
           ],
           "kyobo_premium": [
             14,
+            null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1887,17 +2188,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             15,
+            null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1912,17 +2217,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             9,
-            14
+            14,
+            null
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1937,17 +2246,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             17,
-            18
+            18,
+            17
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1962,17 +2275,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             12,
-            9
+            9,
+            null
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -1987,17 +2304,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             20,
-            null
+            null,
+            19
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2012,17 +2333,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             3,
-            4
+            4,
+            6
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2037,17 +2362,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             4,
+            3,
             3
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2062,17 +2391,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             24,
-            32
+            32,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2087,17 +2420,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             9,
-            13
+            13,
+            15
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2112,17 +2449,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             15,
-            15
+            15,
+            14
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2137,17 +2478,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             11,
+            10,
             10
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2162,17 +2507,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             34,
-            31
+            31,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2187,17 +2536,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             16,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2212,17 +2565,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             36,
-            36
+            36,
+            34
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2237,17 +2594,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             30,
-            23
+            23,
+            21
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2257,22 +2618,26 @@
     "사랑의기술": {
       "title": "사랑의 기술",
       "author": "에리히 프롬 지음 / 강주헌 옮김",
-      "pub": "문예출판사",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
             29,
-            20
+            20,
+            29
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2287,17 +2652,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             22,
-            9
+            9,
+            12
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2312,17 +2681,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             25,
-            26
+            26,
+            22
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2337,17 +2710,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             33,
-            35
+            35,
+            31
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2362,17 +2739,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             26,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2387,17 +2768,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             27,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2412,17 +2797,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             39,
-            40
+            40,
+            38
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2437,17 +2826,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             30,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2462,17 +2855,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             32,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2487,17 +2884,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             45,
-            33
+            33,
+            36
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2512,17 +2913,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             32,
-            29
+            29,
+            32
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2537,17 +2942,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             46,
-            42
+            42,
+            41
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2562,17 +2971,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             36,
-            null
+            null,
+            50
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2587,17 +3000,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             37,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2612,17 +3029,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             38,
+            45,
             45
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2637,17 +3058,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             39,
-            43
+            43,
+            42
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2662,17 +3087,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             40,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2687,17 +3116,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             41,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2712,17 +3145,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             42,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2737,17 +3174,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             43,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2762,17 +3203,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             44,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2787,17 +3232,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             45,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2812,17 +3261,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             48,
-            38
+            38,
+            25
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2837,17 +3290,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             47,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2862,17 +3319,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             48,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2887,17 +3348,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             49,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2912,17 +3377,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             50,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2937,17 +3406,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             7,
-            8
+            8,
+            9
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2962,17 +3435,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             14,
-            17
+            17,
+            18
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -2987,17 +3464,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             16,
-            7
+            7,
+            11
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3007,22 +3488,26 @@
     "내면근력__audio": {
       "title": "내면 근력",
       "author": "짐 머피 지음 / 지여울 옮김",
-      "pub": "",
+      "pub": "윌북",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
             38,
-            46
+            46,
+            20
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3037,17 +3522,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             47,
-            27
+            27,
+            33
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3062,17 +3551,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             30,
-            50
+            50,
+            43
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3087,17 +3580,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             40,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3112,17 +3609,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             28,
-            47
+            47,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3137,17 +3638,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             49,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3162,17 +3667,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             11,
+            null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3187,17 +3696,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             15,
+            null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3212,17 +3725,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             16,
-            7
+            7,
+            6
           ],
           "millie": [
             null,
-            19
+            19,
+            28
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3237,17 +3754,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             18,
+            null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3262,17 +3783,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             20,
-            19
+            19,
+            null
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3282,22 +3807,26 @@
     "일론머스크의서재": {
       "title": "일론 머스크의 서재",
       "author": "휴먼라이브러리랩",
-      "pub": "앵글북스",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
             2,
-            12
+            12,
+            23
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3312,17 +3841,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             12,
-            22
+            22,
+            37
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3337,17 +3870,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             17,
-            17
+            17,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3362,17 +3899,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             18,
-            18
+            18,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3387,17 +3928,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             19,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3407,22 +3952,26 @@
     "낙하__audio": {
       "title": "낙하",
       "author": "이희영",
-      "pub": "",
+      "pub": "밀리의서재",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
             20,
-            31
+            31,
+            17
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3437,17 +3986,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             23,
-            22
+            22,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3462,17 +4015,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             26,
-            24
+            24,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3487,17 +4044,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             27,
-            25
+            25,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3512,17 +4073,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             35,
-            32
+            32,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3537,17 +4102,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             37,
-            28
+            28,
+            24
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3562,17 +4131,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             41,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3587,17 +4160,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             42,
-            39
+            39,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3612,17 +4189,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             43,
-            41
+            41,
+            30
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3637,17 +4218,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             44,
-            42
+            42,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3662,17 +4247,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             50,
-            47
+            47,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -3682,24 +4271,28 @@
     "더블클릭": {
       "title": "더블 클릭",
       "author": "알간지 저",
-      "pub": "생각정원",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             null,
-            9
+            9,
+            27
           ]
         }
       }
@@ -3707,24 +4300,28 @@
     "이런말자주하면부자될징조입니다": {
       "title": "이런 말 자주 하면 부자 될 징조입니다",
       "author": "윤석금 저",
-      "pub": "리더스북",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             null,
-            10
+            10,
+            37
           ]
         }
       }
@@ -3732,24 +4329,28 @@
     "돈의감각을길러주는경제지식첫걸음": {
       "title": "돈의 감각을 길러주는 경제 지식 첫 걸음",
       "author": "박의래,이종현 저",
-      "pub": "황금부엉이",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             null,
-            14
+            14,
+            33
           ]
         }
       }
@@ -3757,24 +4358,28 @@
     "엄마가죽었다": {
       "title": "엄마가 죽었다",
       "author": "정해연 저",
-      "pub": "생각학교",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             null,
-            16
+            16,
+            45
           ]
         }
       }
@@ -3782,24 +4387,28 @@
     "세상에스며든클래식": {
       "title": "세상에 스며든 클래식",
       "author": "이주용 저",
-      "pub": "저녁달",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             null,
-            18
+            18,
+            29
           ]
         }
       }
@@ -3807,24 +4416,28 @@
     "나는0원으로강남건물주보다월세많이받는온라인건물주로산다": {
       "title": "나는 0원으로 강남 건물주보다 월세 많이 받는 온라인 건물주로 산다",
       "author": "알파남(김지수) 저",
-      "pub": "타이탄북스",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
             null,
-            19
+            19,
+            44
           ]
         }
       }
@@ -3837,19 +4450,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
-            23
+            23,
+            null
           ]
         }
       }
@@ -3862,19 +4479,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
-            24
+            24,
+            null
           ]
         }
       }
@@ -3887,18 +4508,22 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
+            28,
             28
           ]
         }
@@ -3912,19 +4537,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
-            31
+            31,
+            null
           ]
         }
       }
@@ -3937,19 +4566,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
-            32
+            32,
+            null
           ]
         }
       }
@@ -3962,19 +4595,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
-            35
+            35,
+            null
           ]
         }
       }
@@ -3987,19 +4624,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
-            36
+            36,
+            null
           ]
         }
       }
@@ -4012,19 +4653,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
-            38
+            38,
+            null
           ]
         }
       }
@@ -4037,19 +4682,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
-            39
+            39,
+            null
           ]
         }
       }
@@ -4062,19 +4711,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
-            41
+            41,
+            49
           ],
           "yes24_crema": [
             null,
-            45
+            45,
+            43
           ]
         }
       }
@@ -4087,19 +4740,23 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
-            49
+            49,
+            null
           ]
         }
       }
@@ -4112,17 +4769,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
-            17
+            17,
+            null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -4137,17 +4798,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             null,
-            12
+            12,
+            18
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -4162,17 +4827,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             null,
-            20
+            20,
+            null
           ],
           "millie": [
+            null,
             null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -4187,17 +4856,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
-            49
+            49,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -4212,17 +4885,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
-            1
+            1,
+            4
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -4232,22 +4909,26 @@
     "슬픔이여안녕": {
       "title": "슬픔이여 안녕",
       "author": "프랑수아즈 사강 지음 / 김남주 옮김",
-      "pub": "아르테(arte)",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null
           ],
           "kyobo_premium": [
             null,
+            null,
             null
           ],
           "millie": [
             null,
-            14
+            14,
+            39
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -4262,17 +4943,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
-            24
+            24,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -4287,17 +4972,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
-            25
+            25,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -4312,17 +5001,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
-            30
+            30,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -4337,17 +5030,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
-            37
+            37,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -4362,17 +5059,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
-            44
+            44,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -4387,17 +5088,21 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
-            49
+            49,
+            35
           ],
           "yes24_crema": [
+            null,
             null,
             null
           ]
@@ -4412,17 +5117,659 @@
         "all": {
           "kyobo_unlimited": [
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null
           ],
           "millie": [
             null,
-            50
+            50,
+            44
           ],
           "yes24_crema": [
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "주식은미국의전략을따라움직인다": {
+      "title": "주식은 미국의 전략을 따라 움직인다",
+      "author": "소현철 저",
+      "pub": "황금부엉이",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            11
+          ]
+        }
+      }
+    },
+    "나를아프게한말들이모두진실은아니었다": {
+      "title": "나를 아프게 한 말들이 모두 진실은 아니었다",
+      "author": "마르쿠스 아우렐리우스 저/이근오 역",
+      "pub": "모티브",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            12
+          ]
+        }
+      }
+    },
+    "일단의심하라그끝에답이있다": {
+      "title": "일단 의심하라, 그 끝에 답이 있다",
+      "author": "르네 데카르트 저/이근오 편",
+      "pub": "모티브",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            14
+          ]
+        }
+      }
+    },
+    "미국주식으로은퇴하기_실전투자편": {
+      "title": "미국 주식으로 은퇴하기_실전 투자 편",
+      "author": "최철(‘미주은’ 유튜버) 저",
+      "pub": "황금부엉이",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            17
+          ]
+        }
+      }
+    },
+    "왜항상아가리로만할까": {
+      "title": "왜 항상 아가리로만 할까?",
+      "author": "이창현 저",
+      "pub": "모티브",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            20
+          ]
+        }
+      }
+    },
+    "100년의질문": {
+      "title": "100년의 질문",
+      "author": "엘버트 허버드 저/충희 편",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            21
+          ]
+        }
+      }
+    },
+    "한장만더쓰고한잔하러가자": {
+      "title": "한 장만 더 쓰고 한잔하러 가자",
+      "author": "서고운,예소연 공저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            22
+          ]
+        }
+      }
+    },
+    "아들아의사대신건물주가되어라": {
+      "title": "아들아, 의사 대신 건물주가 되어라",
+      "author": "빌딩 부부 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            24
+          ]
+        }
+      }
+    },
+    "반값보험료만들기프로젝트": {
+      "title": "반값 보험료 만들기 프로젝트",
+      "author": "장명훈 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            25
+          ]
+        }
+      }
+    },
+    "수상할정도로고양이": {
+      "title": "수상할 정도로 고양이",
+      "author": "이도훈 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            26
+          ]
+        }
+      }
+    },
+    "취미는악플특기는막말": {
+      "title": "취미는 악플, 특기는 막말",
+      "author": "김이환,정명섭,정해연,조영주,차무진 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            32
+          ]
+        }
+      }
+    },
+    "범죄의심리학": {
+      "title": "범죄의 심리학",
+      "author": "이기동 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            39
+          ]
+        }
+      }
+    },
+    "위대한개츠비": {
+      "title": "위대한 개츠비",
+      "author": "F. 스콧 피츠제럴드 저/김석희 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            42
+          ]
+        }
+      }
+    },
+    "오만과편견": {
+      "title": "오만과 편견",
+      "author": "제인 오스틴 저/김선형 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            48
+          ]
+        }
+      }
+    },
+    "해안가": {
+      "title": "해안가",
+      "author": "사카사키 가오루 저/원선미 역",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            49
+          ]
+        }
+      }
+    },
+    "그리스로마신화7행운과비극": {
+      "title": "그리스 로마 신화 7(행운과 비극)",
+      "author": "토머스 볼핀치 지음",
+      "pub": "가나출판사",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            13
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "죽음의인류학": {
+      "title": "죽음의 인류학",
+      "author": "이경덕 지음",
+      "pub": "원더박스",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            14
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "우리는가장밝은밤에헤어졌다": {
+      "title": "우리는 가장 밝은 밤에 헤어졌다",
+      "author": "표도르 도스토옙스키 지음",
+      "pub": "윌마",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            16
+          ],
+          "millie": [
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "기대의감각": {
+      "title": "기대의 감각",
+      "author": "김지용 ",
+      "pub": "밀리의서재",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            7
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "agi천사인가악마인가__audio": {
+      "title": "AGI, 천사인가 악마인가",
+      "author": "김대식",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            27
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "다정한사람이이긴다": {
+      "title": "다정한 사람이 이긴다",
+      "author": "이해인",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            47
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "착한소녀의거짓말__audio": {
+      "title": "착한 소녀의 거짓말",
+      "author": "J.T. 엘리슨",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            48
+          ],
+          "yes24_crema": [
+            null,
             null,
             null
           ]
