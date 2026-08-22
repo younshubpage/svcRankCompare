@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T09:01:39.373848+09:00",
-  "count": 153,
+  "updated": "2026-08-23T08:57:53.256936+09:00",
+  "count": 151,
   "books": [
     {
       "id": "ed9aba76ac324b7f",
@@ -83,11 +83,11 @@
       "is_comic": false
     },
     {
-      "id": "6bba99a554fc4ca4",
-      "title": "헤르만 헤세의 게으름의 기술",
-      "author": "헤르만 헤세 지음 / 유영미 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180171291/e8a61a5c324b46f997a0a07b251f5705.jpg",
-      "open_date": "2026-08-23",
+      "id": "44487772f920448f",
+      "title": "뒤틀린 사랑",
+      "author": "아나 황 지음 / 윤선미 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180174746/7c30c64ee3df4f929349b09b71e67efe.jpg",
+      "open_date": "2026-09-06",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -113,11 +113,11 @@
       "is_comic": false
     },
     {
-      "id": "ee08417424c34bcb",
-      "title": "듣기의 기술",
-      "author": "에리히 프롬 지음 / 신소희 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180174041/921b5d7d63da4c30ba0fc55f4b347695.jpg",
-      "open_date": "2026-08-28",
+      "id": "da5fcb0dcc9b4033",
+      "title": "주식투자를 잘한다는 것",
+      "author": "육과장",
+      "cover": "https://image.millie.co.kr/service/cover/180174026/56bdf78746ec4345a872f9a875571ac6.jpg",
+      "open_date": "2026-09-05",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -133,31 +133,11 @@
       "is_comic": false
     },
     {
-      "id": "da5fcb0dcc9b4033",
-      "title": "주식투자를 잘한다는 것",
-      "author": "육과장",
-      "cover": "https://image.millie.co.kr/service/cover/180174026/56bdf78746ec4345a872f9a875571ac6.jpg",
-      "open_date": "2026-09-05",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "44487772f920448f",
-      "title": "뒤틀린 사랑",
-      "author": "아나 황 지음 / 윤선미 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180174746/7c30c64ee3df4f929349b09b71e67efe.jpg",
-      "open_date": "2026-09-06",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "1cdfbe2e13e2485f",
-      "title": "가가린이 들려주는 무중력 이야기",
-      "author": "정완상",
-      "cover": "https://image.millie.co.kr/service/cover/3330348/14770591af504f8a8d34e115c7a814f9.jpg",
-      "open_date": "2099-12-31",
+      "id": "ee08417424c34bcb",
+      "title": "듣기의 기술",
+      "author": "에리히 프롬 지음 / 신소희 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180174041/921b5d7d63da4c30ba0fc55f4b347695.jpg",
+      "open_date": "2026-08-28",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -173,6 +153,26 @@
       "is_comic": false
     },
     {
+      "id": "1cdfbe2e13e2485f",
+      "title": "가가린이 들려주는 무중력 이야기",
+      "author": "정완상",
+      "cover": "https://image.millie.co.kr/service/cover/3330348/14770591af504f8a8d34e115c7a814f9.jpg",
+      "open_date": "2099-12-31",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "df98d8a01f534c1f",
+      "title": "우리는 가장 밝은 밤에 헤어졌다",
+      "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180174974/7356abeec4264f7cba2f4c590caf2dbe.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "e080b111c85d4adc",
       "title": "소금호수, 우리가 사랑한 이상한 세계",
       "author": "캐롤라인 트레이시 지음 / 김민정 옮김",
@@ -183,11 +183,21 @@
       "is_comic": false
     },
     {
-      "id": "62861c55450f4d1c",
-      "title": "일본 현지 슈퍼마켓 대백과",
-      "author": "스가와라 요시미 지음 / 이혜윤 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180172758/8a1064236b4b4bc89069486e8358c8ef.jpg",
-      "open_date": "2026-08-23",
+      "id": "3071455005934d27",
+      "title": "여름, 안부",
+      "author": "백가희",
+      "cover": "https://image.millie.co.kr/service/cover/180174897/11bb2f9d56b44b308e2a6a9fd77725ff.jpg",
+      "open_date": "2026-09-01",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "0270ac978c334058",
+      "title": "저 지금 탑승합니다",
+      "author": "정보라",
+      "cover": "https://image.millie.co.kr/service/cover/180174713/0f57b2849a08423b90a060e1da569927.jpg",
+      "open_date": "2026-09-03",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -198,16 +208,6 @@
       "author": "박상미",
       "cover": "https://image.millie.co.kr/service/cover/180173761/971ed2298fc5477f8bb1ba36e193f662.jpg",
       "open_date": "2026-08-27",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3071455005934d27",
-      "title": "여름, 안부",
-      "author": "백가희",
-      "cover": "https://image.millie.co.kr/service/cover/180174897/11bb2f9d56b44b308e2a6a9fd77725ff.jpg",
-      "open_date": "2026-09-01",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -233,16 +233,6 @@
       "is_comic": false
     },
     {
-      "id": "df98d8a01f534c1f",
-      "title": "우리는 가장 밝은 밤에 헤어졌다",
-      "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180174974/7356abeec4264f7cba2f4c590caf2dbe.jpg",
-      "open_date": "2026-09-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "43e9a56c9b30424a",
       "title": "여름의 귤을 좋아하세요",
       "author": "이희영",
@@ -263,22 +253,22 @@
       "is_comic": false
     },
     {
-      "id": "0270ac978c334058",
-      "title": "저 지금 탑승합니다",
-      "author": "정보라",
-      "cover": "https://image.millie.co.kr/service/cover/180174713/0f57b2849a08423b90a060e1da569927.jpg",
-      "open_date": "2026-09-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "20cc4c0bae884d79",
       "title": "4호 시장을 사라! 펀드와 ETF의 이해 [하루 10분, 경제로 세상 듣기 시즌2]",
       "author": "재정경제부",
       "cover": "https://image.millie.co.kr/service/cover/180171853/3a9c6e8b67434f9ab1934000a2bff491.jpg",
       "open_date": "2026-10-01",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "16dffba275ff46e9",
+      "title": "삶은 그대에게 잘해줄 의무가 없다",
+      "author": "페마 쵸드론 지음 / 신동숙 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180174976/6689011b2f7045aa9c877a1701549da8.jpg",
+      "open_date": "2026-08-31",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -303,12 +293,32 @@
       "is_comic": false
     },
     {
+      "id": "56621f8c365b4e3f",
+      "title": "매경이코노미 2374호",
+      "author": "매경이코노미 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180174985/46ecae64a27b459b89f28534d0a63cbc.jpg",
+      "open_date": "2026-08-25",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "86b4e845ec3a469c",
       "title": "피터케이의 이기는 투자 불변의 법칙",
       "author": "피터케이",
       "cover": "https://image.millie.co.kr/service/cover/180171304/563489b7ce1f485482486eabc80da2a0.jpg",
       "open_date": "2026-08-26",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "723f244a742d4aa6",
+      "title": "Do it! 바이브 코딩 + 안티그래비티",
+      "author": "조준수",
+      "cover": "https://image.millie.co.kr/service/cover/180174231/1aba37a16e6c4f988341b878703b56b1.jpg",
+      "open_date": "2026-09-09",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -333,10 +343,20 @@
       "is_comic": false
     },
     {
-      "id": "f30f9926c9994ddb",
-      "title": "생각이 많은 10대를 위한 국제 관계",
-      "author": "박창섭 지음 / 나수은 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180172714/a680681693734a4a9a023b641ab7ca81.jpg",
+      "id": "5ab7cd78eeee4e40",
+      "title": "취사병 전설이 되다 대본집 1",
+      "author": "최룡",
+      "cover": "https://image.millie.co.kr/service/cover/180174634/11b0a047dc7c41e3bafff705a8b4c9c8.jpg",
+      "open_date": "2026-08-25",
+      "is_audiobook": false,
+      "is_series": true,
+      "is_comic": false
+    },
+    {
+      "id": "981d19839aba482b",
+      "title": "쾌적한 사회의 불쾌함",
+      "author": "구마시로 도루 지음 / 이정미 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180172717/d97b6e0696dc444e8fd79f74cf33de30.jpg",
       "open_date": "2026-08-26",
       "is_audiobook": true,
       "is_series": false,
@@ -353,11 +373,31 @@
       "is_comic": false
     },
     {
-      "id": "5ab7cd78eeee4e40",
-      "title": "취사병 전설이 되다 대본집 1",
-      "author": "최룡",
-      "cover": "https://image.millie.co.kr/service/cover/180174634/11b0a047dc7c41e3bafff705a8b4c9c8.jpg",
-      "open_date": "2026-08-25",
+      "id": "f30f9926c9994ddb",
+      "title": "생각이 많은 10대를 위한 국제 관계",
+      "author": "박창섭 지음 / 나수은 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180172714/a680681693734a4a9a023b641ab7ca81.jpg",
+      "open_date": "2026-08-26",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "d3230ba4a9724a46",
+      "title": "당신의 뇌는 지금 뛰고 있는가",
+      "author": "마누엘라 마케도니아 지음 / 박종대 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180171817/2cb30bd56221413895695596dedc55a9.jpg",
+      "open_date": "2026-08-26",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "38feb1ed08c64dcd",
+      "title": "닮은 여자 1",
+      "author": "한차현",
+      "cover": "https://image.millie.co.kr/service/cover/180174446/f868597ff38f49c98293e9474e66cd50.jpg",
+      "open_date": "2026-08-31",
       "is_audiobook": false,
       "is_series": true,
       "is_comic": false
@@ -377,36 +417,6 @@
       "title": "돈 버는 AI",
       "author": "박성혁, 나탈리 허",
       "cover": "https://image.millie.co.kr/service/cover/180173272/29c4deda2e434a44a30539e2794a01b2.jpg",
-      "open_date": "2026-08-26",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "16dffba275ff46e9",
-      "title": "삶은 그대에게 잘해줄 의무가 없다",
-      "author": "페마 쵸드론 지음 / 신동숙 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180174976/6689011b2f7045aa9c877a1701549da8.jpg",
-      "open_date": "2026-08-31",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "981d19839aba482b",
-      "title": "쾌적한 사회의 불쾌함",
-      "author": "구마시로 도루 지음 / 이정미 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180172717/d97b6e0696dc444e8fd79f74cf33de30.jpg",
-      "open_date": "2026-08-26",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "d3230ba4a9724a46",
-      "title": "당신의 뇌는 지금 뛰고 있는가",
-      "author": "마누엘라 마케도니아 지음 / 박종대 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180171817/2cb30bd56221413895695596dedc55a9.jpg",
       "open_date": "2026-08-26",
       "is_audiobook": true,
       "is_series": false,
@@ -443,6 +453,16 @@
       "is_comic": false
     },
     {
+      "id": "4fec1dc2ba734d73",
+      "title": "백범 강산에 눕다 1",
+      "author": "임순만",
+      "cover": "https://image.millie.co.kr/service/cover/180175383/0e0dbbf400fe451fb25a827a26950eba.jpg",
+      "open_date": "2026-08-26",
+      "is_audiobook": true,
+      "is_series": true,
+      "is_comic": false
+    },
+    {
       "id": "981eb8b96b814d56",
       "title": "팀 켈러의 내가 만든 신",
       "author": "팀 켈러 (Timothy Keller)",
@@ -453,31 +473,11 @@
       "is_comic": false
     },
     {
-      "id": "7b3860938fd244fc",
-      "title": "최고민수 요리 역사 특강",
-      "author": "최고민수(박민수)",
-      "cover": "https://image.millie.co.kr/service/cover/180172795/620cbb181cfd4af593268b4abecfd9a1.jpg",
-      "open_date": "2026-08-26",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "dd7c186d3edb48a6",
-      "title": "마흔에 읽는 천자문",
-      "author": "허경진",
-      "cover": "https://image.millie.co.kr/service/cover/180171821/14b02363173b4112b45a7c4403bc9b4d.jpg",
-      "open_date": "2026-08-26",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "c4312cb6b07d4c65",
-      "title": "제너레이션 AI",
-      "author": "맷 브리턴 지음 / 조주희 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180171815/c0dd5fba736b4d9eb37aae81241132a8.jpg",
-      "open_date": "2026-08-26",
+      "id": "4cb9a6182d764295",
+      "title": "대화할 때 필요한 최소한의 상식 - 문해력",
+      "author": "오원재",
+      "cover": "https://image.millie.co.kr/service/cover/180174842/3af29248d45b431581ea7ab513939c6f.jpg",
+      "open_date": "2026-09-07",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -503,16 +503,6 @@
       "is_comic": false
     },
     {
-      "id": "1fa75b3ec5464992",
-      "title": "조난자들",
-      "author": "주승현",
-      "cover": "https://image.millie.co.kr/service/cover/180174716/afc369a90a634921a3b3e55d5a425293.jpg",
-      "open_date": "2026-08-24",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "0c8576f1ffe34006",
       "title": "대체로 무해한 한국사",
       "author": "김재호",
@@ -523,11 +513,51 @@
       "is_comic": false
     },
     {
-      "id": "4cb9a6182d764295",
-      "title": "대화할 때 필요한 최소한의 상식 - 문해력",
-      "author": "오원재",
-      "cover": "https://image.millie.co.kr/service/cover/180174842/3af29248d45b431581ea7ab513939c6f.jpg",
-      "open_date": "2026-09-07",
+      "id": "1163c69a53e14fc5",
+      "title": "부르노 탐정의 범인 찾기",
+      "author": "최옥임",
+      "cover": "https://image.millie.co.kr/service/cover/180169527/0ede5e381c1f4a338fc1728c6deae7a2.jpg",
+      "open_date": "2026-08-24",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "7b3860938fd244fc",
+      "title": "최고민수 요리 역사 특강",
+      "author": "최고민수(박민수)",
+      "cover": "https://image.millie.co.kr/service/cover/180172795/620cbb181cfd4af593268b4abecfd9a1.jpg",
+      "open_date": "2026-08-26",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "1fa75b3ec5464992",
+      "title": "조난자들",
+      "author": "주승현",
+      "cover": "https://image.millie.co.kr/service/cover/180174716/afc369a90a634921a3b3e55d5a425293.jpg",
+      "open_date": "2026-08-24",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "dd7c186d3edb48a6",
+      "title": "마흔에 읽는 천자문",
+      "author": "허경진",
+      "cover": "https://image.millie.co.kr/service/cover/180171821/14b02363173b4112b45a7c4403bc9b4d.jpg",
+      "open_date": "2026-08-26",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "c4312cb6b07d4c65",
+      "title": "제너레이션 AI",
+      "author": "맷 브리턴 지음 / 조주희 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180171815/c0dd5fba736b4d9eb37aae81241132a8.jpg",
+      "open_date": "2026-08-26",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -543,60 +573,30 @@
       "is_comic": false
     },
     {
-      "id": "ec760441673a4549",
-      "title": "대화할 때 필요한 최소한의 상식 - 세무",
-      "author": "오원재",
-      "cover": "https://image.millie.co.kr/service/cover/180174851/f8e34310062840b5b595b0cdea40efdf.jpg",
-      "open_date": "2026-09-14",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "09df2fa5ec394eb6",
-      "title": "대화할 때 필요한 최소한의 상식 - 어휘력",
-      "author": "오원재",
-      "cover": "https://image.millie.co.kr/service/cover/180174853/663670ee4c91440c8f5468d14bcfe0d1.jpg",
-      "open_date": "2026-08-26",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "4fec1dc2ba734d73",
-      "title": "백범 강산에 눕다 1",
-      "author": "임순만",
-      "cover": "https://image.millie.co.kr/service/cover/180175383/0e0dbbf400fe451fb25a827a26950eba.jpg",
-      "open_date": "2026-08-26",
-      "is_audiobook": true,
-      "is_series": true,
-      "is_comic": false
-    },
-    {
-      "id": "723f244a742d4aa6",
-      "title": "Do it! 바이브 코딩 + 안티그래비티",
-      "author": "조준수",
-      "cover": "https://image.millie.co.kr/service/cover/180174231/1aba37a16e6c4f988341b878703b56b1.jpg",
+      "id": "424014165c494059",
+      "title": "된다! 조회수 터지는 인스타그램 릴스 만들기",
+      "author": "최지영",
+      "cover": "https://image.millie.co.kr/service/cover/180174230/7eabf309e8d344d1bbf554f0a34e05b4.jpg",
       "open_date": "2026-09-09",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "38feb1ed08c64dcd",
-      "title": "닮은 여자 1",
-      "author": "한차현",
-      "cover": "https://image.millie.co.kr/service/cover/180174446/f868597ff38f49c98293e9474e66cd50.jpg",
-      "open_date": "2026-08-31",
-      "is_audiobook": false,
-      "is_series": true,
+      "id": "249896a3ef044b5f",
+      "title": "아주 긴밀한 연결",
+      "author": "곽민준",
+      "cover": "https://image.millie.co.kr/service/cover/180174423/c17098b6e1ac4fa7b9ce745c1e986072.jpg",
+      "open_date": "2026-08-24",
+      "is_audiobook": true,
+      "is_series": false,
       "is_comic": false
     },
     {
-      "id": "e1f7284fc90f43e3",
-      "title": "내란 예방 경제학",
-      "author": "원승연, 강신욱, 김혜원, 허석균, 주상영, 박복영, 지만수, 김계환, 정세은, 이선화, 임일섭, 박성욱, 박창균",
-      "cover": "https://image.millie.co.kr/service/cover/180174444/554a62644b6441ffb1fb4a5af7b80940.jpg",
+      "id": "6e3af317009c4b4a",
+      "title": "개성 만점 친구들",
+      "author": "정소정",
+      "cover": "https://image.millie.co.kr/service/cover/180169468/6b007ae009a04901bb7a9e09b9d72f31.jpg",
       "open_date": "2026-08-24",
       "is_audiobook": true,
       "is_series": false,
