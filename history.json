@@ -4,7 +4,8 @@
     "2026-08-19",
     "2026-08-20",
     "2026-08-21",
-    "2026-08-22"
+    "2026-08-22",
+    "2026-08-23"
   ],
   "books": {
     "독서의기술": {
@@ -18,6 +19,7 @@
             4,
             3,
             1,
+            1,
             1
           ],
           "kyobo_premium": [
@@ -25,6 +27,7 @@
             3,
             2,
             3,
+            2,
             2
           ],
           "millie": [
@@ -32,14 +35,16 @@
             11,
             13,
             21,
-            20
+            20,
+            19
           ],
           "yes24_crema": [
             1,
             2,
             4,
             2,
-            2
+            2,
+            1
           ]
         }
       }
@@ -55,10 +60,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             14,
+            null,
             null,
             null,
             null,
@@ -69,14 +76,16 @@
             21,
             26,
             28,
-            9
+            9,
+            21
           ],
           "yes24_crema": [
             2,
             1,
             1,
             1,
-            1
+            1,
+            2
           ]
         }
       }
@@ -92,6 +101,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -99,9 +109,11 @@
             null,
             15,
             8,
-            9
+            9,
+            19
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -113,7 +125,8 @@
             4,
             5,
             5,
-            3
+            3,
+            4
           ]
         }
       }
@@ -129,6 +142,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -136,6 +150,7 @@
             17,
             null,
             18,
+            null,
             null
           ],
           "millie": [
@@ -143,14 +158,16 @@
             5,
             5,
             3,
-            5
+            5,
+            4
           ],
           "yes24_crema": [
             4,
             3,
             3,
             4,
-            5
+            5,
+            3
           ]
         }
       }
@@ -166,9 +183,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -180,6 +199,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -187,7 +207,8 @@
             13,
             31,
             6,
-            6
+            6,
+            9
           ]
         }
       }
@@ -203,16 +224,19 @@
             1,
             1,
             2,
-            2
+            2,
+            3
           ],
           "kyobo_premium": [
             1,
             1,
             3,
             1,
+            1,
             1
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -224,7 +248,8 @@
             6,
             8,
             8,
-            7
+            7,
+            8
           ]
         }
       }
@@ -240,9 +265,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -254,6 +281,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -261,7 +289,8 @@
             8,
             7,
             7,
-            8
+            8,
+            6
           ]
         }
       }
@@ -277,9 +306,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -291,6 +322,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -298,7 +330,8 @@
             5,
             10,
             16,
-            14
+            14,
+            7
           ]
         }
       }
@@ -314,9 +347,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -328,12 +363,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             9,
             20,
             36,
+            null,
             null,
             null
           ]
@@ -351,9 +388,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -365,6 +404,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -372,7 +412,8 @@
             15,
             15,
             15,
-            15
+            15,
+            12
           ]
         }
       }
@@ -388,9 +429,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -402,14 +445,16 @@
             48,
             46,
             38,
-            41
+            41,
+            46
           ],
           "yes24_crema": [
             11,
             11,
             9,
             41,
-            45
+            45,
+            27
           ]
         }
       }
@@ -425,6 +470,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -432,21 +478,24 @@
             8,
             12,
             null,
-            10
+            10,
+            11
           ],
           "millie": [
             6,
             6,
             8,
             7,
-            7
+            7,
+            5
           ],
           "yes24_crema": [
             12,
             7,
             6,
             12,
-            11
+            11,
+            10
           ]
         }
       }
@@ -462,6 +511,7 @@
             7,
             16,
             8,
+            10,
             10
           ],
           "kyobo_premium": [
@@ -469,6 +519,7 @@
             4,
             5,
             5,
+            4,
             4
           ],
           "millie": [
@@ -476,14 +527,16 @@
             16,
             19,
             14,
-            15
+            15,
+            14
           ],
           "yes24_crema": [
             13,
             12,
             13,
             25,
-            40
+            40,
+            20
           ]
         }
       }
@@ -499,16 +552,19 @@
             6,
             5,
             null,
-            9
+            9,
+            null
           ],
           "kyobo_premium": [
             null,
             10,
             8,
             11,
-            7
+            7,
+            10
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -520,7 +576,8 @@
             47,
             null,
             null,
-            50
+            50,
+            42
           ]
         }
       }
@@ -536,9 +593,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -550,6 +609,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -557,7 +617,8 @@
             29,
             null,
             36,
-            39
+            39,
+            26
           ]
         }
       }
@@ -573,9 +634,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -587,10 +650,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             16,
+            null,
             null,
             null,
             null,
@@ -610,9 +675,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -624,6 +691,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -631,7 +699,8 @@
             22,
             16,
             19,
-            18
+            18,
+            13
           ]
         }
       }
@@ -647,9 +716,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -661,11 +732,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             18,
             46,
+            null,
             null,
             null,
             null
@@ -684,9 +757,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -698,6 +773,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -705,6 +781,7 @@
             21,
             19,
             47,
+            null,
             null
           ]
         }
@@ -721,9 +798,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -735,6 +814,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -742,7 +822,8 @@
             27,
             34,
             37,
-            44
+            44,
+            37
           ]
         }
       }
@@ -758,9 +839,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -772,11 +855,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             21,
             33,
+            null,
             null,
             null,
             null
@@ -795,9 +880,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -809,11 +896,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             22,
             34,
+            null,
             null,
             null,
             null
@@ -832,9 +921,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -846,6 +937,7 @@
             18,
             16,
             19,
+            18,
             18
           ],
           "yes24_crema": [
@@ -853,7 +945,8 @@
             41,
             38,
             28,
-            32
+            32,
+            39
           ]
         }
       }
@@ -869,9 +962,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -883,12 +978,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             24,
             17,
             18,
+            null,
             null,
             null
           ]
@@ -906,9 +1003,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -920,6 +1019,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -927,7 +1027,8 @@
             null,
             40,
             35,
-            null
+            null,
+            48
           ]
         }
       }
@@ -943,9 +1044,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -957,10 +1060,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             26,
+            null,
             null,
             null,
             null,
@@ -980,6 +1085,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -987,9 +1093,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -1001,18 +1109,20 @@
             42,
             47,
             30,
-            null
+            null,
+            36
           ]
         }
       }
     },
     "내면근력": {
       "title": "내면 근력",
-      "author": "짐 머피 지음 / 지여울 옮김",
+      "author": "짐 머피 저/지여울 역",
       "pub": "윌북",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null,
             null,
@@ -1024,6 +1134,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
@@ -1031,14 +1142,16 @@
             34,
             1,
             4,
-            8
+            8,
+            12
           ],
           "yes24_crema": [
             28,
             26,
             50,
             31,
-            null
+            null,
+            31
           ]
         }
       }
@@ -1054,9 +1167,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1068,6 +1183,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -1075,6 +1191,7 @@
             30,
             46,
             32,
+            null,
             null
           ]
         }
@@ -1091,9 +1208,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1105,10 +1224,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             30,
+            null,
             null,
             null,
             null,
@@ -1128,9 +1249,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1142,10 +1265,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             31,
+            null,
             null,
             null,
             null,
@@ -1165,9 +1290,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1179,10 +1306,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             32,
+            null,
             null,
             null,
             null,
@@ -1202,9 +1331,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1216,10 +1347,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             33,
+            null,
             null,
             null,
             null,
@@ -1239,9 +1372,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1253,10 +1388,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             34,
+            null,
             null,
             null,
             null,
@@ -1276,9 +1413,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1290,10 +1429,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             35,
+            null,
             null,
             null,
             null,
@@ -1304,7 +1445,7 @@
     },
     "달러구트꿈백화점0": {
       "title": "달러구트 꿈 백화점 0",
-      "author": "이미예",
+      "author": "이미예 저",
       "pub": "",
       "series": {
         "all": {
@@ -1313,9 +1454,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1327,6 +1470,7 @@
             null,
             null,
             41,
+            null,
             null
           ],
           "yes24_crema": [
@@ -1334,7 +1478,8 @@
             44,
             35,
             null,
-            null
+            null,
+            49
           ]
         }
       }
@@ -1350,9 +1495,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1364,6 +1511,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -1371,7 +1519,8 @@
             25,
             23,
             40,
-            30
+            30,
+            28
           ]
         }
       }
@@ -1387,6 +1536,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -1394,9 +1544,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -1408,6 +1560,7 @@
             40,
             null,
             null,
+            null,
             null
           ]
         }
@@ -1415,11 +1568,12 @@
     },
     "내가죽였다": {
       "title": "내가 죽였다",
-      "author": "정해연 지음",
-      "pub": "반타",
+      "author": "정해연 저",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null,
             null,
@@ -1431,9 +1585,11 @@
             null,
             20,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -1445,7 +1601,8 @@
             43,
             null,
             null,
-            null
+            null,
+            50
           ]
         }
       }
@@ -1461,6 +1618,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -1468,9 +1626,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -1482,6 +1642,7 @@
             null,
             null,
             null,
+            null,
             null
           ]
         }
@@ -1490,10 +1651,11 @@
     "가공범": {
       "title": "가공범",
       "author": "히가시노 게이고 저/김선영 역",
-      "pub": "",
+      "pub": "북다",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null,
             null,
@@ -1505,9 +1667,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -1519,7 +1683,8 @@
             37,
             30,
             33,
-            34
+            34,
+            17
           ]
         }
       }
@@ -1535,9 +1700,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1549,6 +1716,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -1556,7 +1724,8 @@
             50,
             41,
             43,
-            37
+            37,
+            46
           ]
         }
       }
@@ -1572,9 +1741,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1586,10 +1757,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             43,
+            null,
             null,
             null,
             null,
@@ -1609,6 +1782,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -1616,6 +1790,7 @@
             null,
             null,
             14,
+            null,
             null
           ],
           "millie": [
@@ -1623,11 +1798,13 @@
             39,
             40,
             37,
-            39
+            39,
+            37
           ],
           "yes24_crema": [
             44,
             48,
+            null,
             null,
             null,
             null
@@ -1646,9 +1823,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1660,10 +1839,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             45,
+            null,
             null,
             null,
             null,
@@ -1683,9 +1864,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1697,10 +1880,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             46,
+            null,
             null,
             null,
             null,
@@ -1720,9 +1905,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1734,10 +1921,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             47,
+            null,
             null,
             null,
             null,
@@ -1757,9 +1946,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1771,10 +1962,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             48,
+            null,
             null,
             null,
             null,
@@ -1794,9 +1987,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1808,10 +2003,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             49,
+            null,
             null,
             null,
             null,
@@ -1831,9 +2028,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1845,10 +2044,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             50,
+            null,
             null,
             null,
             null,
@@ -1868,16 +2069,19 @@
             5,
             7,
             3,
-            3
+            3,
+            2
           ],
           "kyobo_premium": [
             null,
             null,
             null,
             10,
-            null
+            null,
+            14
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -1885,6 +2089,7 @@
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -1905,16 +2110,19 @@
             2,
             2,
             4,
-            5
+            5,
+            13
           ],
           "kyobo_premium": [
             4,
             2,
             1,
             2,
-            5
+            5,
+            3
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -1926,7 +2134,8 @@
             null,
             2,
             10,
-            21
+            21,
+            15
           ]
         }
       }
@@ -1942,6 +2151,7 @@
             3,
             4,
             5,
+            4,
             4
           ],
           "kyobo_premium": [
@@ -1949,16 +2159,19 @@
             5,
             4,
             4,
-            3
+            3,
+            5
           ],
           "millie": [
             1,
             2,
             2,
             1,
+            1,
             1
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -1979,9 +2192,11 @@
             11,
             11,
             13,
-            6
+            6,
+            7
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -1993,9 +2208,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2016,9 +2233,11 @@
             8,
             8,
             6,
-            7
+            7,
+            5
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2030,9 +2249,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2053,9 +2274,11 @@
             12,
             18,
             7,
-            8
+            8,
+            9
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2067,9 +2290,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2090,9 +2315,11 @@
             13,
             10,
             9,
-            14
+            14,
+            6
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2104,9 +2331,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2127,9 +2356,11 @@
             18,
             12,
             14,
-            12
+            12,
+            8
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2141,9 +2372,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2164,9 +2397,11 @@
             14,
             null,
             null,
-            16
+            16,
+            15
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2178,9 +2413,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2201,9 +2438,11 @@
             16,
             15,
             11,
-            null
+            null,
+            12
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2215,9 +2454,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2238,9 +2479,11 @@
             15,
             null,
             null,
-            20
+            20,
+            14
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2252,9 +2495,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2275,9 +2520,11 @@
             null,
             null,
             null,
-            18
+            18,
+            17
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2289,9 +2536,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2312,9 +2561,11 @@
             19,
             19,
             20,
-            null
+            null,
+            16
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2326,9 +2577,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2349,9 +2602,11 @@
             null,
             17,
             17,
-            19
+            19,
+            11
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2363,9 +2618,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2386,9 +2643,11 @@
             null,
             14,
             19,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2400,9 +2659,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2423,9 +2684,11 @@
             null,
             null,
             null,
-            15
+            15,
+            18
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2437,9 +2700,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2460,9 +2725,11 @@
             null,
             20,
             null,
-            17
+            17,
+            null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2474,9 +2741,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2497,9 +2766,11 @@
             null,
             null,
             18,
-            11
+            11,
+            20
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2511,9 +2782,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2534,6 +2807,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -2541,9 +2815,11 @@
             6,
             13,
             12,
-            12
+            12,
+            6
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -2551,6 +2827,7 @@
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2571,6 +2848,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -2578,9 +2856,11 @@
             13,
             10,
             9,
-            8
+            8,
+            7
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -2588,6 +2868,7 @@
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2608,6 +2889,7 @@
             9,
             6,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -2615,9 +2897,11 @@
             11,
             7,
             19,
-            13
+            13,
+            null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -2625,6 +2909,7 @@
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2645,6 +2930,7 @@
             10,
             9,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -2652,9 +2938,11 @@
             16,
             9,
             6,
-            6
+            6,
+            13
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -2662,6 +2950,7 @@
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2682,6 +2971,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -2689,9 +2979,11 @@
             15,
             11,
             7,
-            15
+            15,
+            18
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -2699,6 +2991,7 @@
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2719,10 +3012,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             13,
+            null,
             null,
             null,
             null,
@@ -2733,9 +3028,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2756,10 +3053,12 @@
             20,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             14,
+            null,
             null,
             null,
             null,
@@ -2770,9 +3069,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2793,10 +3094,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             15,
+            null,
             null,
             null,
             null,
@@ -2807,9 +3110,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2830,6 +3135,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -2837,9 +3143,11 @@
             14,
             null,
             20,
-            14
+            14,
+            12
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -2847,6 +3155,7 @@
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2867,12 +3176,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             17,
             18,
             17,
+            null,
             null,
             null
           ],
@@ -2881,9 +3192,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2904,11 +3217,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             12,
             9,
+            null,
             null,
             null,
             null
@@ -2918,9 +3233,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2941,12 +3258,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             20,
             null,
             19,
+            null,
             null,
             null
           ],
@@ -2955,9 +3274,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -2978,9 +3299,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -2992,9 +3315,11 @@
             4,
             6,
             5,
-            4
+            4,
+            3
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3015,9 +3340,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3029,9 +3356,11 @@
             3,
             3,
             2,
-            3
+            3,
+            2
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3052,9 +3381,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3066,9 +3397,11 @@
             32,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3089,9 +3422,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3103,9 +3438,11 @@
             13,
             15,
             17,
-            14
+            14,
+            17
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3126,9 +3463,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3140,9 +3479,11 @@
             15,
             14,
             16,
-            12
+            12,
+            15
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3163,9 +3504,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3177,9 +3520,11 @@
             10,
             10,
             12,
+            11,
             11
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3200,9 +3545,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3214,9 +3561,11 @@
             31,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3237,9 +3586,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3251,9 +3602,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3274,9 +3627,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3288,9 +3643,11 @@
             36,
             34,
             40,
-            35
+            35,
+            40
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3311,9 +3668,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3325,9 +3684,11 @@
             23,
             21,
             22,
-            22
+            22,
+            26
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3348,9 +3709,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3362,9 +3725,11 @@
             20,
             29,
             32,
-            31
+            31,
+            28
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3385,9 +3750,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3399,9 +3766,11 @@
             9,
             12,
             15,
-            16
+            16,
+            8
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3422,9 +3791,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3436,9 +3807,11 @@
             26,
             22,
             31,
-            32
+            32,
+            35
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3459,9 +3832,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3473,9 +3848,11 @@
             35,
             31,
             29,
-            33
+            33,
+            30
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3496,9 +3873,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3510,9 +3889,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3533,9 +3914,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3547,9 +3930,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3570,9 +3955,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3584,9 +3971,11 @@
             40,
             38,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3607,9 +3996,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3621,9 +4012,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3644,9 +4037,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3658,9 +4053,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3681,9 +4078,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3695,9 +4094,11 @@
             33,
             36,
             36,
-            28
+            28,
+            38
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3718,9 +4119,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3732,9 +4135,11 @@
             29,
             32,
             35,
-            25
+            25,
+            27
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3755,9 +4160,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3769,9 +4176,11 @@
             42,
             41,
             44,
-            30
+            30,
+            34
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3792,9 +4201,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3806,9 +4217,11 @@
             null,
             50,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3829,9 +4242,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3843,9 +4258,11 @@
             null,
             null,
             null,
-            null
+            null,
+            41
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3866,9 +4283,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3880,9 +4299,11 @@
             45,
             45,
             45,
-            47
+            47,
+            39
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3903,9 +4324,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3917,9 +4340,11 @@
             43,
             42,
             43,
-            46
+            46,
+            43
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3940,9 +4365,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3954,9 +4381,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -3977,9 +4406,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -3991,9 +4422,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4014,9 +4447,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4028,9 +4463,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4051,9 +4488,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4065,9 +4504,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4088,9 +4529,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4102,9 +4545,11 @@
             null,
             null,
             null,
-            45
+            45,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4125,9 +4570,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4139,9 +4586,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4162,9 +4611,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4176,9 +4627,11 @@
             38,
             25,
             39,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4199,9 +4652,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4213,9 +4668,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4236,9 +4693,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4250,9 +4709,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4273,9 +4734,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4287,9 +4750,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4310,9 +4775,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4324,9 +4791,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4347,9 +4816,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4361,9 +4832,11 @@
             8,
             9,
             11,
+            10,
             10
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4384,9 +4857,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4398,9 +4873,11 @@
             17,
             18,
             49,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4421,9 +4898,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4435,9 +4914,11 @@
             7,
             11,
             10,
-            17
+            17,
+            20
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4458,9 +4939,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4472,9 +4955,11 @@
             46,
             20,
             30,
-            38
+            38,
+            47
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4495,9 +4980,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4509,9 +4996,11 @@
             27,
             33,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4532,9 +5021,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4546,9 +5037,11 @@
             50,
             43,
             34,
-            26
+            26,
+            29
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4569,9 +5062,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4583,9 +5078,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4606,9 +5103,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4620,9 +5119,11 @@
             47,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4643,9 +5144,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4657,9 +5160,11 @@
             null,
             null,
             null,
-            null
+            null,
+            32
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4680,10 +5185,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             11,
+            null,
             null,
             null,
             null,
@@ -4694,9 +5201,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4717,10 +5226,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             15,
+            null,
             null,
             null,
             null,
@@ -4731,9 +5242,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4745,11 +5258,12 @@
     },
     "독성인간": {
       "title": "독성 인간",
-      "author": "리앤 텐 브링크 지음 / 김효정 옮김",
-      "pub": "",
+      "author": "리앤 텐 브링크 지음",
+      "pub": "웅진지식하우스",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null,
             null,
@@ -4761,16 +5275,19 @@
             7,
             6,
             null,
-            null
+            null,
+            17
           ],
           "millie": [
             null,
             19,
             28,
             48,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4791,10 +5308,12 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             18,
+            null,
             null,
             null,
             null,
@@ -4805,9 +5324,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4828,6 +5349,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -4835,9 +5357,11 @@
             19,
             null,
             null,
-            17
+            17,
+            null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -4845,6 +5369,7 @@
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4865,9 +5390,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4879,9 +5406,11 @@
             12,
             23,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4902,9 +5431,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4916,9 +5447,11 @@
             22,
             37,
             13,
-            36
+            36,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4939,9 +5472,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4953,9 +5488,11 @@
             17,
             null,
             25,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -4976,9 +5513,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -4990,9 +5529,11 @@
             18,
             null,
             23,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -5013,9 +5554,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5027,9 +5570,11 @@
             null,
             null,
             20,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -5050,9 +5595,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5064,9 +5611,11 @@
             31,
             17,
             18,
-            24
+            24,
+            31
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -5087,9 +5636,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5101,9 +5652,11 @@
             22,
             null,
             24,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -5124,9 +5677,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5138,9 +5693,11 @@
             24,
             null,
             33,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -5161,9 +5718,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5175,9 +5734,11 @@
             25,
             null,
             42,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -5198,9 +5759,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5212,9 +5775,11 @@
             32,
             null,
             null,
-            27
+            27,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -5235,9 +5800,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5249,9 +5816,11 @@
             28,
             24,
             26,
-            29
+            29,
+            44
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -5272,9 +5841,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5286,9 +5857,11 @@
             null,
             null,
             null,
-            40
+            40,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -5309,9 +5882,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5323,9 +5898,11 @@
             39,
             null,
             null,
-            42
+            42,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -5346,9 +5923,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5360,9 +5939,11 @@
             41,
             30,
             6,
-            19
+            19,
+            6
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -5383,9 +5964,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5397,9 +5980,11 @@
             42,
             null,
             null,
-            21
+            21,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -5420,9 +6005,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5434,9 +6021,11 @@
             47,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -5457,9 +6046,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5471,6 +6062,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -5478,6 +6070,7 @@
             9,
             27,
             42,
+            41,
             41
           ]
         }
@@ -5494,9 +6087,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5508,12 +6103,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             10,
             37,
+            null,
             null,
             null
           ]
@@ -5531,9 +6128,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5545,12 +6144,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             14,
             33,
+            null,
             null,
             null
           ]
@@ -5568,9 +6169,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5582,12 +6185,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             16,
             45,
+            null,
             null,
             null
           ]
@@ -5605,9 +6210,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5619,12 +6226,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             18,
             29,
+            null,
             null,
             null
           ]
@@ -5642,9 +6251,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5656,12 +6267,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             19,
             44,
+            null,
             null,
             null
           ]
@@ -5679,9 +6292,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5693,11 +6308,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             23,
+            null,
             null,
             null,
             null
@@ -5716,9 +6333,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5730,11 +6349,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             24,
+            null,
             null,
             null,
             null
@@ -5753,9 +6374,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5767,12 +6390,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             28,
             28,
+            null,
             null,
             null
           ]
@@ -5790,9 +6415,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5804,11 +6431,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             31,
+            null,
             null,
             null,
             null
@@ -5827,6 +6456,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -5834,9 +6464,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -5848,6 +6480,7 @@
             32,
             null,
             null,
+            null,
             null
           ]
         }
@@ -5856,10 +6489,11 @@
     "불행에몰두하지않는다": {
       "title": "불행에 몰두하지 않는다",
       "author": "정지우 저",
-      "pub": "",
+      "pub": "페이지2북스",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null,
             null,
@@ -5871,9 +6505,11 @@
             null,
             null,
             null,
-            null
+            null,
+            9
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -5885,7 +6521,8 @@
             35,
             null,
             44,
-            29
+            29,
+            34
           ]
         }
       }
@@ -5901,9 +6538,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5915,11 +6554,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             36,
+            null,
             null,
             null,
             null
@@ -5938,9 +6579,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -5952,11 +6595,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             38,
+            null,
             null,
             null,
             null
@@ -5975,6 +6620,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -5982,9 +6628,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -5996,6 +6644,7 @@
             39,
             null,
             null,
+            null,
             null
           ]
         }
@@ -6003,11 +6652,12 @@
     },
     "데미안": {
       "title": "데미안",
-      "author": "헤르만 헤세 지음 / 전영애 옮김",
+      "author": "헤르만 헤세 저/김연신 역",
       "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null,
             null,
@@ -6019,6 +6669,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
@@ -6026,14 +6677,16 @@
             41,
             49,
             47,
-            43
+            43,
+            45
           ],
           "yes24_crema": [
             null,
             45,
             43,
             null,
-            null
+            null,
+            40
           ]
         }
       }
@@ -6049,9 +6702,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6063,11 +6718,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             49,
+            null,
             null,
             null,
             null
@@ -6086,6 +6743,7 @@
             17,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -6093,9 +6751,11 @@
             null,
             null,
             null,
-            20
+            20,
+            null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -6103,6 +6763,7 @@
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -6123,12 +6784,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             null,
             12,
             18,
+            null,
             null,
             null
           ],
@@ -6137,9 +6800,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -6160,11 +6825,13 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             null,
             20,
+            null,
             null,
             null,
             null
@@ -6174,9 +6841,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -6197,9 +6866,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6211,9 +6882,11 @@
             49,
             null,
             null,
-            37
+            37,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -6226,10 +6899,11 @@
     "나도아직나를모른다": {
       "title": "나도 아직 나를 모른다",
       "author": "허지원 지음",
-      "pub": "김영사",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null,
             null,
@@ -6241,6 +6915,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
@@ -6248,9 +6923,11 @@
             1,
             4,
             8,
-            13
+            13,
+            36
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -6271,9 +6948,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6285,9 +6964,11 @@
             14,
             39,
             null,
-            null
+            null,
+            22
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -6308,9 +6989,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6322,9 +7005,11 @@
             24,
             null,
             null,
-            null
+            null,
+            23
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -6345,9 +7030,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6359,9 +7046,11 @@
             25,
             null,
             null,
-            null
+            null,
+            25
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -6382,9 +7071,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6396,9 +7087,11 @@
             30,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -6419,9 +7112,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6433,9 +7128,11 @@
             37,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -6456,9 +7153,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6470,9 +7169,11 @@
             44,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -6493,9 +7194,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6507,9 +7210,11 @@
             49,
             35,
             46,
-            null
+            null,
+            42
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -6530,9 +7235,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6544,9 +7251,11 @@
             50,
             44,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -6559,10 +7268,11 @@
     "주식은미국의전략을따라움직인다": {
       "title": "주식은 미국의 전략을 따라 움직인다",
       "author": "소현철 저",
-      "pub": "황금부엉이",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null,
             null,
@@ -6574,9 +7284,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -6588,7 +7300,8 @@
             null,
             11,
             18,
-            19
+            19,
+            25
           ]
         }
       }
@@ -6604,9 +7317,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6618,6 +7333,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -6625,6 +7341,7 @@
             null,
             12,
             50,
+            null,
             null
           ]
         }
@@ -6641,9 +7358,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6655,6 +7374,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -6662,6 +7382,7 @@
             null,
             14,
             29,
+            null,
             null
           ]
         }
@@ -6678,9 +7399,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6692,6 +7415,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -6699,6 +7423,7 @@
             null,
             17,
             45,
+            null,
             null
           ]
         }
@@ -6715,9 +7440,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6729,12 +7456,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             null,
             20,
+            null,
             null,
             null
           ]
@@ -6752,9 +7481,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6766,6 +7497,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -6773,6 +7505,7 @@
             null,
             21,
             38,
+            null,
             null
           ]
         }
@@ -6789,9 +7522,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6803,12 +7538,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             null,
             22,
+            null,
             null,
             null
           ]
@@ -6826,9 +7563,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6840,12 +7579,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             null,
             24,
+            null,
             null,
             null
           ]
@@ -6863,9 +7604,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6877,12 +7620,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             null,
             25,
+            null,
             null,
             null
           ]
@@ -6900,9 +7645,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6914,12 +7661,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             null,
             26,
+            null,
             null,
             null
           ]
@@ -6937,9 +7686,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6951,12 +7702,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             null,
             32,
+            null,
             null,
             null
           ]
@@ -6974,9 +7727,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -6988,6 +7743,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -6995,6 +7751,7 @@
             null,
             39,
             34,
+            null,
             null
           ]
         }
@@ -7011,9 +7768,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7025,12 +7784,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             null,
             42,
+            null,
             null,
             null
           ]
@@ -7048,9 +7809,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7062,12 +7825,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             null,
             48,
+            null,
             null,
             null
           ]
@@ -7085,9 +7850,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7099,12 +7866,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
             null,
             null,
             49,
+            null,
             null,
             null
           ]
@@ -7122,9 +7891,11 @@
             null,
             13,
             12,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7136,9 +7907,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -7159,12 +7932,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             null,
             null,
             14,
+            null,
             null,
             null
           ],
@@ -7173,9 +7948,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -7196,12 +7973,14 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
             null,
             null,
             16,
+            null,
             null,
             null
           ],
@@ -7210,9 +7989,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -7233,9 +8014,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7247,9 +8030,11 @@
             null,
             7,
             27,
-            6
+            6,
+            16
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -7270,9 +8055,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7284,9 +8071,11 @@
             null,
             27,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -7307,9 +8096,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7321,9 +8112,11 @@
             null,
             47,
             null,
-            50
+            50,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -7344,9 +8137,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7358,9 +8153,11 @@
             null,
             48,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -7373,10 +8170,11 @@
     "배당etf로월400만원현금흐름만들기": {
       "title": "배당 ETF로 월 400만 원 현금흐름 만들기",
       "author": "서대리 저",
-      "pub": "황금부엉이",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null,
             null,
@@ -7388,9 +8186,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -7402,7 +8202,8 @@
             null,
             null,
             3,
-            10
+            10,
+            21
           ]
         }
       }
@@ -7418,9 +8219,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7432,6 +8235,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -7439,7 +8243,8 @@
             null,
             null,
             9,
-            16
+            16,
+            null
           ]
         }
       }
@@ -7455,9 +8260,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7469,6 +8276,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -7476,7 +8284,8 @@
             null,
             null,
             11,
-            28
+            28,
+            null
           ]
         }
       }
@@ -7492,9 +8301,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7506,6 +8317,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -7513,7 +8325,8 @@
             null,
             null,
             13,
-            27
+            27,
+            null
           ]
         }
       }
@@ -7529,9 +8342,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7543,6 +8358,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -7550,7 +8366,8 @@
             null,
             null,
             14,
-            31
+            31,
+            null
           ]
         }
       }
@@ -7566,9 +8383,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7580,6 +8399,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -7587,6 +8407,7 @@
             null,
             null,
             17,
+            null,
             null
           ]
         }
@@ -7603,9 +8424,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7617,6 +8440,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -7624,7 +8448,8 @@
             null,
             null,
             20,
-            43
+            43,
+            null
           ]
         }
       }
@@ -7640,9 +8465,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7654,6 +8481,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -7661,6 +8489,7 @@
             null,
             null,
             21,
+            null,
             null
           ]
         }
@@ -7677,9 +8506,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7691,6 +8522,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -7698,7 +8530,8 @@
             null,
             null,
             22,
-            36
+            36,
+            null
           ]
         }
       }
@@ -7714,9 +8547,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7728,6 +8563,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -7735,6 +8571,7 @@
             null,
             null,
             23,
+            null,
             null
           ]
         }
@@ -7751,9 +8588,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7765,6 +8604,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -7772,7 +8612,8 @@
             null,
             null,
             24,
-            48
+            48,
+            null
           ]
         }
       }
@@ -7788,9 +8629,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7802,6 +8645,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -7809,7 +8653,8 @@
             null,
             null,
             26,
-            49
+            49,
+            null
           ]
         }
       }
@@ -7825,6 +8670,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -7832,9 +8678,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -7846,6 +8694,7 @@
             null,
             null,
             27,
+            null,
             null
           ]
         }
@@ -7854,10 +8703,11 @@
     "쟤는폰만보는데왜돈이많을까": {
       "title": "쟤는 폰만 보는데 왜 돈이 많을까",
       "author": "긍정필터 저",
-      "pub": "",
+      "pub": "모티브",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null,
             null,
@@ -7869,9 +8719,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -7883,7 +8735,8 @@
             null,
             null,
             39,
-            33
+            33,
+            19
           ]
         }
       }
@@ -7899,9 +8752,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7913,6 +8768,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -7920,6 +8776,7 @@
             null,
             null,
             46,
+            null,
             null
           ]
         }
@@ -7936,9 +8793,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7950,6 +8809,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -7957,6 +8817,7 @@
             null,
             null,
             48,
+            null,
             null
           ]
         }
@@ -7973,9 +8834,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -7987,6 +8850,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -7994,6 +8858,7 @@
             null,
             null,
             49,
+            null,
             null
           ]
         }
@@ -8010,9 +8875,11 @@
             null,
             null,
             10,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8024,9 +8891,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -8047,9 +8916,11 @@
             null,
             null,
             15,
-            13
+            13,
+            19
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8061,9 +8932,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -8084,9 +8957,11 @@
             null,
             null,
             16,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8098,9 +8973,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -8121,6 +8998,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -8128,9 +9006,11 @@
             null,
             null,
             13,
-            19
+            19,
+            16
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -8138,6 +9018,7 @@
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -8158,6 +9039,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -8165,6 +9047,7 @@
             null,
             null,
             15,
+            null,
             null
           ],
           "millie": [
@@ -8172,9 +9055,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -8195,6 +9080,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -8202,6 +9088,7 @@
             null,
             null,
             16,
+            null,
             null
           ],
           "millie": [
@@ -8209,9 +9096,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -8232,6 +9121,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -8239,9 +9129,11 @@
             null,
             null,
             17,
-            null
+            null,
+            15
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -8249,6 +9141,7 @@
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -8269,9 +9162,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8283,9 +9178,11 @@
             null,
             null,
             9,
-            48
+            48,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -8306,9 +9203,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8320,9 +9219,11 @@
             null,
             null,
             50,
-            34
+            34,
+            33
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -8343,9 +9244,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8357,6 +9260,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -8364,7 +9268,8 @@
             null,
             null,
             null,
-            4
+            4,
+            16
           ]
         }
       }
@@ -8372,10 +9277,11 @@
     "초지능시대생존을위한ai교양수업": {
       "title": "초지능 시대 생존을 위한 AI 교양 수업",
       "author": "바오쿤 저/하은지 역",
-      "pub": "지니의서재",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null,
             null,
@@ -8387,9 +9293,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -8401,7 +9309,8 @@
             null,
             null,
             null,
-            9
+            9,
+            30
           ]
         }
       }
@@ -8409,10 +9318,11 @@
     "박피": {
       "title": "박피",
       "author": "베로니카 곤살레스 라포르테 저/최혜정 역",
-      "pub": "슬로우리드",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null,
             null,
@@ -8424,9 +9334,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -8438,7 +9350,8 @@
             null,
             null,
             null,
-            12
+            12,
+            32
           ]
         }
       }
@@ -8446,10 +9359,11 @@
     "생각이많아질수록실행이답이다": {
       "title": "생각이 많아질수록 실행이 답이다",
       "author": "장경빈 저",
-      "pub": "황금부엉이",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null,
             null,
@@ -8461,9 +9375,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -8475,7 +9391,8 @@
             null,
             null,
             null,
-            13
+            13,
+            33
           ]
         }
       }
@@ -8491,9 +9408,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8505,6 +9424,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -8512,7 +9432,8 @@
             null,
             null,
             null,
-            17
+            17,
+            null
           ]
         }
       }
@@ -8520,10 +9441,11 @@
     "강철멘탈필사노트": {
       "title": "강철 멘탈 필사노트",
       "author": "정승익 저",
-      "pub": "네버기브업",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
+            null,
             null,
             null,
             null,
@@ -8535,9 +9457,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -8549,7 +9473,8 @@
             null,
             null,
             null,
-            20
+            20,
+            29
           ]
         }
       }
@@ -8565,9 +9490,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8579,6 +9506,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -8586,7 +9514,8 @@
             null,
             null,
             null,
-            22
+            22,
+            47
           ]
         }
       }
@@ -8602,9 +9531,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8616,6 +9547,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -8623,7 +9555,8 @@
             null,
             null,
             null,
-            23
+            23,
+            null
           ]
         }
       }
@@ -8639,9 +9572,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8653,6 +9588,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -8660,7 +9596,8 @@
             null,
             null,
             null,
-            24
+            24,
+            null
           ]
         }
       }
@@ -8676,9 +9613,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8690,6 +9629,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -8697,7 +9637,8 @@
             null,
             null,
             null,
-            25
+            25,
+            null
           ]
         }
       }
@@ -8713,9 +9654,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8727,6 +9670,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -8734,7 +9678,8 @@
             null,
             null,
             null,
-            26
+            26,
+            null
           ]
         }
       }
@@ -8750,9 +9695,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8764,6 +9711,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -8771,7 +9719,8 @@
             null,
             null,
             null,
-            35
+            35,
+            22
           ]
         }
       }
@@ -8787,9 +9736,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8801,6 +9752,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -8808,7 +9760,8 @@
             null,
             null,
             null,
-            38
+            38,
+            null
           ]
         }
       }
@@ -8824,9 +9777,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8838,6 +9793,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -8845,7 +9801,8 @@
             null,
             null,
             null,
-            42
+            42,
+            null
           ]
         }
       }
@@ -8861,9 +9818,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8875,6 +9834,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -8882,7 +9842,8 @@
             null,
             null,
             null,
-            46
+            46,
+            null
           ]
         }
       }
@@ -8898,9 +9859,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -8912,6 +9875,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "yes24_crema": [
@@ -8919,7 +9883,8 @@
             null,
             null,
             null,
-            47
+            47,
+            null
           ]
         }
       }
@@ -8935,6 +9900,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -8942,9 +9908,11 @@
             null,
             null,
             null,
-            11
+            11,
+            null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -8952,6 +9920,7 @@
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -8972,6 +9941,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -8979,9 +9949,11 @@
             null,
             null,
             null,
-            16
+            16,
+            null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -8989,6 +9961,7 @@
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -9009,6 +9982,7 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
@@ -9016,9 +9990,11 @@
             null,
             null,
             null,
-            18
+            18,
+            null
           ],
           "millie": [
+            null,
             null,
             null,
             null,
@@ -9026,6 +10002,7 @@
             null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -9046,9 +10023,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -9060,9 +10039,11 @@
             null,
             null,
             null,
-            2
+            2,
+            13
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -9083,9 +10064,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -9097,9 +10080,11 @@
             null,
             null,
             null,
-            23
+            23,
+            24
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -9120,9 +10105,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -9134,9 +10121,11 @@
             null,
             null,
             null,
-            44
+            44,
+            null
           ],
           "yes24_crema": [
+            null,
             null,
             null,
             null,
@@ -9157,9 +10146,11 @@
             null,
             null,
             null,
+            null,
             null
           ],
           "kyobo_premium": [
+            null,
             null,
             null,
             null,
@@ -9171,9 +10162,708 @@
             null,
             null,
             null,
+            49,
+            48
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "영어어원80일간의세계일주": {
+      "title": "영어 어원 80일간의 세계 일주",
+      "author": "폴 앤서니 존스 저/고정아 역",
+      "pub": "현대지성",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            5
+          ]
+        }
+      }
+    },
+    "항상기분좋은사람은이렇게말한다": {
+      "title": "항상 기분 좋은 사람은 이렇게 말한다",
+      "author": "오노 모에코 저/김시온 역",
+      "pub": "알토북스",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            11
+          ]
+        }
+      }
+    },
+    "theai가묻고미래가답하다": {
+      "title": "THE AI가 묻고 미래가 답하다",
+      "author": "김동원,구아현,유덕규 저/황민수 기획",
+      "pub": "황금부엉이",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            14
+          ]
+        }
+      }
+    },
+    "왜당신의행복을남에게서찾는가": {
+      "title": "왜 당신의 행복을 남에게서 찾는가",
+      "author": "이근오 저",
+      "pub": "든해",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            18
+          ]
+        }
+      }
+    },
+    "보이는리더십": {
+      "title": "보이는 리더십",
+      "author": "김유리 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            23
+          ]
+        }
+      }
+    },
+    "세븐": {
+      "title": "세븐",
+      "author": "전인구 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            24
+          ]
+        }
+      }
+    },
+    "진짜영어실력을위한초등voca800": {
+      "title": "진짜 영어실력을 위한 초등 VOCA 800",
+      "author": "정승익 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            35
+          ]
+        }
+      }
+    },
+    "그렇게부모가된다": {
+      "title": "그렇게 부모가 된다",
+      "author": "정승익 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            38
+          ]
+        }
+      }
+    },
+    "그리스로마신화0신화의탄생": {
+      "title": "그리스 로마 신화 0 : 신화의 탄생",
+      "author": "김민희 글/최우빈 그림/강대진 감수",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            43
+          ]
+        }
+      }
+    },
+    "망돌의이력서": {
+      "title": "망돌의 이력서",
+      "author": "이상현 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            44
+          ]
+        }
+      }
+    },
+    "사피엔스": {
+      "title": "사피엔스",
+      "author": "유발 하라리 저/조현욱 역/이태수 감수",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            45
+          ]
+        }
+      }
+    },
+    "심리학이이토록쓸모있을줄이야": {
+      "title": "심리학이 이토록 쓸모 있을 줄이야",
+      "author": "박성미 지음",
+      "pub": "한밤의책",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            8
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "인생에한번은오디세이아": {
+      "title": "인생에 한번은 오디세이아",
+      "author": "샘 아크바 지음",
+      "pub": "부키",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            20
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "비스킷": {
+      "title": "비스킷",
+      "author": "김선미",
+      "pub": "위즈덤하우스",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            7
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "굿게임굿럭": {
+      "title": "굿 게임 굿 럭",
+      "author": "장강명, 전건우, 정명섭, 정해연, 조영주",
+      "pub": "밀리의서재",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            9
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "공시6년실패중소기업김대리는어떻게6년만에22억을벌었나": {
+      "title": "공시 6년 실패, 중소기업 김 대리는 어떻게 6년 만에 22억을 벌었나",
+      "author": "김동면",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
             49
           ],
           "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "이방인": {
+      "title": "이방인",
+      "author": "알베르 카뮈 지음 / 김화영 옮김 ",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            50
+          ],
+          "yes24_crema": [
+            null,
             null,
             null,
             null,
