@@ -97,6 +97,9 @@
   .cat-bar button.active{background:var(--blue);border-color:var(--blue);color:#fff;font-weight:700}
   .cat-empty{padding:48px 16px;text-align:center;color:var(--ink-3);font-size:14px;
     border:1px dashed var(--line);border-radius:8px}
+  .date-notice{margin-top:14px;padding:10px 16px;text-align:center;font-size:12.5px;
+    color:var(--ink-2);background:var(--bg-soft);border:1px solid var(--line);border-radius:8px}
+  .date-notice b{color:var(--ink);font-weight:700}
   /* 서비스 컬럼 안 안내문구 (데이터 0일 때 빈칸 대신) */
   .col-msg{padding:40px 18px;text-align:center;font-size:13.5px;line-height:1.6;color:var(--ink-3)}
   .col-msg.col-err{color:var(--red)}
@@ -273,6 +276,8 @@
   </div>
 
   <div id="cat-bar" class="cat-bar"></div>
+
+  <div id="date-notice" class="date-notice">수집된 일간베스트 데이터는 <b>전일자 기준</b>입니다. 노출 일자 기준 <b>-1일</b>로 참고해주세요.</div>
 
   <div id="store" class="grid"></div>
 
@@ -699,6 +704,7 @@ function setView(v){
   document.getElementById("btn-store").classList.toggle("active", v==="store");
   document.getElementById("btn-upcoming").classList.toggle("active", v==="upcoming");
   document.getElementById("cat-bar").style.display = v==="store" ? "" : "none";
+  document.getElementById("date-notice").style.display = v==="store" ? "" : "none";
   document.getElementById("store-controls").style.display = v==="store" ? "" : "none";
   document.getElementById("store").style.display = v==="store" ? "" : "none";
   document.getElementById("upcoming").style.display = v==="upcoming" ? "block" : "none";
@@ -730,7 +736,7 @@ function setupDateNav(){
   if(!VIEW_DATE) VIEW_DATE = DATA_TODAY;
   const inp = document.getElementById("date-input");
   const ds = availableDates();
-  if(inp && ds.length){ inp.min = ds[0]; inp.max = ds[ds.length-1]; }
+  if(inp && ds.length){ inp.min = addDaysStr(ds[0],1); inp.max = addDaysStr(ds[ds.length-1],1); }
   refreshDateUI();
 }
 function refreshDateUI(){
@@ -740,7 +746,7 @@ function refreshDateUI(){
         vs=document.getElementById("vs-el");
   const navOn = !!(HISTORY && ds.length>1);
   const i = ds.indexOf(VIEW_DATE);
-  if(cur){ cur.innerHTML = fmtDate(VIEW_DATE||DATA_TODAY) + (isPast()?'<span class="past-badge">과거</span>':''); cur.style.cursor = navOn?"pointer":"default"; }
+  if(cur){ cur.innerHTML = fmtDisplay(VIEW_DATE||DATA_TODAY) + (isPast()?'<span class="past-badge">과거</span>':''); cur.style.cursor = navOn?"pointer":"default"; }
   if(prev) prev.disabled = !navOn || i<=0;
   if(next) next.disabled = !navOn || i<0 || i>=ds.length-1;
   if(back) back.style.display = isPast()?"inline-block":"none";
@@ -762,11 +768,11 @@ async function openDatePicker(){
   const ds = availableDates();
   if(!HISTORY || ds.length<2) return;     // 과거 데이터 없으면 달력 비활성
   const inp = document.getElementById("date-input");
-  inp.value = VIEW_DATE || DATA_TODAY;
+  inp.value = addDaysStr(VIEW_DATE || DATA_TODAY, 1);
   if(inp.showPicker){ try{ inp.showPicker(); return; }catch(e){} }
   inp.focus(); inp.click();
 }
-function onDatePick(val){ if(val) applyDate(nearestAvailable(val)); }
+function onDatePick(val){ if(val) applyDate(nearestAvailable(addDaysStr(val, -1))); }
 function nearestAvailable(val){
   const ds = availableDates();
   if(ds.includes(val)) return val;
@@ -844,6 +850,20 @@ function render(){
 }
 
 function fmtDate(d){ return d ? d.replaceAll("-", ".") : ""; }
+
+// 크롤러가 저장하는 날짜는 "그 랭킹이 반영하는 날짜"(전일자)라서, 화면에는
+// 실제 조회 시점 기준(+1일)으로 보정해서 보여준다. 안내 문구(#date-notice)로
+// 이 -1일 차이를 설명한다.
+function addDaysStr(dateStr, n){
+  if(!dateStr) return dateStr;
+  // 순수 달력 날짜 연산이라 타임존 영향을 받지 않게 UTC 기준으로 계산한다
+  // (로컬 getDate/setDate를 쓰면 브라우저 타임존에 따라 KST 오프셋과 상쇄되어 버림).
+  const [y,m,d] = dateStr.split("-").map(Number);
+  const dt = new Date(Date.UTC(y, m-1, d));
+  dt.setUTCDate(dt.getUTCDate()+n);
+  return dt.toISOString().slice(0,10);
+}
+function fmtDisplay(dateStr){ return fmtDate(addDaysStr(dateStr, 1)); }
 
 /* ===================== 2번 탭: 밀리의서재 공개예정 도서 ===================== */
 const SAMPLE_UPCOMING = {
@@ -946,10 +966,10 @@ async function init(){
         CATEGORIES = data.categories;
         currentCat = CATEGORIES[0] ? CATEGORIES[0].id : "all";
         if(typeof data.surge_gap === "number") SURGE_GAP = data.surge_gap;
-        document.getElementById("date-cur").textContent = fmtDate(data.today);
+        document.getElementById("date-cur").textContent = fmtDisplay(data.today);
         DATA_TODAY = data.today || "";
         VIEW_DATE = DATA_TODAY;
-        LIVE_VS = data.prev ? `전날(${fmtDate(data.prev)}) 대비 순위 변동` : "전날 데이터 없음 (첫 수집일)";
+        LIVE_VS = data.prev ? `전날(${fmtDisplay(data.prev)}) 대비 순위 변동` : "전날 데이터 없음 (첫 수집일)";
         document.getElementById("vs-el").textContent = LIVE_VS;
         const tag = document.getElementById("sample-tag"); if(tag) tag.remove();
       }
