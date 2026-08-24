@@ -305,7 +305,11 @@ def load_prev_pid_ranks():
     except Exception:
         return {s: {} for s in STORES}, None
 
-    prev_date = old.get("today")
+    # 같은 날짜 라벨로 재실행된 경우(수동 재시도 등으로 하루에 여러 번 도는 경우)
+    # old의 today가 이미 이번 TODAY와 같으므로, 그대로 쓰면 prev == today가
+    # 되어 "전날(오늘과 같은 날짜) 대비"라는 잘못된 라벨이 남는다. 그럴 땐
+    # 기존 prev 값을 그대로 유지한다.
+    prev_date = old.get("prev") if old.get("today") == TODAY else old.get("today")
     pid_ranks = {s: {} for s in STORES}
     for cat in old.get("data", {}).values():
         for b in cat.get("books", []):
