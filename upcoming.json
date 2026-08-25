@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T08:57:50.102589+09:00",
-  "count": 113,
+  "updated": "2026-08-25T09:00:57.051841+09:00",
+  "count": 131,
   "books": [
     {
       "id": "ed9aba76ac324b7f",
@@ -103,11 +103,11 @@
       "is_comic": false
     },
     {
-      "id": "fde9bbb1bfe94530",
-      "title": "생각을 외주화한 사람들",
-      "author": "정재민, 김영주",
-      "cover": "https://image.millie.co.kr/service/cover/180172750/4c5c0532520f4b26b8a1da2ee3b1de76.jpg",
-      "open_date": "2026-08-25",
+      "id": "df98d8a01f534c1f",
+      "title": "우리는 가장 밝은 밤에 헤어졌다",
+      "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180174974/7356abeec4264f7cba2f4c590caf2dbe.jpg",
+      "open_date": "2026-09-07",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -123,11 +123,11 @@
       "is_comic": false
     },
     {
-      "id": "df98d8a01f534c1f",
-      "title": "우리는 가장 밝은 밤에 헤어졌다",
-      "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180174974/7356abeec4264f7cba2f4c590caf2dbe.jpg",
-      "open_date": "2026-09-07",
+      "id": "3071455005934d27",
+      "title": "여름, 안부",
+      "author": "백가희",
+      "cover": "https://image.millie.co.kr/service/cover/180174897/11bb2f9d56b44b308e2a6a9fd77725ff.jpg",
+      "open_date": "2026-09-01",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -153,16 +153,6 @@
       "is_comic": false
     },
     {
-      "id": "3071455005934d27",
-      "title": "여름, 안부",
-      "author": "백가희",
-      "cover": "https://image.millie.co.kr/service/cover/180174897/11bb2f9d56b44b308e2a6a9fd77725ff.jpg",
-      "open_date": "2026-09-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "0270ac978c334058",
       "title": "저 지금 탑승합니다",
       "author": "정보라",
@@ -183,16 +173,6 @@
       "is_comic": false
     },
     {
-      "id": "1ef13727600a4221",
-      "title": "관계에도 연습이 필요합니다",
-      "author": "박상미",
-      "cover": "https://image.millie.co.kr/service/cover/180173761/971ed2298fc5477f8bb1ba36e193f662.jpg",
-      "open_date": "2026-08-27",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "16dffba275ff46e9",
       "title": "삶은 그대에게 잘해줄 의무가 없다",
       "author": "페마 쵸드론 지음 / 신동숙 옮김",
@@ -203,31 +183,21 @@
       "is_comic": false
     },
     {
-      "id": "960688df14f04996",
-      "title": "3호 당신이 그 주식을 산 진짜 이유는? [하루 10분, 경제로 세상 듣기 시즌2]",
-      "author": "재정경제부",
-      "cover": "https://image.millie.co.kr/service/cover/180171852/5adb5fe4e4304651bb8428920c71fdd5.jpg",
-      "open_date": "2026-09-01",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "56621f8c365b4e3f",
-      "title": "매경이코노미 2374호",
-      "author": "매경이코노미 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180174985/46ecae64a27b459b89f28534d0a63cbc.jpg",
-      "open_date": "2026-08-25",
+      "id": "1ef13727600a4221",
+      "title": "관계에도 연습이 필요합니다",
+      "author": "박상미",
+      "cover": "https://image.millie.co.kr/service/cover/180173761/971ed2298fc5477f8bb1ba36e193f662.jpg",
+      "open_date": "2026-08-27",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "255813b417e94dc4",
-      "title": "김경일의 마음 트래킹",
-      "author": "김경일",
-      "cover": "https://image.millie.co.kr/service/cover/180171036/aa6e494c00714c558eb3679203461148.jpg",
-      "open_date": "2026-08-26",
+      "id": "960688df14f04996",
+      "title": "3호 당신이 그 주식을 산 진짜 이유는? [하루 10분, 경제로 세상 듣기 시즌2]",
+      "author": "재정경제부",
+      "cover": "https://image.millie.co.kr/service/cover/180171852/5adb5fe4e4304651bb8428920c71fdd5.jpg",
+      "open_date": "2026-09-01",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -247,6 +217,16 @@
       "title": "뇌가 멈추기 전에",
       "author": "이승훈",
       "cover": "https://image.millie.co.kr/service/cover/180171039/cc9593093fbb4ad49e9abbad0c82c327.jpg",
+      "open_date": "2026-08-26",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "255813b417e94dc4",
+      "title": "김경일의 마음 트래킹",
+      "author": "김경일",
+      "cover": "https://image.millie.co.kr/service/cover/180171036/aa6e494c00714c558eb3679203461148.jpg",
       "open_date": "2026-08-26",
       "is_audiobook": true,
       "is_series": false,
@@ -273,16 +253,6 @@
       "is_comic": false
     },
     {
-      "id": "5ab7cd78eeee4e40",
-      "title": "취사병 전설이 되다 대본집 1",
-      "author": "최룡",
-      "cover": "https://image.millie.co.kr/service/cover/180174634/11b0a047dc7c41e3bafff705a8b4c9c8.jpg",
-      "open_date": "2026-08-25",
-      "is_audiobook": false,
-      "is_series": true,
-      "is_comic": false
-    },
-    {
       "id": "38feb1ed08c64dcd",
       "title": "닮은 여자 1",
       "author": "한차현",
@@ -293,51 +263,11 @@
       "is_comic": false
     },
     {
-      "id": "981d19839aba482b",
-      "title": "쾌적한 사회의 불쾌함",
-      "author": "구마시로 도루 지음 / 이정미 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180172717/d97b6e0696dc444e8fd79f74cf33de30.jpg",
-      "open_date": "2026-08-26",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "305472f7209a482c",
       "title": "조용히 계속하는 사람",
       "author": "브랜든 최",
       "cover": "https://image.millie.co.kr/service/cover/180166981/ad0561a59e704f1d97d5dcb26bb8a504.jpg",
       "open_date": "2026-09-16",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "981eb8b96b814d56",
-      "title": "팀 켈러의 내가 만든 신",
-      "author": "팀 켈러 (Timothy Keller)",
-      "cover": "https://image.millie.co.kr/service/cover/180174745/715a6af6080648899fa4740cc9bd8672.jpg",
-      "open_date": "2026-08-26",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "7d33b250f43d4c1d",
-      "title": "부의 인사이트",
-      "author": "함서경",
-      "cover": "https://image.millie.co.kr/service/cover/180173273/d46fb27c43f04f9187b72e5f43ab1746.jpg",
-      "open_date": "2026-08-26",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "a3cde5d8ed444cd2",
-      "title": "나를 사랑하지 않는 나에게",
-      "author": "박진영",
-      "cover": "https://image.millie.co.kr/service/cover/180172798/ff8cb38cdd3c4f1d81600fb39e4e19f1.jpg",
-      "open_date": "2026-08-26",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -353,10 +283,20 @@
       "is_comic": false
     },
     {
-      "id": "f30f9926c9994ddb",
-      "title": "생각이 많은 10대를 위한 국제 관계",
-      "author": "박창섭 지음 / 나수은 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180172714/a680681693734a4a9a023b641ab7ca81.jpg",
+      "id": "981eb8b96b814d56",
+      "title": "팀 켈러의 내가 만든 신",
+      "author": "팀 켈러 (Timothy Keller)",
+      "cover": "https://image.millie.co.kr/service/cover/180174745/715a6af6080648899fa4740cc9bd8672.jpg",
+      "open_date": "2026-08-26",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "981d19839aba482b",
+      "title": "쾌적한 사회의 불쾌함",
+      "author": "구마시로 도루 지음 / 이정미 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180172717/d97b6e0696dc444e8fd79f74cf33de30.jpg",
       "open_date": "2026-08-26",
       "is_audiobook": true,
       "is_series": false,
@@ -373,6 +313,16 @@
       "is_comic": false
     },
     {
+      "id": "7d33b250f43d4c1d",
+      "title": "부의 인사이트",
+      "author": "함서경",
+      "cover": "https://image.millie.co.kr/service/cover/180173273/d46fb27c43f04f9187b72e5f43ab1746.jpg",
+      "open_date": "2026-08-26",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "b9e41ad13c234238",
       "title": "돈 버는 AI",
       "author": "박성혁, 나탈리 허",
@@ -383,10 +333,30 @@
       "is_comic": false
     },
     {
-      "id": "ce354a5643fb43b9",
-      "title": "목소리를 삼킨 아이",
-      "author": "파리누쉬 사니이",
-      "cover": "https://cover.millie.co.kr/service/cover/179510201/8533d8b743674845a0d8ce727ed6c661.jpg",
+      "id": "4cb9a6182d764295",
+      "title": "대화할 때 필요한 최소한의 상식 - 문해력",
+      "author": "오원재",
+      "cover": "https://image.millie.co.kr/service/cover/180174842/3af29248d45b431581ea7ab513939c6f.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "f30f9926c9994ddb",
+      "title": "생각이 많은 10대를 위한 국제 관계",
+      "author": "박창섭 지음 / 나수은 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180172714/a680681693734a4a9a023b641ab7ca81.jpg",
+      "open_date": "2026-08-26",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "a3cde5d8ed444cd2",
+      "title": "나를 사랑하지 않는 나에게",
+      "author": "박진영",
+      "cover": "https://image.millie.co.kr/service/cover/180172798/ff8cb38cdd3c4f1d81600fb39e4e19f1.jpg",
       "open_date": "2026-08-26",
       "is_audiobook": true,
       "is_series": false,
@@ -403,12 +373,32 @@
       "is_comic": false
     },
     {
-      "id": "7b3860938fd244fc",
-      "title": "최고민수 요리 역사 특강",
-      "author": "최고민수(박민수)",
-      "cover": "https://image.millie.co.kr/service/cover/180172795/620cbb181cfd4af593268b4abecfd9a1.jpg",
+      "id": "ec760441673a4549",
+      "title": "대화할 때 필요한 최소한의 상식 - 세무",
+      "author": "오원재",
+      "cover": "https://image.millie.co.kr/service/cover/180174851/f8e34310062840b5b595b0cdea40efdf.jpg",
+      "open_date": "2026-09-14",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "09df2fa5ec394eb6",
+      "title": "대화할 때 필요한 최소한의 상식 - 어휘력",
+      "author": "오원재",
+      "cover": "https://image.millie.co.kr/service/cover/180174853/663670ee4c91440c8f5468d14bcfe0d1.jpg",
       "open_date": "2026-08-26",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "e8c4c1c9167c445e",
+      "title": "인생을 바꾸는 투자학개론",
+      "author": "한정수",
+      "cover": "https://image.millie.co.kr/service/cover/180175740/6f430b22d9e04dd7911b8c50396091dd.jpg",
+      "open_date": "2026-09-14",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -423,11 +413,21 @@
       "is_comic": false
     },
     {
-      "id": "4cb9a6182d764295",
-      "title": "대화할 때 필요한 최소한의 상식 - 문해력",
-      "author": "오원재",
-      "cover": "https://image.millie.co.kr/service/cover/180174842/3af29248d45b431581ea7ab513939c6f.jpg",
-      "open_date": "2026-09-07",
+      "id": "ce354a5643fb43b9",
+      "title": "목소리를 삼킨 아이",
+      "author": "파리누쉬 사니이",
+      "cover": "https://cover.millie.co.kr/service/cover/179510201/8533d8b743674845a0d8ce727ed6c661.jpg",
+      "open_date": "2026-08-26",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9aeb4ae10a3b4b2a",
+      "title": "도슨트 낭독 1 그림이 내게 말을 걸어올 때",
+      "author": "권순정, 권지은, 김명희, 김정원, 김희영, 박찬선, 신혜원, 오현정, 이민희, 이지연, 이하늬, 정선희, 조현주, 최연진, 한희정, 현유진",
+      "cover": "https://image.millie.co.kr/service/cover/180174991/835271e43bc84a388d5f777a589216d6.jpg",
+      "open_date": "2026-08-26",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -453,52 +453,12 @@
       "is_comic": false
     },
     {
-      "id": "de6373d8e8634655",
-      "title": "동글 뾰족 알록달록 내 마음",
-      "author": "차보금",
-      "cover": "https://image.millie.co.kr/service/cover/180174285/b6ad39837e9640a2b878a488bc5c49ef.jpg",
-      "open_date": "2026-09-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "10e1f7c20fcc40b0",
       "title": "마음의 이름",
       "author": "잔보",
       "cover": "https://image.millie.co.kr/service/cover/180174576/2bfbe65054f340f1b5b393c3d12a61fc.jpg",
       "open_date": "2026-08-26",
       "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "09df2fa5ec394eb6",
-      "title": "대화할 때 필요한 최소한의 상식 - 어휘력",
-      "author": "오원재",
-      "cover": "https://image.millie.co.kr/service/cover/180174853/663670ee4c91440c8f5468d14bcfe0d1.jpg",
-      "open_date": "2026-08-26",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3514833cb3c641af",
-      "title": "듣는 어셔 가문의 붕괴",
-      "author": "애드거 앨런 포",
-      "cover": "https://image.millie.co.kr/service/cover/180174855/782665d9293141f7bc606ccde2ad5f74.jpg",
-      "open_date": "2026-08-26",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9aeb4ae10a3b4b2a",
-      "title": "도슨트 낭독 1 그림이 내게 말을 걸어올 때",
-      "author": "권순정, 권지은, 김명희, 김정원, 김희영, 박찬선, 신혜원, 오현정, 이민희, 이지연, 이하늬, 정선희, 조현주, 최연진, 한희정, 현유진",
-      "cover": "https://image.millie.co.kr/service/cover/180174991/835271e43bc84a388d5f777a589216d6.jpg",
-      "open_date": "2026-08-26",
-      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -513,30 +473,70 @@
       "is_comic": false
     },
     {
-      "id": "ec760441673a4549",
-      "title": "대화할 때 필요한 최소한의 상식 - 세무",
+      "id": "596d5efca9ff45b7",
+      "title": "대화할 때 필요한 최소한의 상식 - 세대갈등",
       "author": "오원재",
-      "cover": "https://image.millie.co.kr/service/cover/180174851/f8e34310062840b5b595b0cdea40efdf.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180174848/a6efd34766844b29bacb9769dcb6d1cf.jpg",
       "open_date": "2026-09-14",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "9b86a7affc8c4f20",
-      "title": "씨네21 No.1571 : 2026.09.01",
-      "author": "씨네21 편집부 (지은이)",
-      "cover": "https://image.millie.co.kr/service/cover/180174894/621e7d28eaf34639b6f684a08863d858.jpg",
-      "open_date": "2026-08-25",
+      "id": "4278d3fc072a49e0",
+      "title": "대화할 때 필요한 최소한의 상식 - 연애심리",
+      "author": "오원재",
+      "cover": "https://image.millie.co.kr/service/cover/180174854/4b5bbc421f704c69afdd168baa0f1b0f.jpg",
+      "open_date": "2026-08-26",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "2836e7495db444ce",
+      "title": "대화할 때 필요한 최소한의 상식 - 미식",
+      "author": "오원재",
+      "cover": "https://image.millie.co.kr/service/cover/180174844/e7d4093edd4f4ea296972f20a177dfc5.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "de6373d8e8634655",
+      "title": "동글 뾰족 알록달록 내 마음",
+      "author": "차보금",
+      "cover": "https://image.millie.co.kr/service/cover/180174285/b6ad39837e9640a2b878a488bc5c49ef.jpg",
+      "open_date": "2026-09-07",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "9cbc406977ec4f73",
-      "title": "하나, 둘, 셋, 찰칵!",
-      "author": "최고은",
-      "cover": "https://image.millie.co.kr/service/cover/180174795/4f6138574acf492b8cdb35fd816c19f0.jpg",
+      "id": "7b3860938fd244fc",
+      "title": "최고민수 요리 역사 특강",
+      "author": "최고민수(박민수)",
+      "cover": "https://image.millie.co.kr/service/cover/180172795/620cbb181cfd4af593268b4abecfd9a1.jpg",
+      "open_date": "2026-08-26",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "99fe96f2ff594966",
+      "title": "대화할 때 필요한 최소한의 상식 - 뇌과학",
+      "author": "오원재",
+      "cover": "https://image.millie.co.kr/service/cover/180174831/4fa837d77b8540ba83c1fed1705af559.jpg",
+      "open_date": "2026-08-31",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "a947d3d73fec480f",
+      "title": "당신의 마음이 너무 아픈 이유",
+      "author": "강현서",
+      "cover": "https://image.millie.co.kr/service/cover/180174981/b2c3cefcd9cf4d1d9fef42babbdf6683.jpg",
       "open_date": "2026-08-26",
       "is_audiobook": true,
       "is_series": false,
@@ -553,50 +553,50 @@
       "is_comic": false
     },
     {
-      "id": "679ea7697dee4867",
-      "title": "외계인 뽀요와 지구의 집",
-      "author": "홍윤선",
-      "cover": "https://image.millie.co.kr/service/cover/180174800/c45879faefb24f4894eafc80607e749e.jpg",
+      "id": "9cbc406977ec4f73",
+      "title": "하나, 둘, 셋, 찰칵!",
+      "author": "최고은",
+      "cover": "https://image.millie.co.kr/service/cover/180174795/4f6138574acf492b8cdb35fd816c19f0.jpg",
       "open_date": "2026-08-26",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "d1d1924f11744835",
-      "title": "달달 음식 별별 접기",
-      "author": "서보현",
-      "cover": "https://image.millie.co.kr/service/cover/180174803/f9e6bf11559943bc97d03eeefcaa6489.jpg",
+      "id": "42d2770d8d2d4fb6",
+      "title": "다산의 기록법",
+      "author": "조윤제",
+      "cover": "https://image.millie.co.kr/service/cover/180174751/686469ff0ffb472fafaa9cb2369d5410.jpg",
+      "open_date": "2026-08-31",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3514833cb3c641af",
+      "title": "듣는 어셔 가문의 붕괴",
+      "author": "애드거 앨런 포",
+      "cover": "https://image.millie.co.kr/service/cover/180174855/782665d9293141f7bc606ccde2ad5f74.jpg",
       "open_date": "2026-08-26",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "90592c242a0a4106",
-      "title": "옷 잘 입는 방법을 알려 줄게",
-      "author": "서구름",
-      "cover": "https://image.millie.co.kr/service/cover/180174830/ea5f42e37fc446938f791d13095f77c1.jpg",
-      "open_date": "2026-08-26",
+      "id": "838ea949384e4eec",
+      "title": "동글 뾰족 알록달록 내 마음",
+      "author": "차보금",
+      "cover": "https://image.millie.co.kr/service/cover/180174285/b6ad39837e9640a2b878a488bc5c49ef.jpg",
+      "open_date": "2026-09-07",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "4278d3fc072a49e0",
-      "title": "대화할 때 필요한 최소한의 상식 - 연애심리",
-      "author": "오원재",
-      "cover": "https://image.millie.co.kr/service/cover/180174854/4b5bbc421f704c69afdd168baa0f1b0f.jpg",
-      "open_date": "2026-08-26",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "5d0e40dae7a1405c",
-      "title": "하푸의 기묘상점 5 - 다섯 번째 손님, 늑대인간",
-      "author": "정미현",
-      "cover": "https://image.millie.co.kr/service/cover/180174887/2924f97d8b4b4df1ac111d5a22c11ec3.jpg",
+      "id": "c420671dbbdf493c",
+      "title": "늑대와 일곱 마리 아기 염소",
+      "author": "소로로",
+      "cover": "https://image.millie.co.kr/service/cover/180174961/5b3278848c4e423ba33c115b4a5c9c99.jpg",
       "open_date": "2026-08-26",
       "is_audiobook": true,
       "is_series": false,
