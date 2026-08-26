@@ -104,6 +104,11 @@
   .col-msg{padding:40px 18px;text-align:center;font-size:13.5px;line-height:1.6;color:var(--ink-3)}
   .col-msg.col-err{color:var(--red)}
   .col-msg .col-msg-sub{display:block;margin-top:6px;font-size:12px;color:var(--ink-3)}
+  /* 오늘 수집 실패 → 마지막으로 성공한 데이터를 이어서 보여줄 때의 안내 배너 */
+  .col-stale{padding:9px 16px;font-size:12px;line-height:1.5;color:var(--red);
+    background:rgba(236,31,45,.06);border-bottom:1px solid var(--line);
+    display:flex;flex-wrap:wrap;align-items:center;gap:6px}
+  .col-stale .col-stale-sub{color:var(--ink-3)}
   @media(max-width:860px){
     .cat-bar{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;
       margin-left:-24px;margin-right:-24px;padding:0 24px 6px}
@@ -408,6 +413,7 @@ let CATEGORIES = CAT_DEFS;
 let DATASET = buildSampleDataset();   // data.json 로드 성공 시 교체됨
 let currentCat = "all";
 let books = DATASET.all.books;        // 현재 카테고리의 책 목록
+let STALE_STORES = {};                // {서비스키: 마지막으로 실제 수집된 날짜} — 오늘 수집 실패한 서비스만 표시
 
 function storeCount(b){return STORES.filter(s=>b[s.key]).length;}
 
@@ -443,10 +449,14 @@ function renderStores(){
   STORE_BOOKS = [];
   STORES.forEach(s=>{
     const items = books.filter(b=>b[s.key]).sort((a,b)=>a[s.key].t-b[s.key].t).slice(0, viewLimit());
+    const staleDate = STALE_STORES[s.key];
     let inner, cntLabel;
     if(items.length === 0){
       cntLabel = "–";
-      if(!storeHasAnyData(s.key)){
+      if(staleDate){
+        // 오늘 수집 실패했고, 이어서 보여줄 이전 데이터도 없는 경우
+        inner = `<div class="col-msg">표시할 이전 데이터가 없습니다.</div>`;
+      } else if(!storeHasAnyData(s.key)){
         // 전 분야 0 → 수집 실패/일시 차단
         inner = `<div class="col-msg col-err">⚠️ ${s.name} 데이터를 불러오지 못했습니다
           <span class="col-msg-sub">일시적인 오류입니다. 다음 수집 때 다시 채워집니다.</span></div>`;
@@ -477,14 +487,19 @@ function renderStores(){
           </li>`;
       });
       inner = `<ul>${rows}</ul>`;
-      cntLabel = `TOP ${items.length}`;
+      cntLabel = staleDate ? `최근 TOP ${items.length}` : `TOP ${items.length}`;
     }
+    const staleNotice = staleDate
+      ? `<div class="col-stale">⚠️ ${s.name} 일간 베스트 목록 미업데이트
+          <span class="col-stale-sub">(최근 수집: ${fmtDisplay(staleDate)})</span></div>`
+      : "";
     grid.insertAdjacentHTML("beforeend", `
       <div class="col">
         <div class="col-head">
           <span class="name">${s.name}</span>
           <span class="cnt num">${cntLabel}</span>
         </div>
+        ${staleNotice}
         ${inner}
       </div>`);
   });
@@ -966,6 +981,7 @@ async function init(){
         CATEGORIES = data.categories;
         currentCat = CATEGORIES[0] ? CATEGORIES[0].id : "all";
         if(typeof data.surge_gap === "number") SURGE_GAP = data.surge_gap;
+        STALE_STORES = data.stale_stores || {};
         document.getElementById("date-cur").textContent = fmtDisplay(data.today);
         DATA_TODAY = data.today || "";
         VIEW_DATE = DATA_TODAY;

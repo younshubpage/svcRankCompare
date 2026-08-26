@@ -295,29 +295,64 @@ def build_books(scraped: dict) -> list:
     return list(merged.values())
 
 
-def load_prev_pid_ranks():
-    """어제자 data.json에서 (서비스, 상품ID) -> 순위 매핑을 읽어온다."""
+def load_prev_snapshot():
+    """어제자 data.json 전체를 읽어온다 (없으면 None)."""
     if not os.path.exists(DATA_JSON):
-        return {s: {} for s in STORES}, None
+        return None
     try:
         with open(DATA_JSON, encoding="utf-8") as f:
-            old = json.load(f)
+            return json.load(f)
     except Exception:
-        return {s: {} for s in STORES}, None
+        return None
 
+
+def resolve_prev_date(old):
+    if not old:
+        return None
     # 같은 날짜 라벨로 재실행된 경우(수동 재시도 등으로 하루에 여러 번 도는 경우)
     # old의 today가 이미 이번 TODAY와 같으므로, 그대로 쓰면 prev == today가
     # 되어 "전날(오늘과 같은 날짜) 대비"라는 잘못된 라벨이 남는다. 그럴 땐
     # 기존 prev 값을 그대로 유지한다.
-    prev_date = old.get("prev") if old.get("today") == TODAY else old.get("today")
+    return old.get("prev") if old.get("today") == TODAY else old.get("today")
+
+
+def build_pid_ranks(old):
+    """이전 data.json에서 (서비스, 상품ID) -> 순위 매핑을 읽어온다."""
     pid_ranks = {s: {} for s in STORES}
+    if not old:
+        return pid_ranks
     for cat in old.get("data", {}).values():
         for b in cat.get("books", []):
             for s in STORES:
                 v = b.get(s)
                 if v and v.get("pid"):
                     pid_ranks[s][v["pid"]] = v["t"]
-    return pid_ranks, prev_date
+    return pid_ranks
+
+
+def extract_store_items(old, store):
+    """이전 data.json에서 특정 서비스의 book 목록을 그대로 복원한다.
+    오늘 그 서비스 수집이 실패했을 때, 화면에 마지막으로 성공한 데이터를
+    계속 보여주기 위한 폴백으로 쓰인다."""
+    items = []
+    if not old:
+        return items
+    for cat in old.get("data", {}).values():
+        for b in cat.get("books", []):
+            v = b.get(store)
+            if v:
+                items.append(
+                    {
+                        "t": v["t"],
+                        "title": b.get("title", ""),
+                        "author": b.get("author", ""),
+                        "pub": b.get("pub", ""),
+                        "pid": v.get("pid", ""),
+                        "ship": v.get("ship", ""),
+                        "audio": bool(v.get("audio")),
+                    }
+                )
+    return items
 
 
 def apply_prev_ranks(books: list, pid_ranks: dict):
@@ -329,7 +364,7 @@ def apply_prev_ranks(books: list, pid_ranks: dict):
 
 
 # ---------- 히스토리 누적 ----------
-def update_history(output: dict):
+def update_history(output: dict, stale_stores: dict):
     if os.path.exists(HISTORY_JSON):
         try:
             with open(HISTORY_JSON, encoding="utf-8") as f:
@@ -361,7 +396,10 @@ def update_history(output: dict):
             arr = cat_series.setdefault(s, [None] * n)
             while len(arr) < n:
                 arr.append(None)
-            v = b.get(s)
+            # 오늘 수집이 실패해 이전 데이터를 그대로 보여주는 서비스는, 실제로는
+            # 오늘자 순위가 아니므로 히스토리에는 "데이터 없음"으로 남긴다
+            # (그래야 과거 날짜 조회 시 실제로 없던 날에 가짜 순위가 찍히지 않는다).
+            v = None if s in stale_stores else b.get(s)
             arr[idx] = v["t"] if v else None
         b["hkey"] = key  # index.html이 히스토리 팝업에서 사용
 
@@ -380,7 +418,10 @@ def update_history(output: dict):
 
 # ---------- 메인 ----------
 def main():
-    pid_ranks, prev_date = load_prev_pid_ranks()
+    old = load_prev_snapshot()
+    pid_ranks = build_pid_ranks(old)
+    prev_date = resolve_prev_date(old)
+    old_stale = (old.get("stale_stores") if old else None) or {}
 
     scraped = {}
     errors = {}
@@ -430,6 +471,20 @@ def main():
 
         browser.close()
 
+    # 오늘 수집에 실패한 서비스는 화면이 텅 비지 않도록 마지막으로 성공한
+    # 데이터를 그대로 이어서 보여주고, 몇 번째 날짜 데이터인지(stale_stores)를
+    # 함께 기록해 화면에 "미업데이트" 안내를 띄울 수 있게 한다.
+    stale_stores = {}
+    for s in STORES:
+        if s not in errors:
+            continue
+        fallback_items = extract_store_items(old, s)
+        if fallback_items:
+            scraped[s] = fallback_items
+        last_good = old_stale.get(s) or (old.get("today") if old else None)
+        if last_good:
+            stale_stores[s] = last_good
+
     books = build_books(scraped)
     apply_prev_ranks(books, pid_ranks)
 
@@ -439,9 +494,10 @@ def main():
         "surge_gap": 4,
         "categories": [{"id": "all", "label": "전체"}],
         "data": {"all": {"books": books}},
+        "stale_stores": stale_stores,
     }
 
-    update_history(output)  # books에 hkey 채워짐 (output과 같은 객체 참조)
+    update_history(output, stale_stores)  # books에 hkey 채워짐 (output과 같은 객체 참조)
 
     with open(DATA_JSON, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
