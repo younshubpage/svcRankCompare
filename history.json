@@ -44,7 +44,7 @@
             20,
             19,
             20,
-            null
+            20
           ],
           "yes24_crema": [
             1,
@@ -93,7 +93,7 @@
             9,
             21,
             49,
-            null
+            49
           ],
           "yes24_crema": [
             2,
@@ -191,7 +191,7 @@
             5,
             4,
             7,
-            null
+            7
           ],
           "yes24_crema": [
             4,
@@ -240,7 +240,7 @@
             null,
             null,
             15,
-            null
+            15
           ],
           "yes24_crema": [
             5,
@@ -534,7 +534,7 @@
             41,
             46,
             32,
-            null
+            32
           ],
           "yes24_crema": [
             11,
@@ -583,7 +583,7 @@
             7,
             5,
             6,
-            null
+            6
           ],
           "yes24_crema": [
             12,
@@ -632,7 +632,7 @@
             15,
             14,
             13,
-            null
+            13
           ],
           "yes24_crema": [
             13,
@@ -1091,7 +1091,7 @@
     "싯다르타": {
       "title": "싯다르타",
       "author": "헤르만 헤세 저/김길웅 역",
-      "pub": "",
+      "pub": "민음사",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -1122,7 +1122,7 @@
             18,
             18,
             18,
-            null
+            18
           ],
           "yes24_crema": [
             23,
@@ -1335,7 +1335,7 @@
     },
     "내면근력": {
       "title": "내면 근력",
-      "author": "짐 머피 저/지여울 역",
+      "author": "짐 머피 지음 / 지여울 옮김",
       "pub": "윌북",
       "series": {
         "all": {
@@ -1367,7 +1367,7 @@
             8,
             12,
             14,
-            null
+            14
           ],
           "yes24_crema": [
             28,
@@ -2151,7 +2151,7 @@
             39,
             37,
             45,
-            null
+            45
           ],
           "yes24_crema": [
             44,
@@ -2592,7 +2592,7 @@
             1,
             1,
             1,
-            null
+            1
           ],
           "yes24_crema": [
             null,
@@ -3964,7 +3964,7 @@
             4,
             3,
             5,
-            null
+            5
           ],
           "yes24_crema": [
             null,
@@ -4013,7 +4013,7 @@
             3,
             2,
             3,
-            null
+            3
           ],
           "yes24_crema": [
             null,
@@ -4111,7 +4111,7 @@
             14,
             17,
             11,
-            null
+            11
           ],
           "yes24_crema": [
             null,
@@ -4160,7 +4160,7 @@
             12,
             15,
             16,
-            null
+            16
           ],
           "yes24_crema": [
             null,
@@ -4209,7 +4209,7 @@
             11,
             11,
             8,
-            null
+            8
           ],
           "yes24_crema": [
             null,
@@ -4405,7 +4405,7 @@
             22,
             26,
             44,
-            null
+            44
           ],
           "yes24_crema": [
             null,
@@ -4454,7 +4454,7 @@
             31,
             28,
             34,
-            null
+            34
           ],
           "yes24_crema": [
             null,
@@ -4503,7 +4503,7 @@
             16,
             8,
             12,
-            null
+            12
           ],
           "yes24_crema": [
             null,
@@ -4552,7 +4552,7 @@
             32,
             35,
             28,
-            null
+            28
           ],
           "yes24_crema": [
             null,
@@ -4601,7 +4601,7 @@
             33,
             30,
             33,
-            null
+            33
           ],
           "yes24_crema": [
             null,
@@ -4895,7 +4895,7 @@
             28,
             38,
             43,
-            null
+            43
           ],
           "yes24_crema": [
             null,
@@ -4944,7 +4944,7 @@
             25,
             27,
             40,
-            null
+            40
           ],
           "yes24_crema": [
             null,
@@ -4993,7 +4993,7 @@
             30,
             34,
             23,
-            null
+            23
           ],
           "yes24_crema": [
             null,
@@ -5777,7 +5777,7 @@
             10,
             10,
             10,
-            null
+            10
           ],
           "yes24_crema": [
             null,
@@ -5875,7 +5875,7 @@
             17,
             20,
             19,
-            null
+            19
           ],
           "yes24_crema": [
             null,
@@ -5924,7 +5924,7 @@
             38,
             47,
             31,
-            null
+            31
           ],
           "yes24_crema": [
             null,
@@ -6022,7 +6022,7 @@
             26,
             29,
             27,
-            null
+            27
           ],
           "yes24_crema": [
             null,
@@ -6708,7 +6708,7 @@
             24,
             31,
             48,
-            null
+            48
           ],
           "yes24_crema": [
             null,
@@ -7100,7 +7100,7 @@
             19,
             6,
             17,
-            null
+            17
           ],
           "yes24_crema": [
             null,
@@ -7950,7 +7950,7 @@
     },
     "데미안": {
       "title": "데미안",
-      "author": "헤르만 헤세 저/김연신 역",
+      "author": "헤르만 헤세 지음 / 전영애 옮김",
       "pub": "",
       "series": {
         "all": {
@@ -7982,7 +7982,7 @@
             43,
             45,
             38,
-            null
+            38
           ],
           "yes24_crema": [
             null,
@@ -9599,7 +9599,7 @@
             6,
             16,
             35,
-            null
+            35
           ],
           "yes24_crema": [
             null,
@@ -11020,7 +11020,7 @@
             34,
             33,
             46,
-            null
+            46
           ],
           "yes24_crema": [
             null,
@@ -12049,7 +12049,7 @@
             23,
             24,
             22,
-            null
+            22
           ],
           "yes24_crema": [
             null,
@@ -12833,7 +12833,7 @@
             null,
             7,
             30,
-            null
+            30
           ],
           "yes24_crema": [
             null,
@@ -12882,7 +12882,7 @@
             null,
             9,
             26,
-            null
+            26
           ],
           "yes24_crema": [
             null,
@@ -13764,7 +13764,7 @@
             null,
             null,
             2,
-            null
+            2
           ],
           "yes24_crema": [
             null,
@@ -13813,7 +13813,7 @@
             null,
             null,
             4,
-            null
+            4
           ],
           "yes24_crema": [
             null,
@@ -13862,7 +13862,7 @@
             null,
             null,
             9,
-            null
+            9
           ],
           "yes24_crema": [
             null,
@@ -13911,7 +13911,7 @@
             null,
             null,
             21,
-            null
+            21
           ],
           "yes24_crema": [
             null,
@@ -13960,7 +13960,7 @@
             null,
             null,
             24,
-            null
+            24
           ],
           "yes24_crema": [
             null,
@@ -14009,7 +14009,7 @@
             null,
             null,
             25,
-            null
+            25
           ],
           "yes24_crema": [
             null,
@@ -14058,7 +14058,7 @@
             null,
             null,
             36,
-            null
+            36
           ],
           "yes24_crema": [
             null,
@@ -14107,7 +14107,7 @@
             null,
             null,
             37,
-            null
+            37
           ],
           "yes24_crema": [
             null,
@@ -14156,7 +14156,7 @@
             null,
             null,
             39,
-            null
+            39
           ],
           "yes24_crema": [
             null,
@@ -14205,7 +14205,7 @@
             null,
             null,
             41,
-            null
+            41
           ],
           "yes24_crema": [
             null,
@@ -14254,7 +14254,7 @@
             null,
             null,
             42,
-            null
+            42
           ],
           "yes24_crema": [
             null,
@@ -14303,7 +14303,7 @@
             null,
             null,
             47,
-            null
+            47
           ],
           "yes24_crema": [
             null,
@@ -14352,7 +14352,7 @@
             null,
             null,
             50,
-            null
+            50
           ],
           "yes24_crema": [
             null,

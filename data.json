@@ -37,6 +37,13 @@
             "audio": false,
             "p": 2
           },
+          "millie": {
+            "t": 1,
+            "pid": "93825dffff6b4439",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
           "hkey": "투명한나선"
         },
         {
@@ -50,6 +57,13 @@
             "ship": "",
             "audio": false,
             "p": 2
+          },
+          "millie": {
+            "t": 49,
+            "pid": "83ac9e9956284c74",
+            "ship": "",
+            "audio": false,
+            "p": null
           },
           "hkey": "오뒷세이아"
         },
@@ -79,6 +93,13 @@
             "audio": false,
             "p": 1
           },
+          "millie": {
+            "t": 20,
+            "pid": "30fd54e378d64dae",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
           "hkey": "독서의기술"
         },
         {
@@ -92,6 +113,13 @@
             "ship": "",
             "audio": false,
             "p": 4
+          },
+          "millie": {
+            "t": 15,
+            "pid": "80fd9183dbe541f2",
+            "ship": "",
+            "audio": false,
+            "p": null
           },
           "hkey": "i"
         },
@@ -149,6 +177,13 @@
             "audio": false,
             "p": 7
           },
+          "millie": {
+            "t": 7,
+            "pid": "546d76659a5b4a55",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
           "hkey": "세입자"
         },
         {
@@ -176,6 +211,13 @@
             "ship": "",
             "audio": false,
             "p": 9
+          },
+          "millie": {
+            "t": 6,
+            "pid": "5c9f57dc2a7f416f",
+            "ship": "",
+            "audio": false,
+            "p": null
           },
           "hkey": "독하게돈공부"
         },
@@ -443,6 +485,13 @@
             "audio": false,
             "p": 6
           },
+          "millie": {
+            "t": 13,
+            "pid": "c2cdcb8db2a442cf",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
           "hkey": "테오"
         },
         {
@@ -533,13 +582,20 @@
           "isbn": "싯다르타",
           "title": "싯다르타",
           "author": "헤르만 헤세 저/김길웅 역",
-          "pub": "",
+          "pub": "민음사",
           "yes24_crema": {
             "t": 32,
             "pid": "124731156",
             "ship": "",
             "audio": false,
             "p": 32
+          },
+          "millie": {
+            "t": 18,
+            "pid": "c30629db9f3a4f65",
+            "ship": "",
+            "audio": false,
+            "p": null
           },
           "hkey": "싯다르타"
         },
@@ -624,6 +680,13 @@
             "ship": "",
             "audio": false,
             "p": 38
+          },
+          "millie": {
+            "t": 45,
+            "pid": "ee0a8a960d254e62",
+            "ship": "",
+            "audio": false,
+            "p": null
           },
           "hkey": "니체의초월자"
         },
@@ -778,6 +841,13 @@
             "ship": "",
             "audio": false,
             "p": 49
+          },
+          "millie": {
+            "t": 32,
+            "pid": "61efa7370f9c4380",
+            "ship": "",
+            "audio": false,
+            "p": null
           },
           "hkey": "싫어하는사람을사라지게하는방법"
         },
@@ -1151,8 +1221,555 @@
             "p": 20
           },
           "hkey": "독성인간"
+        },
+        {
+          "isbn": "세상친절한경제상식개정판",
+          "title": "세상 친절한 경제상식(개정판)",
+          "author": "토리텔러",
+          "pub": "미래의창 주식회사",
+          "millie": {
+            "t": 2,
+            "pid": "3490dbfe8bce4671",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "세상친절한경제상식개정판"
+        },
+        {
+          "isbn": "오디세이아영화<오디세이>원작",
+          "title": "오디세이아 (영화 <오디세이> 원작)",
+          "author": "호메로스 지음 / 페테르 파울 루벤스 외 그림 / 박문재 옮김",
+          "pub": "현대지성",
+          "millie": {
+            "t": 3,
+            "pid": "d878c289f83f4e28",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "오디세이아영화<오디세이>원작"
+        },
+        {
+          "isbn": "수학이가르쳐준세계",
+          "title": "수학이 가르쳐 준 세계",
+          "author": "최정담",
+          "pub": "서삼독",
+          "millie": {
+            "t": 4,
+            "pid": "f76e7249e98d49fd",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "수학이가르쳐준세계"
+        },
+        {
+          "isbn": "만화로보는그리스로마신화1",
+          "title": "만화로 보는 그리스 로마 신화 1",
+          "author": "토머스불핀치 지음, 이광진 옮김",
+          "pub": "가나출판사",
+          "millie": {
+            "t": 5,
+            "pid": "f279e7b789d04187",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "만화로보는그리스로마신화1"
+        },
+        {
+          "isbn": "혼모노",
+          "title": "혼모노",
+          "author": "성해나",
+          "pub": "창비",
+          "millie": {
+            "t": 8,
+            "pid": "ee335c0dbe4c4d92",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "혼모노"
+        },
+        {
+          "isbn": "내가죽였다__audio",
+          "title": "내가 죽였다",
+          "author": "정해연",
+          "pub": "반타",
+          "millie": {
+            "t": 9,
+            "pid": "7766c199cb754c19",
+            "ship": "",
+            "audio": true,
+            "p": null
+          },
+          "hkey": "내가죽였다__audio"
+        },
+        {
+          "isbn": "오디세이아영화<오디세이>원작__audio",
+          "title": "오디세이아(영화 <오디세이> 원작)",
+          "author": "호메로스 지음 / 박문재 옮김",
+          "pub": "현대지성",
+          "millie": {
+            "t": 10,
+            "pid": "fd351dcc116649aa",
+            "ship": "",
+            "audio": true,
+            "p": null
+          },
+          "hkey": "오디세이아영화<오디세이>원작__audio"
+        },
+        {
+          "isbn": "빵충사육준수사항",
+          "title": "빵충 사육 준수 사항",
+          "author": "김혜영",
+          "pub": "안전가옥",
+          "millie": {
+            "t": 11,
+            "pid": "2674d1b2b1d749c3",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "빵충사육준수사항"
+        },
+        {
+          "isbn": "안녕이라그랬어",
+          "title": "안녕이라 그랬어",
+          "author": "김애란",
+          "pub": "문학동네",
+          "millie": {
+            "t": 12,
+            "pid": "4e19a19b257f4eef",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "안녕이라그랬어"
+        },
+        {
+          "isbn": "내면근력",
+          "title": "내면 근력",
+          "author": "짐 머피 지음 / 지여울 옮김",
+          "pub": "윌북",
+          "millie": {
+            "t": 14,
+            "pid": "0cabac1a7dcb4366",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "내면근력"
+        },
+        {
+          "isbn": "용의자x의헌신",
+          "title": "용의자 X의 헌신",
+          "author": "히가시노 게이고 지음 / 양억관 옮김",
+          "pub": "재인",
+          "millie": {
+            "t": 16,
+            "pid": "efea57b238cf4fd5",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "용의자x의헌신"
+        },
+        {
+          "isbn": "낙하",
+          "title": "낙하",
+          "author": "이희영",
+          "pub": "밀리의서재",
+          "millie": {
+            "t": 17,
+            "pid": "b4246dff9d6c449a",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "낙하"
+        },
+        {
+          "isbn": "독하게돈공부__audio",
+          "title": "독하게 돈 공부",
+          "author": "박소연",
+          "pub": "메이븐",
+          "millie": {
+            "t": 19,
+            "pid": "288e15973d2d4533",
+            "ship": "",
+            "audio": true,
+            "p": null
+          },
+          "hkey": "독하게돈공부__audio"
+        },
+        {
+          "isbn": "괴담의집",
+          "title": "괴담의 집",
+          "author": " 미쓰다 신조",
+          "pub": "",
+          "millie": {
+            "t": 21,
+            "pid": "cc79314413674825",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "괴담의집"
+        },
+        {
+          "isbn": "뒤틀린사랑",
+          "title": "뒤틀린 사랑",
+          "author": "아나 황 지음 / 윤선미 옮김",
+          "pub": "",
+          "millie": {
+            "t": 22,
+            "pid": "44487772f920448f",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "뒤틀린사랑"
+        },
+        {
+          "isbn": "가면산장살인사건",
+          "title": "가면 산장 살인 사건",
+          "author": "히가시노 게이고 / 김난주",
+          "pub": "",
+          "millie": {
+            "t": 23,
+            "pid": "e58fadd3365a4bf9",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "가면산장살인사건"
+        },
+        {
+          "isbn": "사라진근대사100장면1몰락의시대",
+          "title": "사라진 근대사 100장면 1 : 몰락의 시대",
+          "author": "박종인",
+          "pub": "",
+          "millie": {
+            "t": 24,
+            "pid": "ad684d57f8364945",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "사라진근대사100장면1몰락의시대"
+        },
+        {
+          "isbn": "흑뢰성",
+          "title": "흑뢰성",
+          "author": "요네자와 호노부 지음 / 김선영 옮김",
+          "pub": "",
+          "millie": {
+            "t": 25,
+            "pid": "6d9cca03b1394d0a",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "흑뢰성"
+        },
+        {
+          "isbn": "굿게임굿럭",
+          "title": "굿 게임 굿 럭",
+          "author": "장강명, 전건우, 정명섭, 정해연, 조영주",
+          "pub": "",
+          "millie": {
+            "t": 26,
+            "pid": "de56098fc09c4e4c",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "굿게임굿럭"
+        },
+        {
+          "isbn": "프로젝트헤일메리__audio",
+          "title": "프로젝트 헤일메리",
+          "author": "앤디 위어",
+          "pub": "",
+          "millie": {
+            "t": 27,
+            "pid": "15924be3ab024184",
+            "ship": "",
+            "audio": true,
+            "p": null
+          },
+          "hkey": "프로젝트헤일메리__audio"
+        },
+        {
+          "isbn": "아주작은습관의힘",
+          "title": "아주 작은 습관의 힘",
+          "author": "제임스 클리어 지음 / 이한이 옮김 ",
+          "pub": "",
+          "millie": {
+            "t": 28,
+            "pid": "d41f1da7fa0b4680",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "아주작은습관의힘"
+        },
+        {
+          "isbn": "비스킷",
+          "title": "비스킷",
+          "author": "김선미",
+          "pub": "",
+          "millie": {
+            "t": 30,
+            "pid": "d1b40ccef5214b03",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "비스킷"
+        },
+        {
+          "isbn": "내면근력__audio",
+          "title": "내면 근력",
+          "author": "짐 머피 지음 / 지여울 옮김",
+          "pub": "",
+          "millie": {
+            "t": 31,
+            "pid": "5d85bd60aca64bf0",
+            "ship": "",
+            "audio": true,
+            "p": null
+          },
+          "hkey": "내면근력__audio"
+        },
+        {
+          "isbn": "달러구트꿈백화점",
+          "title": "달러구트 꿈 백화점",
+          "author": "이미예 지음",
+          "pub": "",
+          "millie": {
+            "t": 33,
+            "pid": "b4dae53d85434f58",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "달러구트꿈백화점"
+        },
+        {
+          "isbn": "사랑의기술",
+          "title": "사랑의 기술",
+          "author": "에리히 프롬 지음 / 강주헌 옮김",
+          "pub": "",
+          "millie": {
+            "t": 34,
+            "pid": "eb878ff9c91b416a",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "사랑의기술"
+        },
+        {
+          "isbn": "기대의감각",
+          "title": "기대의 감각",
+          "author": "김지용 ",
+          "pub": "",
+          "millie": {
+            "t": 35,
+            "pid": "48d16dc71e284744",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "기대의감각"
+        },
+        {
+          "isbn": "내시체를찾아주세요",
+          "title": "내 시체를 찾아주세요",
+          "author": "호시즈키 와타루 지음 / 최수영 옮김",
+          "pub": "",
+          "millie": {
+            "t": 36,
+            "pid": "7ac913b4397841cb",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "내시체를찾아주세요"
+        },
+        {
+          "isbn": "입주조건옆집에사는이웃과반드시친하게지내세요",
+          "title": "입주 조건: 옆집에 사는 이웃과 반드시 친하게 지내세요",
+          "author": "네후네 하야세 지음 / 민경욱 옮김",
+          "pub": "",
+          "millie": {
+            "t": 37,
+            "pid": "584e6a35b6e34ee6",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "입주조건옆집에사는이웃과반드시친하게지내세요"
+        },
+        {
+          "isbn": "데미안",
+          "title": "데미안",
+          "author": "헤르만 헤세 지음 / 전영애 옮김",
+          "pub": "",
+          "millie": {
+            "t": 38,
+            "pid": "21b5262b146840fc",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "데미안"
+        },
+        {
+          "isbn": "n",
+          "title": "N",
+          "author": "미치오 슈스케 지음 / 이규원 옮김",
+          "pub": "",
+          "millie": {
+            "t": 39,
+            "pid": "8ca85887bea640f3",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "n"
+        },
+        {
+          "isbn": "사라지는돈살아남는돈불어나는돈",
+          "title": "사라지는 돈, 살아남는 돈, 불어나는 돈",
+          "author": "김효진",
+          "pub": "",
+          "millie": {
+            "t": 40,
+            "pid": "1284778e522f4788",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "사라지는돈살아남는돈불어나는돈"
+        },
+        {
+          "isbn": "나는왜네말이힘들까",
+          "title": "나는 왜 네 말이 힘들까",
+          "author": "박재연",
+          "pub": "",
+          "millie": {
+            "t": 41,
+            "pid": "f23d73fcbe2242f2",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "나는왜네말이힘들까"
+        },
+        {
+          "isbn": "신랑이도망쳤다미스터리단편선__audio",
+          "title": "신랑이 도망쳤다 - 미스터리 단편선",
+          "author": "정지훈, 카이, 반슬, 류지원, 노유조",
+          "pub": "",
+          "millie": {
+            "t": 42,
+            "pid": "46d5fd59afad4582",
+            "ship": "",
+            "audio": true,
+            "p": null
+          },
+          "hkey": "신랑이도망쳤다미스터리단편선__audio"
+        },
+        {
+          "isbn": "홍학의자리",
+          "title": "홍학의 자리",
+          "author": "정해연",
+          "pub": "",
+          "millie": {
+            "t": 43,
+            "pid": "806508b09ed74322",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "홍학의자리"
+        },
+        {
+          "isbn": "나미야잡화점의기적",
+          "title": "나미야 잡화점의 기적",
+          "author": "히가시노 게이고 지음 / 양윤옥 옮김",
+          "pub": "",
+          "millie": {
+            "t": 44,
+            "pid": "73315e3e05784065",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "나미야잡화점의기적"
+        },
+        {
+          "isbn": "눈물을마시는새1",
+          "title": "눈물을 마시는 새 1",
+          "author": "이영도",
+          "pub": "",
+          "millie": {
+            "t": 46,
+            "pid": "b1bc577bd4e34497",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "눈물을마시는새1"
+        },
+        {
+          "isbn": "법의학자유성호의유언노트__audio",
+          "title": "법의학자 유성호의 유언 노트",
+          "author": "유성호",
+          "pub": "",
+          "millie": {
+            "t": 47,
+            "pid": "67d9ac9b4bca4ae8",
+            "ship": "",
+            "audio": true,
+            "p": null
+          },
+          "hkey": "법의학자유성호의유언노트__audio"
+        },
+        {
+          "isbn": "낙하__audio",
+          "title": "낙하",
+          "author": "이희영",
+          "pub": "",
+          "millie": {
+            "t": 48,
+            "pid": "cfc9cd027e974a69",
+            "ship": "",
+            "audio": true,
+            "p": null
+          },
+          "hkey": "낙하__audio"
+        },
+        {
+          "isbn": "꿈을나르는지하철__audio",
+          "title": "꿈을 나르는 지하철",
+          "author": "조용문",
+          "pub": "",
+          "millie": {
+            "t": 50,
+            "pid": "21b7bac4af304cfc",
+            "ship": "",
+            "audio": true,
+            "p": null
+          },
+          "hkey": "꿈을나르는지하철__audio"
         }
       ]
     }
-  }
+  },
+  "stale_stores": {}
 }
