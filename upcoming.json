@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29T08:32:01.845893+09:00",
-  "count": 174,
+  "updated": "2026-08-30T08:32:19.984271+09:00",
+  "count": 173,
   "books": [
     {
       "id": "ed9aba76ac324b7f",
@@ -108,16 +108,6 @@
       "author": "정보라",
       "cover": "https://image.millie.co.kr/service/cover/180174713/0f57b2849a08423b90a060e1da569927.jpg",
       "open_date": "2026-09-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "7ccdd0c351ba43fa",
-      "title": "돈의 질서",
-      "author": "김대호",
-      "cover": "https://image.millie.co.kr/service/cover/180173291/a4403176409b4777ac12abce43eb3630.jpg",
-      "open_date": "2026-08-30",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -553,36 +543,6 @@
       "is_comic": false
     },
     {
-      "id": "e80471daeef949d6",
-      "title": "투게더: 공동체 의식에 대한 조금 색다른 접근",
-      "author": "울리히 슈나벨 지음 / 김현정 옮김",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179685428/705f5a29b3d1424c964dccabb00d0ddb.jpg",
-      "open_date": "2026-09-02",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "d5b86329c48944d6",
-      "title": "질병 예방 세대",
-      "author": "오수연",
-      "cover": "https://image.millie.co.kr/service/cover/180159680/17596aa51a0d4d5a85b301c4857769a8.jpg",
-      "open_date": "2026-09-10",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "838ea949384e4eec",
-      "title": "동글 뾰족 알록달록 내 마음",
-      "author": "차보금",
-      "cover": "https://image.millie.co.kr/service/cover/180174285/b6ad39837e9640a2b878a488bc5c49ef.jpg",
-      "open_date": "2026-09-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "31fd4dddf8324626",
       "title": "ENJOY 여행일본어",
       "author": "넥서스콘텐츠개발팀",
@@ -598,6 +558,46 @@
       "author": "애나 펀더 지음 / 서제인 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180116100/abdf5543b64d41b1a55b31f2149423c4.jpg",
       "open_date": "2026-09-10",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "e80471daeef949d6",
+      "title": "투게더: 공동체 의식에 대한 조금 색다른 접근",
+      "author": "울리히 슈나벨 지음 / 김현정 옮김",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179685428/705f5a29b3d1424c964dccabb00d0ddb.jpg",
+      "open_date": "2026-09-02",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "838ea949384e4eec",
+      "title": "동글 뾰족 알록달록 내 마음",
+      "author": "차보금",
+      "cover": "https://image.millie.co.kr/service/cover/180174285/b6ad39837e9640a2b878a488bc5c49ef.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "d5b86329c48944d6",
+      "title": "질병 예방 세대",
+      "author": "오수연",
+      "cover": "https://image.millie.co.kr/service/cover/180159680/17596aa51a0d4d5a85b301c4857769a8.jpg",
+      "open_date": "2026-09-10",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "2ab9769bbb6c4eaf",
+      "title": "포브스 코리아 Forbes Korea 2026.09",
+      "author": "중앙일보S",
+      "cover": "https://image.millie.co.kr/service/cover/180175777/dee755e0a1c5474dbb34f1a35633b315.jpg",
+      "open_date": "2026-09-01",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
