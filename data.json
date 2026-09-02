@@ -1,6 +1,6 @@
 {
-  "today": "2026-09-01",
-  "prev": "2026-08-31",
+  "today": "2026-09-02",
+  "prev": "2026-09-01",
   "surge_gap": 4,
   "categories": [
     {
@@ -24,21 +24,21 @@
             "p": 1
           },
           "kyobo_unlimited": {
-            "t": 4,
+            "t": 2,
+            "pid": "E000013264345",
+            "ship": "",
+            "audio": false,
+            "p": 4
+          },
+          "kyobo_premium": {
+            "t": 1,
             "pid": "E000013264345",
             "ship": "",
             "audio": false,
             "p": 2
           },
-          "kyobo_premium": {
-            "t": 2,
-            "pid": "E000013264345",
-            "ship": "",
-            "audio": false,
-            "p": 3
-          },
           "millie": {
-            "t": 4,
+            "t": 5,
             "pid": "93825dffff6b4439",
             "ship": "",
             "audio": false,
@@ -47,88 +47,46 @@
           "hkey": "투명한나선"
         },
         {
+          "isbn": "뒤틀린사랑",
+          "title": "뒤틀린 사랑",
+          "author": "아나 황 저/윤선미 역",
+          "pub": "모모",
+          "yes24_crema": {
+            "t": 2,
+            "pid": "195374404",
+            "ship": "",
+            "audio": false,
+            "p": 9
+          },
+          "millie": {
+            "t": 38,
+            "pid": "44487772f920448f",
+            "ship": "",
+            "audio": false,
+            "p": 39
+          },
+          "hkey": "뒤틀린사랑"
+        },
+        {
           "isbn": "사랑의기술",
           "title": "사랑의 기술",
           "author": "에리히 프롬 저/강주헌 역",
           "pub": "문예출판사",
           "yes24_crema": {
-            "t": 2,
+            "t": 3,
             "pid": "192991625",
             "ship": "",
             "audio": false,
             "p": 2
           },
           "millie": {
-            "t": 30,
+            "t": 40,
             "pid": "eb878ff9c91b416a",
             "ship": "",
             "audio": false,
-            "p": 40
+            "p": 30
           },
           "hkey": "사랑의기술"
-        },
-        {
-          "isbn": "독서의기술",
-          "title": "독서의 기술",
-          "author": "고명환 저",
-          "pub": "라곰",
-          "yes24_crema": {
-            "t": 3,
-            "pid": "195131392",
-            "ship": "",
-            "audio": false,
-            "p": 3
-          },
-          "kyobo_unlimited": {
-            "t": 6,
-            "pid": "E000013424397",
-            "ship": "",
-            "audio": false,
-            "p": 5
-          },
-          "kyobo_premium": {
-            "t": 3,
-            "pid": "E000013424397",
-            "ship": "",
-            "audio": false,
-            "p": 2
-          },
-          "millie": {
-            "t": 29,
-            "pid": "30fd54e378d64dae",
-            "ship": "",
-            "audio": false,
-            "p": 26
-          },
-          "hkey": "독서의기술"
-        },
-        {
-          "isbn": "듣기의기술",
-          "title": "듣기의 기술",
-          "author": "에리히 프롬 저/라이너 풍크 편/신소희 역",
-          "pub": "마주",
-          "yes24_crema": {
-            "t": 4,
-            "pid": "193171474",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "듣기의기술"
-        },
-        {
-          "isbn": "다산의기록법",
-          "title": "다산의 기록법",
-          "author": "조윤제 저",
-          "pub": "오아시스",
-          "yes24_crema": {
-            "t": 5,
-            "pid": "195278070",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "다산의기록법"
         },
         {
           "isbn": "미안하지만싫습니다",
@@ -136,27 +94,76 @@
           "author": "정준화 저",
           "pub": "몽스북",
           "yes24_crema": {
-            "t": 6,
+            "t": 4,
             "pid": "195131428",
             "ship": "",
             "audio": false,
-            "p": 7
+            "p": 6
           },
           "hkey": "미안하지만싫습니다"
         },
         {
-          "isbn": "단어의쓸모",
-          "title": "단어의 쓸모",
-          "author": "차민진 저",
-          "pub": "21세기북스",
+          "isbn": "독서의기술",
+          "title": "독서의 기술",
+          "author": "고명환 저",
+          "pub": "라곰",
           "yes24_crema": {
-            "t": 7,
-            "pid": "193161012",
+            "t": 5,
+            "pid": "195131392",
+            "ship": "",
+            "audio": false,
+            "p": 3
+          },
+          "kyobo_unlimited": {
+            "t": 5,
+            "pid": "E000013424397",
+            "ship": "",
+            "audio": false,
+            "p": 6
+          },
+          "kyobo_premium": {
+            "t": 3,
+            "pid": "E000013424397",
+            "ship": "",
+            "audio": false,
+            "p": 3
+          },
+          "millie": {
+            "t": 27,
+            "pid": "30fd54e378d64dae",
+            "ship": "",
+            "audio": false,
+            "p": 29
+          },
+          "hkey": "독서의기술"
+        },
+        {
+          "isbn": "번아웃직전맹자를만났다",
+          "title": "번아웃 직전, 맹자를 만났다",
+          "author": "판덩 저/유연지 역",
+          "pub": "이든서재",
+          "yes24_crema": {
+            "t": 6,
+            "pid": "194907807",
             "ship": "",
             "audio": false,
             "p": null
           },
-          "hkey": "단어의쓸모"
+          "hkey": "번아웃직전맹자를만났다"
+        },
+        {
+          "isbn": "마흔부터생존감량",
+          "title": "마흔부터 생존 감량",
+          "author": "김경곤 저",
+          "pub": "웅진지식하우스",
+          "yes24_crema": {
+            "t": 7,
+            "pid": "193857484",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "마흔부터생존감량"
         },
         {
           "isbn": "오뒷세이아",
@@ -168,93 +175,30 @@
             "pid": "125022026",
             "ship": "",
             "audio": false,
-            "p": 6
+            "p": 8
           },
           "kyobo_unlimited": {
+            "t": 1,
+            "pid": "E000013496544",
+            "ship": "",
+            "audio": false,
+            "p": 2
+          },
+          "kyobo_premium": {
             "t": 2,
             "pid": "E000013496544",
             "ship": "",
             "audio": false,
             "p": 1
           },
-          "kyobo_premium": {
-            "t": 1,
-            "pid": "E000013496544",
-            "ship": "",
-            "audio": false,
-            "p": 1
-          },
           "millie": {
-            "t": 21,
+            "t": 22,
             "pid": "83ac9e9956284c74",
             "ship": "",
             "audio": false,
-            "p": 16
+            "p": 21
           },
           "hkey": "오뒷세이아"
-        },
-        {
-          "isbn": "뒤틀린사랑",
-          "title": "뒤틀린 사랑",
-          "author": "아나 황 저/윤선미 역",
-          "pub": "모모",
-          "yes24_crema": {
-            "t": 9,
-            "pid": "195374404",
-            "ship": "",
-            "audio": false,
-            "p": 12
-          },
-          "millie": {
-            "t": 39,
-            "pid": "44487772f920448f",
-            "ship": "",
-            "audio": false,
-            "p": 50
-          },
-          "hkey": "뒤틀린사랑"
-        },
-        {
-          "isbn": "오디세이아고대그리스어완역본",
-          "title": "오디세이아 (고대 그리스어 완역본)",
-          "author": "호메로스 저/페테르 파울 루벤스 그림/박문재 역",
-          "pub": "현대지성",
-          "yes24_crema": {
-            "t": 10,
-            "pid": "146281444",
-            "ship": "",
-            "audio": false,
-            "p": 9
-          },
-          "kyobo_unlimited": {
-            "t": 7,
-            "pid": "E000011406549",
-            "ship": "",
-            "audio": false,
-            "p": 6
-          },
-          "kyobo_premium": {
-            "t": 7,
-            "pid": "E000011406549",
-            "ship": "",
-            "audio": false,
-            "p": 6
-          },
-          "hkey": "오디세이아고대그리스어완역본"
-        },
-        {
-          "isbn": "단테의신곡",
-          "title": "단테의 신곡",
-          "author": "알리기에리 단테 저/다니구치 에리야 편/양억관 역/구스타브 도레 그림",
-          "pub": "황금부엉이",
-          "yes24_crema": {
-            "t": 11,
-            "pid": "134897862",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "단테의신곡"
         },
         {
           "isbn": "일상질문사전",
@@ -262,41 +206,41 @@
           "author": "전성원 저",
           "pub": "유유",
           "yes24_crema": {
-            "t": 12,
+            "t": 9,
             "pid": "194850124",
             "ship": "",
             "audio": false,
-            "p": 8
+            "p": 12
           },
           "hkey": "일상질문사전"
         },
         {
-          "isbn": "찰리멍거바이블완결판",
-          "title": "찰리 멍거 바이블 완결판",
-          "author": "김재현,이건 저",
-          "pub": "에프엔미디어",
+          "isbn": "듣기의기술",
+          "title": "듣기의 기술",
+          "author": "에리히 프롬 저/라이너 풍크 편/신소희 역",
+          "pub": "마주",
           "yes24_crema": {
-            "t": 13,
-            "pid": "195412903",
+            "t": 10,
+            "pid": "193171474",
             "ship": "",
             "audio": false,
             "p": 4
           },
-          "kyobo_unlimited": {
-            "t": 9,
-            "pid": "E000013462747",
+          "hkey": "듣기의기술"
+        },
+        {
+          "isbn": "나는돈으로행복을삽니다",
+          "title": "나는 돈으로 행복을 삽니다",
+          "author": "부자마녀 저",
+          "pub": "황금부엉이",
+          "yes24_crema": {
+            "t": 11,
+            "pid": "134873068",
             "ship": "",
             "audio": false,
-            "p": 11
+            "p": null
           },
-          "kyobo_premium": {
-            "t": 4,
-            "pid": "E000013462747",
-            "ship": "",
-            "audio": false,
-            "p": 4
-          },
-          "hkey": "찰리멍거바이블완결판"
+          "hkey": "나는돈으로행복을삽니다"
         },
         {
           "isbn": "화폐의종말",
@@ -304,7 +248,7 @@
           "author": "이완배 저",
           "pub": "오아시스",
           "yes24_crema": {
-            "t": 14,
+            "t": 12,
             "pid": "193342427",
             "ship": "",
             "audio": false,
@@ -313,32 +257,109 @@
           "hkey": "화폐의종말"
         },
         {
+          "isbn": "다산의기록법",
+          "title": "다산의 기록법",
+          "author": "조윤제 저",
+          "pub": "오아시스",
+          "yes24_crema": {
+            "t": 13,
+            "pid": "195278070",
+            "ship": "",
+            "audio": false,
+            "p": 5
+          },
+          "hkey": "다산의기록법"
+        },
+        {
+          "isbn": "사고력을키우는수학의힘",
+          "title": "사고력을 키우는 수학의 힘",
+          "author": "장허 저/김지혜 역/신재호 감수",
+          "pub": "미디어숲",
+          "yes24_crema": {
+            "t": 14,
+            "pid": "193994128",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "사고력을키우는수학의힘"
+        },
+        {
+          "isbn": "식민지의식탁",
+          "title": "식민지의 식탁",
+          "author": "박현수 저",
+          "pub": "이숲",
+          "yes24_crema": {
+            "t": 15,
+            "pid": "128874390",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "식민지의식탁"
+        },
+        {
           "isbn": "윗집부부",
           "title": "윗집 부부",
           "author": "황보름 저",
           "pub": "클레이하우스",
           "yes24_crema": {
-            "t": 15,
+            "t": 16,
             "pid": "193852218",
             "ship": "",
             "audio": false,
-            "p": 13
+            "p": 15
           },
           "kyobo_unlimited": {
             "t": 16,
             "pid": "E000013288819",
             "ship": "",
             "audio": false,
-            "p": null
-          },
-          "kyobo_premium": {
-            "t": 17,
-            "pid": "E000013288819",
-            "ship": "",
-            "audio": false,
-            "p": 18
+            "p": 16
           },
           "hkey": "윗집부부"
+        },
+        {
+          "isbn": "오디세이아고대그리스어완역본",
+          "title": "오디세이아 (고대 그리스어 완역본)",
+          "author": "호메로스 저/페테르 파울 루벤스 그림/박문재 역",
+          "pub": "현대지성",
+          "yes24_crema": {
+            "t": 17,
+            "pid": "146281444",
+            "ship": "",
+            "audio": false,
+            "p": 10
+          },
+          "kyobo_unlimited": {
+            "t": 8,
+            "pid": "E000011406549",
+            "ship": "",
+            "audio": false,
+            "p": 7
+          },
+          "kyobo_premium": {
+            "t": 4,
+            "pid": "E000011406549",
+            "ship": "",
+            "audio": false,
+            "p": 7
+          },
+          "hkey": "오디세이아고대그리스어완역본"
+        },
+        {
+          "isbn": "단어의쓸모",
+          "title": "단어의 쓸모",
+          "author": "차민진 저",
+          "pub": "21세기북스",
+          "yes24_crema": {
+            "t": 18,
+            "pid": "193161012",
+            "ship": "",
+            "audio": false,
+            "p": 7
+          },
+          "hkey": "단어의쓸모"
         },
         {
           "isbn": "연재오드아이1화",
@@ -346,7 +367,7 @@
           "author": "우신영 저",
           "pub": "",
           "yes24_crema": {
-            "t": 16,
+            "t": 19,
             "pid": "195282427",
             "ship": "",
             "audio": false,
@@ -355,116 +376,137 @@
           "hkey": "연재오드아이1화"
         },
         {
-          "isbn": "마흔에읽는한국사",
-          "title": "마흔에 읽는 한국사",
-          "author": "신동욱 저",
-          "pub": "포르체",
-          "yes24_crema": {
-            "t": 17,
-            "pid": "193464201",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "마흔에읽는한국사"
-        },
-        {
-          "isbn": "10권독서법",
-          "title": "10권 독서법",
-          "author": "하토야마 레히토 저/원선미 역",
-          "pub": "마인드빌딩",
-          "yes24_crema": {
-            "t": 18,
-            "pid": "195435736",
-            "ship": "",
-            "audio": false,
-            "p": 5
-          },
-          "hkey": "10권독서법"
-        },
-        {
           "isbn": "독하게돈공부",
           "title": "독하게 돈 공부",
           "author": "박소연 저",
           "pub": "메이븐",
           "yes24_crema": {
-            "t": 19,
-            "pid": "193466947",
-            "ship": "",
-            "audio": false,
-            "p": 17
-          },
-          "kyobo_premium": {
-            "t": 18,
-            "pid": "E000013257706",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "millie": {
-            "t": 19,
-            "pid": "5c9f57dc2a7f416f",
-            "ship": "",
-            "audio": false,
-            "p": 23
-          },
-          "hkey": "독하게돈공부"
-        },
-        {
-          "isbn": "i",
-          "title": "I",
-          "author": "미치오 슈스케 저/이규원 역",
-          "pub": "북스피어",
-          "yes24_crema": {
             "t": 20,
-            "pid": "195038746",
-            "ship": "",
-            "audio": false,
-            "p": 22
-          },
-          "hkey": "i"
-        },
-        {
-          "isbn": "언더우드부인의조선견문록",
-          "title": "언더우드 부인의 조선 견문록",
-          "author": "릴리어스 호톤 언더우드 저/김철 역",
-          "pub": "",
-          "yes24_crema": {
-            "t": 21,
-            "pid": "3953008",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "언더우드부인의조선견문록"
-        },
-        {
-          "isbn": "최소한의뇌과학",
-          "title": "최소한의 뇌과학",
-          "author": "양은우 저",
-          "pub": "",
-          "yes24_crema": {
-            "t": 22,
-            "pid": "183835644",
+            "pid": "193466947",
             "ship": "",
             "audio": false,
             "p": 19
           },
-          "hkey": "최소한의뇌과학"
+          "kyobo_premium": {
+            "t": 19,
+            "pid": "E000013257706",
+            "ship": "",
+            "audio": false,
+            "p": 18
+          },
+          "millie": {
+            "t": 18,
+            "pid": "5c9f57dc2a7f416f",
+            "ship": "",
+            "audio": false,
+            "p": 19
+          },
+          "hkey": "독하게돈공부"
         },
         {
-          "isbn": "미국주식투자의정석",
-          "title": "미국 주식 투자의 정석",
-          "author": "최철 저",
+          "isbn": "셸리숍앤센터",
+          "title": "셸리 숍앤센터",
+          "author": "설재인 저",
+          "pub": "",
+          "yes24_crema": {
+            "t": 21,
+            "pid": "195408076",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "셸리숍앤센터"
+        },
+        {
+          "isbn": "60세부터90세까지현명하게돈쓰는법",
+          "title": "60세부터 90세까지, 현명하게 돈 쓰는 법",
+          "author": "오에 히데키 저/김진희 역",
+          "pub": "",
+          "yes24_crema": {
+            "t": 22,
+            "pid": "192562930",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "60세부터90세까지현명하게돈쓰는법"
+        },
+        {
+          "isbn": "너는원래괜찮은사람이야",
+          "title": "너는 원래 괜찮은 사람이야",
+          "author": "윤지영 저",
           "pub": "",
           "yes24_crema": {
             "t": 23,
-            "pid": "142289215",
+            "pid": "195443795",
             "ship": "",
             "audio": false,
-            "p": 10
+            "p": null
           },
-          "hkey": "미국주식투자의정석"
+          "hkey": "너는원래괜찮은사람이야"
+        },
+        {
+          "isbn": "찰리멍거바이블완결판",
+          "title": "찰리 멍거 바이블 완결판",
+          "author": "김재현,이건 저",
+          "pub": "에프엔미디어",
+          "yes24_crema": {
+            "t": 24,
+            "pid": "195412903",
+            "ship": "",
+            "audio": false,
+            "p": 13
+          },
+          "kyobo_unlimited": {
+            "t": 13,
+            "pid": "E000013462747",
+            "ship": "",
+            "audio": false,
+            "p": 9
+          },
+          "kyobo_premium": {
+            "t": 5,
+            "pid": "E000013462747",
+            "ship": "",
+            "audio": false,
+            "p": 4
+          },
+          "millie": {
+            "t": 30,
+            "pid": "2a1491c6c0674074",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "찰리멍거바이블완결판"
+        },
+        {
+          "isbn": "3040부린이처음부동산투자",
+          "title": "3040 부린이 처음 부동산 투자",
+          "author": "김학렬(빠숑) 저",
+          "pub": "",
+          "yes24_crema": {
+            "t": 25,
+            "pid": "193464200",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "3040부린이처음부동산투자"
+        },
+        {
+          "isbn": "수상할만큼완벽한결혼식",
+          "title": "수상할 만큼 완벽한 결혼식",
+          "author": "이소연 저",
+          "pub": "",
+          "yes24_crema": {
+            "t": 26,
+            "pid": "190404977",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "수상할만큼완벽한결혼식"
         },
         {
           "isbn": "싯다르타",
@@ -472,14 +514,14 @@
           "author": "헤르만 헤세 저/김길웅 역",
           "pub": "민음사",
           "yes24_crema": {
-            "t": 24,
+            "t": 27,
             "pid": "124731156",
             "ship": "",
             "audio": false,
-            "p": 30
+            "p": 24
           },
           "millie": {
-            "t": 14,
+            "t": 15,
             "pid": "c30629db9f3a4f65",
             "ship": "",
             "audio": false,
@@ -488,88 +530,32 @@
           "hkey": "싯다르타"
         },
         {
-          "isbn": "테오",
-          "title": "테오",
-          "author": "앨런 레비 저/노지양 역",
-          "pub": "오팬하우스",
-          "yes24_crema": {
-            "t": 25,
-            "pid": "194005872",
-            "ship": "",
-            "audio": false,
-            "p": 26
-          },
-          "kyobo_unlimited": {
-            "t": 14,
-            "pid": "E000013288624",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "kyobo_premium": {
-            "t": 5,
-            "pid": "E000013288624",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "millie": {
-            "t": 9,
-            "pid": "c2cdcb8db2a442cf",
-            "ship": "",
-            "audio": false,
-            "p": 10
-          },
-          "hkey": "테오"
-        },
-        {
-          "isbn": "공부가즐겁다는공자의말을믿어도될까",
-          "title": "공부가 즐겁다는 공자의 말을 믿어도 될까",
-          "author": "판덩 저/하은지 역",
-          "pub": "",
-          "yes24_crema": {
-            "t": 26,
-            "pid": "192659793",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "공부가즐겁다는공자의말을믿어도될까"
-        },
-        {
-          "isbn": "호감가는사람은말투가다르다",
-          "title": "호감 가는 사람은 말투가 다르다",
-          "author": "박근일 저",
-          "pub": "",
-          "yes24_crema": {
-            "t": 27,
-            "pid": "140409057",
-            "ship": "",
-            "audio": false,
-            "p": 20
-          },
-          "hkey": "호감가는사람은말투가다르다"
-        },
-        {
-          "isbn": "세입자",
-          "title": "세입자",
-          "author": "프리다 맥파든 저/이경아 역",
+          "isbn": "단테의신곡",
+          "title": "단테의 신곡",
+          "author": "알리기에리 단테 저/다니구치 에리야 편/양억관 역/구스타브 도레 그림",
           "pub": "",
           "yes24_crema": {
             "t": 28,
-            "pid": "195084255",
+            "pid": "134897862",
             "ship": "",
             "audio": false,
-            "p": 27
+            "p": 11
           },
-          "millie": {
-            "t": 26,
-            "pid": "546d76659a5b4a55",
+          "hkey": "단테의신곡"
+        },
+        {
+          "isbn": "스웨덴왕실의역사",
+          "title": "스웨덴 왕실의 역사",
+          "author": "정유경 저자 저",
+          "pub": "",
+          "yes24_crema": {
+            "t": 29,
+            "pid": "128874391",
             "ship": "",
             "audio": false,
-            "p": 20
+            "p": null
           },
-          "hkey": "세입자"
+          "hkey": "스웨덴왕실의역사"
         },
         {
           "isbn": "오드바디",
@@ -577,230 +563,13 @@
           "author": "로즈 키팅 저/허진 역",
           "pub": "",
           "yes24_crema": {
-            "t": 29,
+            "t": 30,
             "pid": "194648592",
             "ship": "",
             "audio": false,
-            "p": null
+            "p": 29
           },
           "hkey": "오드바디"
-        },
-        {
-          "isbn": "그리스로마신화1권개정판",
-          "title": "그리스 로마 신화 1권 (개정판)",
-          "author": "박시연 글/최우빈 그림/김헌 감수",
-          "pub": "",
-          "yes24_crema": {
-            "t": 30,
-            "pid": "120014644",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "그리스로마신화1권개정판"
-        },
-        {
-          "isbn": "가공범",
-          "title": "가공범",
-          "author": "히가시노 게이고 저/김선영 역",
-          "pub": "",
-          "yes24_crema": {
-            "t": 31,
-            "pid": "151644106",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "가공범"
-        },
-        {
-          "isbn": "주린이를위한추세추종투자따라잡기",
-          "title": "주린이를 위한 추세추종 투자 따라잡기",
-          "author": "올투 저",
-          "pub": "",
-          "yes24_crema": {
-            "t": 32,
-            "pid": "194860236",
-            "ship": "",
-            "audio": false,
-            "p": 18
-          },
-          "hkey": "주린이를위한추세추종투자따라잡기"
-        },
-        {
-          "isbn": "소곤소곤심리학토크",
-          "title": "소곤소곤 심리학 토크",
-          "author": "황양밍 저/이영주 역",
-          "pub": "",
-          "yes24_crema": {
-            "t": 33,
-            "pid": "194907806",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "소곤소곤심리학토크"
-        },
-        {
-          "isbn": "일리아스",
-          "title": "일리아스",
-          "author": "호메로스 저/천병희 역",
-          "pub": "",
-          "yes24_crema": {
-            "t": 34,
-            "pid": "125004264",
-            "ship": "",
-            "audio": false,
-            "p": 38
-          },
-          "hkey": "일리아스"
-        },
-        {
-          "isbn": "불안한날에니체를읽는다",
-          "title": "불안한 날에 니체를 읽는다",
-          "author": "프리드리히 니체 저/김상현 역",
-          "pub": "",
-          "yes24_crema": {
-            "t": 35,
-            "pid": "192491309",
-            "ship": "",
-            "audio": false,
-            "p": 24
-          },
-          "millie": {
-            "t": 43,
-            "pid": "a690060772a94778",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "불안한날에니체를읽는다"
-        },
-        {
-          "isbn": "리더의말연습",
-          "title": "리더의 말 연습",
-          "author": "문성후 저",
-          "pub": "",
-          "yes24_crema": {
-            "t": 36,
-            "pid": "172775174",
-            "ship": "",
-            "audio": false,
-            "p": 15
-          },
-          "hkey": "리더의말연습"
-        },
-        {
-          "isbn": "내면근력",
-          "title": "내면 근력",
-          "author": "짐 머피 저/지여울 역",
-          "pub": "",
-          "yes24_crema": {
-            "t": 37,
-            "pid": "187571975",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "millie": {
-            "t": 49,
-            "pid": "0cabac1a7dcb4366",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "내면근력"
-        },
-        {
-          "isbn": "긴키지방의어느장소에대하여두번째기록",
-          "title": "긴키 지방의 어느 장소에 대하여 두 번째 기록",
-          "author": "세스지 저/전선영 역",
-          "pub": "",
-          "yes24_crema": {
-            "t": 38,
-            "pid": "192979331",
-            "ship": "",
-            "audio": false,
-            "p": 37
-          },
-          "hkey": "긴키지방의어느장소에대하여두번째기록"
-        },
-        {
-          "isbn": "불행에몰두하지않는다",
-          "title": "불행에 몰두하지 않는다",
-          "author": "정지우 저",
-          "pub": "",
-          "yes24_crema": {
-            "t": 39,
-            "pid": "193352155",
-            "ship": "",
-            "audio": false,
-            "p": 32
-          },
-          "hkey": "불행에몰두하지않는다"
-        },
-        {
-          "isbn": "내아이의언어감각",
-          "title": "내 아이의 언어 감각",
-          "author": "임동선 저",
-          "pub": "",
-          "yes24_crema": {
-            "t": 40,
-            "pid": "193827783",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "내아이의언어감각"
-        },
-        {
-          "isbn": "싫어하는사람을사라지게하는방법",
-          "title": "싫어하는 사람을 사라지게 하는 방법",
-          "author": "호리 모토코 저/이은혜 역",
-          "pub": "",
-          "yes24_crema": {
-            "t": 41,
-            "pid": "193161014",
-            "ship": "",
-            "audio": false,
-            "p": 33
-          },
-          "millie": {
-            "t": 32,
-            "pid": "61efa7370f9c4380",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "싫어하는사람을사라지게하는방법"
-        },
-        {
-          "isbn": "포트폴리오설계수업",
-          "title": "포트폴리오 설계 수업",
-          "author": "임현우 저",
-          "pub": "",
-          "yes24_crema": {
-            "t": 42,
-            "pid": "194510434",
-            "ship": "",
-            "audio": false,
-            "p": 11
-          },
-          "hkey": "포트폴리오설계수업"
-        },
-        {
-          "isbn": "저지금탑승합니다",
-          "title": "저 지금 탑승합니다",
-          "author": "정보라 저",
-          "pub": "",
-          "yes24_crema": {
-            "t": 43,
-            "pid": "195242809",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "저지금탑승합니다"
         },
         {
           "isbn": "챗gpt제미나이클로드까지모두를위한ai",
@@ -808,83 +577,188 @@
           "author": "지현이(디지털거북이) 저",
           "pub": "시프트",
           "yes24_crema": {
-            "t": 44,
+            "t": 31,
             "pid": "195137708",
             "ship": "",
             "audio": false,
-            "p": null
+            "p": 44
           },
           "kyobo_unlimited": {
-            "t": 5,
-            "pid": "E000013427837",
-            "ship": "",
-            "audio": false,
-            "p": 4
-          },
-          "kyobo_premium": {
-            "t": 11,
+            "t": 4,
             "pid": "E000013427837",
             "ship": "",
             "audio": false,
             "p": 5
           },
+          "kyobo_premium": {
+            "t": 10,
+            "pid": "E000013427837",
+            "ship": "",
+            "audio": false,
+            "p": 11
+          },
           "hkey": "챗gpt제미나이클로드까지모두를위한ai"
         },
         {
-          "isbn": "좋은생각2026년09월호",
-          "title": "좋은생각 2026년 09월호",
-          "author": "좋은생각 편집부 저",
+          "isbn": "최소한의뇌과학",
+          "title": "최소한의 뇌과학",
+          "author": "양은우 저",
           "pub": "",
           "yes24_crema": {
-            "t": 45,
-            "pid": "195435034",
+            "t": 32,
+            "pid": "183835644",
+            "ship": "",
+            "audio": false,
+            "p": 22
+          },
+          "hkey": "최소한의뇌과학"
+        },
+        {
+          "isbn": "나의첫아크릴마카드로잉",
+          "title": "나의 첫 아크릴 마카 드로잉",
+          "author": "구현선 저",
+          "pub": "",
+          "yes24_crema": {
+            "t": 33,
+            "pid": "195242819",
             "ship": "",
             "audio": false,
             "p": null
           },
-          "hkey": "좋은생각2026년09월호"
+          "hkey": "나의첫아크릴마카드로잉"
         },
         {
-          "isbn": "그리스인조르바열린책들세계문학021",
-          "title": "그리스인 조르바 - 열린책들 세계문학 021",
-          "author": "니코스 카잔차키스 저/이윤기 역",
+          "isbn": "마흔에읽는한국사",
+          "title": "마흔에 읽는 한국사",
+          "author": "신동욱 저",
           "pub": "",
           "yes24_crema": {
-            "t": 46,
-            "pid": "13515952",
+            "t": 34,
+            "pid": "193464201",
             "ship": "",
             "audio": false,
-            "p": null
+            "p": 17
           },
-          "hkey": "그리스인조르바열린책들세계문학021"
+          "hkey": "마흔에읽는한국사"
         },
         {
-          "isbn": "다시초격차",
-          "title": "다시, 초격차",
-          "author": "권오현 저",
+          "isbn": "긴키지방의어느장소에대하여두번째기록",
+          "title": "긴키 지방의 어느 장소에 대하여 두 번째 기록",
+          "author": "세스지 저/전선영 역",
           "pub": "",
           "yes24_crema": {
-            "t": 47,
-            "pid": "194758834",
+            "t": 35,
+            "pid": "192979331",
+            "ship": "",
+            "audio": false,
+            "p": 38
+          },
+          "hkey": "긴키지방의어느장소에대하여두번째기록"
+        },
+        {
+          "isbn": "테오",
+          "title": "테오",
+          "author": "앨런 레비 저/노지양 역",
+          "pub": "오팬하우스",
+          "yes24_crema": {
+            "t": 36,
+            "pid": "194005872",
             "ship": "",
             "audio": false,
             "p": 25
           },
-          "hkey": "다시초격차"
+          "kyobo_unlimited": {
+            "t": 10,
+            "pid": "E000013288624",
+            "ship": "",
+            "audio": false,
+            "p": 14
+          },
+          "kyobo_premium": {
+            "t": 8,
+            "pid": "E000013288624",
+            "ship": "",
+            "audio": false,
+            "p": 5
+          },
+          "millie": {
+            "t": 10,
+            "pid": "c2cdcb8db2a442cf",
+            "ship": "",
+            "audio": false,
+            "p": 9
+          },
+          "hkey": "테오"
         },
         {
-          "isbn": "위버멘쉬",
-          "title": "위버멘쉬",
-          "author": "프리드리히 니체 저/어나니머스 역",
+          "isbn": "진보와빈곤",
+          "title": "진보와 빈곤",
+          "author": "김윤상,박창수 공저",
           "pub": "",
           "yes24_crema": {
-            "t": 48,
-            "pid": "144117444",
+            "t": 37,
+            "pid": "195412964",
             "ship": "",
             "audio": false,
             "p": null
           },
-          "hkey": "위버멘쉬"
+          "hkey": "진보와빈곤"
+        },
+        {
+          "isbn": "10권독서법",
+          "title": "10권 독서법",
+          "author": "하토야마 레히토 저/원선미 역",
+          "pub": "",
+          "yes24_crema": {
+            "t": 38,
+            "pid": "195435736",
+            "ship": "",
+            "audio": false,
+            "p": 18
+          },
+          "hkey": "10권독서법"
+        },
+        {
+          "isbn": "불안한날에니체를읽는다",
+          "title": "불안한 날에 니체를 읽는다",
+          "author": "프리드리히 니체 저/김상현 역",
+          "pub": "",
+          "yes24_crema": {
+            "t": 39,
+            "pid": "192491309",
+            "ship": "",
+            "audio": false,
+            "p": 35
+          },
+          "hkey": "불안한날에니체를읽는다"
+        },
+        {
+          "isbn": "삶이묻고고전이답했다",
+          "title": "삶이 묻고 고전이 답했다",
+          "author": "김헌,김월회 저",
+          "pub": "",
+          "yes24_crema": {
+            "t": 40,
+            "pid": "183835645",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "삶이묻고고전이답했다"
+        },
+        {
+          "isbn": "삶에사랑이없다면그무엇이의미있으랴",
+          "title": "삶에 사랑이 없다면, 그 무엇이 의미 있으랴",
+          "author": "에리히 프롬 저/이근오 편",
+          "pub": "",
+          "yes24_crema": {
+            "t": 41,
+            "pid": "150615098",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "삶에사랑이없다면그무엇이의미있으랴"
         },
         {
           "isbn": "꾸뻬씨의행복여행",
@@ -892,41 +766,139 @@
           "author": "프랑수아 를로르 저/오유란 역",
           "pub": "",
           "yes24_crema": {
-            "t": 49,
+            "t": 42,
             "pid": "8729497",
             "ship": "",
             "audio": false,
-            "p": null
+            "p": 49
           },
           "hkey": "꾸뻬씨의행복여행"
         },
         {
-          "isbn": "영어어원80일간의세계일주",
-          "title": "영어 어원 80일간의 세계 일주",
-          "author": "폴 앤서니 존스 저/고정아 역",
+          "isbn": "하루한장단단한삶을위한고전필사노트",
+          "title": "하루 한 장, 단단한 삶을 위한 고전 필사 노트",
+          "author": "김선영 저",
           "pub": "",
           "yes24_crema": {
-            "t": 50,
-            "pid": "195103210",
-            "ship": "",
-            "audio": false,
-            "p": 48
-          },
-          "hkey": "영어어원80일간의세계일주"
-        },
-        {
-          "isbn": "그날의세계사",
-          "title": "그날의 세계사",
-          "author": "썬킴",
-          "pub": "블랙피쉬",
-          "kyobo_unlimited": {
-            "t": 1,
-            "pid": "E000011515072",
+            "t": 43,
+            "pid": "186952166",
             "ship": "",
             "audio": false,
             "p": null
           },
-          "hkey": "그날의세계사"
+          "hkey": "하루한장단단한삶을위한고전필사노트"
+        },
+        {
+          "isbn": "가공범",
+          "title": "가공범",
+          "author": "히가시노 게이고 저/김선영 역",
+          "pub": "북다",
+          "yes24_crema": {
+            "t": 44,
+            "pid": "151644106",
+            "ship": "",
+            "audio": false,
+            "p": 31
+          },
+          "kyobo_unlimited": {
+            "t": 17,
+            "pid": "E000011684211",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "가공범"
+        },
+        {
+          "isbn": "세입자",
+          "title": "세입자",
+          "author": "프리다 맥파든 저/이경아 역",
+          "pub": "",
+          "yes24_crema": {
+            "t": 45,
+            "pid": "195084255",
+            "ship": "",
+            "audio": false,
+            "p": 28
+          },
+          "millie": {
+            "t": 29,
+            "pid": "546d76659a5b4a55",
+            "ship": "",
+            "audio": false,
+            "p": 26
+          },
+          "hkey": "세입자"
+        },
+        {
+          "isbn": "그리스로마신화1권개정판",
+          "title": "그리스 로마 신화 1권 (개정판)",
+          "author": "박시연 글/최우빈 그림/김헌 감수",
+          "pub": "",
+          "yes24_crema": {
+            "t": 46,
+            "pid": "120014644",
+            "ship": "",
+            "audio": false,
+            "p": 30
+          },
+          "hkey": "그리스로마신화1권개정판"
+        },
+        {
+          "isbn": "호감가는사람은말투가다르다",
+          "title": "호감 가는 사람은 말투가 다르다",
+          "author": "박근일 저",
+          "pub": "",
+          "yes24_crema": {
+            "t": 47,
+            "pid": "140409057",
+            "ship": "",
+            "audio": false,
+            "p": 27
+          },
+          "hkey": "호감가는사람은말투가다르다"
+        },
+        {
+          "isbn": "미국주식투자의정석",
+          "title": "미국 주식 투자의 정석",
+          "author": "최철 저",
+          "pub": "",
+          "yes24_crema": {
+            "t": 48,
+            "pid": "142289215",
+            "ship": "",
+            "audio": false,
+            "p": 23
+          },
+          "hkey": "미국주식투자의정석"
+        },
+        {
+          "isbn": "달러구트꿈백화점0",
+          "title": "달러구트 꿈 백화점 0",
+          "author": "이미예 저",
+          "pub": "",
+          "yes24_crema": {
+            "t": 49,
+            "pid": "192681802",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "달러구트꿈백화점0"
+        },
+        {
+          "isbn": "저지금탑승합니다",
+          "title": "저 지금 탑승합니다",
+          "author": "정보라 저",
+          "pub": "",
+          "yes24_crema": {
+            "t": 50,
+            "pid": "195242809",
+            "ship": "",
+            "audio": false,
+            "p": 43
+          },
+          "hkey": "저지금탑승합니다"
         },
         {
           "isbn": "데일카네기의인간관계수업",
@@ -941,11 +913,11 @@
             "p": 3
           },
           "kyobo_premium": {
-            "t": 14,
+            "t": 11,
             "pid": "E000013447239",
             "ship": "",
             "audio": false,
-            "p": 7
+            "p": 14
           },
           "hkey": "데일카네기의인간관계수업"
         },
@@ -955,20 +927,34 @@
           "author": "서정, 제시모어, 쓰리쿼터 지음",
           "pub": "경이로움",
           "kyobo_unlimited": {
-            "t": 8,
+            "t": 6,
             "pid": "E000013414122",
             "ship": "",
             "audio": false,
-            "p": 20
-          },
-          "kyobo_premium": {
-            "t": 16,
-            "pid": "E000013414122",
-            "ship": "",
-            "audio": false,
-            "p": 11
+            "p": 8
           },
           "hkey": "직장인입니다만주식으로더법니다"
+        },
+        {
+          "isbn": "그날의세계사",
+          "title": "그날의 세계사",
+          "author": "썬킴",
+          "pub": "블랙피쉬",
+          "kyobo_unlimited": {
+            "t": 7,
+            "pid": "E000011515072",
+            "ship": "",
+            "audio": false,
+            "p": 1
+          },
+          "kyobo_premium": {
+            "t": 13,
+            "pid": "E000011515072",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "그날의세계사"
         },
         {
           "isbn": "매일출근하는사람은자신이꽤멋진사람이라는걸모른다",
@@ -976,20 +962,41 @@
           "author": "함주원 지음",
           "pub": "시프",
           "kyobo_unlimited": {
-            "t": 10,
+            "t": 9,
             "pid": "E000013448738",
             "ship": "",
             "audio": false,
-            "p": 9
+            "p": 10
           },
           "kyobo_premium": {
-            "t": 19,
+            "t": 16,
             "pid": "E000013448738",
             "ship": "",
             "audio": false,
-            "p": null
+            "p": 19
           },
           "hkey": "매일출근하는사람은자신이꽤멋진사람이라는걸모른다"
+        },
+        {
+          "isbn": "우월한열등감",
+          "title": "우월한 열등감",
+          "author": "알프레드 아들러 지음",
+          "pub": "저녁달",
+          "kyobo_unlimited": {
+            "t": 11,
+            "pid": "E000012984044",
+            "ship": "",
+            "audio": false,
+            "p": 13
+          },
+          "kyobo_premium": {
+            "t": 6,
+            "pid": "E000012984044",
+            "ship": "",
+            "audio": false,
+            "p": 12
+          },
+          "hkey": "우월한열등감"
         },
         {
           "isbn": "내생애첫번째철학수업",
@@ -997,18 +1004,11 @@
           "author": "소렌 베일 지음",
           "pub": "더케이북스",
           "kyobo_unlimited": {
-            "t": 11,
+            "t": 12,
             "pid": "E000013461775",
             "ship": "",
             "audio": false,
-            "p": 8
-          },
-          "kyobo_premium": {
-            "t": 10,
-            "pid": "E000013461775",
-            "ship": "",
-            "audio": false,
-            "p": 17
+            "p": 11
           },
           "hkey": "내생애첫번째철학수업"
         },
@@ -1018,34 +1018,13 @@
           "author": "토머스 불핀치 지음",
           "pub": "가나출판사",
           "kyobo_unlimited": {
-            "t": 12,
+            "t": 14,
             "pid": "E000003096545",
             "ship": "",
             "audio": false,
-            "p": 7
+            "p": 12
           },
           "hkey": "그리스로마신화1"
-        },
-        {
-          "isbn": "우월한열등감",
-          "title": "우월한 열등감",
-          "author": "알프레드 아들러 지음",
-          "pub": "저녁달",
-          "kyobo_unlimited": {
-            "t": 13,
-            "pid": "E000012984044",
-            "ship": "",
-            "audio": false,
-            "p": 10
-          },
-          "kyobo_premium": {
-            "t": 12,
-            "pid": "E000012984044",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "우월한열등감"
         },
         {
           "isbn": "행복",
@@ -1059,105 +1038,91 @@
             "audio": false,
             "p": 15
           },
+          "kyobo_premium": {
+            "t": 18,
+            "pid": "E000013278788",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
           "hkey": "행복"
         },
         {
-          "isbn": "굿트레이더압도적수익의주식투자법",
-          "title": "굿트레이더 압도적 수익의 주식투자법",
-          "author": "굿트레이더(이정훈) 지음",
-          "pub": "베가북스",
-          "kyobo_unlimited": {
-            "t": 17,
-            "pid": "E000013438005",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "굿트레이더압도적수익의주식투자법"
-        },
-        {
-          "isbn": "그리스로마신화20아이네이아스와로마",
-          "title": "그리스 로마 신화. 20: 아이네이아스와 로마",
-          "author": "토머스 불핀치 지음",
-          "pub": "가나출판사",
+          "isbn": "바로바로클로드with코워크스킬클로드코드디자인",
+          "title": "바로바로 클로드 with 코워크, 스킬, 클로드 코드, 디자인",
+          "author": "차진우 지음",
+          "pub": "골든래빗(주)",
           "kyobo_unlimited": {
             "t": 18,
-            "pid": "E000003210991",
+            "pid": "E000013085078",
             "ship": "",
             "audio": false,
-            "p": 12
+            "p": null
           },
-          "hkey": "그리스로마신화20아이네이아스와로마"
+          "hkey": "바로바로클로드with코워크스킬클로드코드디자인"
         },
         {
-          "isbn": "더티처",
-          "title": "더 티처",
-          "author": "프리다 맥파든 지음",
-          "pub": "해피북스투유",
+          "isbn": "니체의초월자",
+          "title": "니체의 초월자",
+          "author": "프리드리히 니체",
+          "pub": "히읏",
           "kyobo_unlimited": {
             "t": 19,
-            "pid": "E000013014378",
+            "pid": "E000012437383",
             "ship": "",
             "audio": false,
             "p": null
           },
-          "hkey": "더티처"
+          "millie": {
+            "t": 33,
+            "pid": "ee0a8a960d254e62",
+            "ship": "",
+            "audio": false,
+            "p": 35
+          },
+          "hkey": "니체의초월자"
         },
         {
-          "isbn": "슬픔은다거짓이야",
-          "title": "슬픔은 다 거짓이야",
-          "author": "대니얼 나예리 지음",
-          "pub": "해피북스투유",
+          "isbn": "돈의속성400쇄리커버에디션",
+          "title": "돈의 속성(400쇄 리커버에디션)",
+          "author": "김승호",
+          "pub": "스노우폭스북스",
           "kyobo_unlimited": {
             "t": 20,
-            "pid": "E000013461593",
+            "pid": "E000002981270",
             "ship": "",
             "audio": false,
             "p": null
           },
-          "hkey": "슬픔은다거짓이야"
-        },
-        {
-          "isbn": "모옌기담집",
-          "title": "모옌 기담집",
-          "author": "모옌 지음",
-          "pub": "글항아리",
           "kyobo_premium": {
-            "t": 6,
-            "pid": "E000012986508",
+            "t": 15,
+            "pid": "E000002981270",
             "ship": "",
             "audio": false,
-            "p": 10
+            "p": null
           },
-          "hkey": "모옌기담집"
+          "hkey": "돈의속성400쇄리커버에디션"
         },
         {
-          "isbn": "우치다햣켄기담집",
-          "title": "우치다 햣켄 기담집",
-          "author": "우치다 햣켄",
-          "pub": "글항아리",
+          "isbn": "삶은그대에게잘해줄의무가없다",
+          "title": "삶은 그대에게 잘해줄 의무가 없다",
+          "author": "페마 쵸드론 지음",
+          "pub": "윌마",
           "kyobo_premium": {
-            "t": 8,
-            "pid": "E000009021903",
+            "t": 7,
+            "pid": "E000013410903",
             "ship": "",
             "audio": false,
-            "p": 8
+            "p": null
           },
-          "hkey": "우치다햣켄기담집"
-        },
-        {
-          "isbn": "나쓰메소세키기담집",
-          "title": "나쓰메 소세키 기담집",
-          "author": "나쓰메 소세키",
-          "pub": "글항아리",
-          "kyobo_premium": {
-            "t": 9,
-            "pid": "E000007690604",
+          "millie": {
+            "t": 11,
+            "pid": "16dffba275ff46e9",
             "ship": "",
             "audio": false,
-            "p": 9
+            "p": 13
           },
-          "hkey": "나쓰메소세키기담집"
+          "hkey": "삶은그대에게잘해줄의무가없다"
         },
         {
           "isbn": "빵충사육준수사항",
@@ -1165,20 +1130,48 @@
           "author": "김혜영 지음",
           "pub": "안전가옥",
           "kyobo_premium": {
-            "t": 13,
+            "t": 9,
             "pid": "E000013477144",
             "ship": "",
             "audio": false,
-            "p": 12
+            "p": 13
           },
           "millie": {
-            "t": 20,
+            "t": 17,
             "pid": "2674d1b2b1d749c3",
             "ship": "",
             "audio": false,
-            "p": 25
+            "p": 20
           },
           "hkey": "빵충사육준수사항"
+        },
+        {
+          "isbn": "수족관",
+          "title": "수족관",
+          "author": "유래혁 지음",
+          "pub": "포스터샵",
+          "kyobo_premium": {
+            "t": 12,
+            "pid": "E000013351230",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "수족관"
+        },
+        {
+          "isbn": "사람장소환대",
+          "title": "사람, 장소, 환대",
+          "author": "김현경",
+          "pub": "문학과지성사",
+          "kyobo_premium": {
+            "t": 14,
+            "pid": "E000003082109",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "사람장소환대"
         },
         {
           "isbn": "인플레이션은누구를부자로만드는가",
@@ -1186,27 +1179,41 @@
           "author": "신환종 지음",
           "pub": "포레스트북스",
           "kyobo_premium": {
-            "t": 15,
+            "t": 17,
             "pid": "E000013419135",
             "ship": "",
             "audio": false,
-            "p": null
+            "p": 15
           },
           "hkey": "인플레이션은누구를부자로만드는가"
         },
         {
-          "isbn": "부의갈림길",
-          "title": "부의 갈림길",
-          "author": "오건영 지음",
-          "pub": "포레스트북스",
+          "isbn": "모옌기담집",
+          "title": "모옌 기담집",
+          "author": "모옌 지음",
+          "pub": "글항아리",
           "kyobo_premium": {
             "t": 20,
-            "pid": "E000013146249",
+            "pid": "E000012986508",
+            "ship": "",
+            "audio": false,
+            "p": 6
+          },
+          "hkey": "모옌기담집"
+        },
+        {
+          "isbn": "당신의말이곧당신의수준이다",
+          "title": "당신의 말이 곧 당신의 수준이다",
+          "author": "루트비히 비트겐슈타인 지음 / 이근오 옮김",
+          "pub": "모티브",
+          "millie": {
+            "t": 1,
+            "pid": "3b5c7e9fd7de4aee",
             "ship": "",
             "audio": false,
             "p": null
           },
-          "hkey": "부의갈림길"
+          "hkey": "당신의말이곧당신의수준이다"
         },
         {
           "isbn": "혼모노",
@@ -1214,27 +1221,27 @@
           "author": "성해나",
           "pub": "창비",
           "millie": {
-            "t": 1,
+            "t": 2,
             "pid": "ee335c0dbe4c4d92",
             "ship": "",
             "audio": false,
-            "p": 28
+            "p": 1
           },
           "hkey": "혼모노"
         },
         {
-          "isbn": "절제수업",
-          "title": "절제 수업",
-          "author": "라이언 홀리데이",
-          "pub": "다산초당",
+          "isbn": "계절쓰기",
+          "title": "계절 쓰기",
+          "author": "김연수, 홍한별, 김소연, 허태임, 전의령, 윤경희, 김지승, 은유",
+          "pub": "물결점",
           "millie": {
-            "t": 2,
-            "pid": "39a9e0c89a3c427d",
+            "t": 3,
+            "pid": "2ab61ce41c1f4bbb",
             "ship": "",
             "audio": false,
             "p": null
           },
-          "hkey": "절제수업"
+          "hkey": "계절쓰기"
         },
         {
           "isbn": "투명한나선__audio",
@@ -1242,27 +1249,13 @@
           "author": "히가시노 게이고 지음 / 김선영 옮김",
           "pub": "북다",
           "millie": {
-            "t": 3,
+            "t": 4,
             "pid": "cbc60d16e5514b00",
             "ship": "",
             "audio": true,
-            "p": 5
+            "p": 3
           },
           "hkey": "투명한나선__audio"
-        },
-        {
-          "isbn": "불안한완벽주의자를위한책",
-          "title": "불안한 완벽주의자를 위한 책",
-          "author": "마이클 투히그, 클라리사 옹 지음 / 이진 옮김",
-          "pub": "수오서재",
-          "millie": {
-            "t": 5,
-            "pid": "076f818aeb5e482b",
-            "ship": "",
-            "audio": false,
-            "p": 1
-          },
-          "hkey": "불안한완벽주의자를위한책"
         },
         {
           "isbn": "오디세이아영화<오디세이>원작",
@@ -1274,23 +1267,37 @@
             "pid": "d878c289f83f4e28",
             "ship": "",
             "audio": false,
-            "p": 3
+            "p": 6
           },
           "hkey": "오디세이아영화<오디세이>원작"
         },
         {
-          "isbn": "나는왜무기력을되풀이하는가",
-          "title": "나는 왜 무기력을 되풀이하는가",
-          "author": "에리히프롬 지음, 장혜경 옮김",
-          "pub": "나무생각",
+          "isbn": "불안한완벽주의자를위한책",
+          "title": "불안한 완벽주의자를 위한 책",
+          "author": "마이클 투히그, 클라리사 옹 지음 / 이진 옮김",
+          "pub": "수오서재",
           "millie": {
             "t": 7,
-            "pid": "d66ad33664e841d6",
+            "pid": "076f818aeb5e482b",
+            "ship": "",
+            "audio": false,
+            "p": 5
+          },
+          "hkey": "불안한완벽주의자를위한책"
+        },
+        {
+          "isbn": "절제수업",
+          "title": "절제 수업",
+          "author": "라이언 홀리데이",
+          "pub": "다산초당",
+          "millie": {
+            "t": 8,
+            "pid": "39a9e0c89a3c427d",
             "ship": "",
             "audio": false,
             "p": 2
           },
-          "hkey": "나는왜무기력을되풀이하는가"
+          "hkey": "절제수업"
         },
         {
           "isbn": "만화로보는그리스로마신화1",
@@ -1298,97 +1305,55 @@
           "author": "토머스불핀치 지음, 이광진 옮김",
           "pub": "가나출판사",
           "millie": {
-            "t": 8,
+            "t": 9,
             "pid": "f279e7b789d04187",
-            "ship": "",
-            "audio": false,
-            "p": 7
-          },
-          "hkey": "만화로보는그리스로마신화1"
-        },
-        {
-          "isbn": "우리가열번을나고죽을때",
-          "title": "우리가 열 번을 나고 죽을 때",
-          "author": "성해나",
-          "pub": "위즈덤하우스",
-          "millie": {
-            "t": 10,
-            "pid": "71ccd0a9cfe74fb7",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "우리가열번을나고죽을때"
-        },
-        {
-          "isbn": "두고온여름",
-          "title": "두고 온 여름",
-          "author": "성해나",
-          "pub": "창비",
-          "millie": {
-            "t": 11,
-            "pid": "0f4f0b8d29224c29",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "두고온여름"
-        },
-        {
-          "isbn": "할매",
-          "title": "할매",
-          "author": "황석영",
-          "pub": "창비",
-          "millie": {
-            "t": 12,
-            "pid": "d809c73df1254b60",
             "ship": "",
             "audio": false,
             "p": 8
           },
-          "hkey": "할매"
+          "hkey": "만화로보는그리스로마신화1"
         },
         {
-          "isbn": "삶은그대에게잘해줄의무가없다",
-          "title": "삶은 그대에게 잘해줄 의무가 없다",
-          "author": "페마 쵸드론 지음 / 신동숙 옮김",
-          "pub": "윌마",
+          "isbn": "대화할때필요한최소한의상식어휘력__audio",
+          "title": "대화할 때 필요한 최소한의 상식 - 어휘력",
+          "author": "오원재",
+          "pub": "미노바",
+          "millie": {
+            "t": 12,
+            "pid": "09df2fa5ec394eb6",
+            "ship": "",
+            "audio": true,
+            "p": 25
+          },
+          "hkey": "대화할때필요한최소한의상식어휘력__audio"
+        },
+        {
+          "isbn": "나는왜무기력을되풀이하는가",
+          "title": "나는 왜 무기력을 되풀이하는가",
+          "author": "에리히프롬 지음, 장혜경 옮김",
+          "pub": "나무생각",
           "millie": {
             "t": 13,
-            "pid": "16dffba275ff46e9",
+            "pid": "d66ad33664e841d6",
             "ship": "",
             "audio": false,
-            "p": 22
+            "p": 7
           },
-          "hkey": "삶은그대에게잘해줄의무가없다"
+          "hkey": "나는왜무기력을되풀이하는가"
         },
         {
-          "isbn": "세상친절한경제상식개정판",
-          "title": "세상 친절한 경제상식(개정판)",
-          "author": "토리텔러",
-          "pub": "미래의창 주식회사",
+          "isbn": "김경일의마음트래킹__audio",
+          "title": "김경일의 마음 트래킹",
+          "author": "김경일",
+          "pub": "21세기북스",
           "millie": {
-            "t": 15,
-            "pid": "3490dbfe8bce4671",
+            "t": 14,
+            "pid": "255813b417e94dc4",
             "ship": "",
-            "audio": false,
-            "p": 11
-          },
-          "hkey": "세상친절한경제상식개정판"
-        },
-        {
-          "isbn": "안녕이라그랬어",
-          "title": "안녕이라 그랬어",
-          "author": "김애란",
-          "pub": "문학동네",
-          "millie": {
-            "t": 16,
-            "pid": "4e19a19b257f4eef",
-            "ship": "",
-            "audio": false,
+            "audio": true,
             "p": 24
           },
-          "hkey": "안녕이라그랬어"
+          "hkey": "김경일의마음트래킹__audio"
         },
         {
           "isbn": "오디세이아영화<오디세이>원작__audio",
@@ -1396,13 +1361,27 @@
           "author": "호메로스 지음 / 박문재 옮김",
           "pub": "현대지성",
           "millie": {
-            "t": 17,
+            "t": 16,
             "pid": "fd351dcc116649aa",
             "ship": "",
             "audio": true,
-            "p": 12
+            "p": 17
           },
           "hkey": "오디세이아영화<오디세이>원작__audio"
+        },
+        {
+          "isbn": "안녕이라그랬어",
+          "title": "안녕이라 그랬어",
+          "author": "김애란",
+          "pub": "문학동네",
+          "millie": {
+            "t": 19,
+            "pid": "4e19a19b257f4eef",
+            "ship": "",
+            "audio": false,
+            "p": 16
+          },
+          "hkey": "안녕이라그랬어"
         },
         {
           "isbn": "호신술클럽",
@@ -1410,125 +1389,41 @@
           "author": "김지윤",
           "pub": "밀리의서재",
           "millie": {
-            "t": 18,
+            "t": 20,
             "pid": "3ce3bc37200f4920",
-            "ship": "",
-            "audio": false,
-            "p": 13
-          },
-          "hkey": "호신술클럽"
-        },
-        {
-          "isbn": "용의자x의헌신",
-          "title": "용의자 X의 헌신",
-          "author": "히가시노 게이고 지음 / 양억관 옮김",
-          "pub": "",
-          "millie": {
-            "t": 22,
-            "pid": "efea57b238cf4fd5",
             "ship": "",
             "audio": false,
             "p": 18
           },
-          "hkey": "용의자x의헌신"
+          "hkey": "호신술클럽"
         },
         {
-          "isbn": "나미야잡화점의기적",
-          "title": "나미야 잡화점의 기적",
-          "author": "히가시노 게이고 지음 / 양윤옥 옮김",
+          "isbn": "우리가열번을나고죽을때",
+          "title": "우리가 열 번을 나고 죽을 때",
+          "author": "성해나",
+          "pub": "",
+          "millie": {
+            "t": 21,
+            "pid": "71ccd0a9cfe74fb7",
+            "ship": "",
+            "audio": false,
+            "p": 10
+          },
+          "hkey": "우리가열번을나고죽을때"
+        },
+        {
+          "isbn": "두고온여름",
+          "title": "두고 온 여름",
+          "author": "성해나",
           "pub": "",
           "millie": {
             "t": 23,
-            "pid": "73315e3e05784065",
+            "pid": "0f4f0b8d29224c29",
             "ship": "",
             "audio": false,
-            "p": 46
+            "p": 11
           },
-          "hkey": "나미야잡화점의기적"
-        },
-        {
-          "isbn": "김경일의마음트래킹__audio",
-          "title": "김경일의 마음 트래킹",
-          "author": "김경일",
-          "pub": "",
-          "millie": {
-            "t": 24,
-            "pid": "255813b417e94dc4",
-            "ship": "",
-            "audio": true,
-            "p": 31
-          },
-          "hkey": "김경일의마음트래킹__audio"
-        },
-        {
-          "isbn": "대화할때필요한최소한의상식어휘력__audio",
-          "title": "대화할 때 필요한 최소한의 상식 - 어휘력",
-          "author": "오원재",
-          "pub": "",
-          "millie": {
-            "t": 25,
-            "pid": "09df2fa5ec394eb6",
-            "ship": "",
-            "audio": true,
-            "p": null
-          },
-          "hkey": "대화할때필요한최소한의상식어휘력__audio"
-        },
-        {
-          "isbn": "너는원래괜찮은사람이야",
-          "title": "너는 원래 괜찮은 사람이야",
-          "author": "윤지영",
-          "pub": "",
-          "millie": {
-            "t": 27,
-            "pid": "a321dd95cf564ea7",
-            "ship": "",
-            "audio": false,
-            "p": 6
-          },
-          "hkey": "너는원래괜찮은사람이야"
-        },
-        {
-          "isbn": "독하게돈공부__audio",
-          "title": "독하게 돈 공부",
-          "author": "박소연",
-          "pub": "",
-          "millie": {
-            "t": 28,
-            "pid": "288e15973d2d4533",
-            "ship": "",
-            "audio": true,
-            "p": null
-          },
-          "hkey": "독하게돈공부__audio"
-        },
-        {
-          "isbn": "내가죽였다__audio",
-          "title": "내가 죽였다",
-          "author": "정해연",
-          "pub": "",
-          "millie": {
-            "t": 31,
-            "pid": "7766c199cb754c19",
-            "ship": "",
-            "audio": true,
-            "p": 17
-          },
-          "hkey": "내가죽였다__audio"
-        },
-        {
-          "isbn": "정답없음",
-          "title": "정답 없음",
-          "author": "김상욱, 김윤하, 김재원, 위근우, 전성진, 최재훈 ",
-          "pub": "",
-          "millie": {
-            "t": 33,
-            "pid": "27f4d49403ea4039",
-            "ship": "",
-            "audio": false,
-            "p": 9
-          },
-          "hkey": "정답없음"
+          "hkey": "두고온여름"
         },
         {
           "isbn": "뇌가멈추기전에__audio",
@@ -1536,27 +1431,55 @@
           "author": "이승훈",
           "pub": "",
           "millie": {
-            "t": 34,
+            "t": 24,
             "pid": "158187826dfe438d",
             "ship": "",
             "audio": true,
-            "p": 39
+            "p": 34
           },
           "hkey": "뇌가멈추기전에__audio"
         },
         {
-          "isbn": "니체의초월자",
-          "title": "니체의 초월자",
-          "author": "프리드리히 니체 지음 / 김철 옮김",
+          "isbn": "세상친절한경제상식개정판",
+          "title": "세상 친절한 경제상식(개정판)",
+          "author": "토리텔러",
           "pub": "",
           "millie": {
-            "t": 35,
-            "pid": "ee0a8a960d254e62",
+            "t": 25,
+            "pid": "3490dbfe8bce4671",
             "ship": "",
             "audio": false,
-            "p": 38
+            "p": 15
           },
-          "hkey": "니체의초월자"
+          "hkey": "세상친절한경제상식개정판"
+        },
+        {
+          "isbn": "할매",
+          "title": "할매",
+          "author": "황석영",
+          "pub": "",
+          "millie": {
+            "t": 26,
+            "pid": "d809c73df1254b60",
+            "ship": "",
+            "audio": false,
+            "p": 12
+          },
+          "hkey": "할매"
+        },
+        {
+          "isbn": "용의자x의헌신",
+          "title": "용의자 X의 헌신",
+          "author": "히가시노 게이고 지음 / 양억관 옮김",
+          "pub": "",
+          "millie": {
+            "t": 28,
+            "pid": "efea57b238cf4fd5",
+            "ship": "",
+            "audio": false,
+            "p": 22
+          },
+          "hkey": "용의자x의헌신"
         },
         {
           "isbn": "가면산장살인사건",
@@ -1564,13 +1487,139 @@
           "author": "히가시노 게이고 / 김난주",
           "pub": "",
           "millie": {
-            "t": 36,
+            "t": 31,
             "pid": "e58fadd3365a4bf9",
             "ship": "",
             "audio": false,
-            "p": 41
+            "p": 36
           },
           "hkey": "가면산장살인사건"
+        },
+        {
+          "isbn": "피터케이의이기는투자불변의법칙__audio",
+          "title": "피터케이의 이기는 투자 불변의 법칙",
+          "author": "피터케이",
+          "pub": "",
+          "millie": {
+            "t": 32,
+            "pid": "86b4e845ec3a469c",
+            "ship": "",
+            "audio": true,
+            "p": 50
+          },
+          "hkey": "피터케이의이기는투자불변의법칙__audio"
+        },
+        {
+          "isbn": "용의자x의헌신__audio",
+          "title": "용의자 X의 헌신",
+          "author": "히가시노 게이고 지음 / 양억관 옮김",
+          "pub": "",
+          "millie": {
+            "t": 34,
+            "pid": "397c5bf20c134e1e",
+            "ship": "",
+            "audio": true,
+            "p": null
+          },
+          "hkey": "용의자x의헌신__audio"
+        },
+        {
+          "isbn": "홍학의자리",
+          "title": "홍학의 자리",
+          "author": "정해연",
+          "pub": "",
+          "millie": {
+            "t": 35,
+            "pid": "806508b09ed74322",
+            "ship": "",
+            "audio": false,
+            "p": 38
+          },
+          "hkey": "홍학의자리"
+        },
+        {
+          "isbn": "내가죽였다__audio",
+          "title": "내가 죽였다",
+          "author": "정해연",
+          "pub": "",
+          "millie": {
+            "t": 36,
+            "pid": "7766c199cb754c19",
+            "ship": "",
+            "audio": true,
+            "p": 31
+          },
+          "hkey": "내가죽였다__audio"
+        },
+        {
+          "isbn": "독하게돈공부__audio",
+          "title": "독하게 돈 공부",
+          "author": "박소연",
+          "pub": "",
+          "millie": {
+            "t": 37,
+            "pid": "288e15973d2d4533",
+            "ship": "",
+            "audio": true,
+            "p": 28
+          },
+          "hkey": "독하게돈공부__audio"
+        },
+        {
+          "isbn": "나미야잡화점의기적",
+          "title": "나미야 잡화점의 기적",
+          "author": "히가시노 게이고 지음 / 양윤옥 옮김",
+          "pub": "",
+          "millie": {
+            "t": 39,
+            "pid": "73315e3e05784065",
+            "ship": "",
+            "audio": false,
+            "p": 23
+          },
+          "hkey": "나미야잡화점의기적"
+        },
+        {
+          "isbn": "달러구트꿈백화점",
+          "title": "달러구트 꿈 백화점",
+          "author": "이미예 지음",
+          "pub": "",
+          "millie": {
+            "t": 41,
+            "pid": "b4dae53d85434f58",
+            "ship": "",
+            "audio": false,
+            "p": 40
+          },
+          "hkey": "달러구트꿈백화점"
+        },
+        {
+          "isbn": "대온실수리보고서",
+          "title": "대온실 수리 보고서",
+          "author": "김금희",
+          "pub": "",
+          "millie": {
+            "t": 42,
+            "pid": "175b16a62582452e",
+            "ship": "",
+            "audio": false,
+            "p": 47
+          },
+          "hkey": "대온실수리보고서"
+        },
+        {
+          "isbn": "눈물을마시는새1",
+          "title": "눈물을 마시는 새 1",
+          "author": "이영도",
+          "pub": "",
+          "millie": {
+            "t": 43,
+            "pid": "b1bc577bd4e34497",
+            "ship": "",
+            "audio": false,
+            "p": 42
+          },
+          "hkey": "눈물을마시는새1"
         },
         {
           "isbn": "내가죽였다",
@@ -1578,7 +1627,7 @@
           "author": "정해연",
           "pub": "",
           "millie": {
-            "t": 37,
+            "t": 44,
             "pid": "73e1fda564f74c8e",
             "ship": "",
             "audio": false,
@@ -1587,74 +1636,18 @@
           "hkey": "내가죽였다"
         },
         {
-          "isbn": "홍학의자리",
-          "title": "홍학의 자리",
-          "author": "정해연",
+          "isbn": "프로젝트헤일메리__audio",
+          "title": "프로젝트 헤일메리",
+          "author": "앤디 위어",
           "pub": "",
           "millie": {
-            "t": 38,
-            "pid": "806508b09ed74322",
-            "ship": "",
-            "audio": false,
-            "p": 43
-          },
-          "hkey": "홍학의자리"
-        },
-        {
-          "isbn": "달러구트꿈백화점",
-          "title": "달러구트 꿈 백화점",
-          "author": "이미예 지음",
-          "pub": "",
-          "millie": {
-            "t": 40,
-            "pid": "b4dae53d85434f58",
-            "ship": "",
-            "audio": false,
-            "p": 45
-          },
-          "hkey": "달러구트꿈백화점"
-        },
-        {
-          "isbn": "절제수업__audio",
-          "title": "절제 수업",
-          "author": "라이언 홀리데이",
-          "pub": "",
-          "millie": {
-            "t": 41,
-            "pid": "3531751f1e994d57",
+            "t": 45,
+            "pid": "15924be3ab024184",
             "ship": "",
             "audio": true,
             "p": null
           },
-          "hkey": "절제수업__audio"
-        },
-        {
-          "isbn": "눈물을마시는새1",
-          "title": "눈물을 마시는 새 1",
-          "author": "이영도",
-          "pub": "",
-          "millie": {
-            "t": 42,
-            "pid": "b1bc577bd4e34497",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "눈물을마시는새1"
-        },
-        {
-          "isbn": "아주작은습관의힘",
-          "title": "아주 작은 습관의 힘",
-          "author": "제임스 클리어 지음 / 이한이 옮김 ",
-          "pub": "",
-          "millie": {
-            "t": 44,
-            "pid": "d41f1da7fa0b4680",
-            "ship": "",
-            "audio": false,
-            "p": null
-          },
-          "hkey": "아주작은습관의힘"
+          "hkey": "프로젝트헤일메리__audio"
         },
         {
           "isbn": "조용히이기는말투의기술",
@@ -1662,69 +1655,69 @@
           "author": "김범준",
           "pub": "",
           "millie": {
-            "t": 45,
+            "t": 46,
             "pid": "57b1e47e2db345be",
             "ship": "",
             "audio": false,
-            "p": 33
+            "p": 45
           },
           "hkey": "조용히이기는말투의기술"
         },
         {
-          "isbn": "파리의심리학카페__audio",
-          "title": "파리의 심리학 카페",
-          "author": "모드 르안 지음 / 김미정 옮김 ",
-          "pub": "",
-          "millie": {
-            "t": 46,
-            "pid": "7d751e172b8d491d",
-            "ship": "",
-            "audio": true,
-            "p": null
-          },
-          "hkey": "파리의심리학카페__audio"
-        },
-        {
-          "isbn": "대온실수리보고서",
-          "title": "대온실 수리 보고서",
-          "author": "김금희",
+          "isbn": "싫어하는사람을사라지게하는방법",
+          "title": "싫어하는 사람을 사라지게 하는 방법",
+          "author": "호리 모토코 지음 / 이은혜 옮김",
           "pub": "",
           "millie": {
             "t": 47,
-            "pid": "175b16a62582452e",
+            "pid": "61efa7370f9c4380",
             "ship": "",
             "audio": false,
-            "p": null
+            "p": 32
           },
-          "hkey": "대온실수리보고서"
+          "hkey": "싫어하는사람을사라지게하는방법"
         },
         {
-          "isbn": "7년의밤",
-          "title": "7년의 밤",
-          "author": "정유정",
+          "isbn": "내시체를찾아주세요",
+          "title": "내 시체를 찾아주세요",
+          "author": "호시즈키 와타루 지음 / 최수영 옮김",
           "pub": "",
           "millie": {
             "t": 48,
-            "pid": "c43de3db9acb4635",
+            "pid": "7ac913b4397841cb",
             "ship": "",
             "audio": false,
             "p": null
           },
-          "hkey": "7년의밤"
+          "hkey": "내시체를찾아주세요"
         },
         {
-          "isbn": "피터케이의이기는투자불변의법칙__audio",
-          "title": "피터케이의 이기는 투자 불변의 법칙",
-          "author": "피터케이",
+          "isbn": "아주작은습관의힘",
+          "title": "아주 작은 습관의 힘",
+          "author": "제임스 클리어 지음 / 이한이 옮김 ",
+          "pub": "",
+          "millie": {
+            "t": 49,
+            "pid": "d41f1da7fa0b4680",
+            "ship": "",
+            "audio": false,
+            "p": 44
+          },
+          "hkey": "아주작은습관의힘"
+        },
+        {
+          "isbn": "싯다르타__audio",
+          "title": "싯다르타",
+          "author": "헤르만 헤세 지음 / 박병덕 옮김 ",
           "pub": "",
           "millie": {
             "t": 50,
-            "pid": "86b4e845ec3a469c",
+            "pid": "a4a3d7846b3d4bea",
             "ship": "",
             "audio": true,
             "p": null
           },
-          "hkey": "피터케이의이기는투자불변의법칙__audio"
+          "hkey": "싯다르타__audio"
         }
       ]
     }
