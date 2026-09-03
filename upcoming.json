@@ -1,17 +1,7 @@
 {
-  "updated": "2026-09-03T08:33:34.558889+09:00",
-  "count": 96,
+  "updated": "2026-09-04T08:32:22.275364+09:00",
+  "count": 95,
   "books": [
-    {
-      "id": "2674d1b2b1d749c3",
-      "title": "빵충 사육 준수 사항",
-      "author": "김혜영",
-      "cover": "https://image.millie.co.kr/service/cover/180174122/9cd3b88667fa4baaac96d7174c35b1b9.jpg",
-      "open_date": "2026-09-04",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
     {
       "id": "44487772f920448f",
       "title": "뒤틀린 사랑",
@@ -43,21 +33,21 @@
       "is_comic": false
     },
     {
-      "id": "da5fcb0dcc9b4033",
-      "title": "주식투자를 잘한다는 것",
-      "author": "육과장",
-      "cover": "https://image.millie.co.kr/service/cover/180174026/56bdf78746ec4345a872f9a875571ac6.jpg",
-      "open_date": "2026-09-05",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "d00b1f6ca73a4544",
       "title": "기억의 무늬",
       "author": "백희성",
       "cover": "https://image.millie.co.kr/service/cover/180176376/007160cc6b364595a2cec2085e4cb0b0.jpg",
       "open_date": "2026-09-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "da5fcb0dcc9b4033",
+      "title": "주식투자를 잘한다는 것",
+      "author": "육과장",
+      "cover": "https://image.millie.co.kr/service/cover/180174026/56bdf78746ec4345a872f9a875571ac6.jpg",
+      "open_date": "2026-09-05",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -133,6 +123,16 @@
       "is_comic": false
     },
     {
+      "id": "19e88cfcf0184062",
+      "title": "시간의 감촉",
+      "author": "은희경",
+      "cover": "https://image.millie.co.kr/service/cover/180176961/6b8a8c348d7d4263930a950496e3c469.jpg",
+      "open_date": "2026-09-28",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "d5f7d472d43a49fe",
       "title": "데일 카네기의 인간관계 수업",
       "author": "데일 카네기 지음 / 김상현 엮음",
@@ -173,21 +173,21 @@
       "is_comic": false
     },
     {
-      "id": "19e88cfcf0184062",
-      "title": "시간의 감촉",
-      "author": "은희경",
-      "cover": "https://image.millie.co.kr/service/cover/180176961/6b8a8c348d7d4263930a950496e3c469.jpg",
-      "open_date": "2026-09-28",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "424014165c494059",
       "title": "된다! 조회수 터지는 인스타그램 릴스 만들기",
       "author": "최지영",
       "cover": "https://image.millie.co.kr/service/cover/180174230/7eabf309e8d344d1bbf554f0a34e05b4.jpg",
       "open_date": "2026-09-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "8325ad0baebd4390",
+      "title": "우리 동네 흉가로 놀러 오세요",
+      "author": "전건우",
+      "cover": "https://image.millie.co.kr/service/cover/180176804/ae6bd9fd1ee94017af72dfeb60cf49df.jpg",
+      "open_date": "2026-09-20",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -203,32 +203,12 @@
       "is_comic": false
     },
     {
-      "id": "8325ad0baebd4390",
-      "title": "우리 동네 흉가로 놀러 오세요",
-      "author": "전건우",
-      "cover": "https://image.millie.co.kr/service/cover/180176804/ae6bd9fd1ee94017af72dfeb60cf49df.jpg",
-      "open_date": "2026-09-20",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "723f244a742d4aa6",
       "title": "Do it! 바이브 코딩 + 안티그래비티",
       "author": "조준수",
       "cover": "https://image.millie.co.kr/service/cover/180174231/1aba37a16e6c4f988341b878703b56b1.jpg",
       "open_date": "2026-09-09",
       "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "4cb9a6182d764295",
-      "title": "대화할 때 필요한 최소한의 상식 - 문해력",
-      "author": "오원재",
-      "cover": "https://image.millie.co.kr/service/cover/180174842/3af29248d45b431581ea7ab513939c6f.jpg",
-      "open_date": "2026-09-07",
-      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -240,6 +220,16 @@
       "open_date": "2026-09-21",
       "is_audiobook": false,
       "is_series": true,
+      "is_comic": false
+    },
+    {
+      "id": "4cb9a6182d764295",
+      "title": "대화할 때 필요한 최소한의 상식 - 문해력",
+      "author": "오원재",
+      "cover": "https://image.millie.co.kr/service/cover/180174842/3af29248d45b431581ea7ab513939c6f.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": true,
+      "is_series": false,
       "is_comic": false
     },
     {
@@ -273,6 +263,16 @@
       "is_comic": false
     },
     {
+      "id": "54949b496e4d4d8a",
+      "title": "여행일본어 100일의 기적",
+      "author": "황미진",
+      "cover": "https://image.millie.co.kr/service/cover/180176325/c02a60d1cab943228ef8ad009d614f07.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "596d5efca9ff45b7",
       "title": "대화할 때 필요한 최소한의 상식 - 세대갈등",
       "author": "오원재",
@@ -289,16 +289,6 @@
       "cover": "https://image.millie.co.kr/service/cover/180116100/abdf5543b64d41b1a55b31f2149423c4.jpg",
       "open_date": "2026-09-10",
       "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "54949b496e4d4d8a",
-      "title": "여행일본어 100일의 기적",
-      "author": "황미진",
-      "cover": "https://image.millie.co.kr/service/cover/180176325/c02a60d1cab943228ef8ad009d614f07.jpg",
-      "open_date": "2026-09-07",
-      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -323,16 +313,6 @@
       "is_comic": false
     },
     {
-      "id": "03d01648ca7a4910",
-      "title": "끝까지 해내는 마음은 어떻게 탄생하는가",
-      "author": "웬디 그롤닉, 벤저민 헤디, 프랭크 워렐 지음 / 정지현 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180152353/63ca07f694d0466bb9e398788619dfd0.jpg",
-      "open_date": "2026-09-10",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "65f0171ae7c94af0",
       "title": "나는 왜 남들보다 쉽게 지칠까",
       "author": "최재훈",
@@ -343,10 +323,10 @@
       "is_comic": false
     },
     {
-      "id": "d5b86329c48944d6",
-      "title": "질병 예방 세대",
-      "author": "오수연",
-      "cover": "https://image.millie.co.kr/service/cover/180159680/17596aa51a0d4d5a85b301c4857769a8.jpg",
+      "id": "03d01648ca7a4910",
+      "title": "끝까지 해내는 마음은 어떻게 탄생하는가",
+      "author": "웬디 그롤닉, 벤저민 헤디, 프랭크 워렐 지음 / 정지현 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180152353/63ca07f694d0466bb9e398788619dfd0.jpg",
       "open_date": "2026-09-10",
       "is_audiobook": false,
       "is_series": false,
@@ -363,42 +343,22 @@
       "is_comic": false
     },
     {
+      "id": "d5b86329c48944d6",
+      "title": "질병 예방 세대",
+      "author": "오수연",
+      "cover": "https://image.millie.co.kr/service/cover/180159680/17596aa51a0d4d5a85b301c4857769a8.jpg",
+      "open_date": "2026-09-10",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "de6373d8e8634655",
       "title": "동글 뾰족 알록달록 내 마음",
       "author": "차보금",
       "cover": "https://image.millie.co.kr/service/cover/180174285/b6ad39837e9640a2b878a488bc5c49ef.jpg",
       "open_date": "2026-09-07",
       "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "b78fa4346e2143f1",
-      "title": "당나라를 떨게 한 연개소문",
-      "author": "양대승",
-      "cover": "https://image.millie.co.kr/service/cover/180174286/356f38a28cf04fad8da98db9702c8907.jpg",
-      "open_date": "2026-09-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9570c2dee3214e3c",
-      "title": "듣는 도둑맞은 편지",
-      "author": "애드거 앨런 포",
-      "cover": "https://image.millie.co.kr/service/cover/180176454/39937fc4253c4b0c8e7c96915e8c1498.jpg",
-      "open_date": "2026-09-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "0591575c4d264e1b",
-      "title": "한국경제 빅 이슈 2",
-      "author": "서울사회경제연구소",
-      "cover": "https://image.millie.co.kr/service/cover/180176901/f9debf2a95b24067bfba422f2626d29f.jpg",
-      "open_date": "2026-09-07",
-      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -423,50 +383,30 @@
       "is_comic": false
     },
     {
-      "id": "838ea949384e4eec",
-      "title": "동글 뾰족 알록달록 내 마음",
-      "author": "차보금",
-      "cover": "https://image.millie.co.kr/service/cover/180174285/b6ad39837e9640a2b878a488bc5c49ef.jpg",
+      "id": "b78fa4346e2143f1",
+      "title": "당나라를 떨게 한 연개소문",
+      "author": "양대승",
+      "cover": "https://image.millie.co.kr/service/cover/180174286/356f38a28cf04fad8da98db9702c8907.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9570c2dee3214e3c",
+      "title": "듣는 도둑맞은 편지",
+      "author": "애드거 앨런 포",
+      "cover": "https://image.millie.co.kr/service/cover/180176454/39937fc4253c4b0c8e7c96915e8c1498.jpg",
       "open_date": "2026-09-07",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "740ba24a19e54ee1",
-      "title": "오늘 15분만, 손자",
-      "author": "밀리의서재",
-      "cover": "https://image.millie.co.kr/service/cover/180176230/8216fa8a9d3447c7aa05af423b1c4190.jpg",
-      "open_date": "2026-09-18",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "80a6d988969c437f",
-      "title": "오늘 15분만, 몽테뉴",
-      "author": "밀리의서재",
-      "cover": "https://image.millie.co.kr/service/cover/180176231/b671797f29fc44fe9d0f960d0863e569.jpg",
-      "open_date": "2026-09-18",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "0775702d0d274518",
-      "title": "걱정으로 채워진 욕심 항아리",
-      "author": "이붕",
-      "cover": "https://image.millie.co.kr/service/cover/180174282/b8273688b6914b8b9c63b79c206ad4f7.jpg",
-      "open_date": "2026-09-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "d6637aa51e894f9d",
-      "title": "당나라를 떨게 한 연개소문",
-      "author": "양대승",
-      "cover": "https://image.millie.co.kr/service/cover/180174286/356f38a28cf04fad8da98db9702c8907.jpg",
+      "id": "3b1bb95c9fa3481d",
+      "title": "바이오 투자의 정석",
+      "author": "박한슬",
+      "cover": "https://image.millie.co.kr/service/cover/180176886/709b03cad0194471b4a4ebbdcb39e311.jpg",
       "open_date": "2026-09-07",
       "is_audiobook": true,
       "is_series": false,
@@ -493,10 +433,70 @@
       "is_comic": false
     },
     {
-      "id": "b82e56d1290842ac",
-      "title": "하룻밤에 들려주는 오디세이",
-      "author": "AudioClassic 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180176475/46e00bd0cc6048639d1a9ff79110ca4e.jpg",
+      "id": "fc43f4ca9c9e4804",
+      "title": "걱정으로 채워진 욕심 항아리",
+      "author": "이붕",
+      "cover": "https://image.millie.co.kr/service/cover/180174282/b8273688b6914b8b9c63b79c206ad4f7.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "80a6d988969c437f",
+      "title": "오늘 15분만, 몽테뉴",
+      "author": "밀리의서재",
+      "cover": "https://image.millie.co.kr/service/cover/180176231/b671797f29fc44fe9d0f960d0863e569.jpg",
+      "open_date": "2026-09-18",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "740ba24a19e54ee1",
+      "title": "오늘 15분만, 손자",
+      "author": "밀리의서재",
+      "cover": "https://image.millie.co.kr/service/cover/180176230/8216fa8a9d3447c7aa05af423b1c4190.jpg",
+      "open_date": "2026-09-18",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "d6637aa51e894f9d",
+      "title": "당나라를 떨게 한 연개소문",
+      "author": "양대승",
+      "cover": "https://image.millie.co.kr/service/cover/180174286/356f38a28cf04fad8da98db9702c8907.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "0775702d0d274518",
+      "title": "걱정으로 채워진 욕심 항아리",
+      "author": "이붕",
+      "cover": "https://image.millie.co.kr/service/cover/180174282/b8273688b6914b8b9c63b79c206ad4f7.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "838ea949384e4eec",
+      "title": "동글 뾰족 알록달록 내 마음",
+      "author": "차보금",
+      "cover": "https://image.millie.co.kr/service/cover/180174285/b6ad39837e9640a2b878a488bc5c49ef.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "0591575c4d264e1b",
+      "title": "한국경제 빅 이슈 2",
+      "author": "서울사회경제연구소",
+      "cover": "https://image.millie.co.kr/service/cover/180176901/f9debf2a95b24067bfba422f2626d29f.jpg",
       "open_date": "2026-09-07",
       "is_audiobook": true,
       "is_series": false,
@@ -507,6 +507,16 @@
       "title": "요즘 윗분들",
       "author": "김홍신문학관",
       "cover": "https://image.millie.co.kr/service/cover/180176841/c46368dd1bad4d83a4980deeb6e41063.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "b82e56d1290842ac",
+      "title": "하룻밤에 들려주는 오디세이",
+      "author": "AudioClassic 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180176475/46e00bd0cc6048639d1a9ff79110ca4e.jpg",
       "open_date": "2026-09-07",
       "is_audiobook": true,
       "is_series": false,
@@ -533,26 +543,6 @@
       "is_comic": false
     },
     {
-      "id": "845107842a0e4a4e",
-      "title": "성우 김종성의 오디오 성경-전도서",
-      "author": "대한성서공회",
-      "cover": "https://image.millie.co.kr/service/cover/180176628/17c342446a634e2ba6b99f537bf55e06.jpg",
-      "open_date": "2026-09-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "0891c34381c14102",
-      "title": "또치의 땅속 모험",
-      "author": "김원섭",
-      "cover": "https://image.millie.co.kr/service/cover/180174284/7550c5fabbbc4f0fbb2d9e20f86c39ba.jpg",
-      "open_date": "2026-09-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "009fa085bb024afb",
       "title": "또치의 땅속 모험",
       "author": "김원섭",
@@ -563,40 +553,50 @@
       "is_comic": false
     },
     {
-      "id": "0140998af5b44f31",
-      "title": "듣는 모르그 가의 살인 사건",
-      "author": "애드거 앨런 포",
-      "cover": "https://image.millie.co.kr/service/cover/180176455/f3e3750e86044106805111ec34e35896.jpg",
-      "open_date": "2026-09-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "121411ec3dcd4be5",
-      "title": "듣는 작은 아씨들 1",
-      "author": "루이자 메이 올콧",
-      "cover": "https://image.millie.co.kr/service/cover/180176474/fef5a1e36c57451e9b7de3510cf0bc32.jpg",
-      "open_date": "2026-09-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3b1bb95c9fa3481d",
-      "title": "바이오 투자의 정석",
-      "author": "박한슬",
-      "cover": "https://image.millie.co.kr/service/cover/180176886/709b03cad0194471b4a4ebbdcb39e311.jpg",
-      "open_date": "2026-09-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "7dbd84040063477e",
-      "title": "성우 김종성의 오디오 성경-에스겔",
+      "id": "900010115e3e4813",
+      "title": "성우 김종성의 오디오 성경-예레미야애가",
       "author": "대한성서공회",
-      "cover": "https://image.millie.co.kr/service/cover/180176839/4d6384bb010840228ed116384fc8161b.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180176836/e4512320599e4b7aa22eae7b7abf55d6.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "18cb31c5d5ea4bc5",
+      "title": "성우 김종성의 오디오 성경-이사야",
+      "author": "대한성서공회",
+      "cover": "https://image.millie.co.kr/service/cover/180176747/eac7068735af4fe4a56dd4d7ac703f4e.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "845107842a0e4a4e",
+      "title": "성우 김종성의 오디오 성경-전도서",
+      "author": "대한성서공회",
+      "cover": "https://image.millie.co.kr/service/cover/180176628/17c342446a634e2ba6b99f537bf55e06.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "7865d0eca26541d4",
+      "title": "성우 김종성의 오디오 성경-잠언",
+      "author": "대한성서공회",
+      "cover": "https://image.millie.co.kr/service/cover/180176626/374ef2c1c04d41f89278740b0f5e5a6e.jpg",
+      "open_date": "2026-09-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "f394ba6132334443",
+      "title": "성우 김종성의 오디오 성경-에스더",
+      "author": "대한성서공회",
+      "cover": "https://image.millie.co.kr/service/cover/180176616/99af27f3837c47599f1fa1aaaa751d44.jpg",
       "open_date": "2026-09-07",
       "is_audiobook": true,
       "is_series": false,
