@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T08:32:45.285359+09:00",
-  "count": 79,
+  "updated": "2026-09-12T08:33:05.630941+09:00",
+  "count": 110,
   "books": [
     {
       "id": "f5f328b7588240b9",
@@ -48,16 +48,6 @@
       "author": "전건우",
       "cover": "https://image.millie.co.kr/service/cover/180175958/bd5513ab1f484ff3ba2cd545b2310fb3.jpg",
       "open_date": "2026-09-13",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "d2a3d6b6ee5c4779",
-      "title": "리치먼드힐의 이층 버스",
-      "author": "이경진",
-      "cover": "https://image.millie.co.kr/service/cover/180176132/41e021db377b42fa8b55b130f6071c64.jpg",
-      "open_date": "2026-09-12",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -253,6 +243,16 @@
       "is_comic": false
     },
     {
+      "id": "2606093cfe124f18",
+      "title": "나는 오래된 거리처럼 너를 사랑하고",
+      "author": "진은영",
+      "cover": "https://image.millie.co.kr/service/cover/180179038/9a7ded732668461cb6eeac455430ef6f.jpg",
+      "open_date": "2026-09-28",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "cade582784ab4b92",
       "title": "달러 연금 수업",
       "author": "최혜실",
@@ -293,12 +293,12 @@
       "is_comic": false
     },
     {
-      "id": "740ba24a19e54ee1",
-      "title": "오늘 15분만, 손자",
-      "author": "밀리의서재",
-      "cover": "https://image.millie.co.kr/service/cover/180176230/8216fa8a9d3447c7aa05af423b1c4190.jpg",
-      "open_date": "2026-09-18",
-      "is_audiobook": false,
+      "id": "31fe9a9465614e71",
+      "title": "21세기 세계경제",
+      "author": "김상조",
+      "cover": "https://image.millie.co.kr/service/cover/180178546/93f6615125df4cdfa7d9fbe8f1b77be0.jpg",
+      "open_date": "2026-09-14",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -313,12 +313,22 @@
       "is_comic": false
     },
     {
-      "id": "31fe9a9465614e71",
-      "title": "21세기 세계경제",
-      "author": "김상조",
-      "cover": "https://image.millie.co.kr/service/cover/180178546/93f6615125df4cdfa7d9fbe8f1b77be0.jpg",
-      "open_date": "2026-09-14",
-      "is_audiobook": true,
+      "id": "740ba24a19e54ee1",
+      "title": "오늘 15분만, 손자",
+      "author": "밀리의서재",
+      "cover": "https://image.millie.co.kr/service/cover/180176230/8216fa8a9d3447c7aa05af423b1c4190.jpg",
+      "open_date": "2026-09-18",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "caa35638c5374674",
+      "title": "이 시대의 사랑",
+      "author": "최승자",
+      "cover": "https://image.millie.co.kr/service/cover/180179039/3e2f69fa3c984131b4b3f784611fe9bd.jpg",
+      "open_date": "2026-09-28",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -343,6 +353,16 @@
       "is_comic": false
     },
     {
+      "id": "7b2d44592f0c492e",
+      "title": "오늘은 괜찮은 하루",
+      "author": "권순표",
+      "cover": "https://image.millie.co.kr/service/cover/180144157/6f30f227bc124ce4bfcf90ab5bf13d4b.jpg",
+      "open_date": "2026-09-14",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "f6c0127eeb00497c",
       "title": "뉴스를 시작합니다!",
       "author": "김연아",
@@ -363,16 +383,6 @@
       "is_comic": false
     },
     {
-      "id": "7b2d44592f0c492e",
-      "title": "오늘은 괜찮은 하루",
-      "author": "권순표",
-      "cover": "https://image.millie.co.kr/service/cover/180144157/6f30f227bc124ce4bfcf90ab5bf13d4b.jpg",
-      "open_date": "2026-09-14",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "7dcc926e7f634f58",
       "title": "극한 진화의 세계",
       "author": "이정모",
@@ -383,10 +393,30 @@
       "is_comic": false
     },
     {
+      "id": "b5b3828df7a84144",
+      "title": "우리들의 연주회",
+      "author": "김준영",
+      "cover": "https://image.millie.co.kr/service/cover/180176054/32b9f55b0e1b434ebc86ccc3b945649f.jpg",
+      "open_date": "2026-09-14",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "30ecc2758e46473b",
       "title": "게임섬 페리쿨룸 2: 수수께끼의 쌍둥이 트롤",
       "author": "김연주",
       "cover": "https://img.millie.co.kr/200x/service/cover/179618880/97fd02b076ee42068e8ab5c42a4675a8.jpg",
+      "open_date": "2026-09-14",
+      "is_audiobook": true,
+      "is_series": true,
+      "is_comic": false
+    },
+    {
+      "id": "f88024216b114a3a",
+      "title": "바라신 미스터리 실화사건 Act.5",
+      "author": "바라신",
+      "cover": "https://image.millie.co.kr/service/cover/180178855/fe4c756facab44ad83de0f3ea3d5d223.jpg",
       "open_date": "2026-09-14",
       "is_audiobook": true,
       "is_series": true,
@@ -403,26 +433,6 @@
       "is_comic": false
     },
     {
-      "id": "b5b3828df7a84144",
-      "title": "우리들의 연주회",
-      "author": "김준영",
-      "cover": "https://image.millie.co.kr/service/cover/180176054/32b9f55b0e1b434ebc86ccc3b945649f.jpg",
-      "open_date": "2026-09-14",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "f88024216b114a3a",
-      "title": "바라신 미스터리 실화사건 Act.5",
-      "author": "바라신",
-      "cover": "https://image.millie.co.kr/service/cover/180178855/fe4c756facab44ad83de0f3ea3d5d223.jpg",
-      "open_date": "2026-09-14",
-      "is_audiobook": true,
-      "is_series": true,
-      "is_comic": false
-    },
-    {
       "id": "7aaeb45e46bf4e2b",
       "title": "최상위권의 비밀",
       "author": "로미(김민지)",
@@ -433,90 +443,20 @@
       "is_comic": false
     },
     {
-      "id": "de071ff39b10481f",
-      "title": "어느 날, 남편이 내 곁을 떠났습니다",
-      "author": "한수정",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179620732/72e690c5bd8c4776be1d309f13ba3c97.jpg",
-      "open_date": "2026-09-16",
+      "id": "e47388ef1d644654",
+      "title": "옳지, 옳지! 잘하네 우리 아기",
+      "author": "강민우",
+      "cover": "https://image.millie.co.kr/service/cover/180176055/8a13d85479c7462ca0ff6fd203f87608.jpg",
+      "open_date": "2026-09-14",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "7edcc25b921340ee",
-      "title": "매일 10분이면 우리 강아지도 천재견",
-      "author": "전용진",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179661139/49e71c7f4779453c8700e0320e33f551.jpg",
-      "open_date": "2026-09-16",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "959488fba1064bc3",
-      "title": "성우 김종성의 오디오 성경-미가",
-      "author": "대한성서공회",
-      "cover": "https://image.millie.co.kr/service/cover/180178944/8eed3195f1f04b9d8a6fc6f3080490b8.jpg",
-      "open_date": "2026-09-16",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9817ab76adac4129",
-      "title": "사람 안의 빛",
-      "author": "함명자",
-      "cover": "https://image.millie.co.kr/service/cover/180178963/783a020545c64e63b6a510ed66fc0d16.jpg",
-      "open_date": "2026-09-16",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "f7bb41747fc9452b",
-      "title": "개인적인 택시",
-      "author": "이모세",
-      "cover": "https://image.millie.co.kr/service/cover/180178618/a0eb32b839d54a54be5b77ef926616e6.jpg",
-      "open_date": "2026-10-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "ca566437954a408b",
-      "title": "SKY 합격 생기부 공식",
-      "author": "윤윤구, 장성민",
-      "cover": "https://image.millie.co.kr/service/cover/180178619/1cba0a3545bb406c95be9dc9be29bd8a.jpg",
-      "open_date": "2026-09-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "b45b9e0f929a44da",
-      "title": "절세미녀가 알려주는 우리 아이 부자 세팅법",
-      "author": "김희연",
-      "cover": "https://image.millie.co.kr/service/cover/180178392/45f5e7f5054d4a42b4cab9e282824ddd.jpg",
-      "open_date": "2026-09-25",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "a321aa199f424b33",
-      "title": "특별하지 않아도 괜찮은 것들, 간계밥",
-      "author": "루스",
-      "cover": "https://image.millie.co.kr/service/cover/180178912/082a527ebe0249cd9264481ca80a0793.jpg",
-      "open_date": "2026-09-16",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "8146e24947744a0e",
-      "title": "엄마도 몰랐던 숲속 동물들의 비밀 1 - 고양이는 왜 발톱을 숨길까?",
-      "author": "사자엄마",
-      "cover": "https://image.millie.co.kr/service/cover/180178856/dcf62eb2eeb94249947b565ab87fc84c.jpg",
+      "id": "8833b076fd01434d",
+      "title": "나처럼 해 봐, 이렇게!",
+      "author": "장선혜",
+      "cover": "https://image.millie.co.kr/service/cover/180176056/8a4a58398a4f444f9a1aaadd6a9a57bb.jpg",
       "open_date": "2026-09-14",
       "is_audiobook": true,
       "is_series": false,
@@ -600,6 +540,66 @@
       "open_date": "2026-09-14",
       "is_audiobook": true,
       "is_series": true,
+      "is_comic": false
+    },
+    {
+      "id": "b0b8121cd1cc426d",
+      "title": "해와 달이 된 오누이",
+      "author": "김한나",
+      "cover": "https://image.millie.co.kr/service/cover/180178564/41ef1cf473c649d89efe2b4c7bf781c0.jpg",
+      "open_date": "2026-09-14",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "6efc1092f4d14e64",
+      "title": "머리벅벅이 코줄줄이 눈곱덕지",
+      "author": "송아주",
+      "cover": "https://image.millie.co.kr/service/cover/180178566/914d9178fffa46969c19e52a34ab7de4.jpg",
+      "open_date": "2026-09-14",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "200c58a1da334a8f",
+      "title": "방귀 시합",
+      "author": "강정연",
+      "cover": "https://image.millie.co.kr/service/cover/180178570/cc23e4432edb47a2877946c057f77e05.jpg",
+      "open_date": "2026-09-14",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "5c367f2f0686455b",
+      "title": "마을을 지켜 주는 수호신, 장승",
+      "author": "아작",
+      "cover": "https://image.millie.co.kr/service/cover/180176043/34128afae72e451ab80272b0a9ccde4b.jpg",
+      "open_date": "2026-09-14",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "13284ae2e5544c00",
+      "title": "나도 저런 시절이 있었지 - 그 소리를 기억해 시리즈 5",
+      "author": "별빈",
+      "cover": "https://image.millie.co.kr/service/cover/180178847/f7198b5db80d4e968afe5d231ca452f0.jpg",
+      "open_date": "2026-09-14",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "8146e24947744a0e",
+      "title": "엄마도 몰랐던 숲속 동물들의 비밀 1 - 고양이는 왜 발톱을 숨길까?",
+      "author": "사자엄마",
+      "cover": "https://image.millie.co.kr/service/cover/180178856/dcf62eb2eeb94249947b565ab87fc84c.jpg",
+      "open_date": "2026-09-14",
+      "is_audiobook": true,
+      "is_series": false,
       "is_comic": false
     }
   ]
