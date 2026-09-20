@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T10:19:49.342600+09:00",
-  "count": 103,
+  "updated": "2026-09-20T10:19:59.108972+09:00",
+  "count": 102,
   "books": [
     {
       "id": "5a250550a0534652",
@@ -48,16 +48,6 @@
       "author": "마쓰시타 류노스케 지음 / 마미영 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180178904/ba501ae9deef4d61a33f2eda91b54eff.jpg",
       "open_date": "2026-09-24",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "8325ad0baebd4390",
-      "title": "우리 동네 흉가로 놀러 오세요",
-      "author": "전건우",
-      "cover": "https://image.millie.co.kr/service/cover/180176804/ae6bd9fd1ee94017af72dfeb60cf49df.jpg",
-      "open_date": "2026-09-20",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -597,6 +587,16 @@
       "title": "노래하는 마음",
       "author": "최해든",
       "cover": "https://image.millie.co.kr/service/cover/180179498/35af5ae9363d47c6952e29c806c082a2.jpg",
+      "open_date": "2026-09-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "e74f77a4a4114a93",
+      "title": "오늘은 여기까지! 사그라다 파밀리아 - 마음거울동화 <지아의 밤이면 밤마다> 시즌8",
+      "author": "나둘숙",
+      "cover": "https://image.millie.co.kr/service/cover/180179502/53d3de6cd6bd4df4a4548c2002804233.jpg",
       "open_date": "2026-09-21",
       "is_audiobook": true,
       "is_series": false,
