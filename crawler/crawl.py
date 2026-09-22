@@ -32,6 +32,7 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urlencode
 
@@ -68,6 +69,22 @@ UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 )
+
+
+def with_retry(fn, retries=1, delay=3, label=""):
+    """밀리의서재 fetch 실패 같은 일시적 오류 대비로, 실패하면 잠깐 쉬었다가
+    같은 실행 안에서 한 번 더 시도해본다. 그래도 안 되면 마지막 예외를 그대로
+    올려서 기존 폴백(stale_stores) 로직이 처리하게 둔다."""
+    last_exc = None
+    for attempt in range(retries + 1):
+        try:
+            return fn()
+        except Exception as e:
+            last_exc = e
+            if attempt < retries:
+                print(f"[RETRY] {label}: {e} (재시도)", file=sys.stderr)
+                time.sleep(delay)
+    raise last_exc
 
 
 def norm_title(title: str) -> str:
@@ -429,7 +446,7 @@ def main():
 
     # 1) requests만으로 되는 서비스 (예스24 크레마클럽 - 데이터센터 IP도 허용됨)
     try:
-        scraped["yes24_crema"] = scrape_yes24_crema()
+        scraped["yes24_crema"] = with_retry(scrape_yes24_crema, label="yes24_crema")
         print(f"[OK] yes24_crema: {len(scraped['yes24_crema'])}건 수집")
     except Exception as e:
         scraped["yes24_crema"] = []
@@ -446,16 +463,21 @@ def main():
 
         for store in ("kyobo_unlimited", "kyobo_premium"):
             try:
-                scraped[store] = scrape_kyobo_sam(page, STORE_URLS[store])
+                scraped[store] = with_retry(
+                    lambda store=store: scrape_kyobo_sam(page, STORE_URLS[store]), label=store
+                )
                 print(f"[OK] {store}: {len(scraped[store])}건 수집")
             except Exception as e:
                 scraped[store] = []
                 errors[store] = str(e)
                 print(f"[FAIL] {store}: {e}", file=sys.stderr)
 
-        try:
+        def _load_millie_rank():
             page.goto("https://www.millie.co.kr/v4/now/millie-ranking", wait_until="domcontentloaded", timeout=60000)
-            scraped["millie"] = scrape_millie_rank(page)
+            return scrape_millie_rank(page)
+
+        try:
+            scraped["millie"] = with_retry(_load_millie_rank, label="millie")
             print(f"[OK] millie: {len(scraped['millie'])}건 수집")
         except Exception as e:
             scraped["millie"] = []
@@ -463,7 +485,7 @@ def main():
             print(f"[FAIL] millie: {e}", file=sys.stderr)
 
         try:
-            upcoming = scrape_upcoming(page)
+            upcoming = with_retry(lambda: scrape_upcoming(page), label="upcoming")
             print(f"[OK] upcoming: {len(upcoming['books'])}건 수집")
         except Exception as e:
             errors["upcoming"] = str(e)
