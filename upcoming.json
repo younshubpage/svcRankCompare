@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T10:35:06.613985+09:00",
-  "count": 84,
+  "updated": "2026-09-24T08:02:54.743880+09:00",
+  "count": 95,
   "books": [
     {
       "id": "19e88cfcf0184062",
@@ -18,16 +18,6 @@
       "author": "테드 창 지음 / 김상훈 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180178941/2b4b8b32b318433e9686c05600b4349f.jpg",
       "open_date": "2026-10-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "98f34a01940146f8",
-      "title": "1차원의 삽목",
-      "author": "마쓰시타 류노스케 지음 / 마미영 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180178904/ba501ae9deef4d61a33f2eda91b54eff.jpg",
-      "open_date": "2026-09-24",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -158,16 +148,6 @@
       "author": "로미(김민지)",
       "cover": "https://image.millie.co.kr/service/cover/180178791/b0eb22d074c64a09816bac3450bcaeb5.jpg",
       "open_date": "2026-10-04",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "557bbee80edb44ff",
-      "title": "안녕하세요, 제법 버스기사 같나요?",
-      "author": "강희정",
-      "cover": "https://image.millie.co.kr/service/cover/180178982/623d1009880d4bbe8b0f4c703ad7c4e7.jpg",
-      "open_date": "2026-09-24",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -363,21 +343,21 @@
       "is_comic": false
     },
     {
-      "id": "51cc51b358844a09",
-      "title": "니체 초인 수업",
-      "author": "강용수",
-      "cover": "https://image.millie.co.kr/service/cover/180180795/5a11fc40e2b94033b0204bc6eebce04a.jpg",
-      "open_date": "2026-09-28",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "80a6d988969c437f",
       "title": "오늘 15분만, 몽테뉴",
       "author": "밀리의서재",
       "cover": "https://image.millie.co.kr/service/cover/180176231/b671797f29fc44fe9d0f960d0863e569.jpg",
       "open_date": "2026-10-02",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "51cc51b358844a09",
+      "title": "니체 초인 수업",
+      "author": "강용수",
+      "cover": "https://image.millie.co.kr/service/cover/180180795/5a11fc40e2b94033b0204bc6eebce04a.jpg",
+      "open_date": "2026-09-28",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -413,21 +393,21 @@
       "is_comic": false
     },
     {
-      "id": "1b6b11c68939405a",
-      "title": "바보 온달과 평강 공주",
-      "author": "이강엽",
-      "cover": "https://image.millie.co.kr/service/cover/180178534/38aa3eca92f74ec0907418b1b653a154.jpg",
-      "open_date": "2026-10-05",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "f54a167cee314d8e",
       "title": "NEXT 에듀테크 수업에 바로 쓰는 선생님 바이브 코딩",
       "author": "최보윤, 이대형, 이원용, 김민정, 김은지, 신명은, 이하얀, 허환진",
       "cover": "https://image.millie.co.kr/service/cover/180178846/c5b3022508fd41ec871030df3b5394bf.jpg",
       "open_date": "2026-10-08",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "1b6b11c68939405a",
+      "title": "바보 온달과 평강 공주",
+      "author": "이강엽",
+      "cover": "https://image.millie.co.kr/service/cover/180178534/38aa3eca92f74ec0907418b1b653a154.jpg",
+      "open_date": "2026-10-05",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -439,16 +419,6 @@
       "cover": "https://image.millie.co.kr/service/cover/180180913/ecaae36be5e44957bd4bcf6617c1a968.jpg",
       "open_date": "2026-10-07",
       "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "4960a82b72e14ef9",
-      "title": "푸른빛을 발견한 마리 퀴리",
-      "author": "이혜옥",
-      "cover": "https://image.millie.co.kr/service/cover/180179324/652c3ffa53c64926b62d3695bddcbf03.jpg",
-      "open_date": "2026-10-05",
-      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -468,6 +438,16 @@
       "author": "서지안",
       "cover": "https://image.millie.co.kr/service/cover/180180645/42a4d8f0ef9c4a5f92192837f5564069.jpg",
       "open_date": "2026-09-28",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "4960a82b72e14ef9",
+      "title": "푸른빛을 발견한 마리 퀴리",
+      "author": "이혜옥",
+      "cover": "https://image.millie.co.kr/service/cover/180179324/652c3ffa53c64926b62d3695bddcbf03.jpg",
+      "open_date": "2026-10-05",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -493,16 +473,6 @@
       "is_comic": false
     },
     {
-      "id": "870f7aabb8124eb5",
-      "title": "온기로부터",
-      "author": "류현재",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179640515/55d5f376577744cbb15c62d15d71fea3.jpg",
-      "open_date": "2026-09-28",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "04775ad4d82c4104",
       "title": "푸른빛을 발견한 마리 퀴리",
       "author": "이혜옥",
@@ -513,21 +483,21 @@
       "is_comic": false
     },
     {
-      "id": "301ddbd874a64a0b",
-      "title": "마음",
-      "author": "나쓰메 소세키 지음 / 양윤옥 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180181499/98644eaf0e3c4a6e94812b2d3d086c2d.jpg",
+      "id": "1671a5667b3d4339",
+      "title": "아메리카 1.0 레볼루션",
+      "author": "이든",
+      "cover": "https://image.millie.co.kr/service/cover/180180647/15ef5f5c704941089f67edbdd741d2dc.jpg",
       "open_date": "2026-09-28",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "1671a5667b3d4339",
-      "title": "아메리카 1.0 레볼루션",
-      "author": "이든",
-      "cover": "https://image.millie.co.kr/service/cover/180180647/15ef5f5c704941089f67edbdd741d2dc.jpg",
-      "open_date": "2026-09-28",
+      "id": "301ddbd874a64a0b",
+      "title": "마음",
+      "author": "나쓰메 소세키 지음 / 양윤옥 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180181499/98644eaf0e3c4a6e94812b2d3d086c2d.jpg",
+      "open_date": "2026-09-29",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -543,12 +513,42 @@
       "is_comic": false
     },
     {
-      "id": "187e2f33fc394b5a",
-      "title": "빼그녕",
+      "id": "870f7aabb8124eb5",
+      "title": "온기로부터",
       "author": "류현재",
-      "cover": "https://image.millie.co.kr/service/cover/180135375/25f36e7a7f7a44bb83b727fa938c3f0c.jpg",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179640515/55d5f376577744cbb15c62d15d71fea3.jpg",
+      "open_date": "2026-09-29",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "c16f8a9909f046c9",
+      "title": "백년 면역력을 키우는 짠맛의 힘",
+      "author": "김은숙, 장진기",
+      "cover": "https://img.millie.co.kr/200x/service/cover/17619032/626f1cadbdfa4f5c99d4f6d8175cd1b5.jpg",
       "open_date": "2026-09-28",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "36225b3393394c9c",
+      "title": "캥거루 버스를 탄 제임스",
+      "author": "김남중",
+      "cover": "https://image.millie.co.kr/service/cover/180178536/dc3467f431a34358ae61c46eb72cbcf5.jpg",
+      "open_date": "2026-10-05",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "16d7e8dce84f4355",
+      "title": "유아 AI 놀이 백과사전 100",
+      "author": "교사크리에이터협회 유아교육부 (김예슬, 오은진, 조윤주, 김윤희, 김수진, 이민지, 권세나, 김초롱, 양유선, 정해정, 오정옥)",
+      "cover": "https://image.millie.co.kr/service/cover/180179595/82dc4425a02b4ea7986522c9425d5b3e.jpg",
+      "open_date": "2026-10-16",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -563,40 +563,40 @@
       "is_comic": false
     },
     {
-      "id": "f1f6213cd8a14d0c",
-      "title": "1945: 이 세계가 사라지기 전에",
-      "author": "김동식, 김별아, 김유담, 김의경, 반수연, 백희성, 서유미, 소향, 송호근, 이승우, 정명섭, 정진영, 조영주, 주원규, 차무진, 최유안, 한은형",
-      "cover": "https://image.millie.co.kr/service/cover/180144099/832a8560605a43889a31e97e91c5e1fd.jpg",
-      "open_date": "2026-09-28",
+      "id": "b13f8f1044d54897",
+      "title": "해적왕 안해도",
+      "author": "송승주",
+      "cover": "https://image.millie.co.kr/service/cover/180179330/3857fee64e0144eb8fbd5e586e401c5a.jpg",
+      "open_date": "2026-10-05",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "7a93dea58a764770",
-      "title": "유토피아",
-      "author": "토마스 모어",
-      "cover": "https://image.millie.co.kr/service/cover/180179115/12d9f429a35249d2915775ef5199a9d1.jpg",
-      "open_date": "2026-09-28",
+      "id": "7484937f53c44858",
+      "title": "캥거루 버스를 탄 제임스",
+      "author": "김남중",
+      "cover": "https://image.millie.co.kr/service/cover/180179328/6ed96dc05db94413ab66da9bd5f6de65.jpg",
+      "open_date": "2026-10-05",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "5a714220c02e4c18",
-      "title": "아메리카 2.0 레볼루션",
-      "author": "이든",
-      "cover": "https://image.millie.co.kr/service/cover/180180859/e2ccb005b51145cf97658c47e2145b4d.jpg",
-      "open_date": "2026-09-28",
+      "id": "6ffb8247207646bc",
+      "title": "세발자전거는 씩씩해",
+      "author": "이형진",
+      "cover": "https://image.millie.co.kr/service/cover/180179326/7ee8a879d9ce4e5396e494ad3d5fafa6.jpg",
+      "open_date": "2026-10-05",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "7c163a1d132f4d28",
-      "title": "포도에서 와인으로",
-      "author": "이석인",
-      "cover": "https://image.millie.co.kr/service/cover/180176989/3ce08ee452b34d799049ac00953ac62f.jpg",
+      "id": "51afb32de14b4d63",
+      "title": "한 방울의 진단",
+      "author": "수린",
+      "cover": "https://image.millie.co.kr/service/cover/180180590/b05df5a3b2f443c591276b5fb9c63576.jpg",
       "open_date": "2026-09-28",
       "is_audiobook": true,
       "is_series": false,
