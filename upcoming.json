@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T10:31:28.391346+09:00",
-  "count": 95,
+  "updated": "2026-09-25T08:17:26.031163+09:00",
+  "count": 97,
   "books": [
     {
       "id": "19e88cfcf0184062",
@@ -58,16 +58,6 @@
       "author": "진은영",
       "cover": "https://image.millie.co.kr/service/cover/180179038/9a7ded732668461cb6eeac455430ef6f.jpg",
       "open_date": "2026-09-28",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "b45b9e0f929a44da",
-      "title": "절세미녀가 알려주는 우리 아이 부자 세팅법",
-      "author": "김희연",
-      "cover": "https://image.millie.co.kr/service/cover/180178392/45f5e7f5054d4a42b4cab9e282824ddd.jpg",
-      "open_date": "2026-09-25",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -343,16 +333,6 @@
       "is_comic": false
     },
     {
-      "id": "66120afab3e942d9",
-      "title": "도구는 어떻게 권력이 되는가",
-      "author": "신무연 지음 / 정기문 감수",
-      "cover": "https://image.millie.co.kr/service/cover/180180799/b099f22296c04f349560d73aa8fb8924.jpg",
-      "open_date": "2026-09-28",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "740ba24a19e54ee1",
       "title": "오늘 15분만, 손자",
       "author": "밀리의서재",
@@ -363,11 +343,11 @@
       "is_comic": false
     },
     {
-      "id": "85f63abedc1640c2",
-      "title": "나를 사랑하는 데에도 연습이 필요해",
-      "author": "임가은 지음 / 백주현 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180177079/485da4a2c3fc479584d24657a8d1daae.jpg",
-      "open_date": "2026-10-01",
+      "id": "66120afab3e942d9",
+      "title": "도구는 어떻게 권력이 되는가",
+      "author": "신무연 지음 / 정기문 감수",
+      "cover": "https://image.millie.co.kr/service/cover/180180799/b099f22296c04f349560d73aa8fb8924.jpg",
+      "open_date": "2026-09-28",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -380,6 +360,16 @@
       "open_date": "2026-11-01",
       "is_audiobook": true,
       "is_series": true,
+      "is_comic": false
+    },
+    {
+      "id": "85f63abedc1640c2",
+      "title": "나를 사랑하는 데에도 연습이 필요해",
+      "author": "임가은 지음 / 백주현 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180177079/485da4a2c3fc479584d24657a8d1daae.jpg",
+      "open_date": "2026-10-01",
+      "is_audiobook": false,
+      "is_series": false,
       "is_comic": false
     },
     {
@@ -413,16 +403,6 @@
       "is_comic": false
     },
     {
-      "id": "9d3e8ac193c94d01",
-      "title": "죽여주는 연애 상담소",
-      "author": "김호애",
-      "cover": "https://image.millie.co.kr/service/cover/180179555/83bb525378664bee8e3a5e2248c12128.jpg",
-      "open_date": "2026-10-12",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "f54a167cee314d8e",
       "title": "NEXT 에듀테크 수업에 바로 쓰는 선생님 바이브 코딩",
       "author": "최보윤, 이대형, 이원용, 김민정, 김은지, 신명은, 이하얀, 허환진",
@@ -443,11 +423,11 @@
       "is_comic": false
     },
     {
-      "id": "b4c47e18a8794fdc",
-      "title": "버터밀크 그래피티",
-      "author": "에드워드 리 지음 / 박아람 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180180772/6b3e5a289301430aa04903fe25a2fea3.jpg",
-      "open_date": "2026-10-09",
+      "id": "9d3e8ac193c94d01",
+      "title": "죽여주는 연애 상담소",
+      "author": "김호애",
+      "cover": "https://image.millie.co.kr/service/cover/180179555/83bb525378664bee8e3a5e2248c12128.jpg",
+      "open_date": "2026-10-12",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -463,12 +443,12 @@
       "is_comic": false
     },
     {
-      "id": "a99b57a78c0f478f",
-      "title": "코리아 2.0 레볼루션",
-      "author": "이든",
-      "cover": "https://image.millie.co.kr/service/cover/180180448/42dfe2d186a346eda155745a0c5df130.jpg",
-      "open_date": "2026-09-28",
-      "is_audiobook": true,
+      "id": "b4c47e18a8794fdc",
+      "title": "버터밀크 그래피티",
+      "author": "에드워드 리 지음 / 박아람 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180180772/6b3e5a289301430aa04903fe25a2fea3.jpg",
+      "open_date": "2026-10-09",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -483,20 +463,20 @@
       "is_comic": false
     },
     {
-      "id": "7a93dea58a764770",
-      "title": "유토피아",
-      "author": "토마스 모어",
-      "cover": "https://image.millie.co.kr/service/cover/180179115/12d9f429a35249d2915775ef5199a9d1.jpg",
-      "open_date": "2026-09-29",
+      "id": "a99b57a78c0f478f",
+      "title": "코리아 2.0 레볼루션",
+      "author": "이든",
+      "cover": "https://image.millie.co.kr/service/cover/180180448/42dfe2d186a346eda155745a0c5df130.jpg",
+      "open_date": "2026-09-28",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "bf2cd766f7b548dd",
-      "title": "80일간의 세계 일주",
-      "author": "쥘 베른 지음 / 고정아 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180181550/24bdf47f19734ab0b5e55f5f5a63a2cd.jpg",
+      "id": "7a93dea58a764770",
+      "title": "유토피아",
+      "author": "토마스 모어",
+      "cover": "https://image.millie.co.kr/service/cover/180179115/12d9f429a35249d2915775ef5199a9d1.jpg",
       "open_date": "2026-09-29",
       "is_audiobook": true,
       "is_series": false,
@@ -523,22 +503,22 @@
       "is_comic": false
     },
     {
-      "id": "5346c0be765b4eb3",
-      "title": "90매 30원, 원고지를 사러 가던 아이",
-      "author": "돋을별",
-      "cover": "https://image.millie.co.kr/service/cover/180181498/68fbf5be94184661a0291e0d77cdcfd9.jpg",
+      "id": "bf2cd766f7b548dd",
+      "title": "80일간의 세계 일주",
+      "author": "쥘 베른 지음 / 고정아 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180181550/24bdf47f19734ab0b5e55f5f5a63a2cd.jpg",
       "open_date": "2026-09-29",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "1671a5667b3d4339",
-      "title": "아메리카 1.0 레볼루션",
-      "author": "이든",
-      "cover": "https://image.millie.co.kr/service/cover/180180647/15ef5f5c704941089f67edbdd741d2dc.jpg",
+      "id": "aa435a9bad164adc",
+      "title": "위대한 팀은 비틀즈처럼 일한다",
+      "author": "이두헌",
+      "cover": "https://image.millie.co.kr/service/cover/180180844/8c79f246a4a149b896945176649b1bb3.jpg",
       "open_date": "2026-09-28",
-      "is_audiobook": true,
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -548,26 +528,6 @@
       "author": "서지안",
       "cover": "https://image.millie.co.kr/service/cover/180180645/42a4d8f0ef9c4a5f92192837f5564069.jpg",
       "open_date": "2026-09-28",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "7cceaf4cc3a1402f",
-      "title": "모파상 단편선",
-      "author": "기 드 모파상 지음 / 임미경 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180181553/14ead8f1fa9c4b2e9dbee877d00d55b7.jpg",
-      "open_date": "2026-09-29",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "870f7aabb8124eb5",
-      "title": "온기로부터",
-      "author": "류현재",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179640515/55d5f376577744cbb15c62d15d71fea3.jpg",
-      "open_date": "2026-09-29",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -583,6 +543,36 @@
       "is_comic": false
     },
     {
+      "id": "70bb0abfb2de43e9",
+      "title": "역사 앞에서 (상)",
+      "author": "김성칠",
+      "cover": "https://image.millie.co.kr/service/cover/180179682/5732bb1fc84646d0a8ace9273d754050.jpg",
+      "open_date": "2026-09-28",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "870f7aabb8124eb5",
+      "title": "온기로부터",
+      "author": "류현재",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179640515/55d5f376577744cbb15c62d15d71fea3.jpg",
+      "open_date": "2026-09-29",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "5346c0be765b4eb3",
+      "title": "90매 30원, 원고지를 사러 가던 아이",
+      "author": "돋을별",
+      "cover": "https://image.millie.co.kr/service/cover/180181498/68fbf5be94184661a0291e0d77cdcfd9.jpg",
+      "open_date": "2026-09-29",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "d61a6714afc04aeb",
       "title": "월간조선 2026년 10월호",
       "author": "월간조선 편집부",
@@ -593,12 +583,22 @@
       "is_comic": false
     },
     {
-      "id": "aa435a9bad164adc",
-      "title": "위대한 팀은 비틀즈처럼 일한다",
-      "author": "이두헌",
-      "cover": "https://image.millie.co.kr/service/cover/180180844/8c79f246a4a149b896945176649b1bb3.jpg",
+      "id": "7cceaf4cc3a1402f",
+      "title": "모파상 단편선",
+      "author": "기 드 모파상 지음 / 임미경 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180181553/14ead8f1fa9c4b2e9dbee877d00d55b7.jpg",
+      "open_date": "2026-09-29",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "1671a5667b3d4339",
+      "title": "아메리카 1.0 레볼루션",
+      "author": "이든",
+      "cover": "https://image.millie.co.kr/service/cover/180180647/15ef5f5c704941089f67edbdd741d2dc.jpg",
       "open_date": "2026-09-28",
-      "is_audiobook": false,
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     }
