@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T08:17:32.827788+09:00",
+  "updated": "2026-09-26T10:44:58.373857+09:00",
   "count": 96,
   "books": [
     {
@@ -17,16 +17,6 @@
       "title": "당신 인생의 이야기",
       "author": "테드 창 지음 / 김상훈 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180178941/2b4b8b32b318433e9686c05600b4349f.jpg",
-      "open_date": "2026-10-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "2b3469ddd9b94b4d",
-      "title": "숨",
-      "author": "테드 창 지음 / 김상훈 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180178943/f5b550d2942b40929a2c8b45dc3a9aa7.jpg",
       "open_date": "2026-10-01",
       "is_audiobook": false,
       "is_series": false,
@@ -53,6 +43,16 @@
       "is_comic": false
     },
     {
+      "id": "2b3469ddd9b94b4d",
+      "title": "숨",
+      "author": "테드 창 지음 / 김상훈 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180178943/f5b550d2942b40929a2c8b45dc3a9aa7.jpg",
+      "open_date": "2026-10-01",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "2606093cfe124f18",
       "title": "나는 오래된 거리처럼 너를 사랑하고",
       "author": "진은영",
@@ -73,11 +73,11 @@
       "is_comic": false
     },
     {
-      "id": "d984982525cd435e",
-      "title": "우런니 샌드위치",
-      "author": "Cream Park(박혜진)",
-      "cover": "https://image.millie.co.kr/service/cover/180179539/59709f956ab1471f9b35022ec143b77e.jpg",
-      "open_date": "2026-09-29",
+      "id": "0d481b19716e415c",
+      "title": "이상한 지도",
+      "author": "우케쓰 지음 / 김은모 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180181555/dbef1e5041cf49c6a84766629a356b73.jpg",
+      "open_date": "2026-10-07",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -93,11 +93,11 @@
       "is_comic": false
     },
     {
-      "id": "dcfe7d7108584d24",
-      "title": "의식의 탄생",
-      "author": "오기 오거스, 사이 개덤 지음 / 김아림 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180178853/96ff307eeb7a40ce9dc5ee1786daa261.jpg",
-      "open_date": "2026-09-27",
+      "id": "d984982525cd435e",
+      "title": "우런니 샌드위치",
+      "author": "Cream Park(박혜진)",
+      "cover": "https://image.millie.co.kr/service/cover/180179539/59709f956ab1471f9b35022ec143b77e.jpg",
+      "open_date": "2026-09-29",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -108,6 +108,16 @@
       "author": "최승자",
       "cover": "https://image.millie.co.kr/service/cover/180179039/3e2f69fa3c984131b4b3f784611fe9bd.jpg",
       "open_date": "2026-09-28",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "dcfe7d7108584d24",
+      "title": "의식의 탄생",
+      "author": "오기 오거스, 사이 개덤 지음 / 김아림 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180178853/96ff307eeb7a40ce9dc5ee1786daa261.jpg",
+      "open_date": "2026-09-27",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -133,16 +143,6 @@
       "is_comic": false
     },
     {
-      "id": "0d481b19716e415c",
-      "title": "이상한 지도",
-      "author": "우케쓰 지음 / 김은모 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180181555/dbef1e5041cf49c6a84766629a356b73.jpg",
-      "open_date": "2026-10-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "1cdfbe2e13e2485f",
       "title": "가가린이 들려주는 무중력 이야기",
       "author": "정완상",
@@ -163,11 +163,11 @@
       "is_comic": false
     },
     {
-      "id": "06412fac829846e5",
-      "title": "진짜 일본 밥집 133",
-      "author": "두경아",
-      "cover": "https://image.millie.co.kr/service/cover/180179333/6b93b0c0a3a741ad875088090436b1f7.jpg",
-      "open_date": "2026-10-03",
+      "id": "dece1c33f0084620",
+      "title": "어제의 세계",
+      "author": "슈테판 츠바이크 지음 / 이노은 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180180797/5f713979b2ac490c88fdbdc34ae70a39.jpg",
+      "open_date": "2026-10-06",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -183,12 +183,32 @@
       "is_comic": false
     },
     {
+      "id": "06412fac829846e5",
+      "title": "진짜 일본 밥집 133",
+      "author": "두경아",
+      "cover": "https://image.millie.co.kr/service/cover/180179333/6b93b0c0a3a741ad875088090436b1f7.jpg",
+      "open_date": "2026-10-03",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "8d32854c8c7c419a",
       "title": "부의 곡선",
       "author": "안유화",
       "cover": "https://image.millie.co.kr/service/cover/180179694/659d8ae9bff541789adf98047e3a226f.jpg",
       "open_date": "2026-09-28",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "8d0314211711468f",
+      "title": "도깨비불 게스트하우스",
+      "author": "범유진",
+      "cover": "https://image.millie.co.kr/service/cover/180149351/0b9c581c13824205969fc8d4c010aab1.jpg",
+      "open_date": "2026-10-16",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -213,12 +233,12 @@
       "is_comic": false
     },
     {
-      "id": "8d0314211711468f",
-      "title": "도깨비불 게스트하우스",
-      "author": "범유진",
-      "cover": "https://image.millie.co.kr/service/cover/180149351/0b9c581c13824205969fc8d4c010aab1.jpg",
-      "open_date": "2026-10-16",
-      "is_audiobook": true,
+      "id": "8e9ae81048c24b9a",
+      "title": "나민애와 다시 읽는 고전",
+      "author": "나민애 ",
+      "cover": "https://image.millie.co.kr/service/cover/180180841/efd0911030674d63bdeea4c22358d59c.jpg",
+      "open_date": "2026-10-05",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -233,11 +253,11 @@
       "is_comic": false
     },
     {
-      "id": "dece1c33f0084620",
-      "title": "어제의 세계",
-      "author": "슈테판 츠바이크 지음 / 이노은 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180180797/5f713979b2ac490c88fdbdc34ae70a39.jpg",
-      "open_date": "2026-10-06",
+      "id": "bcb945fd64a2461b",
+      "title": "김진순의 인생 레시피 1",
+      "author": "김진순",
+      "cover": "https://image.millie.co.kr/service/cover/180180592/445903828570482e957f5c951516642a.jpg",
+      "open_date": "2026-10-08",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -263,11 +283,21 @@
       "is_comic": false
     },
     {
-      "id": "bcb945fd64a2461b",
-      "title": "김진순의 인생 레시피 1",
-      "author": "김진순",
-      "cover": "https://image.millie.co.kr/service/cover/180180592/445903828570482e957f5c951516642a.jpg",
-      "open_date": "2026-10-08",
+      "id": "28a16653029b4b89",
+      "title": "어쨌든 미술관은 재밌다",
+      "author": "박혜성",
+      "cover": "https://image.millie.co.kr/service/cover/180179007/efcfed40e90b4d6993754836824401c4.jpg",
+      "open_date": "2026-10-05",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "86703ffddd174be1",
+      "title": "왜 당신의 노력은 돈이 되지 않는가",
+      "author": "고윤",
+      "cover": "https://image.millie.co.kr/service/cover/180180866/0ce791374f4146c28200db9ad04e32ef.jpg",
+      "open_date": "2026-10-06",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -283,11 +313,31 @@
       "is_comic": false
     },
     {
-      "id": "28a16653029b4b89",
-      "title": "어쨌든 미술관은 재밌다",
-      "author": "박혜성",
-      "cover": "https://image.millie.co.kr/service/cover/180179007/efcfed40e90b4d6993754836824401c4.jpg",
-      "open_date": "2026-10-05",
+      "id": "b0726e550db64624",
+      "title": "직장인의 주식투자는 달라야 한다",
+      "author": "미네르바의올빼미(조정인)",
+      "cover": "https://image.millie.co.kr/service/cover/180180913/ecaae36be5e44957bd4bcf6617c1a968.jpg",
+      "open_date": "2026-10-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "b4c47e18a8794fdc",
+      "title": "버터밀크 그래피티",
+      "author": "에드워드 리 지음 / 박아람 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180180772/6b3e5a289301430aa04903fe25a2fea3.jpg",
+      "open_date": "2026-10-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "51c51949389643d2",
+      "title": "달러 없는 미래",
+      "author": "이하경",
+      "cover": "https://image.millie.co.kr/service/cover/180180843/186c9519efe141528f17c9f71f1832c5.jpg",
+      "open_date": "2026-10-11",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -343,31 +393,11 @@
       "is_comic": false
     },
     {
-      "id": "b0726e550db64624",
-      "title": "직장인의 주식투자는 달라야 한다",
-      "author": "미네르바의올빼미(조정인)",
-      "cover": "https://image.millie.co.kr/service/cover/180180913/ecaae36be5e44957bd4bcf6617c1a968.jpg",
-      "open_date": "2026-10-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "85f63abedc1640c2",
       "title": "나를 사랑하는 데에도 연습이 필요해",
       "author": "임가은 지음 / 백주현 그림",
       "cover": "https://image.millie.co.kr/service/cover/180177079/485da4a2c3fc479584d24657a8d1daae.jpg",
       "open_date": "2026-10-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "740ba24a19e54ee1",
-      "title": "오늘 15분만, 손자",
-      "author": "밀리의서재",
-      "cover": "https://image.millie.co.kr/service/cover/180176230/8216fa8a9d3447c7aa05af423b1c4190.jpg",
-      "open_date": "2026-10-02",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -383,11 +413,11 @@
       "is_comic": false
     },
     {
-      "id": "8e9ae81048c24b9a",
-      "title": "나민애와 다시 읽는 고전",
-      "author": "나민애 ",
-      "cover": "https://image.millie.co.kr/service/cover/180180841/efd0911030674d63bdeea4c22358d59c.jpg",
-      "open_date": "2026-10-05",
+      "id": "740ba24a19e54ee1",
+      "title": "오늘 15분만, 손자",
+      "author": "밀리의서재",
+      "cover": "https://image.millie.co.kr/service/cover/180176230/8216fa8a9d3447c7aa05af423b1c4190.jpg",
+      "open_date": "2026-10-02",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -403,11 +433,11 @@
       "is_comic": false
     },
     {
-      "id": "b4c47e18a8794fdc",
-      "title": "버터밀크 그래피티",
-      "author": "에드워드 리 지음 / 박아람 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180180772/6b3e5a289301430aa04903fe25a2fea3.jpg",
-      "open_date": "2026-10-09",
+      "id": "f7bb41747fc9452b",
+      "title": "개인적인 택시",
+      "author": "이모세",
+      "cover": "https://image.millie.co.kr/service/cover/180178618/a0eb32b839d54a54be5b77ef926616e6.jpg",
+      "open_date": "2026-10-03",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -423,11 +453,11 @@
       "is_comic": false
     },
     {
-      "id": "f7bb41747fc9452b",
-      "title": "개인적인 택시",
-      "author": "이모세",
-      "cover": "https://image.millie.co.kr/service/cover/180178618/a0eb32b839d54a54be5b77ef926616e6.jpg",
-      "open_date": "2026-10-03",
+      "id": "f54a167cee314d8e",
+      "title": "NEXT 에듀테크 수업에 바로 쓰는 선생님 바이브 코딩",
+      "author": "최보윤, 이대형, 이원용, 김민정, 김은지, 신명은, 이하얀, 허환진",
+      "cover": "https://image.millie.co.kr/service/cover/180178846/c5b3022508fd41ec871030df3b5394bf.jpg",
+      "open_date": "2026-10-08",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -443,50 +473,10 @@
       "is_comic": false
     },
     {
-      "id": "f54a167cee314d8e",
-      "title": "NEXT 에듀테크 수업에 바로 쓰는 선생님 바이브 코딩",
-      "author": "최보윤, 이대형, 이원용, 김민정, 김은지, 신명은, 이하얀, 허환진",
-      "cover": "https://image.millie.co.kr/service/cover/180178846/c5b3022508fd41ec871030df3b5394bf.jpg",
-      "open_date": "2026-10-08",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "301ddbd874a64a0b",
       "title": "마음",
       "author": "나쓰메 소세키 지음 / 양윤옥 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180181499/98644eaf0e3c4a6e94812b2d3d086c2d.jpg",
-      "open_date": "2026-09-29",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "bf2cd766f7b548dd",
-      "title": "80일간의 세계 일주",
-      "author": "쥘 베른 지음 / 고정아 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180181550/24bdf47f19734ab0b5e55f5f5a63a2cd.jpg",
-      "open_date": "2026-09-29",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "86703ffddd174be1",
-      "title": "왜 당신의 노력은 돈이 되지 않는가",
-      "author": "고윤",
-      "cover": "https://image.millie.co.kr/service/cover/180180866/0ce791374f4146c28200db9ad04e32ef.jpg",
-      "open_date": "2026-10-06",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "870f7aabb8124eb5",
-      "title": "온기로부터",
-      "author": "류현재",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179640515/55d5f376577744cbb15c62d15d71fea3.jpg",
       "open_date": "2026-09-29",
       "is_audiobook": true,
       "is_series": false,
@@ -503,31 +493,41 @@
       "is_comic": false
     },
     {
-      "id": "1b6b11c68939405a",
-      "title": "바보 온달과 평강 공주",
-      "author": "이강엽",
-      "cover": "https://image.millie.co.kr/service/cover/180178534/38aa3eca92f74ec0907418b1b653a154.jpg",
-      "open_date": "2026-10-05",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "a99b57a78c0f478f",
-      "title": "코리아 2.0 레볼루션",
-      "author": "이든",
-      "cover": "https://image.millie.co.kr/service/cover/180180448/42dfe2d186a346eda155745a0c5df130.jpg",
-      "open_date": "2026-09-28",
+      "id": "870f7aabb8124eb5",
+      "title": "온기로부터",
+      "author": "류현재",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179640515/55d5f376577744cbb15c62d15d71fea3.jpg",
+      "open_date": "2026-09-29",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "51c51949389643d2",
-      "title": "달러 없는 미래",
-      "author": "이하경",
-      "cover": "https://image.millie.co.kr/service/cover/180180843/186c9519efe141528f17c9f71f1832c5.jpg",
-      "open_date": "2026-10-11",
+      "id": "5346c0be765b4eb3",
+      "title": "90매 30원, 원고지를 사러 가던 아이",
+      "author": "돋을별",
+      "cover": "https://image.millie.co.kr/service/cover/180181498/68fbf5be94184661a0291e0d77cdcfd9.jpg",
+      "open_date": "2026-09-29",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "bf2cd766f7b548dd",
+      "title": "80일간의 세계 일주",
+      "author": "쥘 베른 지음 / 고정아 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180181550/24bdf47f19734ab0b5e55f5f5a63a2cd.jpg",
+      "open_date": "2026-09-29",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "1b6b11c68939405a",
+      "title": "바보 온달과 평강 공주",
+      "author": "이강엽",
+      "cover": "https://image.millie.co.kr/service/cover/180178534/38aa3eca92f74ec0907418b1b653a154.jpg",
+      "open_date": "2026-10-05",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -563,11 +563,11 @@
       "is_comic": false
     },
     {
-      "id": "5346c0be765b4eb3",
-      "title": "90매 30원, 원고지를 사러 가던 아이",
-      "author": "돋을별",
-      "cover": "https://image.millie.co.kr/service/cover/180181498/68fbf5be94184661a0291e0d77cdcfd9.jpg",
-      "open_date": "2026-09-29",
+      "id": "a99b57a78c0f478f",
+      "title": "코리아 2.0 레볼루션",
+      "author": "이든",
+      "cover": "https://image.millie.co.kr/service/cover/180180448/42dfe2d186a346eda155745a0c5df130.jpg",
+      "open_date": "2026-09-28",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -583,22 +583,22 @@
       "is_comic": false
     },
     {
-      "id": "27d6e958a000421b",
-      "title": "차이나 2.0 레볼루션",
-      "author": "이든",
-      "cover": "https://image.millie.co.kr/service/cover/180180546/b33933d00fe448008d165476a6d85db3.jpg",
-      "open_date": "2026-09-28",
+      "id": "7c163a1d132f4d28",
+      "title": "포도에서 와인으로",
+      "author": "이석인",
+      "cover": "https://image.millie.co.kr/service/cover/180176989/3ce08ee452b34d799049ac00953ac62f.jpg",
+      "open_date": "2026-09-29",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "187e2f33fc394b5a",
-      "title": "빼그녕",
-      "author": "류현재",
-      "cover": "https://image.millie.co.kr/service/cover/180135375/25f36e7a7f7a44bb83b727fa938c3f0c.jpg",
-      "open_date": "2026-09-29",
-      "is_audiobook": true,
+      "id": "04775ad4d82c4104",
+      "title": "푸른빛을 발견한 마리 퀴리",
+      "author": "이혜옥",
+      "cover": "https://image.millie.co.kr/service/cover/180178533/3dfc9e91dca043e48d41e3f62e4527d4.jpg",
+      "open_date": "2026-10-05",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     }
