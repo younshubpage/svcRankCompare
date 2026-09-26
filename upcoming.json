@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T10:44:58.373857+09:00",
-  "count": 96,
+  "updated": "2026-09-27T08:17:29.321665+09:00",
+  "count": 95,
   "books": [
     {
       "id": "19e88cfcf0184062",
@@ -108,16 +108,6 @@
       "author": "최승자",
       "cover": "https://image.millie.co.kr/service/cover/180179039/3e2f69fa3c984131b4b3f784611fe9bd.jpg",
       "open_date": "2026-09-28",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "dcfe7d7108584d24",
-      "title": "의식의 탄생",
-      "author": "오기 오거스, 사이 개덤 지음 / 김아림 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180178853/96ff307eeb7a40ce9dc5ee1786daa261.jpg",
-      "open_date": "2026-09-27",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -599,6 +589,16 @@
       "cover": "https://image.millie.co.kr/service/cover/180178533/3dfc9e91dca043e48d41e3f62e4527d4.jpg",
       "open_date": "2026-10-05",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "187e2f33fc394b5a",
+      "title": "빼그녕",
+      "author": "류현재",
+      "cover": "https://image.millie.co.kr/service/cover/180135375/25f36e7a7f7a44bb83b727fa938c3f0c.jpg",
+      "open_date": "2026-09-29",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     }
