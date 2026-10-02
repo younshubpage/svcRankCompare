@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T11:21:22.630991+09:00",
-  "count": 104,
+  "updated": "2026-10-03T08:17:29.868637+09:00",
+  "count": 109,
   "books": [
     {
       "id": "ed16c3ec59d747ce",
@@ -153,16 +153,6 @@
       "is_comic": false
     },
     {
-      "id": "06412fac829846e5",
-      "title": "진짜 일본 밥집 133",
-      "author": "두경아",
-      "cover": "https://image.millie.co.kr/service/cover/180179333/6b93b0c0a3a741ad875088090436b1f7.jpg",
-      "open_date": "2026-10-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "51c51949389643d2",
       "title": "달러 없는 미래",
       "author": "이하경",
@@ -183,16 +173,6 @@
       "is_comic": false
     },
     {
-      "id": "3530d8d6a4c94903",
-      "title": "좋아한다 말하기엔 조금 숨이 차지만",
-      "author": "김연수, 노지양, 박은지, 윤이나, 김연덕, 김혜나, 최유안",
-      "cover": "https://image.millie.co.kr/service/cover/180168142/41971887692e408ab81eb8360bccfa14.jpg",
-      "open_date": "2026-10-31",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "93900c19a85e40d9",
       "title": "신 퇴마록 신세편 1",
       "author": "이우혁",
@@ -203,11 +183,21 @@
       "is_comic": false
     },
     {
-      "id": "9d3e8ac193c94d01",
-      "title": "죽여주는 연애 상담소",
-      "author": "김호애",
-      "cover": "https://image.millie.co.kr/service/cover/180179555/83bb525378664bee8e3a5e2248c12128.jpg",
-      "open_date": "2026-10-12",
+      "id": "3530d8d6a4c94903",
+      "title": "좋아한다 말하기엔 조금 숨이 차지만",
+      "author": "김연수, 노지양, 박은지, 윤이나, 김연덕, 김혜나, 최유안",
+      "cover": "https://image.millie.co.kr/service/cover/180168142/41971887692e408ab81eb8360bccfa14.jpg",
+      "open_date": "2026-10-31",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "d598edbe92f44e04",
+      "title": "이기적 유전자",
+      "author": "리처드 도킨스 지음 / 이한음 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180181994/d4f6de8c95414c4db15f4a98e51b024f.jpg",
+      "open_date": "2026-10-14",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -223,6 +213,16 @@
       "is_comic": false
     },
     {
+      "id": "9d3e8ac193c94d01",
+      "title": "죽여주는 연애 상담소",
+      "author": "김호애",
+      "cover": "https://image.millie.co.kr/service/cover/180179555/83bb525378664bee8e3a5e2248c12128.jpg",
+      "open_date": "2026-10-12",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "bd9b782624fb44a5",
       "title": "최재붕의 AI 트렌드 2027",
       "author": "최재붕",
@@ -233,31 +233,11 @@
       "is_comic": false
     },
     {
-      "id": "d598edbe92f44e04",
-      "title": "이기적 유전자",
-      "author": "리처드 도킨스 지음 / 이한음 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180181994/d4f6de8c95414c4db15f4a98e51b024f.jpg",
-      "open_date": "2026-10-14",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "f7bb41747fc9452b",
-      "title": "개인적인 택시",
-      "author": "이모세",
-      "cover": "https://image.millie.co.kr/service/cover/180178618/a0eb32b839d54a54be5b77ef926616e6.jpg",
-      "open_date": "2026-10-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "f54a167cee314d8e",
-      "title": "NEXT 에듀테크 수업에 바로 쓰는 선생님 바이브 코딩",
-      "author": "최보윤, 이대형, 이원용, 김민정, 김은지, 신명은, 이하얀, 허환진",
-      "cover": "https://image.millie.co.kr/service/cover/180178846/c5b3022508fd41ec871030df3b5394bf.jpg",
-      "open_date": "2026-10-08",
+      "id": "6adce781b4d74f53",
+      "title": "엄마를 부탁해(리마스터판)",
+      "author": "신경숙",
+      "cover": "https://image.millie.co.kr/service/cover/180181979/071f51edfbbd4bbca3aca6cdcf87d5fa.jpg",
+      "open_date": "2026-10-05",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -270,6 +250,16 @@
       "open_date": "2026-11-01",
       "is_audiobook": true,
       "is_series": true,
+      "is_comic": false
+    },
+    {
+      "id": "f54a167cee314d8e",
+      "title": "NEXT 에듀테크 수업에 바로 쓰는 선생님 바이브 코딩",
+      "author": "최보윤, 이대형, 이원용, 김민정, 김은지, 신명은, 이하얀, 허환진",
+      "cover": "https://image.millie.co.kr/service/cover/180178846/c5b3022508fd41ec871030df3b5394bf.jpg",
+      "open_date": "2026-10-08",
+      "is_audiobook": false,
+      "is_series": false,
       "is_comic": false
     },
     {
@@ -293,11 +283,21 @@
       "is_comic": false
     },
     {
-      "id": "e421fa029179430f",
-      "title": "된다! 하루 만에 끝내는 제미나이 활용법 - 전면 개정판",
-      "author": "권서림",
-      "cover": "https://image.millie.co.kr/service/cover/180182067/fd9878e6e8744430893ad1bcb5d4c9fe.jpg",
-      "open_date": "2026-10-03",
+      "id": "3c685bb2d98f4f48",
+      "title": "인비인",
+      "author": "성해나",
+      "cover": "https://image.millie.co.kr/service/cover/180182353/f259943c6670483a8bfdada687515057.jpg",
+      "open_date": "2026-10-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "1c31951a9b894ea1",
+      "title": "에케 호모",
+      "author": "오수완",
+      "cover": "https://image.millie.co.kr/service/cover/180181997/6f02157786574daab87a4888f4089a3a.jpg",
+      "open_date": "2026-10-05",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -307,6 +307,26 @@
       "title": "바보 온달과 평강 공주",
       "author": "이강엽",
       "cover": "https://image.millie.co.kr/service/cover/180178534/38aa3eca92f74ec0907418b1b653a154.jpg",
+      "open_date": "2026-10-05",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9bc3d44e1a7342ac",
+      "title": "요리를 한다는 것",
+      "author": "최강록",
+      "cover": "https://image.millie.co.kr/service/cover/180103882/0d4866b28d0a4d98a7f6f4ebb4d19aad.jpg",
+      "open_date": "2026-10-05",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9992005656064bb5",
+      "title": "주도주 함부로 팔지 마라",
+      "author": "한지영",
+      "cover": "https://image.millie.co.kr/service/cover/180181999/303c20f7aeda4f5798da866b55d34bce.jpg",
       "open_date": "2026-10-05",
       "is_audiobook": false,
       "is_series": false,
@@ -323,12 +343,12 @@
       "is_comic": false
     },
     {
-      "id": "6adce781b4d74f53",
-      "title": "엄마를 부탁해(리마스터판)",
-      "author": "신경숙",
-      "cover": "https://image.millie.co.kr/service/cover/180181979/071f51edfbbd4bbca3aca6cdcf87d5fa.jpg",
+      "id": "54b1909a2f024ae3",
+      "title": "이상한 옷장",
+      "author": "원옥진",
+      "cover": "https://image.millie.co.kr/service/cover/180182079/5ac209079e7d435794439c0fda62d5f3.jpg",
       "open_date": "2026-10-05",
-      "is_audiobook": false,
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -353,22 +373,22 @@
       "is_comic": false
     },
     {
-      "id": "9bc3d44e1a7342ac",
-      "title": "요리를 한다는 것",
-      "author": "최강록",
-      "cover": "https://image.millie.co.kr/service/cover/180103882/0d4866b28d0a4d98a7f6f4ebb4d19aad.jpg",
+      "id": "477fb0fc2b0b49ef",
+      "title": "왕과 도둑 I",
+      "author": "구일",
+      "cover": "https://image.millie.co.kr/service/cover/180181808/2a06bd37935a468e868ad4e9b27cd716.jpg",
       "open_date": "2026-10-05",
       "is_audiobook": true,
-      "is_series": false,
+      "is_series": true,
       "is_comic": false
     },
     {
-      "id": "54b1909a2f024ae3",
-      "title": "이상한 옷장",
-      "author": "원옥진",
-      "cover": "https://image.millie.co.kr/service/cover/180182079/5ac209079e7d435794439c0fda62d5f3.jpg",
-      "open_date": "2026-10-05",
-      "is_audiobook": true,
+      "id": "0a8df0ddd07d4407",
+      "title": "서리의 반짝 레시피",
+      "author": "서리",
+      "cover": "https://image.millie.co.kr/service/cover/180181763/5bcbad59e9a34b7496d1621e0a6ac18e.jpg",
+      "open_date": "2026-10-08",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -403,13 +423,13 @@
       "is_comic": false
     },
     {
-      "id": "477fb0fc2b0b49ef",
-      "title": "왕과 도둑 I",
-      "author": "구일",
-      "cover": "https://image.millie.co.kr/service/cover/180181808/2a06bd37935a468e868ad4e9b27cd716.jpg",
+      "id": "2ccb3a8173004613",
+      "title": "듣는 작은 아씨들 2",
+      "author": "루이자 메이 올콧",
+      "cover": "https://image.millie.co.kr/service/cover/180181817/4de2f7062a0f4f4e81a281a64305953b.jpg",
       "open_date": "2026-10-05",
       "is_audiobook": true,
-      "is_series": true,
+      "is_series": false,
       "is_comic": false
     },
     {
@@ -418,6 +438,16 @@
       "author": "베아트릭스 포터",
       "cover": "https://image.millie.co.kr/service/cover/180181832/0398e95eb1944dd2b40bd71b11c285c8.jpg",
       "open_date": "2026-10-05",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "bd812de395f042e4",
+      "title": "아픈 이의 곁에 있다는 것",
+      "author": "김형숙, 윤수진",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179586803/266efe1aca574047addba8c0e8a31d72.jpg",
+      "open_date": "2026-10-07",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -477,16 +507,6 @@
       "title": "초등 고학년 낭독을 위한 이야기 1",
       "author": "주니어 클래식 편집부",
       "cover": "https://image.millie.co.kr/service/cover/180181796/55f0e69b97614e478a9f9cd9b62f0e57.jpg",
-      "open_date": "2026-10-05",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "2ccb3a8173004613",
-      "title": "듣는 작은 아씨들 2",
-      "author": "루이자 메이 올콧",
-      "cover": "https://image.millie.co.kr/service/cover/180181817/4de2f7062a0f4f4e81a281a64305953b.jpg",
       "open_date": "2026-10-05",
       "is_audiobook": true,
       "is_series": false,
@@ -577,26 +597,6 @@
       "title": "토끼 집에 간 푸",
       "author": "밀른",
       "cover": "https://image.millie.co.kr/service/cover/180181928/3ba8737b2097402ebe026c1f2c89b242.jpg",
-      "open_date": "2026-10-05",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "876ec6ad66c84988",
-      "title": "토끼와 개구리",
-      "author": "이솝",
-      "cover": "https://image.millie.co.kr/service/cover/180181982/b03189da42414357970778d358bf5aac.jpg",
-      "open_date": "2026-10-05",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "f145e1f6226346f1",
-      "title": "헤라클레스와 괴물사자",
-      "author": "편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180181985/2e4ce8d298e746e49f07def5b0776063.jpg",
       "open_date": "2026-10-05",
       "is_audiobook": true,
       "is_series": false,
