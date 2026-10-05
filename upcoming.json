@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T11:09:48.414858+09:00",
-  "count": 45,
+  "updated": "2026-10-06T08:17:05.733642+09:00",
+  "count": 41,
   "books": [
     {
       "id": "ed16c3ec59d747ce",
@@ -53,11 +53,11 @@
       "is_comic": false
     },
     {
-      "id": "dece1c33f0084620",
-      "title": "어제의 세계",
-      "author": "슈테판 츠바이크 지음 / 이노은 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180180797/5f713979b2ac490c88fdbdc34ae70a39.jpg",
-      "open_date": "2026-10-06",
+      "id": "cbd286c76d13471c",
+      "title": "머니 트렌드 2027",
+      "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
+      "cover": "https://image.millie.co.kr/service/cover/180181668/7f7a93037f6e49e59864a432a0a5b7c7.jpg",
+      "open_date": "2026-10-15",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -73,41 +73,11 @@
       "is_comic": false
     },
     {
-      "id": "cbd286c76d13471c",
-      "title": "머니 트렌드 2027",
-      "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
-      "cover": "https://image.millie.co.kr/service/cover/180181668/7f7a93037f6e49e59864a432a0a5b7c7.jpg",
-      "open_date": "2026-10-15",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "bcb945fd64a2461b",
       "title": "김진순의 인생 레시피 1",
       "author": "김진순",
       "cover": "https://image.millie.co.kr/service/cover/180180592/445903828570482e957f5c951516642a.jpg",
       "open_date": "2026-10-08",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "86703ffddd174be1",
-      "title": "왜 당신의 노력은 돈이 되지 않는가",
-      "author": "고윤",
-      "cover": "https://image.millie.co.kr/service/cover/180180866/0ce791374f4146c28200db9ad04e32ef.jpg",
-      "open_date": "2026-10-06",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "b0726e550db64624",
-      "title": "직장인의 주식투자는 달라야 한다",
-      "author": "미네르바의올빼미(조정인)",
-      "cover": "https://image.millie.co.kr/service/cover/180180913/ecaae36be5e44957bd4bcf6617c1a968.jpg",
-      "open_date": "2026-10-07",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -123,41 +93,21 @@
       "is_comic": false
     },
     {
+      "id": "b0726e550db64624",
+      "title": "직장인의 주식투자는 달라야 한다",
+      "author": "미네르바의올빼미(조정인)",
+      "cover": "https://image.millie.co.kr/service/cover/180180913/ecaae36be5e44957bd4bcf6617c1a968.jpg",
+      "open_date": "2026-10-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "4e2317c569bf45cf",
       "title": "거짓에 갇힌 여자",
       "author": "데이비드 발다치 지음 / 허형은 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180182112/0a4199de6104428b87453c786ccdaee3.jpg",
       "open_date": "2026-10-18",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "1cdfbe2e13e2485f",
-      "title": "가가린이 들려주는 무중력 이야기",
-      "author": "정완상",
-      "cover": "https://image.millie.co.kr/service/cover/3330348/14770591af504f8a8d34e115c7a814f9.jpg",
-      "open_date": "2099-12-31",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "b4c47e18a8794fdc",
-      "title": "버터밀크 그래피티",
-      "author": "에드워드 리 지음 / 박아람 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180180772/6b3e5a289301430aa04903fe25a2fea3.jpg",
-      "open_date": "2026-10-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "51c51949389643d2",
-      "title": "달러 없는 미래",
-      "author": "이하경",
-      "cover": "https://image.millie.co.kr/service/cover/180180843/186c9519efe141528f17c9f71f1832c5.jpg",
-      "open_date": "2026-10-11",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -173,22 +123,32 @@
       "is_comic": false
     },
     {
-      "id": "93900c19a85e40d9",
-      "title": "신 퇴마록 신세편 1",
-      "author": "이우혁",
-      "cover": "https://image.millie.co.kr/service/cover/180165473/86704fc89a534b45ac05291dc779bde4.jpg",
-      "open_date": "2026-11-01",
-      "is_audiobook": true,
-      "is_series": true,
+      "id": "b4c47e18a8794fdc",
+      "title": "버터밀크 그래피티",
+      "author": "에드워드 리 지음 / 박아람 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180180772/6b3e5a289301430aa04903fe25a2fea3.jpg",
+      "open_date": "2026-10-09",
+      "is_audiobook": false,
+      "is_series": false,
       "is_comic": false
     },
     {
-      "id": "3530d8d6a4c94903",
-      "title": "좋아한다 말하기엔 조금 숨이 차지만",
-      "author": "김연수, 노지양, 박은지, 윤이나, 김연덕, 김혜나, 최유안",
-      "cover": "https://image.millie.co.kr/service/cover/180168142/41971887692e408ab81eb8360bccfa14.jpg",
-      "open_date": "2026-10-31",
-      "is_audiobook": true,
+      "id": "1cdfbe2e13e2485f",
+      "title": "가가린이 들려주는 무중력 이야기",
+      "author": "정완상",
+      "cover": "https://image.millie.co.kr/service/cover/3330348/14770591af504f8a8d34e115c7a814f9.jpg",
+      "open_date": "2099-12-31",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "51c51949389643d2",
+      "title": "달러 없는 미래",
+      "author": "이하경",
+      "cover": "https://image.millie.co.kr/service/cover/180180843/186c9519efe141528f17c9f71f1832c5.jpg",
+      "open_date": "2026-10-11",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -208,6 +168,26 @@
       "author": "성해나",
       "cover": "https://image.millie.co.kr/service/cover/180182353/f259943c6670483a8bfdada687515057.jpg",
       "open_date": "2026-10-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "93900c19a85e40d9",
+      "title": "신 퇴마록 신세편 1",
+      "author": "이우혁",
+      "cover": "https://image.millie.co.kr/service/cover/180165473/86704fc89a534b45ac05291dc779bde4.jpg",
+      "open_date": "2026-11-01",
+      "is_audiobook": true,
+      "is_series": true,
+      "is_comic": false
+    },
+    {
+      "id": "3530d8d6a4c94903",
+      "title": "좋아한다 말하기엔 조금 숨이 차지만",
+      "author": "김연수, 노지양, 박은지, 윤이나, 김연덕, 김혜나, 최유안",
+      "cover": "https://image.millie.co.kr/service/cover/180168142/41971887692e408ab81eb8360bccfa14.jpg",
+      "open_date": "2026-10-31",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -243,11 +223,11 @@
       "is_comic": false
     },
     {
-      "id": "a7b7b1e3e8c64021",
-      "title": "매경이코노미 2379호",
-      "author": "매경이코노미 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180182750/03108e495edb4800a0584c755b4819de.jpg",
-      "open_date": "2026-10-06",
+      "id": "f54a167cee314d8e",
+      "title": "NEXT 에듀테크 수업에 바로 쓰는 선생님 바이브 코딩",
+      "author": "최보윤, 이대형, 이원용, 김민정, 김은지, 신명은, 이하얀, 허환진",
+      "cover": "https://image.millie.co.kr/service/cover/180178846/c5b3022508fd41ec871030df3b5394bf.jpg",
+      "open_date": "2026-10-08",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -260,16 +240,6 @@
       "open_date": "2026-11-01",
       "is_audiobook": true,
       "is_series": true,
-      "is_comic": false
-    },
-    {
-      "id": "f54a167cee314d8e",
-      "title": "NEXT 에듀테크 수업에 바로 쓰는 선생님 바이브 코딩",
-      "author": "최보윤, 이대형, 이원용, 김민정, 김은지, 신명은, 이하얀, 허환진",
-      "cover": "https://image.millie.co.kr/service/cover/180178846/c5b3022508fd41ec871030df3b5394bf.jpg",
-      "open_date": "2026-10-08",
-      "is_audiobook": false,
-      "is_series": false,
       "is_comic": false
     },
     {
@@ -288,6 +258,16 @@
       "author": "서리",
       "cover": "https://image.millie.co.kr/service/cover/180181763/5bcbad59e9a34b7496d1621e0a6ac18e.jpg",
       "open_date": "2026-10-08",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "2e4866830d8549c3",
+      "title": "파도를 타는 사람",
+      "author": "김훈종",
+      "cover": "https://image.millie.co.kr/service/cover/180182669/c5ad8e87ca664c2e8d8f95dcc5177dc3.jpg",
+      "open_date": "2026-10-07",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -313,12 +293,12 @@
       "is_comic": false
     },
     {
-      "id": "2e4866830d8549c3",
-      "title": "파도를 타는 사람",
-      "author": "김훈종",
-      "cover": "https://image.millie.co.kr/service/cover/180182669/c5ad8e87ca664c2e8d8f95dcc5177dc3.jpg",
+      "id": "f410a8abb9914f1e",
+      "title": "기질 양육의 뇌과학",
+      "author": "릴리아나 렝구아, 마리아 가르스틴 지음 / 박정은 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180164697/40d1a4e7105e4b5ab55ebd9b2c4a2eff.jpg",
       "open_date": "2026-10-07",
-      "is_audiobook": false,
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -333,20 +313,80 @@
       "is_comic": false
     },
     {
-      "id": "f410a8abb9914f1e",
-      "title": "기질 양육의 뇌과학",
-      "author": "릴리아나 렝구아, 마리아 가르스틴 지음 / 박정은 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180164697/40d1a4e7105e4b5ab55ebd9b2c4a2eff.jpg",
+      "id": "8f875f3166974392",
+      "title": "아리는 바빠요, 바빠!",
+      "author": "강민우",
+      "cover": "https://image.millie.co.kr/service/cover/180182417/23c705d339974c36b52d62ca38ff0fbd.jpg",
       "open_date": "2026-10-07",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "8f875f3166974392",
-      "title": "아리는 바빠요, 바빠!",
-      "author": "강민우",
-      "cover": "https://image.millie.co.kr/service/cover/180182417/23c705d339974c36b52d62ca38ff0fbd.jpg",
+      "id": "6eb6484521504769",
+      "title": "사라진 신발의 비밀",
+      "author": "우산",
+      "cover": "https://image.millie.co.kr/service/cover/180182476/085726ba86264078ac3d4498a2f6230c.jpg",
+      "open_date": "2026-10-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3541d7abbff94414",
+      "title": "나무를 지켜라!",
+      "author": "우은경",
+      "cover": "https://image.millie.co.kr/service/cover/180182418/db192d94949548bf860c51ab41e50528.jpg",
+      "open_date": "2026-10-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ef83004677b64c34",
+      "title": "뼈다귀가 좋아!",
+      "author": "고희동",
+      "cover": "https://image.millie.co.kr/service/cover/180182421/a96ca0b148734e2bb77c616932ca9762.jpg",
+      "open_date": "2026-10-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "bf839739ee2b4915",
+      "title": "찾아라! 안전한 집",
+      "author": "최고은",
+      "cover": "https://image.millie.co.kr/service/cover/180182423/4fe43d50d5b4444e87146faf2139edf5.jpg",
+      "open_date": "2026-10-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "812614a5e41f4b89",
+      "title": "낮이 좋아? 밤이 좋아?",
+      "author": "서지원",
+      "cover": "https://image.millie.co.kr/service/cover/180182432/95dfeae853aa44e3bc89bb87e7a0726f.jpg",
+      "open_date": "2026-10-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "840c3e8fb4704106",
+      "title": "아빠, 달님을 떠 주세요",
+      "author": "우은경",
+      "cover": "https://image.millie.co.kr/service/cover/180182443/5395eb9c231e4822b52b83b61c215dd4.jpg",
+      "open_date": "2026-10-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "388595aa4ad44d24",
+      "title": "반짝반짝 우주 대스타는 누구?",
+      "author": "달곰보리",
+      "cover": "https://image.millie.co.kr/service/cover/180182475/9bda833dc7514e548e3918e1254592ba.jpg",
       "open_date": "2026-10-07",
       "is_audiobook": true,
       "is_series": false,
@@ -369,86 +409,6 @@
       "cover": "https://image.millie.co.kr/service/cover/180182478/d0f1980820754f68819dc3f8e758c96b.jpg",
       "open_date": "2026-10-07",
       "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "6eb6484521504769",
-      "title": "사라진 신발의 비밀",
-      "author": "우산",
-      "cover": "https://image.millie.co.kr/service/cover/180182476/085726ba86264078ac3d4498a2f6230c.jpg",
-      "open_date": "2026-10-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "388595aa4ad44d24",
-      "title": "반짝반짝 우주 대스타는 누구?",
-      "author": "달곰보리",
-      "cover": "https://image.millie.co.kr/service/cover/180182475/9bda833dc7514e548e3918e1254592ba.jpg",
-      "open_date": "2026-10-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "840c3e8fb4704106",
-      "title": "아빠, 달님을 떠 주세요",
-      "author": "우은경",
-      "cover": "https://image.millie.co.kr/service/cover/180182443/5395eb9c231e4822b52b83b61c215dd4.jpg",
-      "open_date": "2026-10-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "812614a5e41f4b89",
-      "title": "낮이 좋아? 밤이 좋아?",
-      "author": "서지원",
-      "cover": "https://image.millie.co.kr/service/cover/180182432/95dfeae853aa44e3bc89bb87e7a0726f.jpg",
-      "open_date": "2026-10-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "bf839739ee2b4915",
-      "title": "찾아라! 안전한 집",
-      "author": "최고은",
-      "cover": "https://image.millie.co.kr/service/cover/180182423/4fe43d50d5b4444e87146faf2139edf5.jpg",
-      "open_date": "2026-10-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "ef83004677b64c34",
-      "title": "뼈다귀가 좋아!",
-      "author": "고희동",
-      "cover": "https://image.millie.co.kr/service/cover/180182421/a96ca0b148734e2bb77c616932ca9762.jpg",
-      "open_date": "2026-10-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3541d7abbff94414",
-      "title": "나무를 지켜라!",
-      "author": "우은경",
-      "cover": "https://image.millie.co.kr/service/cover/180182418/db192d94949548bf860c51ab41e50528.jpg",
-      "open_date": "2026-10-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "7bb6bf59f5d64e78",
-      "title": "씨네21 No.1576 : 2026.10.13",
-      "author": "씨네21 편집부 (지은이)",
-      "cover": "https://image.millie.co.kr/service/cover/180182567/f1e912847b564d5e9cb9e67c72677998.jpg",
-      "open_date": "2026-10-06",
-      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     }
