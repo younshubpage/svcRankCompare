@@ -208,7 +208,7 @@
             null,
             48,
             49,
-            49
+            null
           ],
           "yes24_crema": [
             1,
@@ -2551,7 +2551,7 @@
             null,
             45,
             48,
-            48
+            40
           ],
           "yes24_crema": [
             12,
@@ -2764,7 +2764,7 @@
             null,
             18,
             19,
-            19
+            14
           ],
           "yes24_crema": [
             13,
@@ -9367,7 +9367,7 @@
             null,
             40,
             34,
-            34
+            31
           ],
           "yes24_crema": [
             44,
@@ -11284,7 +11284,7 @@
             null,
             38,
             39,
-            39
+            35
           ],
           "yes24_crema": [
             null,
@@ -17887,7 +17887,7 @@
             null,
             2,
             2,
-            2
+            3
           ],
           "yes24_crema": [
             null,
@@ -18100,7 +18100,7 @@
             null,
             27,
             26,
-            26
+            32
           ],
           "yes24_crema": [
             null,
@@ -18313,7 +18313,7 @@
             null,
             7,
             9,
-            9
+            8
           ],
           "yes24_crema": [
             null,
@@ -19378,7 +19378,7 @@
             null,
             null,
             45,
-            45
+            38
           ],
           "yes24_crema": [
             null,
@@ -19591,7 +19591,7 @@
             null,
             24,
             27,
-            27
+            37
           ],
           "yes24_crema": [
             null,
@@ -19804,7 +19804,7 @@
             null,
             30,
             32,
-            32
+            36
           ],
           "yes24_crema": [
             null,
@@ -21934,7 +21934,7 @@
             null,
             null,
             42,
-            42
+            47
           ],
           "yes24_crema": [
             null,
@@ -24277,7 +24277,7 @@
             null,
             null,
             null,
-            null
+            34
           ],
           "yes24_crema": [
             null,
@@ -34714,7 +34714,7 @@
             null,
             43,
             35,
-            35
+            49
           ],
           "yes24_crema": [
             null,
@@ -37270,7 +37270,7 @@
             null,
             null,
             null,
-            null
+            30
           ],
           "yes24_crema": [
             null,
@@ -47766,7 +47766,7 @@
     "눈물을마시는새1": {
       "title": "눈물을 마시는 새 1",
       "author": "이영도",
-      "pub": "",
+      "pub": "황금가지",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -47920,7 +47920,7 @@
             null,
             21,
             21,
-            21
+            18
           ],
           "yes24_crema": [
             null,
@@ -55162,7 +55162,7 @@
             null,
             42,
             31,
-            31
+            23
           ],
           "yes24_crema": [
             null,
@@ -56440,7 +56440,7 @@
             null,
             22,
             25,
-            25
+            29
           ],
           "yes24_crema": [
             null,
@@ -67516,7 +67516,7 @@
             null,
             15,
             15,
-            15
+            22
           ],
           "yes24_crema": [
             null,
@@ -74332,7 +74332,7 @@
             null,
             47,
             43,
-            43
+            41
           ],
           "yes24_crema": [
             null,
@@ -84982,7 +84982,7 @@
             null,
             null,
             null,
-            null
+            28
           ],
           "yes24_crema": [
             null,
@@ -85621,7 +85621,7 @@
             null,
             null,
             null,
-            null
+            45
           ],
           "yes24_crema": [
             null,
@@ -91857,7 +91857,7 @@
     "대화할때필요한최소한의상식어휘력__audio": {
       "title": "대화할 때 필요한 최소한의 상식 - 어휘력",
       "author": "오원재",
-      "pub": "",
+      "pub": "미노바",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -92011,7 +92011,7 @@
             null,
             20,
             28,
-            28
+            5
           ],
           "yes24_crema": [
             null,
@@ -99466,7 +99466,7 @@
             null,
             36,
             29,
-            29
+            39
           ],
           "yes24_crema": [
             null,
@@ -110116,7 +110116,7 @@
             null,
             4,
             5,
-            5
+            6
           ],
           "yes24_crema": [
             null,
@@ -114802,7 +114802,7 @@
             null,
             null,
             null,
-            null
+            16
           ],
           "yes24_crema": [
             null,
@@ -120553,7 +120553,7 @@
             null,
             19,
             14,
-            14
+            17
           ],
           "yes24_crema": [
             null,
@@ -148089,7 +148089,7 @@
     "테오__audio": {
       "title": "테오",
       "author": "앨런 레비 지음 / 노지양 옮김",
-      "pub": "",
+      "pub": "오팬하우스",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -148243,7 +148243,7 @@
             null,
             null,
             null,
-            null
+            20
           ],
           "yes24_crema": [
             null,
@@ -156337,7 +156337,7 @@
             null,
             25,
             23,
-            23
+            27
           ],
           "yes24_crema": [
             null,
@@ -157887,7 +157887,7 @@
     "타이탄의도구들블랙에디션": {
       "title": "타이탄의 도구들(블랙 에디션)",
       "author": "팀페리스 지음 / 박선령, 정지현 옮김",
-      "pub": "토네이도",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -158041,7 +158041,7 @@
             null,
             null,
             4,
-            4
+            25
           ],
           "yes24_crema": [
             null,
@@ -159591,7 +159591,7 @@
     "지금세계사1__audio": {
       "title": "지금 세계사 1",
       "author": "최태성 지음 / 류경은 그림",
-      "pub": "다산어린이",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -159745,7 +159745,7 @@
             null,
             null,
             16,
-            16
+            50
           ],
           "yes24_crema": [
             null,
@@ -160017,7 +160017,7 @@
     "미세행복도감": {
       "title": "미세 행복 도감",
       "author": "썩어라 수시생",
-      "pub": "",
+      "pub": "포레스트북스",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -160171,7 +160171,7 @@
             null,
             null,
             null,
-            null
+            12
           ],
           "yes24_crema": [
             null,
@@ -191754,7 +191754,7 @@
     "무지개목욕탕__audio": {
       "title": "무지개 목욕탕",
       "author": "강효미 지음 / 밤코 그림",
-      "pub": "브릭하우스",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -191908,7 +191908,7 @@
             null,
             14,
             17,
-            17
+            33
           ],
           "yes24_crema": [
             null,
@@ -201126,7 +201126,7 @@
     "리더는언제차이를만들어내는가": {
       "title": "리더는 언제 차이를 만들어내는가",
       "author": "재레드 다이아몬드 지음 / 강주헌 옮김",
-      "pub": "",
+      "pub": "김영사",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -201280,7 +201280,7 @@
             null,
             28,
             22,
-            22
+            1
           ],
           "yes24_crema": [
             null,
@@ -214912,7 +214912,7 @@
             null,
             46,
             46,
-            null
+            48
           ],
           "yes24_crema": [
             null,
@@ -215338,7 +215338,7 @@
             null,
             5,
             8,
-            8
+            9
           ],
           "yes24_crema": [
             null,
@@ -216190,7 +216190,7 @@
             null,
             17,
             24,
-            24
+            43
           ],
           "yes24_crema": [
             null,
@@ -222639,7 +222639,7 @@
     "애인은기간제베프": {
       "title": "애인은 기간제 베프",
       "author": "최민아",
-      "pub": "밀리의서재",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -222793,7 +222793,7 @@
             null,
             6,
             12,
-            12
+            26
           ],
           "yes24_crema": [
             null,
@@ -223432,7 +223432,7 @@
             null,
             33,
             46,
-            46
+            42
           ],
           "yes24_crema": [
             null,
@@ -231159,7 +231159,7 @@
     "어텐션": {
       "title": "어텐션",
       "author": "김대수",
-      "pub": "밀리의서재",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -231313,7 +231313,7 @@
             null,
             29,
             3,
-            3
+            21
           ],
           "yes24_crema": [
             null,
@@ -231952,7 +231952,7 @@
             null,
             3,
             1,
-            1
+            2
           ],
           "yes24_crema": [
             null,
@@ -232165,7 +232165,7 @@
             null,
             11,
             7,
-            7
+            15
           ],
           "yes24_crema": [
             null,
@@ -236484,7 +236484,7 @@
     "자본주의리얼리즘": {
       "title": "자본주의 리얼리즘",
       "author": "마크 피셔 지음 / 박진철 옮김",
-      "pub": "리시올",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -236638,7 +236638,7 @@
             null,
             9,
             13,
-            13
+            44
           ],
           "yes24_crema": [
             null,
@@ -236697,7 +236697,7 @@
     "남의불행을먹고사는사람들": {
       "title": "남의 불행을 먹고 사는 사람들",
       "author": "이동원",
-      "pub": "라곰",
+      "pub": "",
       "series": {
         "all": {
           "kyobo_unlimited": [
@@ -236851,7 +236851,7 @@
             null,
             23,
             20,
-            20
+            24
           ],
           "yes24_crema": [
             null,
@@ -242176,7 +242176,7 @@
             null,
             1,
             6,
-            6
+            13
           ],
           "yes24_crema": [
             null,
@@ -242389,7 +242389,7 @@
             null,
             26,
             18,
-            18
+            19
           ],
           "yes24_crema": [
             null,
@@ -242602,7 +242602,7 @@
             null,
             44,
             33,
-            33
+            46
           ],
           "yes24_crema": [
             null,
@@ -249419,6 +249419,432 @@
             null,
             null,
             null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "녹슨달": {
+      "title": "녹슨달",
+      "author": "하지은",
+      "pub": "달다",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            4
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    },
+    "몫이있는사람": {
+      "title": "몫이 있는 사람",
+      "author": "공근식",
+      "pub": "웅진지식하우스",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            7
           ],
           "yes24_crema": [
             null,
