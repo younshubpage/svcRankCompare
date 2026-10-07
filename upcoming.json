@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T11:31:43.653573+09:00",
-  "count": 57,
+  "updated": "2026-10-08T08:18:11.579065+09:00",
+  "count": 75,
   "books": [
     {
       "id": "ed16c3ec59d747ce",
@@ -13,22 +13,22 @@
       "is_comic": false
     },
     {
-      "id": "65498da3cc0b404c",
-      "title": "독서의 기술",
-      "author": "고명환",
-      "cover": "https://image.millie.co.kr/service/cover/180169910/0e3593d05614494486d30dd864c27023.jpg",
-      "open_date": "2026-10-12",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "cbd286c76d13471c",
       "title": "머니 트렌드 2027",
       "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
       "cover": "https://image.millie.co.kr/service/cover/180181668/7f7a93037f6e49e59864a432a0a5b7c7.jpg",
       "open_date": "2026-10-15",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "65498da3cc0b404c",
+      "title": "독서의 기술",
+      "author": "고명환",
+      "cover": "https://image.millie.co.kr/service/cover/180169910/0e3593d05614494486d30dd864c27023.jpg",
+      "open_date": "2026-10-12",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -59,16 +59,6 @@
       "cover": "https://image.millie.co.kr/service/cover/180149351/0b9c581c13824205969fc8d4c010aab1.jpg",
       "open_date": "2026-10-16",
       "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "bcb945fd64a2461b",
-      "title": "김진순의 인생 레시피 1",
-      "author": "김진순",
-      "cover": "https://image.millie.co.kr/service/cover/180180592/445903828570482e957f5c951516642a.jpg",
-      "open_date": "2026-10-08",
-      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -133,11 +123,11 @@
       "is_comic": false
     },
     {
-      "id": "1cdfbe2e13e2485f",
-      "title": "가가린이 들려주는 무중력 이야기",
-      "author": "정완상",
-      "cover": "https://image.millie.co.kr/service/cover/3330348/14770591af504f8a8d34e115c7a814f9.jpg",
-      "open_date": "2099-12-31",
+      "id": "ec8f0145da9b47cb",
+      "title": "아 맞다, 나 뭐 하려고 했더라?",
+      "author": "노현재",
+      "cover": "https://image.millie.co.kr/service/cover/180182566/5eefcb8899de47b6b37d0af3bd861ffa.jpg",
+      "open_date": "2026-10-14",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -163,16 +153,6 @@
       "is_comic": false
     },
     {
-      "id": "ec8f0145da9b47cb",
-      "title": "아 맞다, 나 뭐 하려고 했더라?",
-      "author": "노현재",
-      "cover": "https://image.millie.co.kr/service/cover/180182566/5eefcb8899de47b6b37d0af3bd861ffa.jpg",
-      "open_date": "2026-10-14",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "033f7ac6f96c441e",
       "title": "나의 첫 번째 재테크 교과서",
       "author": "프롬어스아카데미",
@@ -188,16 +168,6 @@
       "author": "비기",
       "cover": "https://image.millie.co.kr/service/cover/180182114/93d87131ce624a13bb8bfa2bf57ea15f.jpg",
       "open_date": "2026-10-13",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "f54a167cee314d8e",
-      "title": "NEXT 에듀테크 수업에 바로 쓰는 선생님 바이브 코딩",
-      "author": "최보윤, 이대형, 이원용, 김민정, 김은지, 신명은, 이하얀, 허환진",
-      "cover": "https://image.millie.co.kr/service/cover/180178846/c5b3022508fd41ec871030df3b5394bf.jpg",
-      "open_date": "2026-10-08",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -223,16 +193,6 @@
       "is_comic": false
     },
     {
-      "id": "0a8df0ddd07d4407",
-      "title": "서리의 반짝 레시피",
-      "author": "서리",
-      "cover": "https://image.millie.co.kr/service/cover/180181763/5bcbad59e9a34b7496d1621e0a6ac18e.jpg",
-      "open_date": "2026-10-08",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "16d7e8dce84f4355",
       "title": "유아 AI 놀이 백과사전 100",
       "author": "교사크리에이터협회 유아교육부 (김예슬, 오은진, 조윤주, 김윤희, 김수진, 이민지, 권세나, 김초롱, 양유선, 정해정, 오정옥)",
@@ -243,80 +203,10 @@
       "is_comic": false
     },
     {
-      "id": "ff16a01784964a95",
-      "title": "당신은 경희를 만난 적이 있다 : 한국근대문학 큐레이션 시리즈 두번째",
-      "author": "나혜석, 김명순, 강경애, 백신애 지음 / 원포더북스 엮음",
-      "cover": "https://image.millie.co.kr/service/cover/180179003/fe8dd0d6a9a44b92b91876696edf35d3.jpg",
-      "open_date": "2026-10-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "8687d0194aa94c2f",
-      "title": "미치지 않고 서는 살 수 없었다 : 한국근대소설 큐레이션 시리즈 첫번째",
-      "author": "현진건",
-      "cover": "https://image.millie.co.kr/service/cover/180179004/51fb9a7af555492cb0ea1a2753cc1e84.jpg",
-      "open_date": "2026-10-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "d31e52119bd04922",
-      "title": "사자에게 채소를 주면 어떻게 될까요?",
-      "author": "시우",
-      "cover": "https://image.millie.co.kr/service/cover/180182980/1e6c131aface4aee9565dc46e7341e0e.jpg",
-      "open_date": "2026-10-12",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "4c377844947f481b",
-      "title": "나 혼자 다 먹을래요",
-      "author": "우산",
-      "cover": "https://image.millie.co.kr/service/cover/180182982/0ccf5f82a7724532b707eef92170817f.jpg",
-      "open_date": "2026-10-12",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "bef0033375b74a9e",
-      "title": "우리는 친구예요",
-      "author": "장선혜",
-      "cover": "https://image.millie.co.kr/service/cover/180182983/38cd13c100d6498b8792dd380e74f6c4.jpg",
-      "open_date": "2026-10-12",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "5fde65fb25dd4ff2",
       "title": "일의 기쁨과 슬픔",
       "author": "장류진",
       "cover": "https://img.millie.co.kr/200x/service/cover/179657858/cc6acbd9ee1c4ba6b6bd2574ddc29be6.jpg",
-      "open_date": "2026-10-12",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "0296fb2e7c564b89",
-      "title": "조용히 이기는 말투의 기술",
-      "author": "김범준",
-      "cover": "https://image.millie.co.kr/service/cover/180173169/00f308941efa419d96974aabd68c58e9.jpg",
-      "open_date": "2026-10-12",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "fe65537fcee9439f",
-      "title": "도망친 곳에 절대 천국은 없습니다",
-      "author": "장대은",
-      "cover": "https://image.millie.co.kr/service/cover/180102726/5e64f43f55b14a8bb6c0fc62e9b3cdd4.jpg",
       "open_date": "2026-10-12",
       "is_audiobook": true,
       "is_series": false,
@@ -333,12 +223,22 @@
       "is_comic": false
     },
     {
-      "id": "72c5ff9e800042d2",
-      "title": "강아지야, 어딨니?",
-      "author": "김민진",
-      "cover": "https://image.millie.co.kr/service/cover/180182974/4a2d4eb93b894dae8c1411456f577c91.jpg",
+      "id": "0296fb2e7c564b89",
+      "title": "조용히 이기는 말투의 기술",
+      "author": "김범준",
+      "cover": "https://image.millie.co.kr/service/cover/180173169/00f308941efa419d96974aabd68c58e9.jpg",
       "open_date": "2026-10-12",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "8687d0194aa94c2f",
+      "title": "미치지 않고 서는 살 수 없었다 : 한국근대소설 큐레이션 시리즈 첫번째",
+      "author": "현진건",
+      "cover": "https://image.millie.co.kr/service/cover/180179004/51fb9a7af555492cb0ea1a2753cc1e84.jpg",
+      "open_date": "2026-10-09",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -353,10 +253,50 @@
       "is_comic": false
     },
     {
-      "id": "37993b3cdc7943db",
-      "title": "새야 새야 파랑새야",
-      "author": "이미애",
-      "cover": "https://image.millie.co.kr/service/cover/180182746/cc002b85237c47199e7b63c585462338.jpg",
+      "id": "167c02a69dda4bf9",
+      "title": "조선 정신과 의사 유세풍 1",
+      "author": "이은소",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179572112/7214c662b1c34ddab1ae7f38ebfb98e3.jpg",
+      "open_date": "2026-10-09",
+      "is_audiobook": true,
+      "is_series": true,
+      "is_comic": false
+    },
+    {
+      "id": "56109af0cdc748fe",
+      "title": "펜을 놓고 일어서자",
+      "author": "박혜수",
+      "cover": "https://image.millie.co.kr/service/cover/180182751/0dc30ffcffe5489e88e4f8fef3c6d4d0.jpg",
+      "open_date": "2026-10-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "8b44f1c69bec4c9e",
+      "title": "나를 지은 아홉 개의 집",
+      "author": "이규빈",
+      "cover": "https://image.millie.co.kr/service/cover/180157991/88f6479b52344368a802b967a7aeb7a1.jpg",
+      "open_date": "2026-10-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "f92dafb17887420b",
+      "title": "소리가 움직여요",
+      "author": "하루",
+      "cover": "https://image.millie.co.kr/service/cover/180182580/097e32e2dfb74227bbced06cbf6cf1a3.jpg",
+      "open_date": "2026-10-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "dcfeaf1edb0a467b",
+      "title": "내가 좋아하는 날씨는?",
+      "author": "다연",
+      "cover": "https://image.millie.co.kr/service/cover/180182581/a5ade18dfc824f4994208653dc2359a9.jpg",
       "open_date": "2026-10-09",
       "is_audiobook": true,
       "is_series": false,
@@ -453,16 +393,6 @@
       "is_comic": false
     },
     {
-      "id": "df5fa94055184d74",
-      "title": "가비차의 맛이 어떻습니까?",
-      "author": "박혜수",
-      "cover": "https://img.millie.co.kr/200x/service/cover/180076330/35d246993d6b44c6ae830fc4c3b7ed2c.jpg",
-      "open_date": "2026-10-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "62a098c1faf24090",
       "title": "미안해!",
       "author": "고희동",
@@ -473,80 +403,70 @@
       "is_comic": false
     },
     {
-      "id": "accbe4b03d10411c",
-      "title": "나라를 넘긴 을사오적",
-      "author": "김경희",
-      "cover": "https://image.millie.co.kr/service/cover/180182749/e9f190669e3f4eea852568e0a014d2d5.jpg",
-      "open_date": "2026-10-09",
+      "id": "fe65537fcee9439f",
+      "title": "도망친 곳에 절대 천국은 없습니다",
+      "author": "장대은",
+      "cover": "https://image.millie.co.kr/service/cover/180102726/5e64f43f55b14a8bb6c0fc62e9b3cdd4.jpg",
+      "open_date": "2026-10-12",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "56109af0cdc748fe",
-      "title": "펜을 놓고 일어서자",
+      "id": "ff16a01784964a95",
+      "title": "당신은 경희를 만난 적이 있다 : 한국근대문학 큐레이션 시리즈 두번째",
+      "author": "나혜석, 김명순, 강경애, 백신애 지음 / 원포더북스 엮음",
+      "cover": "https://image.millie.co.kr/service/cover/180179003/fe8dd0d6a9a44b92b91876696edf35d3.jpg",
+      "open_date": "2026-10-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "df5fa94055184d74",
+      "title": "가비차의 맛이 어떻습니까?",
       "author": "박혜수",
-      "cover": "https://image.millie.co.kr/service/cover/180182751/0dc30ffcffe5489e88e4f8fef3c6d4d0.jpg",
+      "cover": "https://img.millie.co.kr/200x/service/cover/180076330/35d246993d6b44c6ae830fc4c3b7ed2c.jpg",
       "open_date": "2026-10-09",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "f92dafb17887420b",
-      "title": "소리가 움직여요",
-      "author": "하루",
-      "cover": "https://image.millie.co.kr/service/cover/180182580/097e32e2dfb74227bbced06cbf6cf1a3.jpg",
-      "open_date": "2026-10-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "167c02a69dda4bf9",
-      "title": "조선 정신과 의사 유세풍 1",
-      "author": "이은소",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179572112/7214c662b1c34ddab1ae7f38ebfb98e3.jpg",
-      "open_date": "2026-10-09",
-      "is_audiobook": true,
-      "is_series": true,
-      "is_comic": false
-    },
-    {
-      "id": "8b44f1c69bec4c9e",
-      "title": "나를 지은 아홉 개의 집",
-      "author": "이규빈",
-      "cover": "https://image.millie.co.kr/service/cover/180157991/88f6479b52344368a802b967a7aeb7a1.jpg",
-      "open_date": "2026-10-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "769f7833d9e94a8f",
-      "title": "버선 속에 꼭꼭 숨겨라",
-      "author": "왕민정",
-      "cover": "https://image.millie.co.kr/service/cover/180182896/47409311e97040c9b4deebf5a06c6c16.jpg",
+      "id": "bef0033375b74a9e",
+      "title": "우리는 친구예요",
+      "author": "장선혜",
+      "cover": "https://image.millie.co.kr/service/cover/180182983/38cd13c100d6498b8792dd380e74f6c4.jpg",
       "open_date": "2026-10-12",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "19967aa7aba74935",
-      "title": "내 이름은 히라누마가 아니야",
-      "author": "이미애",
-      "cover": "https://image.millie.co.kr/service/cover/180182899/08a219291fda42cd93d31c3ecc4b359d.jpg",
+      "id": "4c377844947f481b",
+      "title": "나 혼자 다 먹을래요",
+      "author": "우산",
+      "cover": "https://image.millie.co.kr/service/cover/180182982/0ccf5f82a7724532b707eef92170817f.jpg",
       "open_date": "2026-10-12",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "2393dea87c014e24",
-      "title": "뾰족한 마음이 생겨요",
-      "author": "유가은",
-      "cover": "https://image.millie.co.kr/service/cover/180182903/918a4f72c29245318803fd3205a3a1ca.jpg",
+      "id": "d31e52119bd04922",
+      "title": "사자에게 채소를 주면 어떻게 될까요?",
+      "author": "시우",
+      "cover": "https://image.millie.co.kr/service/cover/180182980/1e6c131aface4aee9565dc46e7341e0e.jpg",
+      "open_date": "2026-10-12",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "72c5ff9e800042d2",
+      "title": "강아지야, 어딨니?",
+      "author": "김민진",
+      "cover": "https://image.millie.co.kr/service/cover/180182974/4a2d4eb93b894dae8c1411456f577c91.jpg",
       "open_date": "2026-10-12",
       "is_audiobook": true,
       "is_series": false,
@@ -563,11 +483,121 @@
       "is_comic": false
     },
     {
-      "id": "dcfeaf1edb0a467b",
-      "title": "내가 좋아하는 날씨는?",
-      "author": "다연",
-      "cover": "https://image.millie.co.kr/service/cover/180182581/a5ade18dfc824f4994208653dc2359a9.jpg",
+      "id": "2393dea87c014e24",
+      "title": "뾰족한 마음이 생겨요",
+      "author": "유가은",
+      "cover": "https://image.millie.co.kr/service/cover/180182903/918a4f72c29245318803fd3205a3a1ca.jpg",
+      "open_date": "2026-10-12",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "19967aa7aba74935",
+      "title": "내 이름은 히라누마가 아니야",
+      "author": "이미애",
+      "cover": "https://image.millie.co.kr/service/cover/180182899/08a219291fda42cd93d31c3ecc4b359d.jpg",
+      "open_date": "2026-10-12",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "769f7833d9e94a8f",
+      "title": "버선 속에 꼭꼭 숨겨라",
+      "author": "왕민정",
+      "cover": "https://image.millie.co.kr/service/cover/180182896/47409311e97040c9b4deebf5a06c6c16.jpg",
+      "open_date": "2026-10-12",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "37993b3cdc7943db",
+      "title": "새야 새야 파랑새야",
+      "author": "이미애",
+      "cover": "https://image.millie.co.kr/service/cover/180182746/cc002b85237c47199e7b63c585462338.jpg",
       "open_date": "2026-10-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "accbe4b03d10411c",
+      "title": "나라를 넘긴 을사오적",
+      "author": "김경희",
+      "cover": "https://image.millie.co.kr/service/cover/180182749/e9f190669e3f4eea852568e0a014d2d5.jpg",
+      "open_date": "2026-10-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "d9d9f96765114392",
+      "title": "생생한 풍속화는 나처럼, 김홍도",
+      "author": "김경미",
+      "cover": "https://image.millie.co.kr/service/cover/180183293/946b85e8e1364afbaf122d24e6bfca09.jpg",
+      "open_date": "2026-10-12",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "076f09d0e3254369",
+      "title": "나만의 빛깔을 찾아서, 고흐",
+      "author": "서진희",
+      "cover": "https://image.millie.co.kr/service/cover/180183307/07e40d1e8f824b5e8c7823f86dc0de33.jpg",
+      "open_date": "2026-10-12",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "404d8b27e02d43f1",
+      "title": "호기심이 많은 팔방미인, 다빈치",
+      "author": "장선혜",
+      "cover": "https://image.millie.co.kr/service/cover/180183305/bd6908a6d22646bcb582bae772d4c9dd.jpg",
+      "open_date": "2026-10-12",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "46a6963a604f4a8f",
+      "title": "이상한 텔레비전 예술가, 백남준",
+      "author": "유계영",
+      "cover": "https://image.millie.co.kr/service/cover/180183304/7223aa99b16444bdb0a3955a309b7338.jpg",
+      "open_date": "2026-10-12",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "025779eb4e3e409e",
+      "title": "유이",
+      "author": "정유이 지음 / 제니 멜리호브 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180183310/c862639f2f4b49f8bb6b4c7698b75096.jpg",
+      "open_date": "2026-10-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "10daec135fc04d68",
+      "title": "세상을 사랑한 과학자, 마리 퀴리",
+      "author": "임율이",
+      "cover": "https://image.millie.co.kr/service/cover/180183252/495f032081384c61a428f802eab07f7d.jpg",
+      "open_date": "2026-10-12",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "a2f036d986224f5d",
+      "title": "검은 해바라기",
+      "author": "오윤희",
+      "cover": "https://image.millie.co.kr/service/cover/180119712/a76fa35b78ca4f759d49809a3f6837de.jpg",
+      "open_date": "2026-10-12",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
