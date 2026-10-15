@@ -17,9 +17,11 @@
     python crawl.py
 
 결과물:
-    ../data.json      - 오늘자 4개 서비스 순위 (index.html 1번 탭)
-    ../history.json   - 날짜별 순위 히스토리 누적 (최근 90일)
-    ../upcoming.json  - 밀리의서재 공개예정 도서 목록 (index.html 2번 탭)
+    ../data.json           - 오늘자 4개 서비스 순위 (index.html 1번 탭)
+    ../history.json        - 날짜별 순위 히스토리 누적 (최근 90일)
+    ../upcoming.json       - 밀리의서재 공개예정 도서 목록 (index.html 2번 탭)
+    ../rank_baseline.json  - "전일 대비" 비교 기준점 (하루에 여러 번 재실행돼도
+                              유지되는 내부용 스냅샷, 화면에서는 쓰이지 않음)
 
 밀리의서재 랭킹 API/예스24 크레마클럽 목록에는 출판사 정보가 없어서, 화면과
 엑셀 다운로드에 실제로 노출되는 TOP 20에 한해 각 책의 상세 페이지에서 출판사를
@@ -53,6 +55,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # repo r
 DATA_JSON = os.path.join(BASE_DIR, "data.json")
 HISTORY_JSON = os.path.join(BASE_DIR, "history.json")
 UPCOMING_JSON = os.path.join(BASE_DIR, "upcoming.json")
+RANK_BASELINE_JSON = os.path.join(BASE_DIR, "rank_baseline.json")
 
 STORES = ["kyobo_unlimited", "kyobo_premium", "millie", "yes24_crema"]
 STORE_URLS = {
@@ -347,6 +350,48 @@ def build_pid_ranks(old):
     return pid_ranks
 
 
+def load_rank_baseline():
+    """"전일 대비" 비교의 기준점 스냅샷을 읽어온다 (없으면 None)."""
+    if not os.path.exists(RANK_BASELINE_JSON):
+        return None
+    try:
+        with open(RANK_BASELINE_JSON, encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return None
+
+
+def save_rank_baseline(date, pid_ranks):
+    with open(RANK_BASELINE_JSON, "w", encoding="utf-8") as f:
+        json.dump({"date": date, "ranks": pid_ranks}, f, ensure_ascii=False)
+
+
+def resolve_pid_ranks(old):
+    """"전일 대비"(p) 계산에 쓸 기준 순위를 결정한다.
+
+    data.json은 하루에도 여러 번 다시 쓰일 수 있다(예: 밀리의서재 수집 실패 후
+    수동 재크롤링). 그래서 디스크의 data.json을 그대로 "전일" 기준으로 쓰면,
+    같은 날 두 번째 실행부터는 "전일 대비"가 아니라 "바로 이전 실행 대비"로
+    계산돼버려 그날 처음 잡혔던 전일 대비 변동이 사라진다.
+
+    날짜 라벨(TODAY)이 바뀌는 그날의 첫 실행에서만 기준 스냅샷을
+    rank_baseline.json에 저장해두고, 같은 날 재실행에서는 그 스냅샷을 그대로
+    재사용해서 "전일 대비" 의미가 하루 내내 유지되게 한다.
+    """
+    is_new_day = (not old) or (old.get("today") != TODAY)
+    if is_new_day:
+        pid_ranks = build_pid_ranks(old)
+        save_rank_baseline(TODAY, pid_ranks)
+        return pid_ranks
+
+    baseline = load_rank_baseline()
+    if baseline and baseline.get("date") == TODAY and baseline.get("ranks"):
+        return baseline["ranks"]
+    # 베이스라인 파일이 없거나(배포 직후 과도기 등) 날짜가 안 맞으면, 안전하게
+    # 기존 방식(디스크의 data.json 기준)으로 폴백한다.
+    return build_pid_ranks(old)
+
+
 def extract_store_items(old, store):
     """이전 data.json에서 특정 서비스의 book 목록을 그대로 복원한다.
     오늘 그 서비스 수집이 실패했을 때, 화면에 마지막으로 성공한 데이터를
@@ -436,7 +481,7 @@ def update_history(output: dict, stale_stores: dict):
 # ---------- 메인 ----------
 def main():
     old = load_prev_snapshot()
-    pid_ranks = build_pid_ranks(old)
+    pid_ranks = resolve_pid_ranks(old)
     prev_date = resolve_prev_date(old)
     old_stale = (old.get("stale_stores") if old else None) or {}
 
