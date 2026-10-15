@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T10:36:46.454978+09:00",
-  "count": 36,
+  "updated": "2026-10-16T08:27:44.714444+09:00",
+  "count": 88,
   "books": [
     {
       "id": "ed16c3ec59d747ce",
@@ -8,16 +8,6 @@
       "author": "김혜영",
       "cover": "https://image.millie.co.kr/service/cover/180174122/9cd3b88667fa4baaac96d7174c35b1b9.jpg",
       "open_date": "2026-10-23",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "8d0314211711468f",
-      "title": "도깨비불 게스트하우스",
-      "author": "범유진",
-      "cover": "https://image.millie.co.kr/service/cover/180179164/880324dbb16c499a9c8c9822e46d4388.jpg",
-      "open_date": "2026-10-16",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -53,21 +43,21 @@
       "is_comic": false
     },
     {
-      "id": "bd9b782624fb44a5",
-      "title": "최재붕의 AI 트렌드 2027",
-      "author": "최재붕",
-      "cover": "https://image.millie.co.kr/service/cover/180181837/ae2a2191655c4ce588a544da0a2cfc26.jpg",
-      "open_date": "2026-10-17",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "3451176a95bc4edd",
       "title": "기기묘묘 부동산",
       "author": "박혜연",
       "cover": "https://image.millie.co.kr/service/cover/180183389/cc825750363348c4b67b5273fca9e852.jpg",
       "open_date": "2026-10-19",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "bd9b782624fb44a5",
+      "title": "최재붕의 AI 트렌드 2027",
+      "author": "최재붕",
+      "cover": "https://image.millie.co.kr/service/cover/180181837/ae2a2191655c4ce588a544da0a2cfc26.jpg",
+      "open_date": "2026-10-17",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -83,16 +73,6 @@
       "is_comic": false
     },
     {
-      "id": "93900c19a85e40d9",
-      "title": "신 퇴마록 신세편 1",
-      "author": "이우혁",
-      "cover": "https://image.millie.co.kr/service/cover/180165473/86704fc89a534b45ac05291dc779bde4.jpg",
-      "open_date": "2026-11-01",
-      "is_audiobook": true,
-      "is_series": true,
-      "is_comic": false
-    },
-    {
       "id": "b6ac55296d2443f0",
       "title": "군주론 : 쇼츠 에디션",
       "author": "니콜로 마키아벨리 지음 / 박용남 옮김",
@@ -100,6 +80,16 @@
       "open_date": "2026-10-21",
       "is_audiobook": false,
       "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "93900c19a85e40d9",
+      "title": "신 퇴마록 신세편 1",
+      "author": "이우혁",
+      "cover": "https://image.millie.co.kr/service/cover/180165473/86704fc89a534b45ac05291dc779bde4.jpg",
+      "open_date": "2026-11-01",
+      "is_audiobook": true,
+      "is_series": true,
       "is_comic": false
     },
     {
@@ -193,6 +183,16 @@
       "is_comic": false
     },
     {
+      "id": "dda5e94d7dbc4555",
+      "title": "누구나 만드는 평생 연금 ETF 투자 혁명",
+      "author": "도세 도시로 지음 / 김지선 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183570/bd16dc89e74b46da8dc0446adc6090fb.jpg",
+      "open_date": "2026-10-29",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "98cab02f0f074948",
       "title": "얼굴들",
       "author": "이동원",
@@ -203,23 +203,63 @@
       "is_comic": false
     },
     {
-      "id": "16d7e8dce84f4355",
-      "title": "유아 AI 놀이 백과사전 100",
-      "author": "교사크리에이터협회 유아교육부 (김예슬, 오은진, 조윤주, 김윤희, 김수진, 이민지, 권세나, 김초롱, 양유선, 정해정, 오정옥)",
-      "cover": "https://image.millie.co.kr/service/cover/180179595/82dc4425a02b4ea7986522c9425d5b3e.jpg",
-      "open_date": "2026-10-16",
+      "id": "6722cb62351344f6",
+      "title": "더블 side B",
+      "author": "박민규",
+      "cover": "https://image.millie.co.kr/service/cover/180182868/5d476491fb09416caa84cbae90f17211.jpg",
+      "open_date": "2026-10-19",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "5757a51a8dfe499a",
-      "title": "구미냥의 묘한 미스터리 1",
-      "author": "레지나 신",
-      "cover": "https://image.millie.co.kr/service/cover/180181833/deb8daae968a46018468cfb03ba773fe.jpg",
-      "open_date": "2026-10-19",
+      "id": "92c3aa4b247a4d55",
+      "title": "이게 되네? AI 상품 이미지 만들기",
+      "author": "박상균",
+      "cover": "https://image.millie.co.kr/service/cover/180182978/ab93c67d57024c36b7b6bca73668f830.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "abc62254efdb40ce",
+      "title": "호신술 클럽",
+      "author": "김지윤",
+      "cover": "https://image.millie.co.kr/service/cover/180174017/37ca9e036ccf4914a26587fba248623b.jpg",
+      "open_date": "2026-11-16",
       "is_audiobook": true,
-      "is_series": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "5dbdd6fc0b674108",
+      "title": "까라마조프 형제들 3",
+      "author": "도스또옙스끼 지음 / 홍대화 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180182867/d971bbf799db4d37b31e0cb1872d11fd.jpg",
+      "open_date": "2026-10-19",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "5b877c31808e4f1f",
+      "title": "기발한 기사 라 만차의 돈 끼호떼 2",
+      "author": "미겔 데 세르반떼스 지음 / 민용태 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180182870/d278be4e83af4009bb68236273504483.jpg",
+      "open_date": "2026-10-19",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9b2c05ef7b854522",
+      "title": "까라마조프 형제들 2",
+      "author": "도스또옙스끼 지음 / 홍대화 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180182866/22180cda3cbf4c96aaced0542889a1e9.jpg",
+      "open_date": "2026-10-19",
+      "is_audiobook": false,
+      "is_series": false,
       "is_comic": false
     },
     {
@@ -239,6 +279,16 @@
       "cover": "https://image.millie.co.kr/service/cover/180183439/62728aa0b95a4b04a37ec1c2da48714b.jpg",
       "open_date": "2026-10-19",
       "is_audiobook": false,
+      "is_series": true,
+      "is_comic": false
+    },
+    {
+      "id": "5757a51a8dfe499a",
+      "title": "구미냥의 묘한 미스터리 1",
+      "author": "레지나 신",
+      "cover": "https://image.millie.co.kr/service/cover/180181833/deb8daae968a46018468cfb03ba773fe.jpg",
+      "open_date": "2026-10-19",
+      "is_audiobook": true,
       "is_series": true,
       "is_comic": false
     },
@@ -263,6 +313,16 @@
       "is_comic": false
     },
     {
+      "id": "b282cb58692a4ae8",
+      "title": "소원 반송! 별똥별 우체국 - 마음거울동화 <지아의 밤이면 밤마다> 시즌10",
+      "author": "나둘숙",
+      "cover": "https://image.millie.co.kr/service/cover/180183678/5c6ced13c54d46a89bd79870e2a8fe6d.jpg",
+      "open_date": "2026-10-19",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "d398aeb210e940df",
       "title": "축제 로고 없는 우산은 입장 금지! - 마음거울동화 <지아의 밤이면 밤마다> 시즌10",
       "author": "나둘숙",
@@ -273,10 +333,30 @@
       "is_comic": false
     },
     {
-      "id": "b282cb58692a4ae8",
-      "title": "소원 반송! 별똥별 우체국 - 마음거울동화 <지아의 밤이면 밤마다> 시즌10",
+      "id": "271f1069d3194205",
+      "title": "스티커를 빌려주는 수상한 숫자 시장 - 마음거울동화 <지아의 밤이면 밤마다> 시즌10",
       "author": "나둘숙",
-      "cover": "https://image.millie.co.kr/service/cover/180183678/5c6ced13c54d46a89bd79870e2a8fe6d.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180183688/cdb0075702a04d3aa643170f6dc4ba06.jpg",
+      "open_date": "2026-10-19",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "7ec6fface1cd471c",
+      "title": "한 가지 맛만 파는 이상한 아이스크림 가게 - 마음거울동화 <지아의 밤이면 밤마다> 시즌10",
+      "author": "나둘숙",
+      "cover": "https://image.millie.co.kr/service/cover/180183695/071f459c96b2487399a632c0b40dafb3.jpg",
+      "open_date": "2026-10-19",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "7b41c710107249ef",
+      "title": "재능 표지판이 자꾸 도망가는 안개 미로 - 마음거울동화 <지아의 밤이면 밤마다> 시즌10",
+      "author": "나둘숙",
+      "cover": "https://image.millie.co.kr/service/cover/180183666/036b269667f14dca8e9b17cabb6bb579.jpg",
       "open_date": "2026-10-19",
       "is_audiobook": true,
       "is_series": false,
@@ -293,71 +373,231 @@
       "is_comic": false
     },
     {
-      "id": "dda5e94d7dbc4555",
-      "title": "누구나 만드는 평생 연금 ETF 투자 혁명",
-      "author": "도세 도시로 지음 / 김지선 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183570/bd16dc89e74b46da8dc0446adc6090fb.jpg",
-      "open_date": "2026-10-29",
+      "id": "025ad891e7344fc8",
+      "title": "하늘이 보낸 의적 길동 - 500년을 건너온 사랑 1막",
+      "author": "별빈",
+      "cover": "https://image.millie.co.kr/service/cover/180183894/3282c68b09d248a196c9c0d0fa707222.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ce1eff9804d24825",
+      "title": "아기 곰 하푸와 신나는 몸놀이 해요 10",
+      "author": "정미현",
+      "cover": "https://image.millie.co.kr/service/cover/180183867/6ce8b45ea1f14ee49a7c0cbffbed9fe7.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "44278979ee3f4966",
+      "title": "나는 왜 네 말이 힘들까",
+      "author": "박재연",
+      "cover": "https://image.millie.co.kr/service/cover/180172783/e9ed2b4dda324f458b8b5b500135f38a.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "e734a8caa68f4db9",
+      "title": "아기 곰 하푸와 신나는 몸놀이 해요 11",
+      "author": "정미현",
+      "cover": "https://image.millie.co.kr/service/cover/180183868/6ef577241a384d13bc594f6ea5ee819d.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "50af765377294779",
+      "title": "큐레이터",
+      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183669/b3705704100a4813947b5dca01c816d4.jpg",
+      "open_date": "2026-11-03",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "92c3aa4b247a4d55",
-      "title": "이게 되네? AI 상품 이미지 만들기",
-      "author": "박상균",
-      "cover": "https://image.millie.co.kr/service/cover/180182978/ab93c67d57024c36b7b6bca73668f830.jpg",
-      "open_date": "2026-10-30",
+      "id": "5b1e85323a04443c",
+      "title": "블랙 서머",
+      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183667/a956fe81c00c4f55b5240920d3b00af7.jpg",
+      "open_date": "2026-11-03",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "5b877c31808e4f1f",
-      "title": "기발한 기사 라 만차의 돈 끼호떼 2",
-      "author": "미겔 데 세르반떼스 지음 / 민용태 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180182870/d278be4e83af4009bb68236273504483.jpg",
+      "id": "32d20da481454aad",
+      "title": "엄마도 몰랐던 숲속 동물들의 비밀 2 - 토끼는 왜 자기 똥을 먹을까",
+      "author": "사자 엄마",
+      "cover": "https://image.millie.co.kr/service/cover/180183869/34b6d780b26c4374b6d9619f117777d1.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ea4d9068ee554345",
+      "title": "조선시대 설화 - 조선 달밤 이야기터 13권",
+      "author": "별빈",
+      "cover": "https://image.millie.co.kr/service/cover/180182752/712d26e49b694f758482a563232a160e.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "a879a0cf9a3d4813",
+      "title": "조선시대 설화 - 조선 달밤 이야기터 14권",
+      "author": "별빈",
+      "cover": "https://image.millie.co.kr/service/cover/180182753/85be28f3443446ae98a84f8442321262.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3b6fcdbf4c974758",
+      "title": "조선시대 설화 - 조선 달밤 이야기터 15권",
+      "author": "별빈",
+      "cover": "https://image.millie.co.kr/service/cover/180182754/a6cc6abbffdf42c3b157e3aea4bedc0d.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "551577faf52e45df",
+      "title": "마법천자문 72",
+      "author": "알에스미디어 지음 / 정수영 그림 / 강용철 감수",
+      "cover": "https://image.millie.co.kr/service/cover/180183631/a787fa7aee26454fb20350a924ae4c45.jpg",
       "open_date": "2026-10-19",
       "is_audiobook": false,
+      "is_series": true,
+      "is_comic": false
+    },
+    {
+      "id": "f6cf9986cde24e0b",
+      "title": "하늘이 보낸 의적 길동 - 500년을 건너온 사랑 2막",
+      "author": "별빈",
+      "cover": "https://image.millie.co.kr/service/cover/180183896/113aed93b4d94bc7b857f0c6301d8c3e.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "6722cb62351344f6",
-      "title": "더블 side B",
-      "author": "박민규",
-      "cover": "https://image.millie.co.kr/service/cover/180182868/5d476491fb09416caa84cbae90f17211.jpg",
-      "open_date": "2026-10-19",
+      "id": "a8f29418ba7146a6",
+      "title": "하얀 곰 하푸의 모험 - 베이커리 카페에 가볼까?",
+      "author": "정미현",
+      "cover": "https://image.millie.co.kr/service/cover/180183898/02f10eed25de4b2fa575f20cfc94421b.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "c828cbcdad7441c0",
+      "title": "하얀 곰 하푸의 모험 - 우체국에 가볼까?",
+      "author": "정미현",
+      "cover": "https://image.millie.co.kr/service/cover/180183900/d492a31d4a1a48869a633f3edb6e398e.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "93c359578802444e",
+      "title": "사랑꽃",
+      "author": "이호연",
+      "cover": "https://image.millie.co.kr/service/cover/180183927/0e13f01a40d14e8dbd2d6723d266f70e.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "a7f70477ce3b42c5",
+      "title": "퍼핏 쇼",
+      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183661/95fdf987cbca4c1ca764360a64515de6.jpg",
+      "open_date": "2026-11-03",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "5dbdd6fc0b674108",
-      "title": "까라마조프 형제들 3",
-      "author": "도스또옙스끼 지음 / 홍대화 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180182867/d971bbf799db4d37b31e0cb1872d11fd.jpg",
-      "open_date": "2026-10-19",
+      "id": "15f287b4ec334f61",
+      "title": "달러구트 꿈 백화점 0",
+      "author": "이미예",
+      "cover": "https://image.millie.co.kr/service/cover/180165823/252edabb3ad24195a519b1851bd49426.jpg",
+      "open_date": "2026-11-02",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "aeea9066907d441c",
+      "title": "저주를 잣는 물레를 부수고",
+      "author": "앨릭스 E. 해로우 지음 / 황소연 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183850/324f0ebe37a94edaa7f0615659520c45.jpg",
+      "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "9b2c05ef7b854522",
-      "title": "까라마조프 형제들 2",
-      "author": "도스또옙스끼 지음 / 홍대화 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180182866/22180cda3cbf4c96aaced0542889a1e9.jpg",
-      "open_date": "2026-10-19",
-      "is_audiobook": false,
+      "id": "c1e1ef294c464879",
+      "title": "아기 곰 하푸와 신나는 몸놀이 해요 9",
+      "author": "정미현",
+      "cover": "https://image.millie.co.kr/service/cover/180183846/dcff0344e4494ec0a262e990cf9e4825.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "abc62254efdb40ce",
-      "title": "호신술 클럽",
-      "author": "김지윤",
-      "cover": "https://image.millie.co.kr/service/cover/180174017/37ca9e036ccf4914a26587fba248623b.jpg",
-      "open_date": "2026-11-16",
+      "id": "8cb78dc43cc24cfe",
+      "title": "신비할망10 - 피리차사",
+      "author": "안현지, 이정익",
+      "cover": "https://image.millie.co.kr/service/cover/180183808/01ae5ff7e93b44c69fe4bc3c296e5798.jpg",
+      "open_date": "2026-10-19",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "6417959fdf8f42c0",
+      "title": "마음 기상청에서 태풍이 탈출했다! - 마음거울동화 <지아의 밤이면 밤마다> 시즌10",
+      "author": "나둘숙",
+      "cover": "https://image.millie.co.kr/service/cover/180183698/2b0a6105419e4b8b8af8c5900ce42cff.jpg",
+      "open_date": "2026-10-19",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ba26524ff9f24bff",
+      "title": "번개 칠 때만 열리는 별난 사진관 - 마음거울동화 <지아의 밤이면 밤마다> 시즌10",
+      "author": "나둘숙",
+      "cover": "https://image.millie.co.kr/service/cover/180183701/7ea9ce9c3dbc4e589f015c40c95ace9f.jpg",
+      "open_date": "2026-10-19",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "5647d241b4de4c63",
+      "title": "바람 없는 날도 날씨입니다 - 마음거울동화 <지아의 밤이면 밤마다> 시즌10",
+      "author": "나둘숙",
+      "cover": "https://image.millie.co.kr/service/cover/180183702/f367fb8d90f44cb288b069ff24255dc2.jpg",
+      "open_date": "2026-10-19",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
