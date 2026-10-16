@@ -187,33 +187,12 @@
           "hkey": "안식월일기"
         },
         {
-          "isbn": "레드닥>",
-          "title": "레드 닥>",
-          "author": "앤 카슨 저/민승남 역",
-          "pub": "한겨레출판",
-          "yes24_crema": {
-            "t": 9,
-            "pid": "113475707",
-            "ship": "",
-            "audio": false,
-            "p": 7
-          },
-          "millie": {
-            "t": 25,
-            "pid": "2ad2b7fce4ee4736",
-            "ship": "",
-            "audio": false,
-            "p": 15
-          },
-          "hkey": "레드닥>"
-        },
-        {
           "isbn": "증오의역습",
           "title": "증오의 역습",
           "author": "라인하르트 할러 저/김희상 역",
           "pub": "책사람집",
           "yes24_crema": {
-            "t": 10,
+            "t": 9,
             "pid": "147644122",
             "ship": "",
             "audio": false,
@@ -227,7 +206,7 @@
           "author": "신재현 저",
           "pub": "유노북스",
           "yes24_crema": {
-            "t": 11,
+            "t": 10,
             "pid": "195600355",
             "ship": "",
             "audio": false,
@@ -248,7 +227,7 @@
           "author": "칩 콜웰 (Chip Colwell) 저김병화 역",
           "pub": "부키",
           "yes24_crema": {
-            "t": 12,
+            "t": 11,
             "pid": "193984758",
             "ship": "",
             "audio": false,
@@ -262,7 +241,7 @@
           "author": "슈테판 츠바이크 저/이노은 역",
           "pub": "다산북스",
           "yes24_crema": {
-            "t": 13,
+            "t": 12,
             "pid": "196783448",
             "ship": "",
             "audio": false,
@@ -283,7 +262,7 @@
           "author": "박지욱 저",
           "pub": "반니",
           "yes24_crema": {
-            "t": 14,
+            "t": 13,
             "pid": "197315846",
             "ship": "",
             "audio": false,
@@ -297,7 +276,7 @@
           "author": "조정래 저",
           "pub": "해냄",
           "yes24_crema": {
-            "t": 15,
+            "t": 14,
             "pid": "195433443",
             "ship": "",
             "audio": false,
@@ -311,7 +290,7 @@
           "author": "간결한 식탁 저",
           "pub": "래디시",
           "yes24_crema": {
-            "t": 16,
+            "t": 15,
             "pid": "197060446",
             "ship": "",
             "audio": false,
@@ -325,7 +304,7 @@
           "author": "정구태 저",
           "pub": "미래의창",
           "yes24_crema": {
-            "t": 17,
+            "t": 16,
             "pid": "194525439",
             "ship": "",
             "audio": false,
@@ -339,7 +318,7 @@
           "author": "임진아 저",
           "pub": "유유히",
           "yes24_crema": {
-            "t": 18,
+            "t": 17,
             "pid": "195392966",
             "ship": "",
             "audio": false,
@@ -353,7 +332,7 @@
           "author": "맷 와이스펠드 저/박진수 역",
           "pub": "제이펍",
           "yes24_crema": {
-            "t": 19,
+            "t": 18,
             "pid": "96234470",
             "ship": "",
             "audio": false,
@@ -367,7 +346,7 @@
           "author": "카미유 주노 저/이세진 역",
           "pub": "윌북(willbook)",
           "yes24_crema": {
-            "t": 20,
+            "t": 19,
             "pid": "194896032",
             "ship": "",
             "audio": false,
@@ -379,9 +358,9 @@
           "isbn": "인생을바꾸는투자학개론",
           "title": "인생을 바꾸는 투자학개론",
           "author": "한정수(세상학개론) 저",
-          "pub": "",
+          "pub": "토네이도",
           "yes24_crema": {
-            "t": 21,
+            "t": 20,
             "pid": "196478313",
             "ship": "",
             "audio": false,
@@ -395,7 +374,7 @@
           "author": "헤르만 헤세 저/김길웅 역",
           "pub": "민음사",
           "yes24_crema": {
-            "t": 22,
+            "t": 21,
             "pid": "124731156",
             "ship": "",
             "audio": false,
@@ -416,7 +395,7 @@
           "author": "이석현 저",
           "pub": "",
           "yes24_crema": {
-            "t": 23,
+            "t": 22,
             "pid": "168662729",
             "ship": "",
             "audio": false,
@@ -430,7 +409,7 @@
           "author": "황보름 저",
           "pub": "",
           "yes24_crema": {
-            "t": 24,
+            "t": 23,
             "pid": "193852218",
             "ship": "",
             "audio": false,
@@ -444,7 +423,7 @@
           "author": "고명환 저",
           "pub": "라곰",
           "yes24_crema": {
-            "t": 25,
+            "t": 24,
             "pid": "195131392",
             "ship": "",
             "audio": false,
@@ -472,7 +451,7 @@
           "author": "서헌강 저",
           "pub": "",
           "yes24_crema": {
-            "t": 26,
+            "t": 25,
             "pid": "194529602",
             "ship": "",
             "audio": false,
@@ -486,7 +465,7 @@
           "author": "유발 하라리 저/조현욱 역/이태수 감수",
           "pub": "",
           "yes24_crema": {
-            "t": 27,
+            "t": 26,
             "pid": "117165912",
             "ship": "",
             "audio": false,
@@ -500,7 +479,7 @@
           "author": "앨런 레비 저/노지양 역",
           "pub": "오팬하우스",
           "yes24_crema": {
-            "t": 28,
+            "t": 27,
             "pid": "194005872",
             "ship": "",
             "audio": false,
@@ -528,7 +507,7 @@
           "author": "에리히 프롬 저/강주헌 역",
           "pub": "",
           "yes24_crema": {
-            "t": 29,
+            "t": 28,
             "pid": "192991625",
             "ship": "",
             "audio": false,
@@ -549,7 +528,7 @@
           "author": "아임플래너(황정희) 저",
           "pub": "",
           "yes24_crema": {
-            "t": 30,
+            "t": 29,
             "pid": "197713669",
             "ship": "",
             "audio": false,
@@ -563,7 +542,7 @@
           "author": "이동휘 저",
           "pub": "",
           "yes24_crema": {
-            "t": 31,
+            "t": 30,
             "pid": "90454261",
             "ship": "",
             "audio": false,
@@ -577,7 +556,7 @@
           "author": "정형남 저",
           "pub": "",
           "yes24_crema": {
-            "t": 32,
+            "t": 31,
             "pid": "196784686",
             "ship": "",
             "audio": false,
@@ -591,7 +570,7 @@
           "author": "안보윤 저",
           "pub": "",
           "yes24_crema": {
-            "t": 33,
+            "t": 32,
             "pid": "189405803",
             "ship": "",
             "audio": false,
@@ -605,7 +584,7 @@
           "author": "정태일 저",
           "pub": "",
           "yes24_crema": {
-            "t": 34,
+            "t": 33,
             "pid": "197100482",
             "ship": "",
             "audio": false,
@@ -619,7 +598,7 @@
           "author": "안정광 저 저",
           "pub": "",
           "yes24_crema": {
-            "t": 35,
+            "t": 34,
             "pid": "128636653",
             "ship": "",
             "audio": false,
@@ -633,7 +612,7 @@
           "author": "M. W. 크레이븐 저/김해온 역",
           "pub": "",
           "yes24_crema": {
-            "t": 36,
+            "t": 35,
             "pid": "196560873",
             "ship": "",
             "audio": false,
@@ -647,7 +626,7 @@
           "author": "세라 베이크웰 저/조영 역",
           "pub": "",
           "yes24_crema": {
-            "t": 37,
+            "t": 36,
             "pid": "195611225",
             "ship": "",
             "audio": false,
@@ -661,7 +640,7 @@
           "author": "조너선 스위프트 저/이혜수 역",
           "pub": "",
           "yes24_crema": {
-            "t": 38,
+            "t": 37,
             "pid": "104661144",
             "ship": "",
             "audio": false,
@@ -675,7 +654,7 @@
           "author": "이대진 저",
           "pub": "",
           "yes24_crema": {
-            "t": 39,
+            "t": 38,
             "pid": "197315848",
             "ship": "",
             "audio": false,
@@ -689,7 +668,7 @@
           "author": "주한나,정은진 저 저",
           "pub": "",
           "yes24_crema": {
-            "t": 40,
+            "t": 39,
             "pid": "196676656",
             "ship": "",
             "audio": false,
@@ -703,7 +682,7 @@
           "author": "리샬 허반스 저/구정회 역",
           "pub": "",
           "yes24_crema": {
-            "t": 41,
+            "t": 40,
             "pid": "108434474",
             "ship": "",
             "audio": false,
@@ -717,7 +696,7 @@
           "author": "히가시노 게이고 저/김선영 역",
           "pub": "북다",
           "yes24_crema": {
-            "t": 42,
+            "t": 41,
             "pid": "151644106",
             "ship": "",
             "audio": false,
@@ -738,7 +717,7 @@
           "author": "김유영 저",
           "pub": "",
           "yes24_crema": {
-            "t": 43,
+            "t": 42,
             "pid": "198033910",
             "ship": "",
             "audio": false,
@@ -752,7 +731,7 @@
           "author": "노준영 저",
           "pub": "",
           "yes24_crema": {
-            "t": 44,
+            "t": 43,
             "pid": "196904754",
             "ship": "",
             "audio": false,
@@ -766,7 +745,7 @@
           "author": "제인 오스틴 저",
           "pub": "",
           "yes24_crema": {
-            "t": 45,
+            "t": 44,
             "pid": "104647824",
             "ship": "",
             "audio": false,
@@ -780,7 +759,7 @@
           "author": "이해인 저",
           "pub": "",
           "yes24_crema": {
-            "t": 46,
+            "t": 45,
             "pid": "153061633",
             "ship": "",
             "audio": false,
@@ -794,7 +773,7 @@
           "author": "최고민수(박민수) 저",
           "pub": "",
           "yes24_crema": {
-            "t": 47,
+            "t": 46,
             "pid": "195611224",
             "ship": "",
             "audio": false,
@@ -808,7 +787,7 @@
           "author": "리러하 저",
           "pub": "",
           "yes24_crema": {
-            "t": 48,
+            "t": 47,
             "pid": "196676972",
             "ship": "",
             "audio": false,
@@ -822,7 +801,7 @@
           "author": "이기동 저",
           "pub": "",
           "yes24_crema": {
-            "t": 49,
+            "t": 48,
             "pid": "175961110",
             "ship": "",
             "audio": false,
@@ -836,13 +815,27 @@
           "author": "다이앤 엔스 저/박아람 역",
           "pub": "",
           "yes24_crema": {
-            "t": 50,
+            "t": 49,
             "pid": "147644118",
             "ship": "",
             "audio": false,
             "p": null
           },
           "hkey": "외로움의책"
+        },
+        {
+          "isbn": "장자필사노트",
+          "title": "장자 필사 노트",
+          "author": "장자 저/임재성 편역",
+          "pub": "",
+          "yes24_crema": {
+            "t": 50,
+            "pid": "197086786",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "장자필사노트"
         },
         {
           "isbn": "인비인",
@@ -1473,6 +1466,20 @@
             "p": 31
           },
           "hkey": "온기로부터__audio"
+        },
+        {
+          "isbn": "레드닥>",
+          "title": "레드 닥>",
+          "author": "앤 카슨 지음 / 민승남 옮김",
+          "pub": "",
+          "millie": {
+            "t": 25,
+            "pid": "2ad2b7fce4ee4736",
+            "ship": "",
+            "audio": false,
+            "p": 15
+          },
+          "hkey": "레드닥>"
         },
         {
           "isbn": "안녕이라그랬어",
