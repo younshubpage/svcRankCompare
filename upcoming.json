@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17T10:23:05.041044+09:00",
-  "count": 104,
+  "updated": "2026-10-18T08:08:23.333140+09:00",
+  "count": 103,
   "books": [
     {
       "id": "ed16c3ec59d747ce",
@@ -18,16 +18,6 @@
       "author": "노청엽",
       "cover": "https://image.millie.co.kr/service/cover/180183401/68b7f9d1911742cdb11bfa4d54c7a3ed.jpg",
       "open_date": "2026-10-19",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "4e2317c569bf45cf",
-      "title": "거짓에 갇힌 여자",
-      "author": "데이비드 발다치 지음 / 허형은 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180182112/0a4199de6104428b87453c786ccdaee3.jpg",
-      "open_date": "2026-10-18",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -597,6 +587,16 @@
       "title": "수호지 2권",
       "author": "시내암",
       "cover": "https://image.millie.co.kr/service/cover/180183758/b14eb7c7297140cd95a0870b295c906a.jpg",
+      "open_date": "2026-10-19",
+      "is_audiobook": true,
+      "is_series": true,
+      "is_comic": false
+    },
+    {
+      "id": "03c6bc20e5384011",
+      "title": "수호지 3권",
+      "author": "시내암",
+      "cover": "https://image.millie.co.kr/service/cover/180183774/8112b36aba254e49bf214a11237e1a3e.jpg",
       "open_date": "2026-10-19",
       "is_audiobook": true,
       "is_series": true,
