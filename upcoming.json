@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T10:27:04.833880+09:00",
-  "count": 48,
+  "updated": "2026-10-20T08:08:52.405066+09:00",
+  "count": 47,
   "books": [
     {
       "id": "ed16c3ec59d747ce",
@@ -9,16 +9,6 @@
       "cover": "https://image.millie.co.kr/service/cover/180174122/9cd3b88667fa4baaac96d7174c35b1b9.jpg",
       "open_date": "2026-10-23",
       "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "033f7ac6f96c441e",
-      "title": "나의 첫 번째 재테크 교과서",
-      "author": "프롬어스아카데미",
-      "cover": "https://image.millie.co.kr/service/cover/180182426/30949f6bacae405baf2c106176e2ca49.jpg",
-      "open_date": "2026-10-20",
-      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -273,16 +263,6 @@
       "is_comic": false
     },
     {
-      "id": "1cc7d149d42b4f70",
-      "title": "매경이코노미 2381호",
-      "author": "매경이코노미 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180184084/509389421a8e49269af11dc4dc396901.jpg",
-      "open_date": "2026-10-20",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "abc62254efdb40ce",
       "title": "호신술 클럽",
       "author": "김지윤",
@@ -303,30 +283,10 @@
       "is_comic": false
     },
     {
-      "id": "22d42f499ba244f8",
-      "title": "씨네21 1578호",
-      "author": "씨네21",
-      "cover": "https://image.millie.co.kr/service/cover/180183994/53e8b4e7aa8945d7b834fe4ba3308917.jpg",
-      "open_date": "2026-10-20",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "32d20da481454aad",
       "title": "엄마도 몰랐던 숲속 동물들의 비밀 2 - 토끼는 왜 자기 똥을 먹을까",
       "author": "사자 엄마",
       "cover": "https://image.millie.co.kr/service/cover/180183869/34b6d780b26c4374b6d9619f117777d1.jpg",
-      "open_date": "2026-10-21",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "a8f29418ba7146a6",
-      "title": "하얀 곰 하푸의 모험 - 베이커리 카페에 가볼까?",
-      "author": "정미현",
-      "cover": "https://image.millie.co.kr/service/cover/180183898/02f10eed25de4b2fa575f20cfc94421b.jpg",
       "open_date": "2026-10-21",
       "is_audiobook": true,
       "is_series": false,
@@ -343,10 +303,10 @@
       "is_comic": false
     },
     {
-      "id": "3b6fcdbf4c974758",
-      "title": "조선시대 설화 - 조선 달밤 이야기터 15권",
-      "author": "별빈",
-      "cover": "https://image.millie.co.kr/service/cover/180182754/a6cc6abbffdf42c3b157e3aea4bedc0d.jpg",
+      "id": "a8f29418ba7146a6",
+      "title": "하얀 곰 하푸의 모험 - 베이커리 카페에 가볼까?",
+      "author": "정미현",
+      "cover": "https://image.millie.co.kr/service/cover/180183898/02f10eed25de4b2fa575f20cfc94421b.jpg",
       "open_date": "2026-10-21",
       "is_audiobook": true,
       "is_series": false,
@@ -363,40 +323,10 @@
       "is_comic": false
     },
     {
-      "id": "a879a0cf9a3d4813",
-      "title": "조선시대 설화 - 조선 달밤 이야기터 14권",
+      "id": "3b6fcdbf4c974758",
+      "title": "조선시대 설화 - 조선 달밤 이야기터 15권",
       "author": "별빈",
-      "cover": "https://image.millie.co.kr/service/cover/180182753/85be28f3443446ae98a84f8442321262.jpg",
-      "open_date": "2026-10-21",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "ea4d9068ee554345",
-      "title": "조선시대 설화 - 조선 달밤 이야기터 13권",
-      "author": "별빈",
-      "cover": "https://image.millie.co.kr/service/cover/180182752/712d26e49b694f758482a563232a160e.jpg",
-      "open_date": "2026-10-21",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "0a6e18b788ba4f38",
-      "title": "부리 부리 새 부리",
-      "author": "장선혜",
-      "cover": "https://image.millie.co.kr/service/cover/180183983/eb7df96bd23248a1862f0395dcf5dea8.jpg",
-      "open_date": "2026-10-21",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "e734a8caa68f4db9",
-      "title": "아기 곰 하푸와 신나는 몸놀이 해요 11",
-      "author": "정미현",
-      "cover": "https://image.millie.co.kr/service/cover/180183868/6ef577241a384d13bc594f6ea5ee819d.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180182754/a6cc6abbffdf42c3b157e3aea4bedc0d.jpg",
       "open_date": "2026-10-21",
       "is_audiobook": true,
       "is_series": false,
@@ -413,13 +343,23 @@
       "is_comic": false
     },
     {
-      "id": "f6cf9986cde24e0b",
-      "title": "하늘이 보낸 의적 길동 - 500년을 건너온 사랑 2막",
-      "author": "별빈",
-      "cover": "https://image.millie.co.kr/service/cover/180183896/113aed93b4d94bc7b857f0c6301d8c3e.jpg",
+      "id": "e734a8caa68f4db9",
+      "title": "아기 곰 하푸와 신나는 몸놀이 해요 11",
+      "author": "정미현",
+      "cover": "https://image.millie.co.kr/service/cover/180183868/6ef577241a384d13bc594f6ea5ee819d.jpg",
       "open_date": "2026-10-21",
       "is_audiobook": true,
-      "is_series": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "a20999425d154691",
+      "title": "호호샘의 잠자리동화 Vol.3 이솝우화",
+      "author": "호호샘",
+      "cover": "https://image.millie.co.kr/service/cover/180183982/6f35f54491c54691a8ddb17820595134.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
+      "is_series": false,
       "is_comic": false
     },
     {
@@ -440,6 +380,36 @@
       "open_date": "2026-10-21",
       "is_audiobook": true,
       "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ea4d9068ee554345",
+      "title": "조선시대 설화 - 조선 달밤 이야기터 13권",
+      "author": "별빈",
+      "cover": "https://image.millie.co.kr/service/cover/180182752/712d26e49b694f758482a563232a160e.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "a879a0cf9a3d4813",
+      "title": "조선시대 설화 - 조선 달밤 이야기터 14권",
+      "author": "별빈",
+      "cover": "https://image.millie.co.kr/service/cover/180182753/85be28f3443446ae98a84f8442321262.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "f6cf9986cde24e0b",
+      "title": "하늘이 보낸 의적 길동 - 500년을 건너온 사랑 2막",
+      "author": "별빈",
+      "cover": "https://image.millie.co.kr/service/cover/180183896/113aed93b4d94bc7b857f0c6301d8c3e.jpg",
+      "open_date": "2026-10-21",
+      "is_audiobook": true,
+      "is_series": true,
       "is_comic": false
     },
     {
@@ -473,12 +443,32 @@
       "is_comic": false
     },
     {
-      "id": "a20999425d154691",
-      "title": "호호샘의 잠자리동화 Vol.3 이솝우화",
-      "author": "호호샘",
-      "cover": "https://image.millie.co.kr/service/cover/180183982/6f35f54491c54691a8ddb17820595134.jpg",
+      "id": "0a6e18b788ba4f38",
+      "title": "부리 부리 새 부리",
+      "author": "장선혜",
+      "cover": "https://image.millie.co.kr/service/cover/180183983/eb7df96bd23248a1862f0395dcf5dea8.jpg",
       "open_date": "2026-10-21",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "cff0219ada984097",
+      "title": "오래 곁에 두어 좋은 말",
+      "author": "나민애",
+      "cover": "https://image.millie.co.kr/service/cover/180184182/5c53a63750f2490bb606d93ebc2b92c5.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "19d41200164346fb",
+      "title": "당신과 내가 대화할 수 있을까",
+      "author": "정희진",
+      "cover": "https://image.millie.co.kr/service/cover/180184134/cf83967be3ce4ef9af188a9d32a4544f.jpg",
+      "open_date": "2026-10-26",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     }
