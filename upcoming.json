@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T08:08:48.415306+09:00",
+  "updated": "2026-10-21T10:45:38.103577+09:00",
   "count": 62,
   "books": [
     {
@@ -63,21 +63,21 @@
       "is_comic": false
     },
     {
-      "id": "45e9c01be14446fe",
-      "title": "멈추지 못하는 아이들",
-      "author": "선자연",
-      "cover": "https://image.millie.co.kr/service/cover/180182570/25fd7591a25249b082946e6418f1afb0.jpg",
-      "open_date": "2026-10-25",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "883da15b4ca54e24",
       "title": "천국에서 온 탐정 2",
       "author": "이동원",
       "cover": "https://image.millie.co.kr/service/cover/180183641/be0abd6af0b143ccbdb19f3ac48fc408.jpg",
       "open_date": "2026-10-31",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "45e9c01be14446fe",
+      "title": "멈추지 못하는 아이들",
+      "author": "선자연",
+      "cover": "https://image.millie.co.kr/service/cover/180182570/25fd7591a25249b082946e6418f1afb0.jpg",
+      "open_date": "2026-10-25",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -103,31 +103,21 @@
       "is_comic": false
     },
     {
-      "id": "1bb58b6864f3429a",
-      "title": "이게 되네? 힉스필드 AI 영상 만들기 캡컷·수노",
-      "author": "신무경, 여승호",
-      "cover": "https://image.millie.co.kr/service/cover/180181835/d0609123f73d44e292212e1e4c310420.jpg",
-      "open_date": "2026-10-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3530d8d6a4c94903",
-      "title": "좋아한다 말하기엔 조금 숨이 차지만",
-      "author": "김연수, 노지양, 박은지, 윤이나, 김연덕, 김혜나, 최유안",
-      "cover": "https://image.millie.co.kr/service/cover/180168142/41971887692e408ab81eb8360bccfa14.jpg",
-      "open_date": "2026-10-31",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "f074464b411b4278",
       "title": "비극을 비추는 거울을 부수고",
       "author": "앨릭스 E. 해로우 지음 / 황소연 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180183853/85aa432fc8ed4365af9c7b09e119b33f.jpg",
       "open_date": "2026-10-26",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "1bb58b6864f3429a",
+      "title": "이게 되네? 힉스필드 AI 영상 만들기 캡컷·수노",
+      "author": "신무경, 여승호",
+      "cover": "https://image.millie.co.kr/service/cover/180181835/d0609123f73d44e292212e1e4c310420.jpg",
+      "open_date": "2026-10-30",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -143,20 +133,20 @@
       "is_comic": false
     },
     {
-      "id": "a7f70477ce3b42c5",
-      "title": "퍼핏 쇼",
-      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183661/95fdf987cbca4c1ca764360a64515de6.jpg",
-      "open_date": "2026-11-03",
-      "is_audiobook": false,
+      "id": "3530d8d6a4c94903",
+      "title": "좋아한다 말하기엔 조금 숨이 차지만",
+      "author": "김연수, 노지양, 박은지, 윤이나, 김연덕, 김혜나, 최유안",
+      "cover": "https://image.millie.co.kr/service/cover/180168142/41971887692e408ab81eb8360bccfa14.jpg",
+      "open_date": "2026-10-31",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "50af765377294779",
-      "title": "큐레이터",
+      "id": "a7f70477ce3b42c5",
+      "title": "퍼핏 쇼",
       "author": "M. W. 크레이븐 지음 / 김해온 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183669/b3705704100a4813947b5dca01c816d4.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180183661/95fdf987cbca4c1ca764360a64515de6.jpg",
       "open_date": "2026-11-03",
       "is_audiobook": false,
       "is_series": false,
@@ -168,6 +158,16 @@
       "author": "앨릭스 E. 해로우 지음 / 황소연 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180183850/324f0ebe37a94edaa7f0615659520c45.jpg",
       "open_date": "2026-10-26",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "50af765377294779",
+      "title": "큐레이터",
+      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183669/b3705704100a4813947b5dca01c816d4.jpg",
+      "open_date": "2026-11-03",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -213,12 +213,32 @@
       "is_comic": false
     },
     {
+      "id": "cff0219ada984097",
+      "title": "오래 곁에 두어 좋은 말",
+      "author": "나민애",
+      "cover": "https://image.millie.co.kr/service/cover/180184182/5c53a63750f2490bb606d93ebc2b92c5.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "92c3aa4b247a4d55",
       "title": "이게 되네? AI 상품 이미지 만들기",
       "author": "박상균",
       "cover": "https://image.millie.co.kr/service/cover/180182978/ab93c67d57024c36b7b6bca73668f830.jpg",
       "open_date": "2026-10-30",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "44278979ee3f4966",
+      "title": "나는 왜 네 말이 힘들까",
+      "author": "박재연",
+      "cover": "https://image.millie.co.kr/service/cover/180172783/e9ed2b4dda324f458b8b5b500135f38a.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -243,16 +263,6 @@
       "is_comic": false
     },
     {
-      "id": "44278979ee3f4966",
-      "title": "나는 왜 네 말이 힘들까",
-      "author": "박재연",
-      "cover": "https://image.millie.co.kr/service/cover/180172783/e9ed2b4dda324f458b8b5b500135f38a.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "abc62254efdb40ce",
       "title": "호신술 클럽",
       "author": "김지윤",
@@ -273,21 +283,11 @@
       "is_comic": false
     },
     {
-      "id": "cff0219ada984097",
-      "title": "오래 곁에 두어 좋은 말",
-      "author": "나민애",
-      "cover": "https://image.millie.co.kr/service/cover/180184182/5c53a63750f2490bb606d93ebc2b92c5.jpg",
-      "open_date": "2026-10-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "c7dd2149669a478f",
-      "title": "쿠키런 자연재해 과학 상식",
-      "author": "임우영 지음 / 유희석 그림 / 정효해 감수",
-      "cover": "https://image.millie.co.kr/service/cover/180183687/925fc8649cbe4d56b489ab248162e13b.jpg",
-      "open_date": "2026-10-22",
+      "id": "f495a6e088d34b8b",
+      "title": "안개 속 달빛서점",
+      "author": "낮잠",
+      "cover": "https://image.millie.co.kr/service/cover/180184345/775f2ef584ef4c9489db7cb84d9f2e47.jpg",
+      "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -303,21 +303,21 @@
       "is_comic": false
     },
     {
-      "id": "f495a6e088d34b8b",
-      "title": "안개 속 달빛서점",
-      "author": "낮잠",
-      "cover": "https://image.millie.co.kr/service/cover/180184345/775f2ef584ef4c9489db7cb84d9f2e47.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "1c0bc2ab89534287",
       "title": "퍼플필",
       "author": "진쏠미",
       "cover": "https://image.millie.co.kr/service/cover/180184346/bca4c407c82b405584bf70f83231f957.jpg",
       "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "c7dd2149669a478f",
+      "title": "쿠키런 자연재해 과학 상식",
+      "author": "임우영 지음 / 유희석 그림 / 정효해 감수",
+      "cover": "https://image.millie.co.kr/service/cover/180183687/925fc8649cbe4d56b489ab248162e13b.jpg",
+      "open_date": "2026-10-22",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
