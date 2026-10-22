@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T08:08:20.821397+09:00",
+  "updated": "2026-10-22T10:39:31.338184+09:00",
   "count": 30,
   "books": [
     {
@@ -13,21 +13,21 @@
       "is_comic": false
     },
     {
-      "id": "3b09a29c96104300",
-      "title": "더 우먼",
-      "author": "크리스틴 해나 지음 / 공경희 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183243/019565fdb90b4679a933c8da198a6c91.jpg",
-      "open_date": "2026-10-24",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "41a428d0b529445f",
       "title": "코트라 월드 트렌드 2027",
       "author": "KOTRA(대한무역투자진흥공사)",
       "cover": "https://image.millie.co.kr/service/cover/180183995/5b67c396c98542258fffe747d67cc86b.jpg",
       "open_date": "2026-10-28",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3b09a29c96104300",
+      "title": "더 우먼",
+      "author": "크리스틴 해나 지음 / 공경희 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183243/019565fdb90b4679a933c8da198a6c91.jpg",
+      "open_date": "2026-10-24",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -73,21 +73,21 @@
       "is_comic": false
     },
     {
-      "id": "45e9c01be14446fe",
-      "title": "멈추지 못하는 아이들",
-      "author": "선자연",
-      "cover": "https://image.millie.co.kr/service/cover/180182570/25fd7591a25249b082946e6418f1afb0.jpg",
-      "open_date": "2026-10-25",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "dda5e94d7dbc4555",
       "title": "누구나 만드는 평생 연금 ETF 투자 혁명",
       "author": "도세 도시로 지음 / 김지선 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180183570/bd16dc89e74b46da8dc0446adc6090fb.jpg",
       "open_date": "2026-10-29",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "45e9c01be14446fe",
+      "title": "멈추지 못하는 아이들",
+      "author": "선자연",
+      "cover": "https://image.millie.co.kr/service/cover/180182570/25fd7591a25249b082946e6418f1afb0.jpg",
+      "open_date": "2026-10-25",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -113,6 +113,16 @@
       "is_comic": false
     },
     {
+      "id": "5b1e85323a04443c",
+      "title": "블랙 서머",
+      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183667/a956fe81c00c4f55b5240920d3b00af7.jpg",
+      "open_date": "2026-11-03",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "1bb58b6864f3429a",
       "title": "이게 되네? 힉스필드 AI 영상 만들기 캡컷·수노",
       "author": "신무경, 여승호",
@@ -123,10 +133,30 @@
       "is_comic": false
     },
     {
-      "id": "5b1e85323a04443c",
-      "title": "블랙 서머",
+      "id": "aeea9066907d441c",
+      "title": "저주를 잣는 물레를 부수고",
+      "author": "앨릭스 E. 해로우 지음 / 황소연 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183850/324f0ebe37a94edaa7f0615659520c45.jpg",
+      "open_date": "2026-10-26",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "a7f70477ce3b42c5",
+      "title": "퍼핏 쇼",
       "author": "M. W. 크레이븐 지음 / 김해온 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183667/a956fe81c00c4f55b5240920d3b00af7.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180183661/95fdf987cbca4c1ca764360a64515de6.jpg",
+      "open_date": "2026-11-03",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "50af765377294779",
+      "title": "큐레이터",
+      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183669/b3705704100a4813947b5dca01c816d4.jpg",
       "open_date": "2026-11-03",
       "is_audiobook": false,
       "is_series": false,
@@ -143,41 +173,21 @@
       "is_comic": false
     },
     {
-      "id": "a7f70477ce3b42c5",
-      "title": "퍼핏 쇼",
-      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183661/95fdf987cbca4c1ca764360a64515de6.jpg",
-      "open_date": "2026-11-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "aeea9066907d441c",
-      "title": "저주를 잣는 물레를 부수고",
-      "author": "앨릭스 E. 해로우 지음 / 황소연 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183850/324f0ebe37a94edaa7f0615659520c45.jpg",
-      "open_date": "2026-10-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "50af765377294779",
-      "title": "큐레이터",
-      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183669/b3705704100a4813947b5dca01c816d4.jpg",
-      "open_date": "2026-11-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "b35cbdb1083a43e5",
       "title": "화면 너머에는 사람이 있다",
       "author": "김프로(김동준)",
       "cover": "https://image.millie.co.kr/service/cover/180183321/99d619393bfa400cb36cd976365e2ca6.jpg",
       "open_date": "2026-10-25",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "cff0219ada984097",
+      "title": "오래 곁에 두어 좋은 말",
+      "author": "나민애",
+      "cover": "https://image.millie.co.kr/service/cover/180184182/5c53a63750f2490bb606d93ebc2b92c5.jpg",
+      "open_date": "2026-10-30",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -203,16 +213,6 @@
       "is_comic": false
     },
     {
-      "id": "cff0219ada984097",
-      "title": "오래 곁에 두어 좋은 말",
-      "author": "나민애",
-      "cover": "https://image.millie.co.kr/service/cover/180184182/5c53a63750f2490bb606d93ebc2b92c5.jpg",
-      "open_date": "2026-10-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "92c3aa4b247a4d55",
       "title": "이게 되네? AI 상품 이미지 만들기",
       "author": "박상균",
@@ -229,6 +229,36 @@
       "cover": "https://image.millie.co.kr/service/cover/180172783/e9ed2b4dda324f458b8b5b500135f38a.jpg",
       "open_date": "2026-11-09",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "abc62254efdb40ce",
+      "title": "호신술 클럽",
+      "author": "김지윤",
+      "cover": "https://image.millie.co.kr/service/cover/180174017/37ca9e036ccf4914a26587fba248623b.jpg",
+      "open_date": "2026-11-16",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "19d41200164346fb",
+      "title": "당신과 내가 대화할 수 있을까",
+      "author": "정희진",
+      "cover": "https://image.millie.co.kr/service/cover/180184134/cf83967be3ce4ef9af188a9d32a4544f.jpg",
+      "open_date": "2026-10-26",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "5a334ae77de341fc",
+      "title": "어디서 살 것인가, 어떻게 살 것인가",
+      "author": "이현철",
+      "cover": "https://image.millie.co.kr/service/cover/180184252/e6f24ff23ec8434a9eb06083ce0fa76e.jpg",
+      "open_date": "2026-11-04",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -253,41 +283,11 @@
       "is_comic": false
     },
     {
-      "id": "abc62254efdb40ce",
-      "title": "호신술 클럽",
-      "author": "김지윤",
-      "cover": "https://image.millie.co.kr/service/cover/180174017/37ca9e036ccf4914a26587fba248623b.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "19d41200164346fb",
-      "title": "당신과 내가 대화할 수 있을까",
-      "author": "정희진",
-      "cover": "https://image.millie.co.kr/service/cover/180184134/cf83967be3ce4ef9af188a9d32a4544f.jpg",
-      "open_date": "2026-10-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "f495a6e088d34b8b",
       "title": "안개 속 달빛서점",
       "author": "낮잠",
       "cover": "https://image.millie.co.kr/service/cover/180184345/775f2ef584ef4c9489db7cb84d9f2e47.jpg",
       "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "5a334ae77de341fc",
-      "title": "어디서 살 것인가, 어떻게 살 것인가",
-      "author": "이현철",
-      "cover": "https://image.millie.co.kr/service/cover/180184252/e6f24ff23ec8434a9eb06083ce0fa76e.jpg",
-      "open_date": "2026-11-04",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
