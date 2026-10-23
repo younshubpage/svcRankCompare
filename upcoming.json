@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T08:08:30.630082+09:00",
+  "updated": "2026-10-23T09:16:14.252217+09:00",
   "count": 37,
   "books": [
     {
@@ -8,16 +8,6 @@
       "author": "KOTRA(대한무역투자진흥공사)",
       "cover": "https://image.millie.co.kr/service/cover/180183995/5b67c396c98542258fffe747d67cc86b.jpg",
       "open_date": "2026-10-28",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3b09a29c96104300",
-      "title": "더 우먼",
-      "author": "크리스틴 해나 지음 / 공경희 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183243/019565fdb90b4679a933c8da198a6c91.jpg",
-      "open_date": "2026-10-24",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -33,11 +23,31 @@
       "is_comic": false
     },
     {
+      "id": "3b09a29c96104300",
+      "title": "더 우먼",
+      "author": "크리스틴 해나 지음 / 공경희 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183243/019565fdb90b4679a933c8da198a6c91.jpg",
+      "open_date": "2026-10-24",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "f4df47028ba942d3",
       "title": "뉴요커의 문장들",
       "author": "강진규",
       "cover": "https://image.millie.co.kr/service/cover/180183913/df7da630048d492680cca466887f1f8a.jpg",
       "open_date": "2026-10-28",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "883da15b4ca54e24",
+      "title": "천국에서 온 탐정 2",
+      "author": "이동원",
+      "cover": "https://image.millie.co.kr/service/cover/180183641/be0abd6af0b143ccbdb19f3ac48fc408.jpg",
+      "open_date": "2026-10-31",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -50,16 +60,6 @@
       "open_date": "2026-11-01",
       "is_audiobook": true,
       "is_series": true,
-      "is_comic": false
-    },
-    {
-      "id": "883da15b4ca54e24",
-      "title": "천국에서 온 탐정 2",
-      "author": "이동원",
-      "cover": "https://image.millie.co.kr/service/cover/180183641/be0abd6af0b143ccbdb19f3ac48fc408.jpg",
-      "open_date": "2026-10-31",
-      "is_audiobook": false,
-      "is_series": false,
       "is_comic": false
     },
     {
@@ -93,6 +93,16 @@
       "is_comic": false
     },
     {
+      "id": "5b1e85323a04443c",
+      "title": "블랙 서머",
+      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183667/a956fe81c00c4f55b5240920d3b00af7.jpg",
+      "open_date": "2026-11-03",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "f074464b411b4278",
       "title": "비극을 비추는 거울을 부수고",
       "author": "앨릭스 E. 해로우 지음 / 황소연 옮김",
@@ -113,21 +123,11 @@
       "is_comic": false
     },
     {
-      "id": "5b1e85323a04443c",
-      "title": "블랙 서머",
+      "id": "50af765377294779",
+      "title": "큐레이터",
       "author": "M. W. 크레이븐 지음 / 김해온 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183667/a956fe81c00c4f55b5240920d3b00af7.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180183669/b3705704100a4813947b5dca01c816d4.jpg",
       "open_date": "2026-11-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "aeea9066907d441c",
-      "title": "저주를 잣는 물레를 부수고",
-      "author": "앨릭스 E. 해로우 지음 / 황소연 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183850/324f0ebe37a94edaa7f0615659520c45.jpg",
-      "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -143,11 +143,11 @@
       "is_comic": false
     },
     {
-      "id": "50af765377294779",
-      "title": "큐레이터",
-      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183669/b3705704100a4813947b5dca01c816d4.jpg",
-      "open_date": "2026-11-03",
+      "id": "aeea9066907d441c",
+      "title": "저주를 잣는 물레를 부수고",
+      "author": "앨릭스 E. 해로우 지음 / 황소연 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183850/324f0ebe37a94edaa7f0615659520c45.jpg",
+      "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -203,22 +203,22 @@
       "is_comic": false
     },
     {
-      "id": "92c3aa4b247a4d55",
-      "title": "이게 되네? AI 상품 이미지 만들기",
-      "author": "박상균",
-      "cover": "https://image.millie.co.kr/service/cover/180182978/ab93c67d57024c36b7b6bca73668f830.jpg",
-      "open_date": "2026-10-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "abc62254efdb40ce",
       "title": "호신술 클럽",
       "author": "김지윤",
       "cover": "https://image.millie.co.kr/service/cover/180174017/37ca9e036ccf4914a26587fba248623b.jpg",
       "open_date": "2026-11-16",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "92c3aa4b247a4d55",
+      "title": "이게 되네? AI 상품 이미지 만들기",
+      "author": "박상균",
+      "cover": "https://image.millie.co.kr/service/cover/180182978/ab93c67d57024c36b7b6bca73668f830.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -263,16 +263,6 @@
       "is_comic": false
     },
     {
-      "id": "f495a6e088d34b8b",
-      "title": "안개 속 달빛서점",
-      "author": "낮잠",
-      "cover": "https://image.millie.co.kr/service/cover/180184345/775f2ef584ef4c9489db7cb84d9f2e47.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "b905868915364976",
       "title": "신 퇴마록 신세편 3",
       "author": "이우혁",
@@ -280,6 +270,16 @@
       "open_date": "2026-11-01",
       "is_audiobook": true,
       "is_series": true,
+      "is_comic": false
+    },
+    {
+      "id": "f495a6e088d34b8b",
+      "title": "안개 속 달빛서점",
+      "author": "낮잠",
+      "cover": "https://image.millie.co.kr/service/cover/180184345/775f2ef584ef4c9489db7cb84d9f2e47.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
       "is_comic": false
     },
     {
