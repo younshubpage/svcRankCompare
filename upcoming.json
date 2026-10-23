@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T09:16:14.252217+09:00",
+  "updated": "2026-10-23T10:41:36.111339+09:00",
   "count": 37,
   "books": [
     {
@@ -73,6 +73,16 @@
       "is_comic": false
     },
     {
+      "id": "0cfa9b3bc6304a59",
+      "title": "우리가 가진 슬프고 아름다운 것들",
+      "author": "마이라 칼만 지음 / 한정원 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183977/6ed2271217ed401ba0d27b1f05d80af7.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "45e9c01be14446fe",
       "title": "멈추지 못하는 아이들",
       "author": "선자연",
@@ -83,11 +93,11 @@
       "is_comic": false
     },
     {
-      "id": "0cfa9b3bc6304a59",
-      "title": "우리가 가진 슬프고 아름다운 것들",
-      "author": "마이라 칼만 지음 / 한정원 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183977/6ed2271217ed401ba0d27b1f05d80af7.jpg",
-      "open_date": "2026-10-30",
+      "id": "f074464b411b4278",
+      "title": "비극을 비추는 거울을 부수고",
+      "author": "앨릭스 E. 해로우 지음 / 황소연 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183853/85aa432fc8ed4365af9c7b09e119b33f.jpg",
+      "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -103,10 +113,10 @@
       "is_comic": false
     },
     {
-      "id": "f074464b411b4278",
-      "title": "비극을 비추는 거울을 부수고",
+      "id": "aeea9066907d441c",
+      "title": "저주를 잣는 물레를 부수고",
       "author": "앨릭스 E. 해로우 지음 / 황소연 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183853/85aa432fc8ed4365af9c7b09e119b33f.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180183850/324f0ebe37a94edaa7f0615659520c45.jpg",
       "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
@@ -143,11 +153,11 @@
       "is_comic": false
     },
     {
-      "id": "aeea9066907d441c",
-      "title": "저주를 잣는 물레를 부수고",
-      "author": "앨릭스 E. 해로우 지음 / 황소연 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183850/324f0ebe37a94edaa7f0615659520c45.jpg",
-      "open_date": "2026-10-26",
+      "id": "cff0219ada984097",
+      "title": "오래 곁에 두어 좋은 말",
+      "author": "나민애",
+      "cover": "https://image.millie.co.kr/service/cover/180184182/5c53a63750f2490bb606d93ebc2b92c5.jpg",
+      "open_date": "2026-10-30",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -168,16 +178,6 @@
       "author": "김프로(김동준)",
       "cover": "https://image.millie.co.kr/service/cover/180183321/99d619393bfa400cb36cd976365e2ca6.jpg",
       "open_date": "2026-10-25",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "cff0219ada984097",
-      "title": "오래 곁에 두어 좋은 말",
-      "author": "나민애",
-      "cover": "https://image.millie.co.kr/service/cover/180184182/5c53a63750f2490bb606d93ebc2b92c5.jpg",
-      "open_date": "2026-10-30",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -213,6 +213,26 @@
       "is_comic": false
     },
     {
+      "id": "f495a6e088d34b8b",
+      "title": "안개 속 달빛서점",
+      "author": "낮잠",
+      "cover": "https://image.millie.co.kr/service/cover/180184345/775f2ef584ef4c9489db7cb84d9f2e47.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "1c0bc2ab89534287",
+      "title": "퍼플필",
+      "author": "진쏠미",
+      "cover": "https://image.millie.co.kr/service/cover/180184346/bca4c407c82b405584bf70f83231f957.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "92c3aa4b247a4d55",
       "title": "이게 되네? AI 상품 이미지 만들기",
       "author": "박상균",
@@ -233,21 +253,21 @@
       "is_comic": false
     },
     {
-      "id": "19d41200164346fb",
-      "title": "당신과 내가 대화할 수 있을까",
-      "author": "정희진",
-      "cover": "https://image.millie.co.kr/service/cover/180184134/cf83967be3ce4ef9af188a9d32a4544f.jpg",
-      "open_date": "2026-10-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "5a334ae77de341fc",
       "title": "어디서 살 것인가, 어떻게 살 것인가",
       "author": "이현철",
       "cover": "https://image.millie.co.kr/service/cover/180184252/e6f24ff23ec8434a9eb06083ce0fa76e.jpg",
       "open_date": "2026-11-04",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "19d41200164346fb",
+      "title": "당신과 내가 대화할 수 있을까",
+      "author": "정희진",
+      "cover": "https://image.millie.co.kr/service/cover/180184134/cf83967be3ce4ef9af188a9d32a4544f.jpg",
+      "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -273,30 +293,10 @@
       "is_comic": false
     },
     {
-      "id": "f495a6e088d34b8b",
-      "title": "안개 속 달빛서점",
-      "author": "낮잠",
-      "cover": "https://image.millie.co.kr/service/cover/180184345/775f2ef584ef4c9489db7cb84d9f2e47.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "1c0bc2ab89534287",
-      "title": "퍼플필",
-      "author": "진쏠미",
-      "cover": "https://image.millie.co.kr/service/cover/180184346/bca4c407c82b405584bf70f83231f957.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "2ca75fc2f1934c11",
-      "title": "이 정도만 알면 되는 세계사",
-      "author": "김봉중",
-      "cover": "https://image.millie.co.kr/service/cover/180152117/09ae286649214d7a863068dd66b29b8a.jpg",
+      "id": "5f92cc748f514ed4",
+      "title": "마이 리틀 아일랜드",
+      "author": "조하나",
+      "cover": "https://image.millie.co.kr/service/cover/180184718/fe47e7191c5a4ad4bb14d1c79ef8fc17.jpg",
       "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
@@ -313,16 +313,6 @@
       "is_comic": false
     },
     {
-      "id": "707c807eb32e4110",
-      "title": "오래된 세계의 농담",
-      "author": "이다혜",
-      "cover": "https://image.millie.co.kr/service/cover/180138618/63dd6cc556844dc49652ff7f4511e15e.jpg",
-      "open_date": "2026-10-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "f94afc0532414f07",
       "title": "우리가 카드를 긁는 곳",
       "author": "이재흔, 한국신용데이터(KCD)",
@@ -333,10 +323,20 @@
       "is_comic": false
     },
     {
-      "id": "360832cc4aba489f",
-      "title": "고전덕질 [이선 프롬]",
-      "author": "밀리의서재",
-      "cover": "https://image.millie.co.kr/service/cover/180184682/8f79ea1d875b4355ac9abd4c230e4815.jpg",
+      "id": "c76fcfa9b51f470e",
+      "title": "종목을 이기는 계좌의 기술",
+      "author": "인생업(임승현)",
+      "cover": "https://image.millie.co.kr/service/cover/180184330/4a321aa282694cb8beebf27077a17da8.jpg",
+      "open_date": "2026-10-27",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "707c807eb32e4110",
+      "title": "오래된 세계의 농담",
+      "author": "이다혜",
+      "cover": "https://image.millie.co.kr/service/cover/180138618/63dd6cc556844dc49652ff7f4511e15e.jpg",
       "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
@@ -353,20 +353,20 @@
       "is_comic": false
     },
     {
-      "id": "c76fcfa9b51f470e",
-      "title": "종목을 이기는 계좌의 기술",
-      "author": "인생업(임승현)",
-      "cover": "https://image.millie.co.kr/service/cover/180184330/4a321aa282694cb8beebf27077a17da8.jpg",
-      "open_date": "2026-10-27",
+      "id": "2ca75fc2f1934c11",
+      "title": "이 정도만 알면 되는 세계사",
+      "author": "김봉중",
+      "cover": "https://image.millie.co.kr/service/cover/180152117/09ae286649214d7a863068dd66b29b8a.jpg",
+      "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "5f92cc748f514ed4",
-      "title": "마이 리틀 아일랜드",
-      "author": "조하나",
-      "cover": "https://image.millie.co.kr/service/cover/180184718/fe47e7191c5a4ad4bb14d1c79ef8fc17.jpg",
+      "id": "360832cc4aba489f",
+      "title": "고전덕질 [이선 프롬]",
+      "author": "밀리의서재",
+      "cover": "https://image.millie.co.kr/service/cover/180184682/8f79ea1d875b4355ac9abd4c230e4815.jpg",
       "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
