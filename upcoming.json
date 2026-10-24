@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T08:09:43.343412+09:00",
+  "updated": "2026-10-24T10:45:16.270915+09:00",
   "count": 51,
   "books": [
     {
@@ -83,11 +83,31 @@
       "is_comic": false
     },
     {
+      "id": "cff0219ada984097",
+      "title": "오래 곁에 두어 좋은 말",
+      "author": "나민애",
+      "cover": "https://image.millie.co.kr/service/cover/180184182/5c53a63750f2490bb606d93ebc2b92c5.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "f074464b411b4278",
       "title": "비극을 비추는 거울을 부수고",
       "author": "앨릭스 E. 해로우 지음 / 황소연 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180183853/85aa432fc8ed4365af9c7b09e119b33f.jpg",
       "open_date": "2026-10-26",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "50af765377294779",
+      "title": "큐레이터",
+      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183669/b3705704100a4813947b5dca01c816d4.jpg",
+      "open_date": "2026-11-03",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -123,31 +143,11 @@
       "is_comic": false
     },
     {
-      "id": "50af765377294779",
-      "title": "큐레이터",
-      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183669/b3705704100a4813947b5dca01c816d4.jpg",
-      "open_date": "2026-11-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "a7f70477ce3b42c5",
       "title": "퍼핏 쇼",
       "author": "M. W. 크레이븐 지음 / 김해온 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180183661/95fdf987cbca4c1ca764360a64515de6.jpg",
       "open_date": "2026-11-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "cff0219ada984097",
-      "title": "오래 곁에 두어 좋은 말",
-      "author": "나민애",
-      "cover": "https://image.millie.co.kr/service/cover/180184182/5c53a63750f2490bb606d93ebc2b92c5.jpg",
-      "open_date": "2026-10-30",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -173,32 +173,12 @@
       "is_comic": false
     },
     {
-      "id": "15f287b4ec334f61",
-      "title": "달러구트 꿈 백화점 0",
-      "author": "이미예",
-      "cover": "https://image.millie.co.kr/service/cover/180165823/252edabb3ad24195a519b1851bd49426.jpg",
+      "id": "ed8978048d9b4d2d",
+      "title": "칵테일을 마시는 철학자들",
+      "author": "세라 베이크웰 지음 / 조영 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180184540/dae9f7fa6a2b410083e9c15f1c0b424d.jpg",
       "open_date": "2026-11-02",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "98cab02f0f074948",
-      "title": "얼굴들",
-      "author": "이동원",
-      "cover": "https://image.millie.co.kr/service/cover/180183517/221a929ebd184701875a23651a7e69d8.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "abc62254efdb40ce",
-      "title": "호신술 클럽",
-      "author": "김지윤",
-      "cover": "https://image.millie.co.kr/service/cover/180174017/37ca9e036ccf4914a26587fba248623b.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": true,
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -213,6 +193,16 @@
       "is_comic": false
     },
     {
+      "id": "15f287b4ec334f61",
+      "title": "달러구트 꿈 백화점 0",
+      "author": "이미예",
+      "cover": "https://image.millie.co.kr/service/cover/180165823/252edabb3ad24195a519b1851bd49426.jpg",
+      "open_date": "2026-11-02",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "1c0bc2ab89534287",
       "title": "퍼플필",
       "author": "진쏠미",
@@ -223,21 +213,11 @@
       "is_comic": false
     },
     {
-      "id": "92c3aa4b247a4d55",
-      "title": "이게 되네? AI 상품 이미지 만들기",
-      "author": "박상균",
-      "cover": "https://image.millie.co.kr/service/cover/180182978/ab93c67d57024c36b7b6bca73668f830.jpg",
-      "open_date": "2026-10-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "44278979ee3f4966",
-      "title": "나는 왜 네 말이 힘들까",
-      "author": "박재연",
-      "cover": "https://image.millie.co.kr/service/cover/180172783/e9ed2b4dda324f458b8b5b500135f38a.jpg",
-      "open_date": "2026-11-09",
+      "id": "abc62254efdb40ce",
+      "title": "호신술 클럽",
+      "author": "김지윤",
+      "cover": "https://image.millie.co.kr/service/cover/180174017/37ca9e036ccf4914a26587fba248623b.jpg",
+      "open_date": "2026-11-16",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -253,11 +233,81 @@
       "is_comic": false
     },
     {
+      "id": "98cab02f0f074948",
+      "title": "얼굴들",
+      "author": "이동원",
+      "cover": "https://image.millie.co.kr/service/cover/180183517/221a929ebd184701875a23651a7e69d8.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ad930a8155094748",
+      "title": "얼지 마, 죽지 마, 사랑하게 될 거야",
+      "author": "권혜영",
+      "cover": "https://image.millie.co.kr/service/cover/180184834/705317306ab3475f8498b6ae5744f232.jpg",
+      "open_date": "2026-11-02",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "19d41200164346fb",
       "title": "당신과 내가 대화할 수 있을까",
       "author": "정희진",
       "cover": "https://image.millie.co.kr/service/cover/180184134/cf83967be3ce4ef9af188a9d32a4544f.jpg",
       "open_date": "2026-10-26",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "44278979ee3f4966",
+      "title": "나는 왜 네 말이 힘들까",
+      "author": "박재연",
+      "cover": "https://image.millie.co.kr/service/cover/180172783/e9ed2b4dda324f458b8b5b500135f38a.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "92c3aa4b247a4d55",
+      "title": "이게 되네? AI 상품 이미지 만들기",
+      "author": "박상균",
+      "cover": "https://image.millie.co.kr/service/cover/180182978/ab93c67d57024c36b7b6bca73668f830.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ff70b210c3a34b06",
+      "title": "사랑과 멸종을 바꿔 읽어보십시오",
+      "author": "유선혜",
+      "cover": "https://image.millie.co.kr/service/cover/180184828/7e040d2c1447452c9d611fd5d0f97b9e.jpg",
+      "open_date": "2026-10-26",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9d12ef4eda224b9d",
+      "title": "지지 않는 벚꽃",
+      "author": "유즈키 유코 지음 / 김지연 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180184806/48f686f67ba54b0eacd3b1a67059a090.jpg",
+      "open_date": "2026-11-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ca2f7b2fb1ca43d6",
+      "title": "달콤한 나의 도시",
+      "author": "정이현",
+      "cover": "https://image.millie.co.kr/service/cover/180184830/743f001569e148d9abe0481817082641.jpg",
+      "open_date": "2026-11-01",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -283,41 +333,31 @@
       "is_comic": false
     },
     {
-      "id": "ff70b210c3a34b06",
-      "title": "사랑과 멸종을 바꿔 읽어보십시오",
-      "author": "유선혜",
-      "cover": "https://image.millie.co.kr/service/cover/180184828/7e040d2c1447452c9d611fd5d0f97b9e.jpg",
-      "open_date": "2026-10-26",
+      "id": "6a465beb42674d20",
+      "title": "보스턴 사람들",
+      "author": "헨리 제임스 지음 / 김윤하 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180184835/03ef70450f69420da12e3352a3da03f3.jpg",
+      "open_date": "2026-11-05",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "5f92cc748f514ed4",
-      "title": "마이 리틀 아일랜드",
-      "author": "조하나",
-      "cover": "https://image.millie.co.kr/service/cover/180184718/fe47e7191c5a4ad4bb14d1c79ef8fc17.jpg",
-      "open_date": "2026-10-26",
+      "id": "888325638273476b",
+      "title": "에이전트 워크플로우",
+      "author": "로사장(김다솔)",
+      "cover": "https://image.millie.co.kr/service/cover/180184922/778ccd7f7d9645bf93e44eeccf2bab9c.jpg",
+      "open_date": "2026-11-04",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "643f9c4aa4e54049",
-      "title": "불안한 완벽주의자를 위한 책",
-      "author": "마이클 투히그, 클라리사 옹 지음 / 이진 옮김",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179607043/746aba2a0cdd4b4481d907a5f6e3cdc6.jpg",
-      "open_date": "2026-10-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "f94afc0532414f07",
-      "title": "우리가 카드를 긁는 곳",
-      "author": "이재흔, 한국신용데이터(KCD)",
-      "cover": "https://image.millie.co.kr/service/cover/180184772/27965f8ebfc0471f8ba645a5d2eac218.jpg",
-      "open_date": "2026-10-28",
+      "id": "39248e39d909451b",
+      "title": "융의 영혼의 지도",
+      "author": "머리 스타인 지음 / 김창한 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180184824/ae12f94a61094ce39693cc06b5315f28.jpg",
+      "open_date": "2026-11-08",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -327,16 +367,6 @@
       "title": "언니, 재테크가 뭐야? [왕초보 주식편]",
       "author": "밀리의서재",
       "cover": "https://image.millie.co.kr/service/cover/180184683/17065dd1568445538ad5a75cddf71180.jpg",
-      "open_date": "2026-10-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "707c807eb32e4110",
-      "title": "오래된 세계의 농담",
-      "author": "이다혜",
-      "cover": "https://image.millie.co.kr/service/cover/180138618/63dd6cc556844dc49652ff7f4511e15e.jpg",
       "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
@@ -353,10 +383,50 @@
       "is_comic": false
     },
     {
-      "id": "2ca75fc2f1934c11",
-      "title": "이 정도만 알면 되는 세계사",
-      "author": "김봉중",
-      "cover": "https://image.millie.co.kr/service/cover/180152117/09ae286649214d7a863068dd66b29b8a.jpg",
+      "id": "5f92cc748f514ed4",
+      "title": "마이 리틀 아일랜드",
+      "author": "조하나",
+      "cover": "https://image.millie.co.kr/service/cover/180184718/fe47e7191c5a4ad4bb14d1c79ef8fc17.jpg",
+      "open_date": "2026-10-26",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "db88462245e4474c",
+      "title": "내가 왜 당신 마음에 들어야 할까",
+      "author": "이상미",
+      "cover": "https://image.millie.co.kr/service/cover/180184245/3cf53f60ee464af99aabd04d113e6d65.jpg",
+      "open_date": "2026-11-06",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "f94afc0532414f07",
+      "title": "우리가 카드를 긁는 곳",
+      "author": "이재흔, 한국신용데이터(KCD)",
+      "cover": "https://image.millie.co.kr/service/cover/180184772/27965f8ebfc0471f8ba645a5d2eac218.jpg",
+      "open_date": "2026-10-28",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "643f9c4aa4e54049",
+      "title": "불안한 완벽주의자를 위한 책",
+      "author": "마이클 투히그, 클라리사 옹 지음 / 이진 옮김",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179607043/746aba2a0cdd4b4481d907a5f6e3cdc6.jpg",
+      "open_date": "2026-10-26",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "707c807eb32e4110",
+      "title": "오래된 세계의 농담",
+      "author": "이다혜",
+      "cover": "https://image.millie.co.kr/service/cover/180138618/63dd6cc556844dc49652ff7f4511e15e.jpg",
       "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
@@ -373,21 +443,11 @@
       "is_comic": false
     },
     {
-      "id": "6a465beb42674d20",
-      "title": "보스턴 사람들",
-      "author": "헨리 제임스 지음 / 김윤하 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180184835/03ef70450f69420da12e3352a3da03f3.jpg",
-      "open_date": "2026-11-05",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "39248e39d909451b",
-      "title": "융의 영혼의 지도",
-      "author": "머리 스타인 지음 / 김창한 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180184824/ae12f94a61094ce39693cc06b5315f28.jpg",
-      "open_date": "2026-11-08",
+      "id": "2ca75fc2f1934c11",
+      "title": "이 정도만 알면 되는 세계사",
+      "author": "김봉중",
+      "cover": "https://image.millie.co.kr/service/cover/180152117/09ae286649214d7a863068dd66b29b8a.jpg",
+      "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -403,30 +463,10 @@
       "is_comic": false
     },
     {
-      "id": "46bd7f73a87f4617",
-      "title": "냠냠 해바라기씨",
-      "author": "보린",
-      "cover": "https://image.millie.co.kr/service/cover/180183965/8acd2a5f40e34c1aa4507cfe0521aca5.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "99d36764d8864044",
-      "title": "바다를 건너온 탈해왕",
-      "author": "한정영",
-      "cover": "https://image.millie.co.kr/service/cover/180183964/d7a48f5965d647ba9076bf58236e605a.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "0dce9c14e8554fe4",
-      "title": "진심으로 백성을 사랑한 왕 세종 대왕",
-      "author": "김용란",
-      "cover": "https://image.millie.co.kr/service/cover/180183963/9eb50f95ac0a4dcc8926357a3a17e9dd.jpg",
+      "id": "be075173c8e04c90",
+      "title": "내 거야, 만지지 마!",
+      "author": "정란희",
+      "cover": "https://image.millie.co.kr/service/cover/180183961/5667aba6543e4feb824c53a9a7ece6e5.jpg",
       "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
@@ -443,71 +483,31 @@
       "is_comic": false
     },
     {
-      "id": "be075173c8e04c90",
-      "title": "내 거야, 만지지 마!",
-      "author": "정란희",
-      "cover": "https://image.millie.co.kr/service/cover/180183961/5667aba6543e4feb824c53a9a7ece6e5.jpg",
+      "id": "0dce9c14e8554fe4",
+      "title": "진심으로 백성을 사랑한 왕 세종 대왕",
+      "author": "김용란",
+      "cover": "https://image.millie.co.kr/service/cover/180183963/9eb50f95ac0a4dcc8926357a3a17e9dd.jpg",
       "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "9d12ef4eda224b9d",
-      "title": "지지 않는 벚꽃",
-      "author": "유즈키 유코 지음 / 김지연 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180184806/48f686f67ba54b0eacd3b1a67059a090.jpg",
-      "open_date": "2026-11-07",
+      "id": "99d36764d8864044",
+      "title": "바다를 건너온 탈해왕",
+      "author": "한정영",
+      "cover": "https://image.millie.co.kr/service/cover/180183964/d7a48f5965d647ba9076bf58236e605a.jpg",
+      "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "db88462245e4474c",
-      "title": "내가 왜 당신 마음에 들어야 할까",
-      "author": "이상미",
-      "cover": "https://image.millie.co.kr/service/cover/180184245/3cf53f60ee464af99aabd04d113e6d65.jpg",
-      "open_date": "2026-11-06",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "888325638273476b",
-      "title": "에이전트 워크플로우",
-      "author": "로사장(김다솔)",
-      "cover": "https://image.millie.co.kr/service/cover/180184922/778ccd7f7d9645bf93e44eeccf2bab9c.jpg",
-      "open_date": "2026-11-04",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "ca2f7b2fb1ca43d6",
-      "title": "달콤한 나의 도시",
-      "author": "정이현",
-      "cover": "https://image.millie.co.kr/service/cover/180184830/743f001569e148d9abe0481817082641.jpg",
-      "open_date": "2026-11-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "ad930a8155094748",
-      "title": "얼지 마, 죽지 마, 사랑하게 될 거야",
-      "author": "권혜영",
-      "cover": "https://image.millie.co.kr/service/cover/180184834/705317306ab3475f8498b6ae5744f232.jpg",
-      "open_date": "2026-11-02",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "ed8978048d9b4d2d",
-      "title": "칵테일을 마시는 철학자들",
-      "author": "세라 베이크웰 지음 / 조영 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180184540/dae9f7fa6a2b410083e9c15f1c0b424d.jpg",
-      "open_date": "2026-11-02",
+      "id": "46bd7f73a87f4617",
+      "title": "냠냠 해바라기씨",
+      "author": "보린",
+      "cover": "https://image.millie.co.kr/service/cover/180183965/8acd2a5f40e34c1aa4507cfe0521aca5.jpg",
+      "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
