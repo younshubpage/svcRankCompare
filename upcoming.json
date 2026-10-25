@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T10:21:10.282173+09:00",
-  "count": 49,
+  "updated": "2026-10-26T08:09:42.171165+09:00",
+  "count": 39,
   "books": [
     {
       "id": "41a428d0b529445f",
@@ -113,31 +113,11 @@
       "is_comic": false
     },
     {
-      "id": "f074464b411b4278",
-      "title": "비극을 비추는 거울을 부수고",
-      "author": "앨릭스 E. 해로우 지음 / 황소연 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183853/85aa432fc8ed4365af9c7b09e119b33f.jpg",
-      "open_date": "2026-10-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "a7f70477ce3b42c5",
       "title": "퍼핏 쇼",
       "author": "M. W. 크레이븐 지음 / 김해온 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180183661/95fdf987cbca4c1ca764360a64515de6.jpg",
       "open_date": "2026-11-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "aeea9066907d441c",
-      "title": "저주를 잣는 물레를 부수고",
-      "author": "앨릭스 E. 해로우 지음 / 황소연 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183850/324f0ebe37a94edaa7f0615659520c45.jpg",
-      "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -263,32 +243,12 @@
       "is_comic": false
     },
     {
-      "id": "ff70b210c3a34b06",
-      "title": "사랑과 멸종을 바꿔 읽어보십시오",
-      "author": "유선혜",
-      "cover": "https://image.millie.co.kr/service/cover/180184828/7e040d2c1447452c9d611fd5d0f97b9e.jpg",
-      "open_date": "2026-10-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "98cab02f0f074948",
       "title": "얼굴들",
       "author": "이동원",
       "cover": "https://image.millie.co.kr/service/cover/180183517/221a929ebd184701875a23651a7e69d8.jpg",
       "open_date": "2026-11-23",
       "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "19d41200164346fb",
-      "title": "당신과 내가 대화할 수 있을까",
-      "author": "정희진",
-      "cover": "https://image.millie.co.kr/service/cover/180184134/cf83967be3ce4ef9af188a9d32a4544f.jpg",
-      "open_date": "2026-10-26",
-      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -363,51 +323,11 @@
       "is_comic": false
     },
     {
-      "id": "bc6170b37846433a",
-      "title": "언니, 재테크가 뭐야? [왕초보 주식편]",
-      "author": "밀리의서재",
-      "cover": "https://image.millie.co.kr/service/cover/180184683/17065dd1568445538ad5a75cddf71180.jpg",
-      "open_date": "2026-10-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "5f92cc748f514ed4",
-      "title": "마이 리틀 아일랜드",
-      "author": "조하나",
-      "cover": "https://image.millie.co.kr/service/cover/180184718/fe47e7191c5a4ad4bb14d1c79ef8fc17.jpg",
-      "open_date": "2026-10-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "f94afc0532414f07",
       "title": "우리가 카드를 긁는 곳",
       "author": "이재흔, 한국신용데이터(KCD)",
       "cover": "https://image.millie.co.kr/service/cover/180184772/27965f8ebfc0471f8ba645a5d2eac218.jpg",
       "open_date": "2026-10-28",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "643f9c4aa4e54049",
-      "title": "불안한 완벽주의자를 위한 책",
-      "author": "마이클 투히그, 클라리사 옹 지음 / 이진 옮김",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179607043/746aba2a0cdd4b4481d907a5f6e3cdc6.jpg",
-      "open_date": "2026-10-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "2ca75fc2f1934c11",
-      "title": "이 정도만 알면 되는 세계사",
-      "author": "김봉중",
-      "cover": "https://image.millie.co.kr/service/cover/180152117/09ae286649214d7a863068dd66b29b8a.jpg",
-      "open_date": "2026-10-26",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -419,46 +339,6 @@
       "cover": "https://image.millie.co.kr/service/cover/180184805/177dd5b861424cc49bbdaf29d093fbaa.jpg",
       "open_date": "2026-10-30",
       "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "707c807eb32e4110",
-      "title": "오래된 세계의 농담",
-      "author": "이다혜",
-      "cover": "https://image.millie.co.kr/service/cover/180138618/63dd6cc556844dc49652ff7f4511e15e.jpg",
-      "open_date": "2026-10-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "360832cc4aba489f",
-      "title": "고전덕질 [이선 프롬]",
-      "author": "밀리의서재",
-      "cover": "https://image.millie.co.kr/service/cover/180184682/8f79ea1d875b4355ac9abd4c230e4815.jpg",
-      "open_date": "2026-10-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "be075173c8e04c90",
-      "title": "내 거야, 만지지 마!",
-      "author": "정란희",
-      "cover": "https://image.millie.co.kr/service/cover/180183961/5667aba6543e4feb824c53a9a7ece6e5.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "d8bd044c52374b09",
-      "title": "공룡 박물관에서 생긴 일",
-      "author": "박보영",
-      "cover": "https://image.millie.co.kr/service/cover/180183962/69edaac2b872451686264a0797976ad6.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -487,6 +367,26 @@
       "title": "냠냠 해바라기씨",
       "author": "보린",
       "cover": "https://image.millie.co.kr/service/cover/180183965/8acd2a5f40e34c1aa4507cfe0521aca5.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "d8bd044c52374b09",
+      "title": "공룡 박물관에서 생긴 일",
+      "author": "박보영",
+      "cover": "https://image.millie.co.kr/service/cover/180183962/69edaac2b872451686264a0797976ad6.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "be075173c8e04c90",
+      "title": "내 거야, 만지지 마!",
+      "author": "정란희",
+      "cover": "https://image.millie.co.kr/service/cover/180183961/5667aba6543e4feb824c53a9a7ece6e5.jpg",
       "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
