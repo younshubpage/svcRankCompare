@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T11:12:37.742922+09:00",
-  "count": 62,
+  "updated": "2026-10-29T08:09:55.729245+09:00",
+  "count": 68,
   "books": [
     {
       "id": "ed8978048d9b4d2d",
@@ -8,26 +8,6 @@
       "author": "세라 베이크웰 지음 / 조영 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180184540/dae9f7fa6a2b410083e9c15f1c0b424d.jpg",
       "open_date": "2026-11-02",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "41a428d0b529445f",
-      "title": "코트라 월드 트렌드 2027",
-      "author": "KOTRA(대한무역투자진흥공사)",
-      "cover": "https://image.millie.co.kr/service/cover/180183995/5b67c396c98542258fffe747d67cc86b.jpg",
-      "open_date": "2026-10-28",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "f4df47028ba942d3",
-      "title": "뉴요커의 문장들",
-      "author": "강진규",
-      "cover": "https://image.millie.co.kr/service/cover/180183913/df7da630048d492680cca466887f1f8a.jpg",
-      "open_date": "2026-10-28",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -56,19 +36,19 @@
       "id": "93900c19a85e40d9",
       "title": "신 퇴마록 신세편 1",
       "author": "이우혁",
-      "cover": "https://image.millie.co.kr/service/cover/180165473/86704fc89a534b45ac05291dc779bde4.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180179266/4e4d77b417ce46d59330046b1f38e146.jpg",
       "open_date": "2026-11-01",
       "is_audiobook": true,
       "is_series": true,
       "is_comic": false
     },
     {
-      "id": "883da15b4ca54e24",
-      "title": "천국에서 온 탐정 2",
-      "author": "이동원",
-      "cover": "https://image.millie.co.kr/service/cover/180183641/be0abd6af0b143ccbdb19f3ac48fc408.jpg",
-      "open_date": "2026-10-31",
-      "is_audiobook": false,
+      "id": "15f287b4ec334f61",
+      "title": "달러구트 꿈 백화점 0",
+      "author": "이미예",
+      "cover": "https://image.millie.co.kr/service/cover/180183948/a1eebe78a8a64a7496ed5dc1d70ff28a.jpg",
+      "open_date": "2026-11-02",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -83,22 +63,42 @@
       "is_comic": false
     },
     {
-      "id": "dda5e94d7dbc4555",
-      "title": "누구나 만드는 평생 연금 ETF 투자 혁명",
-      "author": "도세 도시로 지음 / 김지선 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183570/bd16dc89e74b46da8dc0446adc6090fb.jpg",
-      "open_date": "2026-10-29",
+      "id": "98cab02f0f074948",
+      "title": "얼굴들",
+      "author": "이동원",
+      "cover": "https://image.millie.co.kr/service/cover/180183517/221a929ebd184701875a23651a7e69d8.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "883da15b4ca54e24",
+      "title": "천국에서 온 탐정 2",
+      "author": "이동원",
+      "cover": "https://image.millie.co.kr/service/cover/180183641/be0abd6af0b143ccbdb19f3ac48fc408.jpg",
+      "open_date": "2026-10-31",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "0cfa9b3bc6304a59",
-      "title": "우리가 가진 슬프고 아름다운 것들",
-      "author": "마이라 칼만 지음 / 한정원 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183977/6ed2271217ed401ba0d27b1f05d80af7.jpg",
-      "open_date": "2026-10-30",
-      "is_audiobook": false,
+      "id": "abc62254efdb40ce",
+      "title": "호신술 클럽",
+      "author": "김지윤",
+      "cover": "https://image.millie.co.kr/service/cover/180174017/37ca9e036ccf4914a26587fba248623b.jpg",
+      "open_date": "2026-11-16",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "44278979ee3f4966",
+      "title": "나는 왜 네 말이 힘들까",
+      "author": "박재연",
+      "cover": "https://image.millie.co.kr/service/cover/180172783/e9ed2b4dda324f458b8b5b500135f38a.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -107,16 +107,6 @@
       "title": "블랙 서머",
       "author": "M. W. 크레이븐 지음 / 김해온 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180183667/a956fe81c00c4f55b5240920d3b00af7.jpg",
-      "open_date": "2026-11-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "a7f70477ce3b42c5",
-      "title": "퍼핏 쇼",
-      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183661/95fdf987cbca4c1ca764360a64515de6.jpg",
       "open_date": "2026-11-03",
       "is_audiobook": false,
       "is_series": false,
@@ -133,12 +123,12 @@
       "is_comic": false
     },
     {
-      "id": "15f287b4ec334f61",
-      "title": "달러구트 꿈 백화점 0",
-      "author": "이미예",
-      "cover": "https://image.millie.co.kr/service/cover/180165823/252edabb3ad24195a519b1851bd49426.jpg",
-      "open_date": "2026-11-02",
-      "is_audiobook": true,
+      "id": "0cfa9b3bc6304a59",
+      "title": "우리가 가진 슬프고 아름다운 것들",
+      "author": "마이라 칼만 지음 / 한정원 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183977/6ed2271217ed401ba0d27b1f05d80af7.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -163,11 +153,11 @@
       "is_comic": false
     },
     {
-      "id": "1bb58b6864f3429a",
-      "title": "이게 되네? 힉스필드 AI 영상 만들기 캡컷·수노",
-      "author": "신무경, 여승호",
-      "cover": "https://image.millie.co.kr/service/cover/180181835/d0609123f73d44e292212e1e4c310420.jpg",
-      "open_date": "2026-10-30",
+      "id": "a7f70477ce3b42c5",
+      "title": "퍼핏 쇼",
+      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180183661/95fdf987cbca4c1ca764360a64515de6.jpg",
+      "open_date": "2026-11-03",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -178,6 +168,16 @@
       "author": "이현철",
       "cover": "https://image.millie.co.kr/service/cover/180184252/e6f24ff23ec8434a9eb06083ce0fa76e.jpg",
       "open_date": "2026-11-04",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "1bb58b6864f3429a",
+      "title": "이게 되네? 힉스필드 AI 영상 만들기 캡컷·수노",
+      "author": "신무경, 여승호",
+      "cover": "https://image.millie.co.kr/service/cover/180181835/d0609123f73d44e292212e1e4c310420.jpg",
+      "open_date": "2026-10-30",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -203,26 +203,6 @@
       "is_comic": false
     },
     {
-      "id": "abc62254efdb40ce",
-      "title": "호신술 클럽",
-      "author": "김지윤",
-      "cover": "https://image.millie.co.kr/service/cover/180174017/37ca9e036ccf4914a26587fba248623b.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3530d8d6a4c94903",
-      "title": "좋아한다 말하기엔 조금 숨이 차지만",
-      "author": "김연수, 노지양, 박은지, 윤이나, 김연덕, 김혜나, 최유안",
-      "cover": "https://image.millie.co.kr/service/cover/180168142/41971887692e408ab81eb8360bccfa14.jpg",
-      "open_date": "2026-10-31",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "1c0bc2ab89534287",
       "title": "퍼플필",
       "author": "진쏠미",
@@ -233,11 +213,11 @@
       "is_comic": false
     },
     {
-      "id": "44278979ee3f4966",
-      "title": "나는 왜 네 말이 힘들까",
-      "author": "박재연",
-      "cover": "https://image.millie.co.kr/service/cover/180172783/e9ed2b4dda324f458b8b5b500135f38a.jpg",
-      "open_date": "2026-11-09",
+      "id": "3530d8d6a4c94903",
+      "title": "좋아한다 말하기엔 조금 숨이 차지만",
+      "author": "김연수, 노지양, 박은지, 윤이나, 김연덕, 김혜나, 최유안",
+      "cover": "https://image.millie.co.kr/service/cover/180168142/41971887692e408ab81eb8360bccfa14.jpg",
+      "open_date": "2026-10-31",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -263,12 +243,12 @@
       "is_comic": false
     },
     {
-      "id": "98cab02f0f074948",
-      "title": "얼굴들",
-      "author": "이동원",
-      "cover": "https://image.millie.co.kr/service/cover/180183517/221a929ebd184701875a23651a7e69d8.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": true,
+      "id": "d90340986559453e",
+      "title": "찌니주의보",
+      "author": "정지아",
+      "cover": "https://image.millie.co.kr/service/cover/180185385/c65b5b3b91594c349c435c284cbbc582.jpg",
+      "open_date": "2026-12-01",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -283,32 +263,42 @@
       "is_comic": false
     },
     {
-      "id": "b905868915364976",
-      "title": "신 퇴마록 신세편 3",
-      "author": "이우혁",
-      "cover": "https://image.millie.co.kr/service/cover/180165476/ced025a601214be4bed2d169524ab7e7.jpg",
-      "open_date": "2026-11-01",
-      "is_audiobook": true,
-      "is_series": true,
+      "id": "3c6a6202ffc142a6",
+      "title": "트렌드 코리아 2027",
+      "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
+      "cover": "https://image.millie.co.kr/service/cover/180184766/753d00bb80aa401fbe31774da00efbcb.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
       "is_comic": false
     },
     {
       "id": "879849dc55594d56",
       "title": "신 퇴마록 신세편 2",
       "author": "이우혁",
-      "cover": "https://image.millie.co.kr/service/cover/180165474/521ea608574449eda534038a04ef3dcd.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180179265/ec3b5c42a0ba47a687d2c3a426e4600e.jpg",
       "open_date": "2026-11-01",
       "is_audiobook": true,
       "is_series": true,
       "is_comic": false
     },
     {
-      "id": "f94afc0532414f07",
-      "title": "우리가 카드를 긁는 곳",
-      "author": "이재흔, 한국신용데이터(KCD)",
-      "cover": "https://image.millie.co.kr/service/cover/180184772/27965f8ebfc0471f8ba645a5d2eac218.jpg",
-      "open_date": "2026-10-28",
-      "is_audiobook": false,
+      "id": "b905868915364976",
+      "title": "신 퇴마록 신세편 3",
+      "author": "이우혁",
+      "cover": "https://image.millie.co.kr/service/cover/180179264/5507cfe598b242fb8e92005c92142696.jpg",
+      "open_date": "2026-11-01",
+      "is_audiobook": true,
+      "is_series": true,
+      "is_comic": false
+    },
+    {
+      "id": "7fb192cc8d124580",
+      "title": "우리는 가장 밝은 밤에 헤어졌다",
+      "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180185050/1b3a304beaff498683ab8f578aa103af.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -323,12 +313,22 @@
       "is_comic": false
     },
     {
-      "id": "7fb192cc8d124580",
-      "title": "우리는 가장 밝은 밤에 헤어졌다",
-      "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180185050/1b3a304beaff498683ab8f578aa103af.jpg",
-      "open_date": "2026-12-07",
+      "id": "3b3f399b2c114197",
+      "title": "세입자",
+      "author": "프리다 맥파든 지음 / 이경아 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180185051/74ac54d47ed844a5be448e627fb1d5e3.jpg",
+      "open_date": "2026-12-21",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3eb1b0ee5507495e",
+      "title": "좋은생각 2026.11",
+      "author": "좋은생각 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180184510/c8c516b9bff44909b1a9ea5b1bc1d77b.jpg",
+      "open_date": "2026-11-01",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -343,21 +343,21 @@
       "is_comic": false
     },
     {
-      "id": "3b3f399b2c114197",
-      "title": "세입자",
-      "author": "프리다 맥파든 지음 / 이경아 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180185051/74ac54d47ed844a5be448e627fb1d5e3.jpg",
-      "open_date": "2026-12-21",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "b3046c28021744bc",
       "title": "월간산 2026년 11월호",
       "author": "월간산 편집부",
       "cover": "https://image.millie.co.kr/service/cover/180185044/a3875f0363b340d9a38ae98a600ccb14.jpg",
       "open_date": "2026-11-01",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "a7b5bf24327e4efe",
+      "title": "확률적 사고의 힘",
+      "author": "다부치 나오야 지음 / 황선종 옮김",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179623445/67f4ac95f51446888d2cd512dc0e4db8.jpg",
+      "open_date": "2026-10-30",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -373,10 +373,10 @@
       "is_comic": false
     },
     {
-      "id": "a7b5bf24327e4efe",
-      "title": "확률적 사고의 힘",
-      "author": "다부치 나오야 지음 / 황선종 옮김",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179623445/67f4ac95f51446888d2cd512dc0e4db8.jpg",
+      "id": "5d22926c54b44a18",
+      "title": "글쓰기로 독립하는 법",
+      "author": "정지우",
+      "cover": "https://image.millie.co.kr/service/cover/180132820/028541049cd34634b5d840d98c13b680.jpg",
       "open_date": "2026-10-30",
       "is_audiobook": false,
       "is_series": false,
@@ -403,16 +403,6 @@
       "is_comic": false
     },
     {
-      "id": "5d22926c54b44a18",
-      "title": "글쓰기로 독립하는 법",
-      "author": "정지우",
-      "cover": "https://image.millie.co.kr/service/cover/180132820/028541049cd34634b5d840d98c13b680.jpg",
-      "open_date": "2026-10-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "bc443c37111948a9",
       "title": "말의 품격은 태도에서 나온다",
       "author": "지혜명",
@@ -423,10 +413,120 @@
       "is_comic": false
     },
     {
+      "id": "21d9e60fac204d0d",
+      "title": "예습과 복습의 과학",
+      "author": "시노가야 게이타 지음 / 권정애 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180130285/ac8a2eba31124cc5a979ef22382cb3a4.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "bb0856cea0fe4ff1",
+      "title": "메모의 순간",
+      "author": "김지원",
+      "cover": "https://image.millie.co.kr/service/cover/180125802/15f2502ca06e493f88043abc47bc476b.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "f1a28d51ad75476a",
+      "title": "심미안 수업",
+      "author": "윤광준",
+      "cover": "https://image.millie.co.kr/service/cover/180110253/e3d1b64e69a244ef9f166c79ab8c5b7f.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "89de6d10ab52492a",
+      "title": "운동의 뇌과학",
+      "author": "제니퍼 헤이스 지음 / 이영래 옮김",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179618492/627fb4ef37514e05b77491c5e284a931.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "49b4542abbc04333",
+      "title": "진짜 좋아하는 일만 하고 사는 법",
+      "author": "데릭 시버스 지음 / 정지현 옮김",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179640917/a800e665b58b4b13916f475191cb15a5.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "25ae6c58735f4308",
+      "title": "트래비 Travie 2026.11",
+      "author": "(주)여행신문",
+      "cover": "https://image.millie.co.kr/service/cover/180184521/d246730c1b4648afb5fd14aadc225339.jpg",
+      "open_date": "2026-11-01",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "f547efd243004d8c",
+      "title": "여성조선 2026년 11월호",
+      "author": "여성조선 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185036/9ac80756141247ee884fb09b0ecf428c.jpg",
+      "open_date": "2026-11-01",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9d78d7622a7b4af0",
+      "title": "월간조선 2026년 11월호",
+      "author": "월간조선 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180184763/a1c3542e6b24470395132adbec56dd72.jpg",
+      "open_date": "2026-11-01",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "cf06e1ec0a484642",
       "title": "인사이더 인사이트",
       "author": "이용준",
       "cover": "https://image.millie.co.kr/service/cover/180135226/b3a4c8dcc75e4b9db9a88cea460ad35e.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "6c05903c43624027",
+      "title": "전범선의 한국사 테라피",
+      "author": "전범선",
+      "cover": "https://image.millie.co.kr/service/cover/180148139/40148d020bb74cc3bdfda55fe8cc518b.jpg",
+      "open_date": "2026-10-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "a192cfe24b9048ad",
+      "title": "포브스 코리아 Forbes Korea 2026.11",
+      "author": "중앙일보S",
+      "cover": "https://image.millie.co.kr/service/cover/180184920/821e235c07d94f60a459a35accd66d1b.jpg",
+      "open_date": "2026-11-01",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "0b8fcd144d354e26",
+      "title": "삶의 방향을 묻는 과학자의 문장들",
+      "author": "유윤한",
+      "cover": "https://image.millie.co.kr/service/cover/180130335/dce4c8a615534faa88031d7097752f53.jpg",
       "open_date": "2026-10-30",
       "is_audiobook": false,
       "is_series": false,
@@ -453,26 +553,6 @@
       "is_comic": false
     },
     {
-      "id": "a192cfe24b9048ad",
-      "title": "포브스 코리아 Forbes Korea 2026.11",
-      "author": "중앙일보S",
-      "cover": "https://image.millie.co.kr/service/cover/180184920/821e235c07d94f60a459a35accd66d1b.jpg",
-      "open_date": "2026-11-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "25ae6c58735f4308",
-      "title": "트래비 Travie 2026.11",
-      "author": "(주)여행신문",
-      "cover": "https://image.millie.co.kr/service/cover/180184521/d246730c1b4648afb5fd14aadc225339.jpg",
-      "open_date": "2026-11-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "0dce9c14e8554fe4",
       "title": "진심으로 백성을 사랑한 왕 세종 대왕",
       "author": "김용란",
@@ -483,60 +563,10 @@
       "is_comic": false
     },
     {
-      "id": "f547efd243004d8c",
-      "title": "여성조선 2026년 11월호",
-      "author": "여성조선 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185036/9ac80756141247ee884fb09b0ecf428c.jpg",
-      "open_date": "2026-11-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "bb0856cea0fe4ff1",
-      "title": "메모의 순간",
-      "author": "김지원",
-      "cover": "https://image.millie.co.kr/service/cover/180125802/15f2502ca06e493f88043abc47bc476b.jpg",
-      "open_date": "2026-10-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "f1a28d51ad75476a",
-      "title": "심미안 수업",
-      "author": "윤광준",
-      "cover": "https://image.millie.co.kr/service/cover/180110253/e3d1b64e69a244ef9f166c79ab8c5b7f.jpg",
-      "open_date": "2026-10-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "6c05903c43624027",
-      "title": "전범선의 한국사 테라피",
-      "author": "전범선",
-      "cover": "https://image.millie.co.kr/service/cover/180148139/40148d020bb74cc3bdfda55fe8cc518b.jpg",
-      "open_date": "2026-10-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "62d2599b2f8a48e9",
       "title": "월간중앙 2026.11",
       "author": "중앙일보S",
       "cover": "https://image.millie.co.kr/service/cover/180184804/33197310b877441ca7749ed8f65cc650.jpg",
-      "open_date": "2026-11-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9d78d7622a7b4af0",
-      "title": "월간조선 2026년 11월호",
-      "author": "월간조선 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180184763/a1c3542e6b24470395132adbec56dd72.jpg",
       "open_date": "2026-11-01",
       "is_audiobook": false,
       "is_series": false,
@@ -553,16 +583,6 @@
       "is_comic": false
     },
     {
-      "id": "21d9e60fac204d0d",
-      "title": "예습과 복습의 과학",
-      "author": "시노가야 게이타 지음 / 권정애 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180130285/ac8a2eba31124cc5a979ef22382cb3a4.jpg",
-      "open_date": "2026-10-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "be075173c8e04c90",
       "title": "내 거야, 만지지 마!",
       "author": "정란희",
@@ -573,30 +593,10 @@
       "is_comic": false
     },
     {
-      "id": "3eb1b0ee5507495e",
-      "title": "좋은생각 2026.11",
-      "author": "좋은생각 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180184510/c8c516b9bff44909b1a9ea5b1bc1d77b.jpg",
-      "open_date": "2026-11-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3ee82b72824040bd",
-      "title": "내맘愛우리안양 2026.11",
-      "author": "안양시 홍보기획관",
-      "cover": "https://image.millie.co.kr/service/cover/180184332/1fd6fa043a684effab0066f12fbe770b.jpg",
-      "open_date": "2026-11-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "0b8fcd144d354e26",
-      "title": "삶의 방향을 묻는 과학자의 문장들",
-      "author": "유윤한",
-      "cover": "https://image.millie.co.kr/service/cover/180130335/dce4c8a615534faa88031d7097752f53.jpg",
+      "id": "458a59b50dc342e9",
+      "title": "러시아가 승리한다면",
+      "author": "카를로 마살라 지음 / 이지윤 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180150328/58427b6ab3ba4887b5fda4ece0ddbfa7.jpg",
       "open_date": "2026-10-30",
       "is_audiobook": false,
       "is_series": false,
