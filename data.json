@@ -1862,5 +1862,7 @@
       ]
     }
   },
-  "stale_stores": {}
+  "stale_stores": {
+    "millie": "2026-10-28"
+  }
 }
