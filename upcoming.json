@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T08:37:53.665781+09:00",
+  "updated": "2026-10-30T11:43:59.129954+09:00",
   "count": 53,
   "books": [
     {
@@ -53,6 +53,16 @@
       "is_comic": false
     },
     {
+      "id": "3c6a6202ffc142a6",
+      "title": "트렌드 코리아 2027",
+      "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
+      "cover": "https://image.millie.co.kr/service/cover/180184766/753d00bb80aa401fbe31774da00efbcb.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "98cab02f0f074948",
       "title": "얼굴들",
       "author": "이동원",
@@ -73,11 +83,11 @@
       "is_comic": false
     },
     {
-      "id": "883da15b4ca54e24",
-      "title": "천국에서 온 탐정 2",
-      "author": "이동원",
-      "cover": "https://image.millie.co.kr/service/cover/180183641/be0abd6af0b143ccbdb19f3ac48fc408.jpg",
-      "open_date": "2026-10-31",
+      "id": "888325638273476b",
+      "title": "에이전트 워크플로우",
+      "author": "로사장(김다솔)",
+      "cover": "https://image.millie.co.kr/service/cover/180184922/778ccd7f7d9645bf93e44eeccf2bab9c.jpg",
+      "open_date": "2026-11-04",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -93,11 +103,11 @@
       "is_comic": false
     },
     {
-      "id": "888325638273476b",
-      "title": "에이전트 워크플로우",
-      "author": "로사장(김다솔)",
-      "cover": "https://image.millie.co.kr/service/cover/180184922/778ccd7f7d9645bf93e44eeccf2bab9c.jpg",
-      "open_date": "2026-11-04",
+      "id": "883da15b4ca54e24",
+      "title": "천국에서 온 탐정 2",
+      "author": "이동원",
+      "cover": "https://image.millie.co.kr/service/cover/180183641/be0abd6af0b143ccbdb19f3ac48fc408.jpg",
+      "open_date": "2026-10-31",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -123,6 +133,26 @@
       "is_comic": false
     },
     {
+      "id": "d90340986559453e",
+      "title": "찌니주의보",
+      "author": "정지아",
+      "cover": "https://image.millie.co.kr/service/cover/180185385/c65b5b3b91594c349c435c284cbbc582.jpg",
+      "open_date": "2026-12-01",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "1c0bc2ab89534287",
+      "title": "퍼플필",
+      "author": "진쏠미",
+      "cover": "https://image.millie.co.kr/service/cover/180184346/bca4c407c82b405584bf70f83231f957.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "5b1e85323a04443c",
       "title": "블랙 서머",
       "author": "M. W. 크레이븐 지음 / 김해온 옮김",
@@ -143,16 +173,6 @@
       "is_comic": false
     },
     {
-      "id": "5a334ae77de341fc",
-      "title": "어디서 살 것인가, 어떻게 살 것인가",
-      "author": "이현철",
-      "cover": "https://image.millie.co.kr/service/cover/180184252/e6f24ff23ec8434a9eb06083ce0fa76e.jpg",
-      "open_date": "2026-11-04",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "ca2f7b2fb1ca43d6",
       "title": "달콤한 나의 도시",
       "author": "정이현",
@@ -163,51 +183,21 @@
       "is_comic": false
     },
     {
+      "id": "5a334ae77de341fc",
+      "title": "어디서 살 것인가, 어떻게 살 것인가",
+      "author": "이현철",
+      "cover": "https://image.millie.co.kr/service/cover/180184252/e6f24ff23ec8434a9eb06083ce0fa76e.jpg",
+      "open_date": "2026-11-04",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "6a465beb42674d20",
       "title": "보스턴 사람들",
       "author": "헨리 제임스 지음 / 김윤하 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180184835/03ef70450f69420da12e3352a3da03f3.jpg",
       "open_date": "2026-11-05",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "1c0bc2ab89534287",
-      "title": "퍼플필",
-      "author": "진쏠미",
-      "cover": "https://image.millie.co.kr/service/cover/180184346/bca4c407c82b405584bf70f83231f957.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "d90340986559453e",
-      "title": "찌니주의보",
-      "author": "정지아",
-      "cover": "https://image.millie.co.kr/service/cover/180185385/c65b5b3b91594c349c435c284cbbc582.jpg",
-      "open_date": "2026-12-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3530d8d6a4c94903",
-      "title": "좋아한다 말하기엔 조금 숨이 차지만",
-      "author": "김연수, 노지양, 박은지, 윤이나, 김연덕, 김혜나, 최유안",
-      "cover": "https://image.millie.co.kr/service/cover/180175741/4ec304584f6c43bbbf8f03f9f7ba6850.jpg",
-      "open_date": "2026-10-31",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3c6a6202ffc142a6",
-      "title": "트렌드 코리아 2027",
-      "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
-      "cover": "https://image.millie.co.kr/service/cover/180184766/753d00bb80aa401fbe31774da00efbcb.jpg",
-      "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -229,6 +219,16 @@
       "cover": "https://image.millie.co.kr/service/cover/180184245/3cf53f60ee464af99aabd04d113e6d65.jpg",
       "open_date": "2026-11-06",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3530d8d6a4c94903",
+      "title": "좋아한다 말하기엔 조금 숨이 차지만",
+      "author": "김연수, 노지양, 박은지, 윤이나, 김연덕, 김혜나, 최유안",
+      "cover": "https://image.millie.co.kr/service/cover/180175741/4ec304584f6c43bbbf8f03f9f7ba6850.jpg",
+      "open_date": "2026-10-31",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -273,20 +273,20 @@
       "is_comic": false
     },
     {
-      "id": "3eb1b0ee5507495e",
-      "title": "좋은생각 2026.11",
-      "author": "좋은생각 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180184510/c8c516b9bff44909b1a9ea5b1bc1d77b.jpg",
-      "open_date": "2026-11-01",
+      "id": "7aa07c7484dc4a38",
+      "title": "품격 있는 대화를 위한 지식 브리핑",
+      "author": "김진",
+      "cover": "https://image.millie.co.kr/service/cover/180185771/92ce8b9002a4453ea5400fbb1fe965ce.jpg",
+      "open_date": "2026-11-10",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "98e04baa1054459f",
-      "title": "머니 Money 2026.11",
-      "author": "한경머니 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185049/5a1f7b9615644652aaf818ca7115b3e6.jpg",
+      "id": "3eb1b0ee5507495e",
+      "title": "좋은생각 2026.11",
+      "author": "좋은생각 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180184510/c8c516b9bff44909b1a9ea5b1bc1d77b.jpg",
       "open_date": "2026-11-01",
       "is_audiobook": false,
       "is_series": false,
@@ -303,12 +303,22 @@
       "is_comic": false
     },
     {
-      "id": "25ae6c58735f4308",
-      "title": "트래비 Travie 2026.11",
-      "author": "(주)여행신문",
-      "cover": "https://image.millie.co.kr/service/cover/180184521/d246730c1b4648afb5fd14aadc225339.jpg",
+      "id": "98e04baa1054459f",
+      "title": "머니 Money 2026.11",
+      "author": "한경머니 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185049/5a1f7b9615644652aaf818ca7115b3e6.jpg",
       "open_date": "2026-11-01",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "aecf02ce730e48c1",
+      "title": "오디세이",
+      "author": "방재원",
+      "cover": "https://image.millie.co.kr/service/cover/180185487/e3a6c9bd733844a58cec04d747d66a93.jpg",
+      "open_date": "2026-11-02",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -333,12 +343,22 @@
       "is_comic": false
     },
     {
-      "id": "aecf02ce730e48c1",
-      "title": "오디세이",
-      "author": "방재원",
-      "cover": "https://image.millie.co.kr/service/cover/180185487/e3a6c9bd733844a58cec04d747d66a93.jpg",
+      "id": "9c23d0575a284649",
+      "title": "주린이도 술술 읽는 친절한 ETF",
+      "author": "중앙일보 머니랩",
+      "cover": "https://image.millie.co.kr/service/cover/180138131/686f08cf682d44ad9179827a56892cf2.jpg",
       "open_date": "2026-11-02",
-      "is_audiobook": true,
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "25ae6c58735f4308",
+      "title": "트래비 Travie 2026.11",
+      "author": "(주)여행신문",
+      "cover": "https://image.millie.co.kr/service/cover/180184521/d246730c1b4648afb5fd14aadc225339.jpg",
+      "open_date": "2026-11-01",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -348,6 +368,26 @@
       "author": "중앙일보S",
       "cover": "https://image.millie.co.kr/service/cover/180184920/821e235c07d94f60a459a35accd66d1b.jpg",
       "open_date": "2026-11-01",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "8fdbf76717a94f06",
+      "title": "냠냠 해바라기씨",
+      "author": "보린",
+      "cover": "https://image.millie.co.kr/service/cover/180183907/5664cb7104df4a66a6b0213f04f65ecf.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "be075173c8e04c90",
+      "title": "내 거야, 만지지 마!",
+      "author": "정란희",
+      "cover": "https://image.millie.co.kr/service/cover/180183961/5667aba6543e4feb824c53a9a7ece6e5.jpg",
+      "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -373,22 +413,62 @@
       "is_comic": false
     },
     {
-      "id": "62d2599b2f8a48e9",
-      "title": "월간중앙 2026.11",
-      "author": "중앙일보S",
-      "cover": "https://image.millie.co.kr/service/cover/180184804/33197310b877441ca7749ed8f65cc650.jpg",
-      "open_date": "2026-11-01",
+      "id": "73685243ef5844c2",
+      "title": "연애동의 연애 불변의 법칙",
+      "author": "연애동",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179484093/c3287699a27a40a892578cbf5cf9b999.jpg",
+      "open_date": "2026-11-02",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "be075173c8e04c90",
+      "id": "3ffc350fb6bc4242",
       "title": "내 거야, 만지지 마!",
       "author": "정란희",
-      "cover": "https://image.millie.co.kr/service/cover/180183961/5667aba6543e4feb824c53a9a7ece6e5.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180183903/e3d32250fba04bc1a4f3c85464cae109.jpg",
       "open_date": "2026-11-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "58e142060c324057",
+      "title": "코스피 1만 넥스트 레벨",
+      "author": "박시동",
+      "cover": "https://image.millie.co.kr/service/cover/180148419/846b710f22ba4756b4d7cf11df76b4af.jpg",
+      "open_date": "2026-11-02",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "527052e454bc406b",
+      "title": "데일 카네기 인생경영론",
+      "author": "데일 카네기 지음 / 이종인 옮김 ",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179632836/98f270d0bbfe434f979aa8981dcc551e.jpg",
+      "open_date": "2026-11-02",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "961203203bc14eb3",
+      "title": "언니, 재테크가 뭐야? [안전 자산편]",
+      "author": "밀리의서재",
+      "cover": "https://image.millie.co.kr/service/cover/180185779/4dbdece0e921415397338372f058dbdf.jpg",
+      "open_date": "2026-11-02",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "345d311c05594007",
+      "title": "바다를 건너온 탈해왕",
+      "author": "한정영",
+      "cover": "https://image.millie.co.kr/service/cover/180183906/3a202dbf8ff54ac7946b6e244a2b6a76.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -413,76 +493,6 @@
       "is_comic": false
     },
     {
-      "id": "c212fb89dbea42a0",
-      "title": "취향 가득 타이베이",
-      "author": "옥취영",
-      "cover": "https://image.millie.co.kr/service/cover/180120582/052f5c06d53c4d9aa1c5ee5e9bf6b202.jpg",
-      "open_date": "2026-11-02",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "7aa07c7484dc4a38",
-      "title": "품격 있는 대화를 위한 지식 브리핑",
-      "author": "김진",
-      "cover": "https://image.millie.co.kr/service/cover/180185771/92ce8b9002a4453ea5400fbb1fe965ce.jpg",
-      "open_date": "2026-11-10",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "58e142060c324057",
-      "title": "코스피 1만 넥스트 레벨",
-      "author": "박시동",
-      "cover": "https://image.millie.co.kr/service/cover/180148419/846b710f22ba4756b4d7cf11df76b4af.jpg",
-      "open_date": "2026-11-02",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "961203203bc14eb3",
-      "title": "언니, 재테크가 뭐야? [안전 자산편]",
-      "author": "밀리의서재",
-      "cover": "https://image.millie.co.kr/service/cover/180185779/4dbdece0e921415397338372f058dbdf.jpg",
-      "open_date": "2026-11-02",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "527052e454bc406b",
-      "title": "데일 카네기 인생경영론",
-      "author": "데일 카네기 지음 / 이종인 옮김 ",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179632836/98f270d0bbfe434f979aa8981dcc551e.jpg",
-      "open_date": "2026-11-02",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "8fdbf76717a94f06",
-      "title": "냠냠 해바라기씨",
-      "author": "보린",
-      "cover": "https://image.millie.co.kr/service/cover/180183907/5664cb7104df4a66a6b0213f04f65ecf.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "345d311c05594007",
-      "title": "바다를 건너온 탈해왕",
-      "author": "한정영",
-      "cover": "https://image.millie.co.kr/service/cover/180183906/3a202dbf8ff54ac7946b6e244a2b6a76.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "064a32a53ab049d4",
       "title": "진심으로 백성을 사랑한 왕 세종 대왕",
       "author": "김용란",
@@ -503,30 +513,20 @@
       "is_comic": false
     },
     {
-      "id": "3ffc350fb6bc4242",
-      "title": "내 거야, 만지지 마!",
-      "author": "정란희",
-      "cover": "https://image.millie.co.kr/service/cover/180183903/e3d32250fba04bc1a4f3c85464cae109.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9c23d0575a284649",
-      "title": "주린이도 술술 읽는 친절한 ETF",
-      "author": "중앙일보 머니랩",
-      "cover": "https://image.millie.co.kr/service/cover/180138131/686f08cf682d44ad9179827a56892cf2.jpg",
-      "open_date": "2026-11-02",
+      "id": "62d2599b2f8a48e9",
+      "title": "월간중앙 2026.11",
+      "author": "중앙일보S",
+      "cover": "https://image.millie.co.kr/service/cover/180184804/33197310b877441ca7749ed8f65cc650.jpg",
+      "open_date": "2026-11-01",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "73685243ef5844c2",
-      "title": "연애동의 연애 불변의 법칙",
-      "author": "연애동",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179484093/c3287699a27a40a892578cbf5cf9b999.jpg",
+      "id": "c212fb89dbea42a0",
+      "title": "취향 가득 타이베이",
+      "author": "옥취영",
+      "cover": "https://image.millie.co.kr/service/cover/180120582/052f5c06d53c4d9aa1c5ee5e9bf6b202.jpg",
       "open_date": "2026-11-02",
       "is_audiobook": false,
       "is_series": false,
