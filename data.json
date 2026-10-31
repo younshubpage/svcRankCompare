@@ -38,7 +38,7 @@
             "p": 9
           },
           "millie": {
-            "t": 7,
+            "t": 8,
             "pid": "e3720ba037a74e55",
             "ship": "",
             "audio": false,
@@ -416,7 +416,7 @@
             "p": null
           },
           "millie": {
-            "t": 41,
+            "t": 38,
             "pid": "c2cdcb8db2a442cf",
             "ship": "",
             "audio": false,
@@ -926,6 +926,13 @@
             "audio": false,
             "p": null
           },
+          "millie": {
+            "t": 48,
+            "pid": "30fd54e378d64dae",
+            "ship": "",
+            "audio": false,
+            "p": 50
+          },
           "hkey": "독서의기술"
         },
         {
@@ -962,7 +969,7 @@
             "p": null
           },
           "millie": {
-            "t": 37,
+            "t": 36,
             "pid": "d598edbe92f44e04",
             "ship": "",
             "audio": false,
@@ -1265,40 +1272,12 @@
           "hkey": "유리멘탈을위한심리책"
         },
         {
-          "isbn": "눈물을마시는새1",
-          "title": "눈물을 마시는 새 1",
-          "author": "이영도",
-          "pub": "황금가지",
-          "millie": {
-            "t": 6,
-            "pid": "b1bc577bd4e34497",
-            "ship": "",
-            "audio": false,
-            "p": 7
-          },
-          "hkey": "눈물을마시는새1"
-        },
-        {
-          "isbn": "빵충사육준수사항__audio",
-          "title": "빵충 사육 준수 사항",
-          "author": "김혜영",
-          "pub": "안전가옥",
-          "millie": {
-            "t": 8,
-            "pid": "ed16c3ec59d747ce",
-            "ship": "",
-            "audio": true,
-            "p": 8
-          },
-          "hkey": "빵충사육준수사항__audio"
-        },
-        {
           "isbn": "완벽한청소",
           "title": "완벽한 청소",
           "author": "노청엽",
           "pub": "반타",
           "millie": {
-            "t": 9,
+            "t": 6,
             "pid": "3f4a8d1e0b2b40d6",
             "ship": "",
             "audio": false,
@@ -1307,32 +1286,60 @@
           "hkey": "완벽한청소"
         },
         {
+          "isbn": "눈물을마시는새1",
+          "title": "눈물을 마시는 새 1",
+          "author": "이영도",
+          "pub": "황금가지",
+          "millie": {
+            "t": 7,
+            "pid": "b1bc577bd4e34497",
+            "ship": "",
+            "audio": false,
+            "p": 7
+          },
+          "hkey": "눈물을마시는새1"
+        },
+        {
+          "isbn": "자연의것들은그저자란다__audio",
+          "title": "자연의 것들은 그저 자란다",
+          "author": "이윤 리 지음 / 정혜윤 옮김",
+          "pub": "다산책방",
+          "millie": {
+            "t": 9,
+            "pid": "e5110fec932a4807",
+            "ship": "",
+            "audio": true,
+            "p": 25
+          },
+          "hkey": "자연의것들은그저자란다__audio"
+        },
+        {
+          "isbn": "빵충사육준수사항__audio",
+          "title": "빵충 사육 준수 사항",
+          "author": "김혜영",
+          "pub": "안전가옥",
+          "millie": {
+            "t": 10,
+            "pid": "ed16c3ec59d747ce",
+            "ship": "",
+            "audio": true,
+            "p": 8
+          },
+          "hkey": "빵충사육준수사항__audio"
+        },
+        {
           "isbn": "머니트렌드2027",
           "title": "머니 트렌드 2027",
           "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
           "pub": "북모먼트",
           "millie": {
-            "t": 10,
+            "t": 11,
             "pid": "cbd286c76d13471c",
             "ship": "",
             "audio": false,
             "p": 9
           },
           "hkey": "머니트렌드2027"
-        },
-        {
-          "isbn": "우리가카드를긁는곳",
-          "title": "우리가 카드를 긁는 곳",
-          "author": "이재흔, 한국신용데이터(KCD)",
-          "pub": "밀리의서재",
-          "millie": {
-            "t": 11,
-            "pid": "f94afc0532414f07",
-            "ship": "",
-            "audio": false,
-            "p": 12
-          },
-          "hkey": "우리가카드를긁는곳"
         },
         {
           "isbn": "대화할때필요한최소한의상식인간관계__audio",
@@ -1377,40 +1384,12 @@
           "hkey": "혼모노"
         },
         {
-          "isbn": "자연의것들은그저자란다__audio",
-          "title": "자연의 것들은 그저 자란다",
-          "author": "이윤 리 지음 / 정혜윤 옮김",
-          "pub": "다산책방",
-          "millie": {
-            "t": 16,
-            "pid": "e5110fec932a4807",
-            "ship": "",
-            "audio": true,
-            "p": 25
-          },
-          "hkey": "자연의것들은그저자란다__audio"
-        },
-        {
-          "isbn": "바디미싱클럽",
-          "title": "바디 미싱 클럽",
-          "author": "변상민",
-          "pub": "밀리의서재",
-          "millie": {
-            "t": 17,
-            "pid": "c9e6a35b755846f0",
-            "ship": "",
-            "audio": false,
-            "p": 28
-          },
-          "hkey": "바디미싱클럽"
-        },
-        {
           "isbn": "눈물을마시는새1__audio",
           "title": "눈물을 마시는 새 1",
           "author": "이영도",
           "pub": "황금가지",
           "millie": {
-            "t": 18,
+            "t": 16,
             "pid": "ae789eb411374d32",
             "ship": "",
             "audio": true,
@@ -1424,7 +1403,7 @@
           "author": "유진상",
           "pub": "오팬하우스",
           "millie": {
-            "t": 19,
+            "t": 17,
             "pid": "041374e34ec34bce",
             "ship": "",
             "audio": false,
@@ -1438,7 +1417,7 @@
           "author": "아르투어 쇼펜하우어 지음 / 박용남 편역",
           "pub": "어센딩",
           "millie": {
-            "t": 20,
+            "t": 18,
             "pid": "96b096d42dee4d87",
             "ship": "",
             "audio": false,
@@ -1447,26 +1426,12 @@
           "hkey": "사람을고치려들지마라"
         },
         {
-          "isbn": "독서의기술__audio",
-          "title": "독서의 기술",
-          "author": "고명환",
-          "pub": "",
-          "millie": {
-            "t": 21,
-            "pid": "65498da3cc0b404c",
-            "ship": "",
-            "audio": true,
-            "p": 30
-          },
-          "hkey": "독서의기술__audio"
-        },
-        {
           "isbn": "용의자x의헌신",
           "title": "용의자 X의 헌신",
           "author": "히가시노 게이고 지음 / 양억관 옮김",
-          "pub": "",
+          "pub": "재인",
           "millie": {
-            "t": 22,
+            "t": 19,
             "pid": "efea57b238cf4fd5",
             "ship": "",
             "audio": false,
@@ -1478,9 +1443,9 @@
           "isbn": "트렌드코리아2027",
           "title": "트렌드 코리아 2027",
           "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
-          "pub": "",
+          "pub": "미래의창",
           "millie": {
-            "t": 23,
+            "t": 20,
             "pid": "3c6a6202ffc142a6",
             "ship": "",
             "audio": false,
@@ -1489,12 +1454,26 @@
           "hkey": "트렌드코리아2027"
         },
         {
+          "isbn": "우리가카드를긁는곳",
+          "title": "우리가 카드를 긁는 곳",
+          "author": "이재흔, 한국신용데이터(KCD)",
+          "pub": "",
+          "millie": {
+            "t": 21,
+            "pid": "f94afc0532414f07",
+            "ship": "",
+            "audio": false,
+            "p": 12
+          },
+          "hkey": "우리가카드를긁는곳"
+        },
+        {
           "isbn": "페이백__audio",
           "title": "페이백",
           "author": "민도연",
           "pub": "",
           "millie": {
-            "t": 24,
+            "t": 22,
             "pid": "b972494475844b68",
             "ship": "",
             "audio": true,
@@ -1508,7 +1487,7 @@
           "author": "쇼펜하우어",
           "pub": "",
           "millie": {
-            "t": 25,
+            "t": 23,
             "pid": "93569bb033714d3f",
             "ship": "",
             "audio": false,
@@ -1522,7 +1501,7 @@
           "author": "테드 창 지음 / 김상훈 옮김",
           "pub": "",
           "millie": {
-            "t": 26,
+            "t": 24,
             "pid": "36c0150b87064913",
             "ship": "",
             "audio": false,
@@ -1536,7 +1515,7 @@
           "author": "사토 후미아키 지음 / 김윤경 옮김",
           "pub": "",
           "millie": {
-            "t": 27,
+            "t": 25,
             "pid": "b334c8b78c0d4347",
             "ship": "",
             "audio": true,
@@ -1550,7 +1529,7 @@
           "author": "이현호",
           "pub": "",
           "millie": {
-            "t": 28,
+            "t": 26,
             "pid": "67af3b10847443ae",
             "ship": "",
             "audio": false,
@@ -1564,7 +1543,7 @@
           "author": "김현수",
           "pub": "",
           "millie": {
-            "t": 29,
+            "t": 27,
             "pid": "006d25801a0242ef",
             "ship": "",
             "audio": false,
@@ -1578,7 +1557,7 @@
           "author": "정해연",
           "pub": "",
           "millie": {
-            "t": 30,
+            "t": 28,
             "pid": "806508b09ed74322",
             "ship": "",
             "audio": false,
@@ -1592,7 +1571,7 @@
           "author": "전효원",
           "pub": "",
           "millie": {
-            "t": 31,
+            "t": 29,
             "pid": "a44c19593f194fde",
             "ship": "",
             "audio": false,
@@ -1606,7 +1585,7 @@
           "author": "김범준",
           "pub": "",
           "millie": {
-            "t": 32,
+            "t": 30,
             "pid": "0296fb2e7c564b89",
             "ship": "",
             "audio": true,
@@ -1620,7 +1599,7 @@
           "author": "이서",
           "pub": "",
           "millie": {
-            "t": 33,
+            "t": 31,
             "pid": "a238a2ff00fd421c",
             "ship": "",
             "audio": false,
@@ -1634,7 +1613,7 @@
           "author": "제임스 클리어 지음 / 이한이 옮김 ",
           "pub": "",
           "millie": {
-            "t": 34,
+            "t": 32,
             "pid": "d41f1da7fa0b4680",
             "ship": "",
             "audio": false,
@@ -1648,7 +1627,7 @@
           "author": "헤르만 헤세 지음 / 박병덕 옮김 ",
           "pub": "",
           "millie": {
-            "t": 35,
+            "t": 33,
             "pid": "a4a3d7846b3d4bea",
             "ship": "",
             "audio": true,
@@ -1657,26 +1636,12 @@
           "hkey": "싯다르타__audio"
         },
         {
-          "isbn": "코끼리를목욕시키는여자__audio",
-          "title": "코끼리를 목욕시키는 여자",
-          "author": "화바이룽 지음 / 김소희 옮김",
-          "pub": "",
-          "millie": {
-            "t": 36,
-            "pid": "9fea6c7c99e14b8f",
-            "ship": "",
-            "audio": true,
-            "p": 43
-          },
-          "hkey": "코끼리를목욕시키는여자__audio"
-        },
-        {
           "isbn": "기기묘묘부동산",
           "title": "기기묘묘 부동산",
           "author": "박혜연",
           "pub": "",
           "millie": {
-            "t": 38,
+            "t": 34,
             "pid": "3451176a95bc4edd",
             "ship": "",
             "audio": false,
@@ -1690,7 +1655,7 @@
           "author": "김범준",
           "pub": "",
           "millie": {
-            "t": 39,
+            "t": 35,
             "pid": "57b1e47e2db345be",
             "ship": "",
             "audio": false,
@@ -1704,7 +1669,7 @@
           "author": "류현재",
           "pub": "",
           "millie": {
-            "t": 40,
+            "t": 37,
             "pid": "870f7aabb8124eb5",
             "ship": "",
             "audio": true,
@@ -1718,7 +1683,7 @@
           "author": "한동일",
           "pub": "",
           "millie": {
-            "t": 42,
+            "t": 39,
             "pid": "47babc854d6c4a04",
             "ship": "",
             "audio": false,
@@ -1732,7 +1697,7 @@
           "author": "미즈시마히로코 지음, 전경아 옮김",
           "pub": "",
           "millie": {
-            "t": 43,
+            "t": 40,
             "pid": "47dbbf47b22643d7",
             "ship": "",
             "audio": true,
@@ -1746,7 +1711,7 @@
           "author": "히가시노 게이고 / 김난주",
           "pub": "",
           "millie": {
-            "t": 44,
+            "t": 41,
             "pid": "e58fadd3365a4bf9",
             "ship": "",
             "audio": false,
@@ -1760,7 +1725,7 @@
           "author": "알베르 카뮈 지음 / 김화영 옮김 ",
           "pub": "",
           "millie": {
-            "t": 45,
+            "t": 42,
             "pid": "0032db4361e349a0",
             "ship": "",
             "audio": false,
@@ -1774,7 +1739,7 @@
           "author": "김애란",
           "pub": "",
           "millie": {
-            "t": 46,
+            "t": 43,
             "pid": "4e19a19b257f4eef",
             "ship": "",
             "audio": false,
@@ -1788,7 +1753,7 @@
           "author": "수풀림",
           "pub": "",
           "millie": {
-            "t": 47,
+            "t": 44,
             "pid": "b387e7f30c864e3a",
             "ship": "",
             "audio": false,
@@ -1802,7 +1767,7 @@
           "author": "김수현(훈글)",
           "pub": "",
           "millie": {
-            "t": 48,
+            "t": 45,
             "pid": "bc89a2615c8942e6",
             "ship": "",
             "audio": false,
@@ -1816,7 +1781,7 @@
           "author": "미디어Q 편집부",
           "pub": "",
           "millie": {
-            "t": 49,
+            "t": 46,
             "pid": "b0ae765672f34238",
             "ship": "",
             "audio": true,
@@ -1830,13 +1795,41 @@
           "author": "우케쓰",
           "pub": "",
           "millie": {
-            "t": 50,
+            "t": 47,
             "pid": "3f7e0b5c0c254e11",
             "ship": "",
             "audio": false,
             "p": null
           },
           "hkey": "이상한집"
+        },
+        {
+          "isbn": "데미안",
+          "title": "데미안",
+          "author": "헤르만 헤세 지음 / 전영애 옮김",
+          "pub": "",
+          "millie": {
+            "t": 49,
+            "pid": "21b5262b146840fc",
+            "ship": "",
+            "audio": false,
+            "p": 45
+          },
+          "hkey": "데미안"
+        },
+        {
+          "isbn": "니체의초월자",
+          "title": "니체의 초월자",
+          "author": "프리드리히 니체 지음 / 김철 옮김",
+          "pub": "",
+          "millie": {
+            "t": 50,
+            "pid": "ee0a8a960d254e62",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "니체의초월자"
         }
       ]
     }
