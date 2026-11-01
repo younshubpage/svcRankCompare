@@ -213,7 +213,7 @@
             "p": 17
           },
           "millie": {
-            "t": 31,
+            "t": 27,
             "pid": "4b8ed3685d654e02",
             "ship": "",
             "audio": false,
@@ -318,7 +318,7 @@
             "p": 26
           },
           "millie": {
-            "t": 36,
+            "t": 30,
             "pid": "c2cdcb8db2a442cf",
             "ship": "",
             "audio": false,
@@ -339,7 +339,7 @@
             "p": 28
           },
           "millie": {
-            "t": 17,
+            "t": 15,
             "pid": "c30629db9f3a4f65",
             "ship": "",
             "audio": false,
@@ -1207,7 +1207,7 @@
             "p": 14
           },
           "millie": {
-            "t": 33,
+            "t": 28,
             "pid": "d598edbe92f44e04",
             "ship": "",
             "audio": false,
@@ -1230,26 +1230,12 @@
           "hkey": "목욕탕도감"
         },
         {
-          "isbn": "운의그릇",
-          "title": "운의 그릇",
-          "author": "사토 후미아키 지음 / 김윤경 옮김",
-          "pub": "다산북스",
-          "millie": {
-            "t": 1,
-            "pid": "3f2f2afa1bcb42df",
-            "ship": "",
-            "audio": false,
-            "p": 2
-          },
-          "hkey": "운의그릇"
-        },
-        {
           "isbn": "강풍에도쓰러지지않는다",
           "title": "강풍에도 쓰러지지 않는다",
           "author": "모옌 지음 / 허유영 옮김",
           "pub": "필로틱",
           "millie": {
-            "t": 2,
+            "t": 1,
             "pid": "ffc44c6e55704aa9",
             "ship": "",
             "audio": false,
@@ -1263,13 +1249,27 @@
           "author": "조하나",
           "pub": "밀리의서재",
           "millie": {
-            "t": 3,
+            "t": 2,
             "pid": "5f92cc748f514ed4",
             "ship": "",
             "audio": false,
             "p": 3
           },
           "hkey": "마이리틀아일랜드"
+        },
+        {
+          "isbn": "운의그릇",
+          "title": "운의 그릇",
+          "author": "사토 후미아키 지음 / 김윤경 옮김",
+          "pub": "다산북스",
+          "millie": {
+            "t": 3,
+            "pid": "3f2f2afa1bcb42df",
+            "ship": "",
+            "audio": false,
+            "p": 2
+          },
+          "hkey": "운의그릇"
         },
         {
           "isbn": "눈물을마시는새1",
@@ -1300,32 +1300,32 @@
           "hkey": "완벽한청소"
         },
         {
-          "isbn": "유리멘탈을위한심리책",
-          "title": "유리멘탈을 위한 심리책",
-          "author": "미즈시마히로코 지음, 전경아 옮김",
-          "pub": "갤리온",
-          "millie": {
-            "t": 8,
-            "pid": "e78c8186280c42e5",
-            "ship": "",
-            "audio": false,
-            "p": 5
-          },
-          "hkey": "유리멘탈을위한심리책"
-        },
-        {
           "isbn": "머니트렌드2027",
           "title": "머니 트렌드 2027",
           "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
           "pub": "북모먼트",
           "millie": {
-            "t": 9,
+            "t": 8,
             "pid": "cbd286c76d13471c",
             "ship": "",
             "audio": false,
             "p": 11
           },
           "hkey": "머니트렌드2027"
+        },
+        {
+          "isbn": "유리멘탈을위한심리책",
+          "title": "유리멘탈을 위한 심리책",
+          "author": "미즈시마히로코 지음, 전경아 옮김",
+          "pub": "갤리온",
+          "millie": {
+            "t": 9,
+            "pid": "e78c8186280c42e5",
+            "ship": "",
+            "audio": false,
+            "p": 5
+          },
+          "hkey": "유리멘탈을위한심리책"
         },
         {
           "isbn": "당신인생의이야기",
@@ -1356,12 +1356,26 @@
           "hkey": "거짓말주의보__audio"
         },
         {
+          "isbn": "대화할때필요한최소한의상식인간관계__audio",
+          "title": "대화할 때 필요한 최소한의 상식 - 인간관계",
+          "author": "오원재",
+          "pub": "미노바",
+          "millie": {
+            "t": 12,
+            "pid": "6f9b0d6dc1e945d4",
+            "ship": "",
+            "audio": true,
+            "p": 12
+          },
+          "hkey": "대화할때필요한최소한의상식인간관계__audio"
+        },
+        {
           "isbn": "빵충사육준수사항__audio",
           "title": "빵충 사육 준수 사항",
           "author": "김혜영",
           "pub": "안전가옥",
           "millie": {
-            "t": 12,
+            "t": 13,
             "pid": "ed16c3ec59d747ce",
             "ship": "",
             "audio": true,
@@ -1375,41 +1389,13 @@
           "author": "성해나",
           "pub": "창비",
           "millie": {
-            "t": 13,
+            "t": 14,
             "pid": "ee335c0dbe4c4d92",
             "ship": "",
             "audio": false,
             "p": 15
           },
           "hkey": "혼모노"
-        },
-        {
-          "isbn": "대화할때필요한최소한의상식인간관계__audio",
-          "title": "대화할 때 필요한 최소한의 상식 - 인간관계",
-          "author": "오원재",
-          "pub": "미노바",
-          "millie": {
-            "t": 14,
-            "pid": "6f9b0d6dc1e945d4",
-            "ship": "",
-            "audio": true,
-            "p": 12
-          },
-          "hkey": "대화할때필요한최소한의상식인간관계__audio"
-        },
-        {
-          "isbn": "기기묘묘부동산__audio",
-          "title": "기기묘묘 부동산",
-          "author": "박혜연",
-          "pub": "다산책방",
-          "millie": {
-            "t": 15,
-            "pid": "240aa9012d0d4f6a",
-            "ship": "",
-            "audio": true,
-            "p": 13
-          },
-          "hkey": "기기묘묘부동산__audio"
         },
         {
           "isbn": "자연의것들은그저자란다__audio",
@@ -1426,6 +1412,20 @@
           "hkey": "자연의것들은그저자란다__audio"
         },
         {
+          "isbn": "기기묘묘부동산__audio",
+          "title": "기기묘묘 부동산",
+          "author": "박혜연",
+          "pub": "다산책방",
+          "millie": {
+            "t": 17,
+            "pid": "240aa9012d0d4f6a",
+            "ship": "",
+            "audio": true,
+            "p": 13
+          },
+          "hkey": "기기묘묘부동산__audio"
+        },
+        {
           "isbn": "용의자x의헌신",
           "title": "용의자 X의 헌신",
           "author": "히가시노 게이고 지음 / 양억관 옮김",
@@ -1440,32 +1440,32 @@
           "hkey": "용의자x의헌신"
         },
         {
-          "isbn": "트렌드코리아2027",
-          "title": "트렌드 코리아 2027",
-          "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
-          "pub": "미래의창",
-          "millie": {
-            "t": 19,
-            "pid": "3c6a6202ffc142a6",
-            "ship": "",
-            "audio": false,
-            "p": 20
-          },
-          "hkey": "트렌드코리아2027"
-        },
-        {
           "isbn": "눈물을마시는새1__audio",
           "title": "눈물을 마시는 새 1",
           "author": "이영도",
           "pub": "황금가지",
           "millie": {
-            "t": 20,
+            "t": 19,
             "pid": "ae789eb411374d32",
             "ship": "",
             "audio": true,
             "p": 16
           },
           "hkey": "눈물을마시는새1__audio"
+        },
+        {
+          "isbn": "트렌드코리아2027",
+          "title": "트렌드 코리아 2027",
+          "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
+          "pub": "미래의창",
+          "millie": {
+            "t": 20,
+            "pid": "3c6a6202ffc142a6",
+            "ship": "",
+            "audio": false,
+            "p": 20
+          },
+          "hkey": "트렌드코리아2027"
         },
         {
           "isbn": "쇼펜하우어인생수업한번뿐인삶이렇게살아라",
@@ -1496,26 +1496,12 @@
           "hkey": "사람을고치려들지마라"
         },
         {
-          "isbn": "우리가카드를긁는곳",
-          "title": "우리가 카드를 긁는 곳",
-          "author": "이재흔, 한국신용데이터(KCD)",
-          "pub": "",
-          "millie": {
-            "t": 23,
-            "pid": "f94afc0532414f07",
-            "ship": "",
-            "audio": false,
-            "p": 21
-          },
-          "hkey": "우리가카드를긁는곳"
-        },
-        {
           "isbn": "페이백__audio",
           "title": "페이백",
           "author": "민도연",
           "pub": "",
           "millie": {
-            "t": 24,
+            "t": 23,
             "pid": "b972494475844b68",
             "ship": "",
             "audio": true,
@@ -1524,40 +1510,12 @@
           "hkey": "페이백__audio"
         },
         {
-          "isbn": "아름다웠던사람의이름은혼자",
-          "title": "아름다웠던 사람의 이름은 혼자",
-          "author": "이현호",
-          "pub": "",
-          "millie": {
-            "t": 25,
-            "pid": "67af3b10847443ae",
-            "ship": "",
-            "audio": false,
-            "p": 26
-          },
-          "hkey": "아름다웠던사람의이름은혼자"
-        },
-        {
-          "isbn": "전업자녀입니다만",
-          "title": "전업자녀입니다만,",
-          "author": "김현수",
-          "pub": "",
-          "millie": {
-            "t": 26,
-            "pid": "006d25801a0242ef",
-            "ship": "",
-            "audio": false,
-            "p": 27
-          },
-          "hkey": "전업자녀입니다만"
-        },
-        {
           "isbn": "홍학의자리",
           "title": "홍학의 자리",
           "author": "정해연",
           "pub": "",
           "millie": {
-            "t": 27,
+            "t": 24,
             "pid": "806508b09ed74322",
             "ship": "",
             "audio": false,
@@ -1566,26 +1524,12 @@
           "hkey": "홍학의자리"
         },
         {
-          "isbn": "조용히이기는말투의기술__audio",
-          "title": "조용히 이기는 말투의 기술",
-          "author": "김범준",
-          "pub": "",
-          "millie": {
-            "t": 28,
-            "pid": "0296fb2e7c564b89",
-            "ship": "",
-            "audio": true,
-            "p": 30
-          },
-          "hkey": "조용히이기는말투의기술__audio"
-        },
-        {
           "isbn": "아주작은습관의힘",
           "title": "아주 작은 습관의 힘",
           "author": "제임스 클리어 지음 / 이한이 옮김 ",
           "pub": "",
           "millie": {
-            "t": 29,
+            "t": 25,
             "pid": "d41f1da7fa0b4680",
             "ship": "",
             "audio": false,
@@ -1599,7 +1543,7 @@
           "author": "헤르만 헤세 지음 / 박병덕 옮김 ",
           "pub": "",
           "millie": {
-            "t": 30,
+            "t": 26,
             "pid": "a4a3d7846b3d4bea",
             "ship": "",
             "audio": true,
@@ -1608,26 +1552,12 @@
           "hkey": "싯다르타__audio"
         },
         {
-          "isbn": "기기묘묘부동산",
-          "title": "기기묘묘 부동산",
-          "author": "박혜연",
-          "pub": "",
-          "millie": {
-            "t": 32,
-            "pid": "3451176a95bc4edd",
-            "ship": "",
-            "audio": false,
-            "p": 34
-          },
-          "hkey": "기기묘묘부동산"
-        },
-        {
           "isbn": "감당못할전학생__audio",
           "title": "감당 못 할 전학생",
           "author": "심순 지음 / 하수정 그림",
           "pub": "",
           "millie": {
-            "t": 34,
+            "t": 29,
             "pid": "fe5209b6f2154ab4",
             "ship": "",
             "audio": true,
@@ -1636,26 +1566,12 @@
           "hkey": "감당못할전학생__audio"
         },
         {
-          "isbn": "조용히이기는말투의기술",
-          "title": "조용히 이기는 말투의 기술",
-          "author": "김범준",
-          "pub": "",
-          "millie": {
-            "t": 35,
-            "pid": "57b1e47e2db345be",
-            "ship": "",
-            "audio": false,
-            "p": 35
-          },
-          "hkey": "조용히이기는말투의기술"
-        },
-        {
           "isbn": "이방인",
           "title": "이방인",
           "author": "알베르 카뮈 지음 / 김화영 옮김 ",
           "pub": "",
           "millie": {
-            "t": 37,
+            "t": 31,
             "pid": "0032db4361e349a0",
             "ship": "",
             "audio": false,
@@ -1664,32 +1580,18 @@
           "hkey": "이방인"
         },
         {
-          "isbn": "온기로부터__audio",
-          "title": "온기로부터",
-          "author": "류현재",
+          "isbn": "데미안",
+          "title": "데미안",
+          "author": "헤르만 헤세 지음 / 전영애 옮김",
           "pub": "",
           "millie": {
-            "t": 38,
-            "pid": "870f7aabb8124eb5",
+            "t": 32,
+            "pid": "21b5262b146840fc",
             "ship": "",
-            "audio": true,
-            "p": 37
+            "audio": false,
+            "p": 49
           },
-          "hkey": "온기로부터__audio"
-        },
-        {
-          "isbn": "프로젝트헤일메리__audio",
-          "title": "프로젝트 헤일메리",
-          "author": "앤디 위어",
-          "pub": "",
-          "millie": {
-            "t": 39,
-            "pid": "15924be3ab024184",
-            "ship": "",
-            "audio": true,
-            "p": null
-          },
-          "hkey": "프로젝트헤일메리__audio"
+          "hkey": "데미안"
         },
         {
           "isbn": "가면산장살인사건",
@@ -1697,7 +1599,7 @@
           "author": "히가시노 게이고 / 김난주",
           "pub": "",
           "millie": {
-            "t": 40,
+            "t": 33,
             "pid": "e58fadd3365a4bf9",
             "ship": "",
             "audio": false,
@@ -1706,12 +1608,26 @@
           "hkey": "가면산장살인사건"
         },
         {
+          "isbn": "프로젝트헤일메리__audio",
+          "title": "프로젝트 헤일메리",
+          "author": "앤디 위어",
+          "pub": "",
+          "millie": {
+            "t": 34,
+            "pid": "15924be3ab024184",
+            "ship": "",
+            "audio": true,
+            "p": null
+          },
+          "hkey": "프로젝트헤일메리__audio"
+        },
+        {
           "isbn": "안녕이라그랬어",
           "title": "안녕이라 그랬어",
           "author": "김애란",
           "pub": "",
           "millie": {
-            "t": 41,
+            "t": 35,
             "pid": "4e19a19b257f4eef",
             "ship": "",
             "audio": false,
@@ -1725,7 +1641,7 @@
           "author": "미디어Q 편집부",
           "pub": "",
           "millie": {
-            "t": 42,
+            "t": 36,
             "pid": "b0ae765672f34238",
             "ship": "",
             "audio": true,
@@ -1739,7 +1655,7 @@
           "author": "김수현(훈글)",
           "pub": "",
           "millie": {
-            "t": 43,
+            "t": 37,
             "pid": "bc89a2615c8942e6",
             "ship": "",
             "audio": false,
@@ -1748,12 +1664,40 @@
           "hkey": "기분이태도가되지말자30만부기념최신개정판"
         },
         {
+          "isbn": "조용히이기는말투의기술",
+          "title": "조용히 이기는 말투의 기술",
+          "author": "김범준",
+          "pub": "",
+          "millie": {
+            "t": 38,
+            "pid": "57b1e47e2db345be",
+            "ship": "",
+            "audio": false,
+            "p": 35
+          },
+          "hkey": "조용히이기는말투의기술"
+        },
+        {
+          "isbn": "기기묘묘부동산",
+          "title": "기기묘묘 부동산",
+          "author": "박혜연",
+          "pub": "",
+          "millie": {
+            "t": 39,
+            "pid": "3451176a95bc4edd",
+            "ship": "",
+            "audio": false,
+            "p": 34
+          },
+          "hkey": "기기묘묘부동산"
+        },
+        {
           "isbn": "다크심리학미국원조한정판에디션",
           "title": "다크 심리학 : (미국 원조 한정판 에디션)",
           "author": "다크 심리학",
           "pub": "",
           "millie": {
-            "t": 44,
+            "t": 40,
             "pid": "b4022641d6b74171",
             "ship": "",
             "audio": false,
@@ -1762,12 +1706,26 @@
           "hkey": "다크심리학미국원조한정판에디션"
         },
         {
+          "isbn": "조용히이기는말투의기술__audio",
+          "title": "조용히 이기는 말투의 기술",
+          "author": "김범준",
+          "pub": "",
+          "millie": {
+            "t": 41,
+            "pid": "0296fb2e7c564b89",
+            "ship": "",
+            "audio": true,
+            "p": 30
+          },
+          "hkey": "조용히이기는말투의기술__audio"
+        },
+        {
           "isbn": "쪼개기법칙",
           "title": "쪼개기 법칙",
           "author": "허규형",
           "pub": "",
           "millie": {
-            "t": 45,
+            "t": 42,
             "pid": "ddb548774b8640fd",
             "ship": "",
             "audio": false,
@@ -1781,7 +1739,7 @@
           "author": "히가시노게이고 지음, 권남희 옮김",
           "pub": "",
           "millie": {
-            "t": 46,
+            "t": 43,
             "pid": "35b7492d3f934764",
             "ship": "",
             "audio": false,
@@ -1795,7 +1753,7 @@
           "author": "에리히 프롬 지음 / 강주헌 옮김",
           "pub": "",
           "millie": {
-            "t": 47,
+            "t": 44,
             "pid": "eb878ff9c91b416a",
             "ship": "",
             "audio": false,
@@ -1804,18 +1762,18 @@
           "hkey": "사랑의기술"
         },
         {
-          "isbn": "이상한집",
-          "title": "이상한 집",
-          "author": "우케쓰",
+          "isbn": "우리가카드를긁는곳",
+          "title": "우리가 카드를 긁는 곳",
+          "author": "이재흔, 한국신용데이터(KCD)",
           "pub": "",
           "millie": {
-            "t": 48,
-            "pid": "3f7e0b5c0c254e11",
+            "t": 45,
+            "pid": "f94afc0532414f07",
             "ship": "",
             "audio": false,
-            "p": 47
+            "p": 21
           },
-          "hkey": "이상한집"
+          "hkey": "우리가카드를긁는곳"
         },
         {
           "isbn": "꾸준함을기르는일",
@@ -1823,7 +1781,7 @@
           "author": "수풀림",
           "pub": "",
           "millie": {
-            "t": 49,
+            "t": 46,
             "pid": "b387e7f30c864e3a",
             "ship": "",
             "audio": false,
@@ -1832,18 +1790,60 @@
           "hkey": "꾸준함을기르는일"
         },
         {
-          "isbn": "데미안",
-          "title": "데미안",
-          "author": "헤르만 헤세 지음 / 전영애 옮김",
+          "isbn": "나미야잡화점의기적",
+          "title": "나미야 잡화점의 기적",
+          "author": "히가시노 게이고 지음 / 양윤옥 옮김",
+          "pub": "",
+          "millie": {
+            "t": 47,
+            "pid": "73315e3e05784065",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "나미야잡화점의기적"
+        },
+        {
+          "isbn": "총균쇠",
+          "title": "총 균 쇠",
+          "author": "재레드 다이아몬드 지음 / 강주헌 옮김",
+          "pub": "",
+          "millie": {
+            "t": 48,
+            "pid": "f597af3b22f74426",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "총균쇠"
+        },
+        {
+          "isbn": "운의그릇__audio",
+          "title": "운의 그릇",
+          "author": "사토 후미아키 지음 / 김윤경 옮김",
+          "pub": "",
+          "millie": {
+            "t": 49,
+            "pid": "b334c8b78c0d4347",
+            "ship": "",
+            "audio": true,
+            "p": 25
+          },
+          "hkey": "운의그릇__audio"
+        },
+        {
+          "isbn": "우리는가장밝은밤에헤어졌다",
+          "title": "우리는 가장 밝은 밤에 헤어졌다",
+          "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
           "pub": "",
           "millie": {
             "t": 50,
-            "pid": "21b5262b146840fc",
+            "pid": "df98d8a01f534c1f",
             "ship": "",
             "audio": false,
-            "p": 49
+            "p": null
           },
-          "hkey": "데미안"
+          "hkey": "우리는가장밝은밤에헤어졌다"
         }
       ]
     }
