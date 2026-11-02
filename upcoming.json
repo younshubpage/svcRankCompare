@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T11:37:44.055674+09:00",
+  "updated": "2026-11-03T08:09:15.675679+09:00",
   "count": 41,
   "books": [
     {
@@ -8,26 +8,6 @@
       "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
       "cover": "https://image.millie.co.kr/service/cover/180184766/753d00bb80aa401fbe31774da00efbcb.jpg",
       "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "50af765377294779",
-      "title": "큐레이터",
-      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183669/b3705704100a4813947b5dca01c816d4.jpg",
-      "open_date": "2026-11-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "d90340986559453e",
-      "title": "찌니주의보",
-      "author": "정지아",
-      "cover": "https://image.millie.co.kr/service/cover/180185385/c65b5b3b91594c349c435c284cbbc582.jpg",
-      "open_date": "2026-12-01",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -43,11 +23,11 @@
       "is_comic": false
     },
     {
-      "id": "888325638273476b",
-      "title": "에이전트 워크플로우",
-      "author": "로사장(김다솔)",
-      "cover": "https://image.millie.co.kr/service/cover/180184922/778ccd7f7d9645bf93e44eeccf2bab9c.jpg",
-      "open_date": "2026-11-04",
+      "id": "d90340986559453e",
+      "title": "찌니주의보",
+      "author": "정지아",
+      "cover": "https://image.millie.co.kr/service/cover/180185385/c65b5b3b91594c349c435c284cbbc582.jpg",
+      "open_date": "2026-12-01",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -59,6 +39,16 @@
       "cover": "https://image.millie.co.kr/service/cover/180183517/221a929ebd184701875a23651a7e69d8.jpg",
       "open_date": "2026-11-23",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "888325638273476b",
+      "title": "에이전트 워크플로우",
+      "author": "로사장(김다솔)",
+      "cover": "https://image.millie.co.kr/service/cover/180184922/778ccd7f7d9645bf93e44eeccf2bab9c.jpg",
+      "open_date": "2026-11-04",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -98,26 +88,6 @@
       "author": "낮잠",
       "cover": "https://image.millie.co.kr/service/cover/180184345/775f2ef584ef4c9489db7cb84d9f2e47.jpg",
       "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "a7f70477ce3b42c5",
-      "title": "퍼핏 쇼",
-      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183661/95fdf987cbca4c1ca764360a64515de6.jpg",
-      "open_date": "2026-11-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "5b1e85323a04443c",
-      "title": "블랙 서머",
-      "author": "M. W. 크레이븐 지음 / 김해온 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180183667/a956fe81c00c4f55b5240920d3b00af7.jpg",
-      "open_date": "2026-11-03",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -173,16 +143,6 @@
       "is_comic": false
     },
     {
-      "id": "7fb192cc8d124580",
-      "title": "우리는 가장 밝은 밤에 헤어졌다",
-      "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180185050/1b3a304beaff498683ab8f578aa103af.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "7aa07c7484dc4a38",
       "title": "품격 있는 대화를 위한 지식 브리핑",
       "author": "김진",
@@ -193,11 +153,31 @@
       "is_comic": false
     },
     {
+      "id": "7fb192cc8d124580",
+      "title": "우리는 가장 밝은 밤에 헤어졌다",
+      "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180185050/1b3a304beaff498683ab8f578aa103af.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "c8ea3792c0e84658",
       "title": "2027 트렌드 노트",
       "author": "박현영, 김종민, 신수정, 김정구, 이원희",
       "cover": "https://image.millie.co.kr/service/cover/180183219/bf5fc76d88d64387889274539d266c78.jpg",
       "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "5ef4d30a41184d9d",
+      "title": "채달금전",
+      "author": "서귤",
+      "cover": "https://image.millie.co.kr/service/cover/180185690/b4167070700846b78d83b0ba98068b7b.jpg",
+      "open_date": "2026-11-11",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -218,16 +198,6 @@
       "author": "야마사키 게이이치 지음 / 노경아 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180185651/994cd41cc69643f7bd851dc4c64b6686.jpg",
       "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "5ef4d30a41184d9d",
-      "title": "채달금전",
-      "author": "서귤",
-      "cover": "https://image.millie.co.kr/service/cover/180185690/b4167070700846b78d83b0ba98068b7b.jpg",
-      "open_date": "2026-11-11",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -263,16 +233,6 @@
       "is_comic": false
     },
     {
-      "id": "d274c8da176b4706",
-      "title": "사람을 들추면 사랑을 들킵니다",
-      "author": "유수연",
-      "cover": "https://image.millie.co.kr/service/cover/180186029/dac2b16d9d7144c1862b596103ccf77a.jpg",
-      "open_date": "2026-11-04",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "2df4e0d5da354c3d",
       "title": "기억되는 사람은 다르게 말한다",
       "author": "백주환",
@@ -283,11 +243,11 @@
       "is_comic": false
     },
     {
-      "id": "46bd7f73a87f4617",
-      "title": "냠냠 해바라기씨",
-      "author": "보린",
-      "cover": "https://image.millie.co.kr/service/cover/180183965/8acd2a5f40e34c1aa4507cfe0521aca5.jpg",
-      "open_date": "2026-11-09",
+      "id": "d274c8da176b4706",
+      "title": "사람을 들추면 사랑을 들킵니다",
+      "author": "유수연",
+      "cover": "https://image.millie.co.kr/service/cover/180186029/dac2b16d9d7144c1862b596103ccf77a.jpg",
+      "open_date": "2026-11-04",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -307,6 +267,26 @@
       "title": "내 거야, 만지지 마!",
       "author": "정란희",
       "cover": "https://image.millie.co.kr/service/cover/180183961/5667aba6543e4feb824c53a9a7ece6e5.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "064a32a53ab049d4",
+      "title": "진심으로 백성을 사랑한 왕 세종 대왕",
+      "author": "김용란",
+      "cover": "https://image.millie.co.kr/service/cover/180183905/891349eed78c4544954da8aa58d33f39.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "46bd7f73a87f4617",
+      "title": "냠냠 해바라기씨",
+      "author": "보린",
+      "cover": "https://image.millie.co.kr/service/cover/180183965/8acd2a5f40e34c1aa4507cfe0521aca5.jpg",
       "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
@@ -333,42 +313,12 @@
       "is_comic": false
     },
     {
-      "id": "99d36764d8864044",
-      "title": "바다를 건너온 탈해왕",
-      "author": "한정영",
-      "cover": "https://image.millie.co.kr/service/cover/180183964/d7a48f5965d647ba9076bf58236e605a.jpg",
-      "open_date": "2026-11-09",
+      "id": "048bb95b32074148",
+      "title": "어린이과학동아 Vol.16 : 2026.08.15",
+      "author": "어린이과학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
+      "open_date": "2026-11-16",
       "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "bcfaa022ef4e464d",
-      "title": "공룡 박물관에서 생긴 일",
-      "author": "박보영",
-      "cover": "https://image.millie.co.kr/service/cover/180183904/e3203c816a674607881881766de6f70d.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "064a32a53ab049d4",
-      "title": "진심으로 백성을 사랑한 왕 세종 대왕",
-      "author": "김용란",
-      "cover": "https://image.millie.co.kr/service/cover/180183905/891349eed78c4544954da8aa58d33f39.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "345d311c05594007",
-      "title": "바다를 건너온 탈해왕",
-      "author": "한정영",
-      "cover": "https://image.millie.co.kr/service/cover/180183906/3a202dbf8ff54ac7946b6e244a2b6a76.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -377,6 +327,16 @@
       "title": "진심으로 백성을 사랑한 왕 세종 대왕",
       "author": "김용란",
       "cover": "https://image.millie.co.kr/service/cover/180183963/9eb50f95ac0a4dcc8926357a3a17e9dd.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "99d36764d8864044",
+      "title": "바다를 건너온 탈해왕",
+      "author": "한정영",
+      "cover": "https://image.millie.co.kr/service/cover/180183964/d7a48f5965d647ba9076bf58236e605a.jpg",
       "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
@@ -393,22 +353,62 @@
       "is_comic": false
     },
     {
-      "id": "048bb95b32074148",
-      "title": "어린이과학동아 Vol.16 : 2026.08.15",
-      "author": "어린이과학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": false,
+      "id": "bcfaa022ef4e464d",
+      "title": "공룡 박물관에서 생긴 일",
+      "author": "박보영",
+      "cover": "https://image.millie.co.kr/service/cover/180183904/e3203c816a674607881881766de6f70d.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "883afb9f46c64f04",
-      "title": "씨네21 1580호",
-      "author": "씨네21",
-      "cover": "https://image.millie.co.kr/service/cover/180185910/aeb51123619046ea860559a37a49b6ed.jpg",
-      "open_date": "2026-11-03",
-      "is_audiobook": false,
+      "id": "345d311c05594007",
+      "title": "바다를 건너온 탈해왕",
+      "author": "한정영",
+      "cover": "https://image.millie.co.kr/service/cover/180183906/3a202dbf8ff54ac7946b6e244a2b6a76.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "aa08084351504c63",
+      "title": "믿을 수 있을 만큼의 진실",
+      "author": "김유나",
+      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "823330b920074077",
+      "title": "달걀의 온기",
+      "author": "김혜진",
+      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "8c14101ee7394911",
+      "title": "4×4의 세계",
+      "author": "조우리 지음 / 노인경 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180185480/a3728fc3396c46a4a5a1c9fde5c972d8.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "88bea0211d5448f9",
+      "title": "트렌드 코리아 2027",
+      "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
+      "cover": "https://image.millie.co.kr/service/cover/180185717/5006e46432b3472a96ec127035a7ec17.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     }
