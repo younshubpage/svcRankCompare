@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T08:09:15.675679+09:00",
-  "count": 41,
+  "updated": "2026-11-03T12:57:53.910333+09:00",
+  "count": 46,
   "books": [
     {
       "id": "3c6a6202ffc142a6",
@@ -33,16 +33,6 @@
       "is_comic": false
     },
     {
-      "id": "98cab02f0f074948",
-      "title": "얼굴들",
-      "author": "이동원",
-      "cover": "https://image.millie.co.kr/service/cover/180183517/221a929ebd184701875a23651a7e69d8.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "888325638273476b",
       "title": "에이전트 워크플로우",
       "author": "로사장(김다솔)",
@@ -58,6 +48,16 @@
       "author": "박재연",
       "cover": "https://image.millie.co.kr/service/cover/180172783/e9ed2b4dda324f458b8b5b500135f38a.jpg",
       "open_date": "2026-11-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "98cab02f0f074948",
+      "title": "얼굴들",
+      "author": "이동원",
+      "cover": "https://image.millie.co.kr/service/cover/180183517/221a929ebd184701875a23651a7e69d8.jpg",
+      "open_date": "2026-11-23",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -173,6 +173,26 @@
       "is_comic": false
     },
     {
+      "id": "5d8f466ea49d4642",
+      "title": "살아 있는 동안에",
+      "author": "정혜윤",
+      "cover": "https://image.millie.co.kr/service/cover/180185853/80fa9bb45fcb49d8811c052080afbd22.jpg",
+      "open_date": "2026-11-11",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "1283a92195fa4e4d",
+      "title": "지도는 답을 알고 있다",
+      "author": "야마사키 게이이치 지음 / 노경아 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180185651/994cd41cc69643f7bd851dc4c64b6686.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "5ef4d30a41184d9d",
       "title": "채달금전",
       "author": "서귤",
@@ -193,11 +213,11 @@
       "is_comic": false
     },
     {
-      "id": "1283a92195fa4e4d",
-      "title": "지도는 답을 알고 있다",
-      "author": "야마사키 게이이치 지음 / 노경아 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180185651/994cd41cc69643f7bd851dc4c64b6686.jpg",
-      "open_date": "2026-11-09",
+      "id": "b33ed50278254be6",
+      "title": "나는 나를 육각형으로 디자인하기로 했다",
+      "author": "박희선",
+      "cover": "https://image.millie.co.kr/service/cover/180185721/b3558064d47645219cda11780504b446.jpg",
+      "open_date": "2026-11-15",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -213,32 +233,22 @@
       "is_comic": false
     },
     {
-      "id": "b33ed50278254be6",
-      "title": "나는 나를 육각형으로 디자인하기로 했다",
-      "author": "박희선",
-      "cover": "https://image.millie.co.kr/service/cover/180185721/b3558064d47645219cda11780504b446.jpg",
-      "open_date": "2026-11-15",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "5d8f466ea49d4642",
-      "title": "살아 있는 동안에",
-      "author": "정혜윤",
-      "cover": "https://image.millie.co.kr/service/cover/180185853/80fa9bb45fcb49d8811c052080afbd22.jpg",
-      "open_date": "2026-11-11",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "2df4e0d5da354c3d",
       "title": "기억되는 사람은 다르게 말한다",
       "author": "백주환",
       "cover": "https://image.millie.co.kr/service/cover/180185758/7a5f7f1af59a49ba8c2bc8acc0cb7f54.jpg",
       "open_date": "2026-11-13",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "88bea0211d5448f9",
+      "title": "트렌드 코리아 2027",
+      "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
+      "cover": "https://image.millie.co.kr/service/cover/180185717/5006e46432b3472a96ec127035a7ec17.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -253,12 +263,22 @@
       "is_comic": false
     },
     {
-      "id": "d8bd044c52374b09",
-      "title": "공룡 박물관에서 생긴 일",
-      "author": "박보영",
-      "cover": "https://image.millie.co.kr/service/cover/180183962/69edaac2b872451686264a0797976ad6.jpg",
-      "open_date": "2026-11-09",
+      "id": "048bb95b32074148",
+      "title": "어린이과학동아 Vol.16 : 2026.08.15",
+      "author": "어린이과학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
+      "open_date": "2026-11-16",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "823330b920074077",
+      "title": "달걀의 온기",
+      "author": "김혜진",
+      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -273,31 +293,11 @@
       "is_comic": false
     },
     {
-      "id": "064a32a53ab049d4",
-      "title": "진심으로 백성을 사랑한 왕 세종 대왕",
-      "author": "김용란",
-      "cover": "https://image.millie.co.kr/service/cover/180183905/891349eed78c4544954da8aa58d33f39.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "46bd7f73a87f4617",
-      "title": "냠냠 해바라기씨",
-      "author": "보린",
-      "cover": "https://image.millie.co.kr/service/cover/180183965/8acd2a5f40e34c1aa4507cfe0521aca5.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "8fdbf76717a94f06",
-      "title": "냠냠 해바라기씨",
-      "author": "보린",
-      "cover": "https://image.millie.co.kr/service/cover/180183907/5664cb7104df4a66a6b0213f04f65ecf.jpg",
-      "open_date": "2026-11-09",
+      "id": "aa08084351504c63",
+      "title": "믿을 수 있을 만큼의 진실",
+      "author": "김유나",
+      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
+      "open_date": "2026-12-07",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -313,11 +313,51 @@
       "is_comic": false
     },
     {
-      "id": "048bb95b32074148",
-      "title": "어린이과학동아 Vol.16 : 2026.08.15",
-      "author": "어린이과학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
+      "id": "064a32a53ab049d4",
+      "title": "진심으로 백성을 사랑한 왕 세종 대왕",
+      "author": "김용란",
+      "cover": "https://image.millie.co.kr/service/cover/180183905/891349eed78c4544954da8aa58d33f39.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "464ce10057cf4a0a",
+      "title": "어린이수학동아 Vol.16 : 2026.08.15",
+      "author": "어린이수학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185222/62afb8621ccb406e984803599fa2281f.jpg",
       "open_date": "2026-11-16",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "8fdbf76717a94f06",
+      "title": "냠냠 해바라기씨",
+      "author": "보린",
+      "cover": "https://image.millie.co.kr/service/cover/180183907/5664cb7104df4a66a6b0213f04f65ecf.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "d8bd044c52374b09",
+      "title": "공룡 박물관에서 생긴 일",
+      "author": "박보영",
+      "cover": "https://image.millie.co.kr/service/cover/180183962/69edaac2b872451686264a0797976ad6.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "46bd7f73a87f4617",
+      "title": "냠냠 해바라기씨",
+      "author": "보린",
+      "cover": "https://image.millie.co.kr/service/cover/180183965/8acd2a5f40e34c1aa4507cfe0521aca5.jpg",
+      "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -343,26 +383,6 @@
       "is_comic": false
     },
     {
-      "id": "464ce10057cf4a0a",
-      "title": "어린이수학동아 Vol.16 : 2026.08.15",
-      "author": "어린이수학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185222/62afb8621ccb406e984803599fa2281f.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "bcfaa022ef4e464d",
-      "title": "공룡 박물관에서 생긴 일",
-      "author": "박보영",
-      "cover": "https://image.millie.co.kr/service/cover/180183904/e3203c816a674607881881766de6f70d.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "345d311c05594007",
       "title": "바다를 건너온 탈해왕",
       "author": "한정영",
@@ -373,21 +393,11 @@
       "is_comic": false
     },
     {
-      "id": "aa08084351504c63",
-      "title": "믿을 수 있을 만큼의 진실",
-      "author": "김유나",
-      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "823330b920074077",
-      "title": "달걀의 온기",
-      "author": "김혜진",
-      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
-      "open_date": "2026-12-07",
+      "id": "bcfaa022ef4e464d",
+      "title": "공룡 박물관에서 생긴 일",
+      "author": "박보영",
+      "cover": "https://image.millie.co.kr/service/cover/180183904/e3203c816a674607881881766de6f70d.jpg",
+      "open_date": "2026-11-09",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -403,12 +413,52 @@
       "is_comic": false
     },
     {
-      "id": "88bea0211d5448f9",
-      "title": "트렌드 코리아 2027",
-      "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
-      "cover": "https://image.millie.co.kr/service/cover/180185717/5006e46432b3472a96ec127035a7ec17.jpg",
+      "id": "3561521c1e9c42dd",
+      "title": "최재붕의 AI 트렌드 2027",
+      "author": "최재붕",
+      "cover": "https://image.millie.co.kr/service/cover/180181837/ae2a2191655c4ce588a544da0a2cfc26.jpg",
       "open_date": "2026-11-09",
-      "is_audiobook": true,
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "096726ef5de84bf3",
+      "title": "주식의 시대",
+      "author": "EBS 다큐프라임 〈주식의 시대〉 제작진",
+      "cover": "https://image.millie.co.kr/service/cover/180175770/f6fafa98318d4b33899a8dddff3fff45.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "92e6b8ea150a4eea",
+      "title": "픽사 스토리텔링",
+      "author": "매튜 룬 지음 / 박여진 옮김",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179557949/c32a79d279ed41daaf149a6e6035fd98.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "0df08b73d30b421c",
+      "title": "부의 인문학(20만부 기념 개정증보판)",
+      "author": "우석(브라운스톤)",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179471835/7679c7b73d184952aefaac6ab12bce37.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "5109a86de4d34a06",
+      "title": "2027 트렌드 노트",
+      "author": "박현영, 김종민, 신수정, 김정구, 이원희",
+      "cover": "https://image.millie.co.kr/service/cover/180183219/bf5fc76d88d64387889274539d266c78.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     }
