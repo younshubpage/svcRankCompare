@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T08:09:36.456916+09:00",
-  "count": 52,
+  "updated": "2026-11-06T12:30:24.469774+09:00",
+  "count": 53,
   "books": [
     {
       "id": "1fddd4dd6d584861",
@@ -293,22 +293,22 @@
       "is_comic": false
     },
     {
-      "id": "0df08b73d30b421c",
-      "title": "부의 인문학(20만부 기념 개정증보판)",
-      "author": "우석(브라운스톤)",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179471835/7679c7b73d184952aefaac6ab12bce37.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "aa08084351504c63",
       "title": "믿을 수 있을 만큼의 진실",
       "author": "김유나",
       "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "0df08b73d30b421c",
+      "title": "부의 인문학(20만부 기념 개정증보판)",
+      "author": "우석(브라운스톤)",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179471835/7679c7b73d184952aefaac6ab12bce37.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -323,22 +323,22 @@
       "is_comic": false
     },
     {
-      "id": "cbaaf4af37874197",
-      "title": "안개 속 달빛서점",
-      "author": "낮잠",
-      "cover": "https://image.millie.co.kr/service/cover/180184917/57a1eaea747244beade9be079faac132.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "92e6b8ea150a4eea",
       "title": "픽사 스토리텔링",
       "author": "매튜 룬 지음 / 박여진 옮김",
       "cover": "https://img.millie.co.kr/200x/service/cover/179557949/c32a79d279ed41daaf149a6e6035fd98.jpg",
       "open_date": "2026-11-09",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "cbaaf4af37874197",
+      "title": "안개 속 달빛서점",
+      "author": "낮잠",
+      "cover": "https://image.millie.co.kr/service/cover/180184917/57a1eaea747244beade9be079faac132.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -393,6 +393,16 @@
       "is_comic": false
     },
     {
+      "id": "071d2274b48e4ae8",
+      "title": "트렌드 코리아 2027",
+      "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
+      "cover": "https://image.millie.co.kr/service/cover/180184766/753d00bb80aa401fbe31774da00efbcb.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "3ffc350fb6bc4242",
       "title": "내 거야, 만지지 마!",
       "author": "정란희",
@@ -433,16 +443,6 @@
       "is_comic": false
     },
     {
-      "id": "d8bd044c52374b09",
-      "title": "공룡 박물관에서 생긴 일",
-      "author": "박보영",
-      "cover": "https://image.millie.co.kr/service/cover/180183962/69edaac2b872451686264a0797976ad6.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "8fdbf76717a94f06",
       "title": "냠냠 해바라기씨",
       "author": "보린",
@@ -453,10 +453,10 @@
       "is_comic": false
     },
     {
-      "id": "579373d116a04e76",
-      "title": "내가 돈을 벌고 있다는 착각",
-      "author": "commonD",
-      "cover": "https://image.millie.co.kr/service/cover/180151505/5d4add1e97e445e78e1fcda85a62d3e1.jpg",
+      "id": "d8bd044c52374b09",
+      "title": "공룡 박물관에서 생긴 일",
+      "author": "박보영",
+      "cover": "https://image.millie.co.kr/service/cover/180183962/69edaac2b872451686264a0797976ad6.jpg",
       "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
@@ -473,10 +473,10 @@
       "is_comic": false
     },
     {
-      "id": "071d2274b48e4ae8",
-      "title": "트렌드 코리아 2027",
-      "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
-      "cover": "https://image.millie.co.kr/service/cover/180184766/753d00bb80aa401fbe31774da00efbcb.jpg",
+      "id": "579373d116a04e76",
+      "title": "내가 돈을 벌고 있다는 착각",
+      "author": "commonD",
+      "cover": "https://image.millie.co.kr/service/cover/180151505/5d4add1e97e445e78e1fcda85a62d3e1.jpg",
       "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
@@ -503,6 +503,16 @@
       "is_comic": false
     },
     {
+      "id": "a1f8111745404313",
+      "title": "뇌는 어떻게 나를 조종하는가",
+      "author": "크리스 나이바우어 지음 / 김윤종 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180137197/329e825c8477490fac310c46ac83743c.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "b0a0766059ce4425",
       "title": "머니 트렌드 2027",
       "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
@@ -513,11 +523,11 @@
       "is_comic": false
     },
     {
-      "id": "a1f8111745404313",
-      "title": "뇌는 어떻게 나를 조종하는가",
-      "author": "크리스 나이바우어 지음 / 김윤종 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180137197/329e825c8477490fac310c46ac83743c.jpg",
-      "open_date": "2026-11-09",
+      "id": "d55151715e0543e6",
+      "title": "톱클래스 2026.11",
+      "author": "톱클래스 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185481/0efebe522688486e8eb4cf3175cb48f6.jpg",
+      "open_date": "2026-11-07",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
