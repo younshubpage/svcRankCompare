@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T11:57:30.059055+09:00",
-  "count": 67,
+  "updated": "2026-11-08T08:07:58.694337+09:00",
+  "count": 66,
   "books": [
     {
       "id": "1fddd4dd6d584861",
@@ -133,11 +133,11 @@
       "is_comic": false
     },
     {
-      "id": "39248e39d909451b",
-      "title": "융의 영혼의 지도",
-      "author": "머리 스타인 지음 / 김창한 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180184824/ae12f94a61094ce39693cc06b5315f28.jpg",
-      "open_date": "2026-11-08",
+      "id": "c8ea3792c0e84658",
+      "title": "2027 트렌드 노트",
+      "author": "박현영, 김종민, 신수정, 김정구, 이원희",
+      "cover": "https://image.millie.co.kr/service/cover/180183219/bf5fc76d88d64387889274539d266c78.jpg",
+      "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -148,16 +148,6 @@
       "author": "정혜윤",
       "cover": "https://image.millie.co.kr/service/cover/180185853/80fa9bb45fcb49d8811c052080afbd22.jpg",
       "open_date": "2026-11-11",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "c8ea3792c0e84658",
-      "title": "2027 트렌드 노트",
-      "author": "박현영, 김종민, 신수정, 김정구, 이원희",
-      "cover": "https://image.millie.co.kr/service/cover/180183219/bf5fc76d88d64387889274539d266c78.jpg",
-      "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -193,22 +183,22 @@
       "is_comic": false
     },
     {
-      "id": "7fb192cc8d124580",
-      "title": "우리는 가장 밝은 밤에 헤어졌다",
-      "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180185050/1b3a304beaff498683ab8f578aa103af.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "096726ef5de84bf3",
       "title": "주식의 시대",
       "author": "EBS 다큐프라임 〈주식의 시대〉 제작진",
       "cover": "https://image.millie.co.kr/service/cover/180175770/f6fafa98318d4b33899a8dddff3fff45.jpg",
       "open_date": "2026-11-09",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "7fb192cc8d124580",
+      "title": "우리는 가장 밝은 밤에 헤어졌다",
+      "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180185050/1b3a304beaff498683ab8f578aa103af.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -223,21 +213,21 @@
       "is_comic": false
     },
     {
-      "id": "b33ed50278254be6",
-      "title": "나는 나를 육각형으로 디자인하기로 했다",
-      "author": "박희선",
-      "cover": "https://image.millie.co.kr/service/cover/180185721/b3558064d47645219cda11780504b446.jpg",
-      "open_date": "2026-11-15",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "f3afe53c2691480a",
       "title": "끝나지 않는 노래",
       "author": "최진영",
       "cover": "https://image.millie.co.kr/service/cover/180186363/cd7d3c7bc3cd45f5b49fff580409d1c1.jpg",
       "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "b33ed50278254be6",
+      "title": "나는 나를 육각형으로 디자인하기로 했다",
+      "author": "박희선",
+      "cover": "https://image.millie.co.kr/service/cover/180185721/b3558064d47645219cda11780504b446.jpg",
+      "open_date": "2026-11-15",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -263,100 +253,10 @@
       "is_comic": false
     },
     {
-      "id": "048bb95b32074148",
-      "title": "어린이과학동아 Vol.16 : 2026.08.15",
-      "author": "어린이과학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "823330b920074077",
-      "title": "달걀의 온기",
-      "author": "김혜진",
-      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "f4d922e5746e485d",
-      "title": "365일 세계 미술관 도슨트 투어",
-      "author": "최상운",
-      "cover": "https://image.millie.co.kr/service/cover/180186013/e105743a6ea94adba6e662fca5143a9c.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "8bf79bb615454e72",
-      "title": "트렌드 코리아 2027",
-      "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
-      "cover": "https://image.millie.co.kr/service/cover/180184766/753d00bb80aa401fbe31774da00efbcb.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "8c08e1a358904160",
       "title": "뒷면",
       "author": "이승우",
       "cover": "https://image.millie.co.kr/service/cover/180187201/bb70efcf6f8e4063bbc9717a5557a0a2.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9c1e6ffebdf848f8",
-      "title": "캠퍼스 드라이버 1: 슈퍼매드",
-      "author": "C.S.퀼 지음 / 차은화 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186195/205809f2a8a141ea97e3422c7b964b12.jpg",
-      "open_date": "2026-11-19",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "aa08084351504c63",
-      "title": "믿을 수 있을 만큼의 진실",
-      "author": "김유나",
-      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "4d491dabf8624436",
-      "title": "머니 트렌드 2027",
-      "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
-      "cover": "https://image.millie.co.kr/service/cover/180181668/7f7a93037f6e49e59864a432a0a5b7c7.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "92e6b8ea150a4eea",
-      "title": "픽사 스토리텔링",
-      "author": "매튜 룬 지음 / 박여진 옮김",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179557949/c32a79d279ed41daaf149a6e6035fd98.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "0df08b73d30b421c",
-      "title": "부의 인문학(20만부 기념 개정증보판)",
-      "author": "우석(브라운스톤)",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179471835/7679c7b73d184952aefaac6ab12bce37.jpg",
       "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
@@ -373,11 +273,51 @@
       "is_comic": false
     },
     {
-      "id": "cbaaf4af37874197",
-      "title": "안개 속 달빛서점",
-      "author": "낮잠",
-      "cover": "https://image.millie.co.kr/service/cover/180184917/57a1eaea747244beade9be079faac132.jpg",
+      "id": "0d41b49d7ab54666",
+      "title": "친애하는 나의 괴물",
+      "author": "케일럽 카 지음 / 김명남 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186730/3c8eedd01dd44b4b924da393624c77d3.jpg",
       "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "048bb95b32074148",
+      "title": "어린이과학동아 Vol.16 : 2026.08.15",
+      "author": "어린이과학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
+      "open_date": "2026-11-16",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "f4d922e5746e485d",
+      "title": "365일 세계 미술관 도슨트 투어",
+      "author": "최상운",
+      "cover": "https://image.millie.co.kr/service/cover/180186013/e105743a6ea94adba6e662fca5143a9c.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9c1e6ffebdf848f8",
+      "title": "캠퍼스 드라이버 1: 슈퍼매드",
+      "author": "C.S.퀼 지음 / 차은화 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186195/205809f2a8a141ea97e3422c7b964b12.jpg",
+      "open_date": "2026-11-19",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "823330b920074077",
+      "title": "달걀의 온기",
+      "author": "김혜진",
+      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
+      "open_date": "2026-12-07",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -393,60 +333,30 @@
       "is_comic": false
     },
     {
+      "id": "8bf79bb615454e72",
+      "title": "트렌드 코리아 2027",
+      "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
+      "cover": "https://image.millie.co.kr/service/cover/180184766/753d00bb80aa401fbe31774da00efbcb.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "cbaaf4af37874197",
+      "title": "안개 속 달빛서점",
+      "author": "낮잠",
+      "cover": "https://image.millie.co.kr/service/cover/180184917/57a1eaea747244beade9be079faac132.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "2640f2f81f924ffe",
       "title": "빌 브라이슨 발칙한 미국학",
       "author": "빌 브라이슨 지음 / 박상은 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180186966/af760aa79a1c4250a8733793305b85b3.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3561521c1e9c42dd",
-      "title": "최재붕의 AI 트렌드 2027",
-      "author": "최재붕",
-      "cover": "https://image.millie.co.kr/service/cover/180181837/ae2a2191655c4ce588a544da0a2cfc26.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "0d41b49d7ab54666",
-      "title": "친애하는 나의 괴물",
-      "author": "케일럽 카 지음 / 김명남 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186730/3c8eedd01dd44b4b924da393624c77d3.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "890b3659a0cf4dc9",
-      "title": "빌 브라이슨 발칙한 미국 횡단기",
-      "author": "빌 브라이슨 지음 / 권상미 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186967/d789390da2a047bdaf4a84d1bed1bd17.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "464ce10057cf4a0a",
-      "title": "어린이수학동아 Vol.16 : 2026.08.15",
-      "author": "어린이수학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185222/62afb8621ccb406e984803599fa2281f.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "cc9e7027e3d7448d",
-      "title": "빌 브라이슨 발칙한 영국산책 2",
-      "author": "빌 브라이슨 지음 / 박여진 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186965/86031063d98744cdb45b629a964e6115.jpg",
       "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
@@ -463,11 +373,11 @@
       "is_comic": false
     },
     {
-      "id": "5109a86de4d34a06",
-      "title": "2027 트렌드 노트",
-      "author": "박현영, 김종민, 신수정, 김정구, 이원희",
-      "cover": "https://image.millie.co.kr/service/cover/180183219/bf5fc76d88d64387889274539d266c78.jpg",
-      "open_date": "2026-11-09",
+      "id": "890b3659a0cf4dc9",
+      "title": "빌 브라이슨 발칙한 미국 횡단기",
+      "author": "빌 브라이슨 지음 / 권상미 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186967/d789390da2a047bdaf4a84d1bed1bd17.jpg",
+      "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -483,11 +393,101 @@
       "is_comic": false
     },
     {
+      "id": "4d491dabf8624436",
+      "title": "머니 트렌드 2027",
+      "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
+      "cover": "https://image.millie.co.kr/service/cover/180181668/7f7a93037f6e49e59864a432a0a5b7c7.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "9784fbf94f3840fe",
       "title": "나이는 거스르고 기능은 되살리는 노화 격파",
       "author": "박용우",
       "cover": "https://image.millie.co.kr/service/cover/180186959/222fe22c7fc24677b40e75be7a2c7d60.jpg",
       "open_date": "2026-11-21",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "780ed62009a24765",
+      "title": "더 레이디 인 더 밴",
+      "author": "앨런 베넷 지음 / 류초롱 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186848/ee53d0b5f6c144c9b4525792f8ca91e2.jpg",
+      "open_date": "2026-11-22",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "92e6b8ea150a4eea",
+      "title": "픽사 스토리텔링",
+      "author": "매튜 룬 지음 / 박여진 옮김",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179557949/c32a79d279ed41daaf149a6e6035fd98.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "cc9e7027e3d7448d",
+      "title": "빌 브라이슨 발칙한 영국산책 2",
+      "author": "빌 브라이슨 지음 / 박여진 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186965/86031063d98744cdb45b629a964e6115.jpg",
+      "open_date": "2026-11-16",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "aa08084351504c63",
+      "title": "믿을 수 있을 만큼의 진실",
+      "author": "김유나",
+      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "0df08b73d30b421c",
+      "title": "부의 인문학(20만부 기념 개정증보판)",
+      "author": "우석(브라운스톤)",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179471835/7679c7b73d184952aefaac6ab12bce37.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3561521c1e9c42dd",
+      "title": "최재붕의 AI 트렌드 2027",
+      "author": "최재붕",
+      "cover": "https://image.millie.co.kr/service/cover/180181837/ae2a2191655c4ce588a544da0a2cfc26.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "527ef753a7b54e03",
+      "title": "건물주 아빠, 월급쟁이 아빠",
+      "author": "영끌남",
+      "cover": "https://image.millie.co.kr/service/cover/180186331/556033b1ac694442bf3286d541647d79.jpg",
+      "open_date": "2026-11-21",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "5109a86de4d34a06",
+      "title": "2027 트렌드 노트",
+      "author": "박현영, 김종민, 신수정, 김정구, 이원희",
+      "cover": "https://image.millie.co.kr/service/cover/180183219/bf5fc76d88d64387889274539d266c78.jpg",
+      "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -503,6 +503,16 @@
       "is_comic": false
     },
     {
+      "id": "464ce10057cf4a0a",
+      "title": "어린이수학동아 Vol.16 : 2026.08.15",
+      "author": "어린이수학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185222/62afb8621ccb406e984803599fa2281f.jpg",
+      "open_date": "2026-11-16",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "8c14101ee7394911",
       "title": "4×4의 세계",
       "author": "조우리 지음 / 노인경 그림",
@@ -513,21 +523,21 @@
       "is_comic": false
     },
     {
-      "id": "780ed62009a24765",
-      "title": "더 레이디 인 더 밴",
-      "author": "앨런 베넷 지음 / 류초롱 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186848/ee53d0b5f6c144c9b4525792f8ca91e2.jpg",
-      "open_date": "2026-11-22",
+      "id": "579373d116a04e76",
+      "title": "내가 돈을 벌고 있다는 착각",
+      "author": "commonD",
+      "cover": "https://image.millie.co.kr/service/cover/180151505/5d4add1e97e445e78e1fcda85a62d3e1.jpg",
+      "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "527ef753a7b54e03",
-      "title": "건물주 아빠, 월급쟁이 아빠",
-      "author": "영끌남",
-      "cover": "https://image.millie.co.kr/service/cover/180186331/556033b1ac694442bf3286d541647d79.jpg",
-      "open_date": "2026-11-21",
+      "id": "a6c90df4ffb54aeb",
+      "title": "매경 럭스맨 Luxmen 2026.10",
+      "author": "매경LUXMEN",
+      "cover": "https://image.millie.co.kr/service/cover/180184136/cc296ce8958d42d891525fe899069572.jpg",
+      "open_date": "2026-11-13",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -553,30 +563,10 @@
       "is_comic": false
     },
     {
-      "id": "579373d116a04e76",
-      "title": "내가 돈을 벌고 있다는 착각",
-      "author": "commonD",
-      "cover": "https://image.millie.co.kr/service/cover/180151505/5d4add1e97e445e78e1fcda85a62d3e1.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "071d2274b48e4ae8",
       "title": "트렌드 코리아 2027",
       "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
       "cover": "https://image.millie.co.kr/service/cover/180184766/753d00bb80aa401fbe31774da00efbcb.jpg",
-      "open_date": "2026-11-09",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "d8bd044c52374b09",
-      "title": "공룡 박물관에서 생긴 일",
-      "author": "박보영",
-      "cover": "https://image.millie.co.kr/service/cover/180183962/69edaac2b872451686264a0797976ad6.jpg",
       "open_date": "2026-11-09",
       "is_audiobook": false,
       "is_series": false,
@@ -593,10 +583,20 @@
       "is_comic": false
     },
     {
-      "id": "8fdbf76717a94f06",
-      "title": "냠냠 해바라기씨",
-      "author": "보린",
-      "cover": "https://image.millie.co.kr/service/cover/180183907/5664cb7104df4a66a6b0213f04f65ecf.jpg",
+      "id": "345d311c05594007",
+      "title": "바다를 건너온 탈해왕",
+      "author": "한정영",
+      "cover": "https://image.millie.co.kr/service/cover/180183906/3a202dbf8ff54ac7946b6e244a2b6a76.jpg",
+      "open_date": "2026-11-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3ffc350fb6bc4242",
+      "title": "내 거야, 만지지 마!",
+      "author": "정란희",
+      "cover": "https://image.millie.co.kr/service/cover/180183903/e3d32250fba04bc1a4f3c85464cae109.jpg",
       "open_date": "2026-11-09",
       "is_audiobook": true,
       "is_series": false,
