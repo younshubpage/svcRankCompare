@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T08:08:23.244029+09:00",
+  "updated": "2026-11-09T08:35:03.932540+09:00",
   "count": 34,
   "books": [
     {
@@ -143,21 +143,21 @@
       "is_comic": false
     },
     {
-      "id": "b33ed50278254be6",
-      "title": "나는 나를 육각형으로 디자인하기로 했다",
-      "author": "박희선",
-      "cover": "https://image.millie.co.kr/service/cover/180185721/b3558064d47645219cda11780504b446.jpg",
-      "open_date": "2026-11-15",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "7760f85c675344b1",
       "title": "나는 코드를 모르는 AI 팀장입니다",
       "author": "정수진",
       "cover": "https://image.millie.co.kr/service/cover/180186324/6d4c0d9d382246d8ae90a4c735a1ff08.jpg",
       "open_date": "2026-11-17",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "b33ed50278254be6",
+      "title": "나는 나를 육각형으로 디자인하기로 했다",
+      "author": "박희선",
+      "cover": "https://image.millie.co.kr/service/cover/180185721/b3558064d47645219cda11780504b446.jpg",
+      "open_date": "2026-11-15",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -183,16 +183,6 @@
       "is_comic": false
     },
     {
-      "id": "048bb95b32074148",
-      "title": "어린이과학동아 Vol.16 : 2026.08.15",
-      "author": "어린이과학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "9c1e6ffebdf848f8",
       "title": "캠퍼스 드라이버 1: 슈퍼매드",
       "author": "C.S.퀼 지음 / 차은화 옮김",
@@ -203,12 +193,12 @@
       "is_comic": false
     },
     {
-      "id": "823330b920074077",
-      "title": "달걀의 온기",
-      "author": "김혜진",
-      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
+      "id": "048bb95b32074148",
+      "title": "어린이과학동아 Vol.16 : 2026.08.15",
+      "author": "어린이과학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
+      "open_date": "2026-11-16",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -218,16 +208,6 @@
       "author": "빌 브라이슨 지음 / 박상은 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180186966/af760aa79a1c4250a8733793305b85b3.jpg",
       "open_date": "2026-11-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "071fdee6997946c1",
-      "title": "드디어 만나는 일본 동화",
-      "author": "라프카디오 헌, 예이 시어도라 오자키 지음 / 고타로 지바 그림 / 이민철 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180187235/8f319e0cdb9b4674a55ec9983fe0d5f7.jpg",
-      "open_date": "2026-11-12",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -243,11 +223,21 @@
       "is_comic": false
     },
     {
-      "id": "23d1146716bb4357",
-      "title": "빌 브라이슨 발칙한 영국산책",
-      "author": "빌 브라이슨 지음 / 김지현 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186963/a47b49cfc15e4a319edb0ea51c800f6c.jpg",
-      "open_date": "2026-11-16",
+      "id": "823330b920074077",
+      "title": "달걀의 온기",
+      "author": "김혜진",
+      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "780ed62009a24765",
+      "title": "더 레이디 인 더 밴",
+      "author": "앨런 베넷 지음 / 류초롱 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186848/ee53d0b5f6c144c9b4525792f8ca91e2.jpg",
+      "open_date": "2026-11-22",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -263,11 +253,21 @@
       "is_comic": false
     },
     {
-      "id": "780ed62009a24765",
-      "title": "더 레이디 인 더 밴",
-      "author": "앨런 베넷 지음 / 류초롱 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186848/ee53d0b5f6c144c9b4525792f8ca91e2.jpg",
-      "open_date": "2026-11-22",
+      "id": "071fdee6997946c1",
+      "title": "드디어 만나는 일본 동화",
+      "author": "라프카디오 헌, 예이 시어도라 오자키 지음 / 고타로 지바 그림 / 이민철 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180187235/8f319e0cdb9b4674a55ec9983fe0d5f7.jpg",
+      "open_date": "2026-11-12",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "23d1146716bb4357",
+      "title": "빌 브라이슨 발칙한 영국산책",
+      "author": "빌 브라이슨 지음 / 김지현 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186963/a47b49cfc15e4a319edb0ea51c800f6c.jpg",
+      "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -303,22 +303,22 @@
       "is_comic": false
     },
     {
-      "id": "464ce10057cf4a0a",
-      "title": "어린이수학동아 Vol.16 : 2026.08.15",
-      "author": "어린이수학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185222/62afb8621ccb406e984803599fa2281f.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "8c14101ee7394911",
       "title": "4×4의 세계",
       "author": "조우리 지음 / 노인경 그림",
       "cover": "https://image.millie.co.kr/service/cover/180185480/a3728fc3396c46a4a5a1c9fde5c972d8.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "464ce10057cf4a0a",
+      "title": "어린이수학동아 Vol.16 : 2026.08.15",
+      "author": "어린이수학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185222/62afb8621ccb406e984803599fa2281f.jpg",
+      "open_date": "2026-11-16",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
