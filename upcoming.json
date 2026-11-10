@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T09:00:21.823305+09:00",
-  "count": 33,
+  "updated": "2026-11-10T13:41:57.300281+09:00",
+  "count": 35,
   "books": [
     {
       "id": "1fddd4dd6d584861",
@@ -328,6 +328,26 @@
       "author": "밀리의서재",
       "cover": "https://image.millie.co.kr/service/cover/180187594/2b2867b67bb64c8a99d7e80b35cf1187.jpg",
       "open_date": "2026-11-16",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "81a7c9cdaebf4237",
+      "title": "알케덱 alchedek (November 2026)",
+      "author": "alchedek(알케덱) 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180186866/cc052c73e65e48e6b5816bf7502f7fec.jpg",
+      "open_date": "2026-11-11",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "87f34a6ac0b14a20",
+      "title": "에어포트 포커스 AIRPORT FOCUS 2026.11+12",
+      "author": "한국공항공사 외",
+      "cover": "https://image.millie.co.kr/service/cover/180185996/368b624e14114dce914be64541ad0ba0.jpg",
+      "open_date": "2026-11-11",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
