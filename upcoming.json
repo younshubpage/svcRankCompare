@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T11:48:47.665340+09:00",
-  "count": 34,
+  "updated": "2026-11-10T09:00:21.823305+09:00",
+  "count": 33,
   "books": [
     {
       "id": "1fddd4dd6d584861",
@@ -53,32 +53,22 @@
       "is_comic": false
     },
     {
-      "id": "abc62254efdb40ce",
-      "title": "호신술 클럽",
-      "author": "김지윤",
-      "cover": "https://image.millie.co.kr/service/cover/180174017/37ca9e036ccf4914a26587fba248623b.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "7aa07c7484dc4a38",
-      "title": "품격 있는 대화를 위한 지식 브리핑",
-      "author": "김진",
-      "cover": "https://image.millie.co.kr/service/cover/180185771/92ce8b9002a4453ea5400fbb1fe965ce.jpg",
-      "open_date": "2026-11-10",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "a953049307304bfa",
       "title": "내게 무해한 사람",
       "author": "최은영",
       "cover": "https://image.millie.co.kr/service/cover/180186495/b8dec36db0cf40d69bc35a5a21c4f6c7.jpg",
       "open_date": "2026-11-16",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "abc62254efdb40ce",
+      "title": "호신술 클럽",
+      "author": "김지윤",
+      "cover": "https://image.millie.co.kr/service/cover/180174017/37ca9e036ccf4914a26587fba248623b.jpg",
+      "open_date": "2026-11-16",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -108,6 +98,16 @@
       "author": "서귤",
       "cover": "https://image.millie.co.kr/service/cover/180185690/b4167070700846b78d83b0ba98068b7b.jpg",
       "open_date": "2026-11-11",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "7760f85c675344b1",
+      "title": "나는 코드를 모르는 AI 팀장입니다",
+      "author": "정수진",
+      "cover": "https://image.millie.co.kr/service/cover/180186324/6d4c0d9d382246d8ae90a4c735a1ff08.jpg",
+      "open_date": "2026-11-17",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -143,32 +143,12 @@
       "is_comic": false
     },
     {
-      "id": "7760f85c675344b1",
-      "title": "나는 코드를 모르는 AI 팀장입니다",
-      "author": "정수진",
-      "cover": "https://image.millie.co.kr/service/cover/180186324/6d4c0d9d382246d8ae90a4c735a1ff08.jpg",
-      "open_date": "2026-11-17",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "b33ed50278254be6",
       "title": "나는 나를 육각형으로 디자인하기로 했다",
       "author": "박희선",
       "cover": "https://image.millie.co.kr/service/cover/180185721/b3558064d47645219cda11780504b446.jpg",
       "open_date": "2026-11-15",
       "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3b3f399b2c114197",
-      "title": "세입자",
-      "author": "프리다 맥파든 지음 / 이경아 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180185051/74ac54d47ed844a5be448e627fb1d5e3.jpg",
-      "open_date": "2026-12-21",
-      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -193,42 +173,12 @@
       "is_comic": false
     },
     {
-      "id": "048bb95b32074148",
-      "title": "어린이과학동아 Vol.16 : 2026.08.15",
-      "author": "어린이과학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
-      "open_date": "2026-11-16",
+      "id": "071fdee6997946c1",
+      "title": "드디어 만나는 일본 동화",
+      "author": "라프카디오 헌, 예이 시어도라 오자키 지음 / 고타로 지바 그림 / 이민철 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180187235/8f319e0cdb9b4674a55ec9983fe0d5f7.jpg",
+      "open_date": "2026-11-12",
       "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "2640f2f81f924ffe",
-      "title": "빌 브라이슨 발칙한 미국학",
-      "author": "빌 브라이슨 지음 / 박상은 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186966/af760aa79a1c4250a8733793305b85b3.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "890b3659a0cf4dc9",
-      "title": "빌 브라이슨 발칙한 미국 횡단기",
-      "author": "빌 브라이슨 지음 / 권상미 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186967/d789390da2a047bdaf4a84d1bed1bd17.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "823330b920074077",
-      "title": "달걀의 온기",
-      "author": "김혜진",
-      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -253,11 +203,51 @@
       "is_comic": false
     },
     {
-      "id": "071fdee6997946c1",
-      "title": "드디어 만나는 일본 동화",
-      "author": "라프카디오 헌, 예이 시어도라 오자키 지음 / 고타로 지바 그림 / 이민철 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180187235/8f319e0cdb9b4674a55ec9983fe0d5f7.jpg",
-      "open_date": "2026-11-12",
+      "id": "3b3f399b2c114197",
+      "title": "세입자",
+      "author": "프리다 맥파든 지음 / 이경아 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180185051/74ac54d47ed844a5be448e627fb1d5e3.jpg",
+      "open_date": "2026-12-21",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "048bb95b32074148",
+      "title": "어린이과학동아 Vol.16 : 2026.08.15",
+      "author": "어린이과학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
+      "open_date": "2026-11-16",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "2640f2f81f924ffe",
+      "title": "빌 브라이슨 발칙한 미국학",
+      "author": "빌 브라이슨 지음 / 박상은 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186966/af760aa79a1c4250a8733793305b85b3.jpg",
+      "open_date": "2026-11-16",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "527ef753a7b54e03",
+      "title": "건물주 아빠, 월급쟁이 아빠",
+      "author": "영끌남",
+      "cover": "https://image.millie.co.kr/service/cover/180186331/556033b1ac694442bf3286d541647d79.jpg",
+      "open_date": "2026-11-21",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "890b3659a0cf4dc9",
+      "title": "빌 브라이슨 발칙한 미국 횡단기",
+      "author": "빌 브라이슨 지음 / 권상미 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186967/d789390da2a047bdaf4a84d1bed1bd17.jpg",
+      "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -283,6 +273,16 @@
       "is_comic": false
     },
     {
+      "id": "823330b920074077",
+      "title": "달걀의 온기",
+      "author": "김혜진",
+      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "aa08084351504c63",
       "title": "믿을 수 있을 만큼의 진실",
       "author": "김유나",
@@ -293,11 +293,11 @@
       "is_comic": false
     },
     {
-      "id": "527ef753a7b54e03",
-      "title": "건물주 아빠, 월급쟁이 아빠",
-      "author": "영끌남",
-      "cover": "https://image.millie.co.kr/service/cover/180186331/556033b1ac694442bf3286d541647d79.jpg",
-      "open_date": "2026-11-21",
+      "id": "a6c90df4ffb54aeb",
+      "title": "매경 럭스맨 Luxmen 2026.10",
+      "author": "매경LUXMEN",
+      "cover": "https://image.millie.co.kr/service/cover/180184136/cc296ce8958d42d891525fe899069572.jpg",
+      "open_date": "2026-11-13",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -323,21 +323,11 @@
       "is_comic": false
     },
     {
-      "id": "a6c90df4ffb54aeb",
-      "title": "매경 럭스맨 Luxmen 2026.10",
-      "author": "매경LUXMEN",
-      "cover": "https://image.millie.co.kr/service/cover/180184136/cc296ce8958d42d891525fe899069572.jpg",
-      "open_date": "2026-11-13",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "857a79eeebe34871",
-      "title": "매경이코노미 2384호",
-      "author": "매경이코노미 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180187329/3ea3ce6f3c664f5eab5686f1cbb552fc.jpg",
-      "open_date": "2026-11-10",
+      "id": "2c968bde22b04a51",
+      "title": "언니, 재테크가 뭐야? [짠테크편]",
+      "author": "밀리의서재",
+      "cover": "https://image.millie.co.kr/service/cover/180187594/2b2867b67bb64c8a99d7e80b35cf1187.jpg",
+      "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
