@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T11:52:46.432801+09:00",
-  "count": 33,
+  "updated": "2026-11-12T08:08:45.950790+09:00",
+  "count": 36,
   "books": [
     {
       "id": "1fddd4dd6d584861",
@@ -73,16 +73,6 @@
       "is_comic": false
     },
     {
-      "id": "738809e922f04c8d",
-      "title": "오마리가 살인사건",
-      "author": "아시베 다쿠 지음 / 구수영 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180185389/e32f8019a5c24014b28ceae9fbc42688.jpg",
-      "open_date": "2026-11-12",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "7760f85c675344b1",
       "title": "나는 코드를 모르는 AI 팀장입니다",
       "author": "정수진",
@@ -93,21 +83,11 @@
       "is_comic": false
     },
     {
-      "id": "161e0e5ff72246e7",
-      "title": "고양이에게는 날씨의 냄새가 난다",
-      "author": "나쓰나기 소라 지음 / 정혜주 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180185571/0108eae1149949ccaa7f41e51cccae87.jpg",
-      "open_date": "2026-11-14",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "7fb192cc8d124580",
-      "title": "우리는 가장 밝은 밤에 헤어졌다",
-      "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180185050/1b3a304beaff498683ab8f578aa103af.jpg",
-      "open_date": "2026-12-07",
+      "id": "3cc6f41a72904eb3",
+      "title": "머니 트렌드 2027",
+      "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
+      "cover": "https://image.millie.co.kr/service/cover/180186327/6d8eae089aee4f7586fd19747da9c3e4.jpg",
+      "open_date": "2026-11-18",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -123,6 +103,26 @@
       "is_comic": false
     },
     {
+      "id": "7fb192cc8d124580",
+      "title": "우리는 가장 밝은 밤에 헤어졌다",
+      "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180185050/1b3a304beaff498683ab8f578aa103af.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "161e0e5ff72246e7",
+      "title": "고양이에게는 날씨의 냄새가 난다",
+      "author": "나쓰나기 소라 지음 / 정혜주 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180185571/0108eae1149949ccaa7f41e51cccae87.jpg",
+      "open_date": "2026-11-14",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "2df4e0d5da354c3d",
       "title": "기억되는 사람은 다르게 말한다",
       "author": "백주환",
@@ -133,11 +133,11 @@
       "is_comic": false
     },
     {
-      "id": "071fdee6997946c1",
-      "title": "드디어 만나는 일본 동화",
-      "author": "라프카디오 헌, 예이 시어도라 오자키 지음 / 고타로 지바 그림 / 이민철 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180187235/8f319e0cdb9b4674a55ec9983fe0d5f7.jpg",
-      "open_date": "2026-11-12",
+      "id": "9c1e6ffebdf848f8",
+      "title": "캠퍼스 드라이버 1: 슈퍼매드",
+      "author": "C.S.퀼 지음 / 차은화 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186195/205809f2a8a141ea97e3422c7b964b12.jpg",
+      "open_date": "2026-11-19",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -148,16 +148,6 @@
       "author": "박희선",
       "cover": "https://image.millie.co.kr/service/cover/180185721/b3558064d47645219cda11780504b446.jpg",
       "open_date": "2026-11-15",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9c1e6ffebdf848f8",
-      "title": "캠퍼스 드라이버 1: 슈퍼매드",
-      "author": "C.S.퀼 지음 / 차은화 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186195/205809f2a8a141ea97e3422c7b964b12.jpg",
-      "open_date": "2026-11-19",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -263,6 +253,16 @@
       "is_comic": false
     },
     {
+      "id": "51c489e38c0f4673",
+      "title": "경성 활자 미스터리",
+      "author": "이미정",
+      "cover": "https://image.millie.co.kr/service/cover/180187641/7d37fd4b7d90453fb05f7e09bd988523.jpg",
+      "open_date": "2026-12-03",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "aa08084351504c63",
       "title": "믿을 수 있을 만큼의 진실",
       "author": "김유나",
@@ -273,31 +273,11 @@
       "is_comic": false
     },
     {
-      "id": "a6c90df4ffb54aeb",
-      "title": "매경 럭스맨 Luxmen 2026.10",
-      "author": "매경LUXMEN",
-      "cover": "https://image.millie.co.kr/service/cover/180184136/cc296ce8958d42d891525fe899069572.jpg",
-      "open_date": "2026-11-13",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "8c14101ee7394911",
-      "title": "4×4의 세계",
-      "author": "조우리 지음 / 노인경 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180185480/a3728fc3396c46a4a5a1c9fde5c972d8.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "464ce10057cf4a0a",
-      "title": "어린이수학동아 Vol.16 : 2026.08.15",
-      "author": "어린이수학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185222/62afb8621ccb406e984803599fa2281f.jpg",
-      "open_date": "2026-11-16",
+      "id": "9e996027695243ca",
+      "title": "관점의 기술",
+      "author": "타나카 타츠야 지음 / 김윤경 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180187927/479772be1fa24fb2ab84d7db24b9a511.jpg",
+      "open_date": "2026-11-24",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -313,6 +293,26 @@
       "is_comic": false
     },
     {
+      "id": "464ce10057cf4a0a",
+      "title": "어린이수학동아 Vol.16 : 2026.08.15",
+      "author": "어린이수학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185222/62afb8621ccb406e984803599fa2281f.jpg",
+      "open_date": "2026-11-16",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "8c14101ee7394911",
+      "title": "4×4의 세계",
+      "author": "조우리 지음 / 노인경 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180185480/a3728fc3396c46a4a5a1c9fde5c972d8.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "33f32711f7304631",
       "title": "미국 주도 AI 전쟁",
       "author": "정관영",
@@ -323,11 +323,41 @@
       "is_comic": false
     },
     {
+      "id": "e5e8d7fe0ed24982",
+      "title": "기억의 무늬",
+      "author": "백희성",
+      "cover": "https://image.millie.co.kr/service/cover/180187926/2830764b45574f2d885a72c4c2c7a2d2.jpg",
+      "open_date": "2026-12-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "66cf0db7781248a4",
+      "title": "제네시스박의 부동산 세금 트렌드 2027",
+      "author": "박민수(제네시스박)",
+      "cover": "https://image.millie.co.kr/service/cover/180187928/3faa9c5384954b1b96f204c3730e0255.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "2c968bde22b04a51",
       "title": "언니, 재테크가 뭐야? [짠테크편]",
       "author": "밀리의서재",
       "cover": "https://image.millie.co.kr/service/cover/180187594/2b2867b67bb64c8a99d7e80b35cf1187.jpg",
       "open_date": "2026-11-16",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3ba86bc468914fbc",
+      "title": "바로바로 파이썬",
+      "author": "셀레나, 박현규",
+      "cover": "https://image.millie.co.kr/service/cover/180187689/6520335cfceb49b68d66c132e8228e20.jpg",
+      "open_date": "2026-11-30",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
