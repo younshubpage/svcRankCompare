@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T08:08:40.463633+09:00",
+  "updated": "2026-11-11T11:52:46.432801+09:00",
   "count": 33,
   "books": [
     {
@@ -43,16 +43,6 @@
       "is_comic": false
     },
     {
-      "id": "98cab02f0f074948",
-      "title": "얼굴들",
-      "author": "이동원",
-      "cover": "https://image.millie.co.kr/service/cover/180183517/221a929ebd184701875a23651a7e69d8.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "a953049307304bfa",
       "title": "내게 무해한 사람",
       "author": "최은영",
@@ -63,10 +53,20 @@
       "is_comic": false
     },
     {
+      "id": "98cab02f0f074948",
+      "title": "얼굴들",
+      "author": "이동원",
+      "cover": "https://image.millie.co.kr/service/cover/180183517/221a929ebd184701875a23651a7e69d8.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "abc62254efdb40ce",
       "title": "호신술 클럽",
       "author": "김지윤",
-      "cover": "https://image.millie.co.kr/service/cover/180174017/37ca9e036ccf4914a26587fba248623b.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180183703/3b48503911bb4d5a9589dfc3a241c037.jpg",
       "open_date": "2026-11-16",
       "is_audiobook": true,
       "is_series": false,
@@ -113,26 +113,6 @@
       "is_comic": false
     },
     {
-      "id": "2df4e0d5da354c3d",
-      "title": "기억되는 사람은 다르게 말한다",
-      "author": "백주환",
-      "cover": "https://image.millie.co.kr/service/cover/180185758/7a5f7f1af59a49ba8c2bc8acc0cb7f54.jpg",
-      "open_date": "2026-11-13",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "b33ed50278254be6",
-      "title": "나는 나를 육각형으로 디자인하기로 했다",
-      "author": "박희선",
-      "cover": "https://image.millie.co.kr/service/cover/180185721/b3558064d47645219cda11780504b446.jpg",
-      "open_date": "2026-11-15",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "e46a726f99744c12",
       "title": "돈으로 자유를 사라",
       "author": "댄 록 지음 / 박영준 옮김",
@@ -143,11 +123,11 @@
       "is_comic": false
     },
     {
-      "id": "9c1e6ffebdf848f8",
-      "title": "캠퍼스 드라이버 1: 슈퍼매드",
-      "author": "C.S.퀼 지음 / 차은화 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186195/205809f2a8a141ea97e3422c7b964b12.jpg",
-      "open_date": "2026-11-19",
+      "id": "2df4e0d5da354c3d",
+      "title": "기억되는 사람은 다르게 말한다",
+      "author": "백주환",
+      "cover": "https://image.millie.co.kr/service/cover/180185758/7a5f7f1af59a49ba8c2bc8acc0cb7f54.jpg",
+      "open_date": "2026-11-13",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -163,11 +143,21 @@
       "is_comic": false
     },
     {
-      "id": "780ed62009a24765",
-      "title": "더 레이디 인 더 밴",
-      "author": "앨런 베넷 지음 / 류초롱 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186848/ee53d0b5f6c144c9b4525792f8ca91e2.jpg",
-      "open_date": "2026-11-22",
+      "id": "b33ed50278254be6",
+      "title": "나는 나를 육각형으로 디자인하기로 했다",
+      "author": "박희선",
+      "cover": "https://image.millie.co.kr/service/cover/180185721/b3558064d47645219cda11780504b446.jpg",
+      "open_date": "2026-11-15",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9c1e6ffebdf848f8",
+      "title": "캠퍼스 드라이버 1: 슈퍼매드",
+      "author": "C.S.퀼 지음 / 차은화 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186195/205809f2a8a141ea97e3422c7b964b12.jpg",
+      "open_date": "2026-11-19",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -183,6 +173,16 @@
       "is_comic": false
     },
     {
+      "id": "780ed62009a24765",
+      "title": "더 레이디 인 더 밴",
+      "author": "앨런 베넷 지음 / 류초롱 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186848/ee53d0b5f6c144c9b4525792f8ca91e2.jpg",
+      "open_date": "2026-11-22",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "3b3f399b2c114197",
       "title": "세입자",
       "author": "프리다 맥파든 지음 / 이경아 옮김",
@@ -193,11 +193,11 @@
       "is_comic": false
     },
     {
-      "id": "048bb95b32074148",
-      "title": "어린이과학동아 Vol.16 : 2026.08.15",
-      "author": "어린이과학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
-      "open_date": "2026-11-16",
+      "id": "527ef753a7b54e03",
+      "title": "건물주 아빠, 월급쟁이 아빠",
+      "author": "영끌남",
+      "cover": "https://image.millie.co.kr/service/cover/180186331/556033b1ac694442bf3286d541647d79.jpg",
+      "open_date": "2026-11-21",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -213,11 +213,11 @@
       "is_comic": false
     },
     {
-      "id": "527ef753a7b54e03",
-      "title": "건물주 아빠, 월급쟁이 아빠",
-      "author": "영끌남",
-      "cover": "https://image.millie.co.kr/service/cover/180186331/556033b1ac694442bf3286d541647d79.jpg",
-      "open_date": "2026-11-21",
+      "id": "048bb95b32074148",
+      "title": "어린이과학동아 Vol.16 : 2026.08.15",
+      "author": "어린이과학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
+      "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -303,11 +303,11 @@
       "is_comic": false
     },
     {
-      "id": "2c968bde22b04a51",
-      "title": "언니, 재테크가 뭐야? [짠테크편]",
-      "author": "밀리의서재",
-      "cover": "https://image.millie.co.kr/service/cover/180187594/2b2867b67bb64c8a99d7e80b35cf1187.jpg",
-      "open_date": "2026-11-16",
+      "id": "34bb64882c6545d6",
+      "title": "AI는 생각하지 않는다, AI 리터러시",
+      "author": "이제현",
+      "cover": "https://image.millie.co.kr/service/cover/180187521/68801c46346a43df929208cb72219013.jpg",
+      "open_date": "2026-11-13",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -323,11 +323,11 @@
       "is_comic": false
     },
     {
-      "id": "34bb64882c6545d6",
-      "title": "AI는 생각하지 않는다, AI 리터러시",
-      "author": "이제현",
-      "cover": "https://image.millie.co.kr/service/cover/180187521/68801c46346a43df929208cb72219013.jpg",
-      "open_date": "2026-11-13",
+      "id": "2c968bde22b04a51",
+      "title": "언니, 재테크가 뭐야? [짠테크편]",
+      "author": "밀리의서재",
+      "cover": "https://image.millie.co.kr/service/cover/180187594/2b2867b67bb64c8a99d7e80b35cf1187.jpg",
+      "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
