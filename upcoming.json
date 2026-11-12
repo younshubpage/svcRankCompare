@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T12:57:13.106675+09:00",
-  "count": 37,
+  "updated": "2026-11-13T08:56:43.962000+09:00",
+  "count": 36,
   "books": [
     {
       "id": "1fddd4dd6d584861",
@@ -123,16 +123,6 @@
       "is_comic": false
     },
     {
-      "id": "2df4e0d5da354c3d",
-      "title": "기억되는 사람은 다르게 말한다",
-      "author": "백주환",
-      "cover": "https://image.millie.co.kr/service/cover/180185758/7a5f7f1af59a49ba8c2bc8acc0cb7f54.jpg",
-      "open_date": "2026-11-13",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "9c1e6ffebdf848f8",
       "title": "캠퍼스 드라이버 1: 슈퍼매드",
       "author": "C.S.퀼 지음 / 차은화 옮김",
@@ -203,20 +193,20 @@
       "is_comic": false
     },
     {
-      "id": "048bb95b32074148",
-      "title": "어린이과학동아 Vol.16 : 2026.08.15",
-      "author": "어린이과학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
+      "id": "890b3659a0cf4dc9",
+      "title": "빌 브라이슨 발칙한 미국 횡단기",
+      "author": "빌 브라이슨 지음 / 권상미 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186967/d789390da2a047bdaf4a84d1bed1bd17.jpg",
       "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "890b3659a0cf4dc9",
-      "title": "빌 브라이슨 발칙한 미국 횡단기",
-      "author": "빌 브라이슨 지음 / 권상미 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186967/d789390da2a047bdaf4a84d1bed1bd17.jpg",
+      "id": "048bb95b32074148",
+      "title": "어린이과학동아 Vol.16 : 2026.08.15",
+      "author": "어린이과학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
       "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
@@ -278,16 +268,6 @@
       "author": "타나카 타츠야 지음 / 김윤경 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180187927/479772be1fa24fb2ab84d7db24b9a511.jpg",
       "open_date": "2026-11-24",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "34bb64882c6545d6",
-      "title": "AI는 생각하지 않는다, AI 리터러시",
-      "author": "이제현",
-      "cover": "https://image.millie.co.kr/service/cover/180187521/68801c46346a43df929208cb72219013.jpg",
-      "open_date": "2026-11-13",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -358,6 +338,16 @@
       "author": "셀레나, 박현규",
       "cover": "https://image.millie.co.kr/service/cover/180187689/6520335cfceb49b68d66c132e8228e20.jpg",
       "open_date": "2026-11-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "0ba765fe36c84b92",
+      "title": "사랑을 읽는 타로카드",
+      "author": "문혜정",
+      "cover": "https://image.millie.co.kr/service/cover/180188273/e3ea921b766848c8bceb44596e1b8a23.jpg",
+      "open_date": "2026-11-25",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
