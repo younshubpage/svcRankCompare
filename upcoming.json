@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T08:56:43.962000+09:00",
+  "updated": "2026-11-13T12:28:49.655306+09:00",
   "count": 36,
   "books": [
     {
@@ -13,21 +13,21 @@
       "is_comic": false
     },
     {
-      "id": "552c1d4cdf764ac8",
-      "title": "빌 브라이슨 발칙한 유럽산책",
-      "author": "빌 브라이슨 지음 / 권상미 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186968/6f5dc2d87a894e53bf5af1999a8d2820.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "1c0bc2ab89534287",
       "title": "퍼플필",
       "author": "진쏠미",
       "cover": "https://image.millie.co.kr/service/cover/180184346/bca4c407c82b405584bf70f83231f957.jpg",
       "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "552c1d4cdf764ac8",
+      "title": "빌 브라이슨 발칙한 유럽산책",
+      "author": "빌 브라이슨 지음 / 권상미 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186968/6f5dc2d87a894e53bf5af1999a8d2820.jpg",
+      "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -133,21 +133,21 @@
       "is_comic": false
     },
     {
-      "id": "b33ed50278254be6",
-      "title": "나는 나를 육각형으로 디자인하기로 했다",
-      "author": "박희선",
-      "cover": "https://image.millie.co.kr/service/cover/180185721/b3558064d47645219cda11780504b446.jpg",
-      "open_date": "2026-11-15",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "9784fbf94f3840fe",
       "title": "나이는 거스르고 기능은 되살리는 노화 격파",
       "author": "박용우",
       "cover": "https://image.millie.co.kr/service/cover/180186959/222fe22c7fc24677b40e75be7a2c7d60.jpg",
       "open_date": "2026-11-21",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "b33ed50278254be6",
+      "title": "나는 나를 육각형으로 디자인하기로 했다",
+      "author": "박희선",
+      "cover": "https://image.millie.co.kr/service/cover/180185721/b3558064d47645219cda11780504b446.jpg",
+      "open_date": "2026-11-15",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -163,6 +163,16 @@
       "is_comic": false
     },
     {
+      "id": "527ef753a7b54e03",
+      "title": "건물주 아빠, 월급쟁이 아빠",
+      "author": "영끌남",
+      "cover": "https://image.millie.co.kr/service/cover/180186331/556033b1ac694442bf3286d541647d79.jpg",
+      "open_date": "2026-11-21",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "3b3f399b2c114197",
       "title": "세입자",
       "author": "프리다 맥파든 지음 / 이경아 옮김",
@@ -173,11 +183,11 @@
       "is_comic": false
     },
     {
-      "id": "527ef753a7b54e03",
-      "title": "건물주 아빠, 월급쟁이 아빠",
-      "author": "영끌남",
-      "cover": "https://image.millie.co.kr/service/cover/180186331/556033b1ac694442bf3286d541647d79.jpg",
-      "open_date": "2026-11-21",
+      "id": "51c489e38c0f4673",
+      "title": "경성 활자 미스터리",
+      "author": "이미정",
+      "cover": "https://image.millie.co.kr/service/cover/180187641/7d37fd4b7d90453fb05f7e09bd988523.jpg",
+      "open_date": "2026-12-03",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -243,11 +253,11 @@
       "is_comic": false
     },
     {
-      "id": "51c489e38c0f4673",
-      "title": "경성 활자 미스터리",
-      "author": "이미정",
-      "cover": "https://image.millie.co.kr/service/cover/180187641/7d37fd4b7d90453fb05f7e09bd988523.jpg",
-      "open_date": "2026-12-03",
+      "id": "9e996027695243ca",
+      "title": "관점의 기술",
+      "author": "타나카 타츠야 지음 / 김윤경 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180187927/479772be1fa24fb2ab84d7db24b9a511.jpg",
+      "open_date": "2026-11-24",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -263,31 +273,11 @@
       "is_comic": false
     },
     {
-      "id": "9e996027695243ca",
-      "title": "관점의 기술",
-      "author": "타나카 타츠야 지음 / 김윤경 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180187927/479772be1fa24fb2ab84d7db24b9a511.jpg",
-      "open_date": "2026-11-24",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "8c14101ee7394911",
-      "title": "4×4의 세계",
-      "author": "조우리 지음 / 노인경 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180185480/a3728fc3396c46a4a5a1c9fde5c972d8.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "464ce10057cf4a0a",
-      "title": "어린이수학동아 Vol.16 : 2026.08.15",
-      "author": "어린이수학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185222/62afb8621ccb406e984803599fa2281f.jpg",
-      "open_date": "2026-11-16",
+      "id": "79621e9cd0264150",
+      "title": "첫사랑 혼밥식당",
+      "author": "범유진",
+      "cover": "https://image.millie.co.kr/service/cover/180188384/ed926c99440942c9b56e398a46bc3982.jpg",
+      "open_date": "2026-11-18",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -303,31 +293,11 @@
       "is_comic": false
     },
     {
-      "id": "e5e8d7fe0ed24982",
-      "title": "기억의 무늬",
-      "author": "백희성",
-      "cover": "https://image.millie.co.kr/service/cover/180187926/2830764b45574f2d885a72c4c2c7a2d2.jpg",
-      "open_date": "2026-12-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "66cf0db7781248a4",
       "title": "제네시스박의 부동산 세금 트렌드 2027",
       "author": "박민수(제네시스박)",
       "cover": "https://image.millie.co.kr/service/cover/180187928/3faa9c5384954b1b96f204c3730e0255.jpg",
       "open_date": "2026-11-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "2c968bde22b04a51",
-      "title": "언니, 재테크가 뭐야? [짠테크편]",
-      "author": "밀리의서재",
-      "cover": "https://image.millie.co.kr/service/cover/180187594/2b2867b67bb64c8a99d7e80b35cf1187.jpg",
-      "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -353,11 +323,41 @@
       "is_comic": false
     },
     {
-      "id": "79621e9cd0264150",
-      "title": "첫사랑 혼밥식당",
-      "author": "범유진",
-      "cover": "https://image.millie.co.kr/service/cover/180188384/ed926c99440942c9b56e398a46bc3982.jpg",
-      "open_date": "2026-11-18",
+      "id": "464ce10057cf4a0a",
+      "title": "어린이수학동아 Vol.16 : 2026.08.15",
+      "author": "어린이수학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185222/62afb8621ccb406e984803599fa2281f.jpg",
+      "open_date": "2026-11-16",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "8c14101ee7394911",
+      "title": "4×4의 세계",
+      "author": "조우리 지음 / 노인경 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180185480/a3728fc3396c46a4a5a1c9fde5c972d8.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "e5e8d7fe0ed24982",
+      "title": "기억의 무늬",
+      "author": "백희성",
+      "cover": "https://image.millie.co.kr/service/cover/180187926/2830764b45574f2d885a72c4c2c7a2d2.jpg",
+      "open_date": "2026-12-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "2c968bde22b04a51",
+      "title": "언니, 재테크가 뭐야? [짠테크편]",
+      "author": "밀리의서재",
+      "cover": "https://image.millie.co.kr/service/cover/180187594/2b2867b67bb64c8a99d7e80b35cf1187.jpg",
+      "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false

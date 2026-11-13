@@ -1179,7 +1179,7 @@
             null,
             41,
             17,
-            31
+            32
           ]
         }
       }
@@ -4829,7 +4829,7 @@
             47,
             31,
             31,
-            45
+            46
           ]
         }
       }
@@ -8479,7 +8479,7 @@
             27,
             20,
             33,
-            35
+            36
           ]
         }
       }
@@ -33299,7 +33299,7 @@
             42,
             37,
             null,
-            43
+            44
           ]
         }
       }
@@ -38409,7 +38409,7 @@
             null,
             null,
             null,
-            48
+            49
           ]
         }
       }
@@ -174554,7 +174554,7 @@
             null,
             null,
             null,
-            39
+            40
           ]
         }
       }
@@ -246459,7 +246459,7 @@
             13,
             12,
             25,
-            37
+            38
           ]
         }
       }
@@ -255949,7 +255949,7 @@
             null,
             34,
             49,
-            36
+            37
           ]
         }
       }
@@ -372384,7 +372384,7 @@
             46,
             44,
             43,
-            44
+            45
           ]
         }
       }
@@ -511814,7 +511814,7 @@
             44,
             32,
             28,
-            47
+            48
           ]
         }
       }
@@ -570579,7 +570579,7 @@
             39,
             33,
             24,
-            33
+            34
           ]
         }
       }
@@ -657084,7 +657084,7 @@
             null,
             42,
             40,
-            34
+            35
           ]
         }
       }
@@ -683729,7 +683729,7 @@
             26,
             24,
             39,
-            42
+            43
           ]
         }
       }
@@ -696504,7 +696504,7 @@
             null,
             49,
             null,
-            46
+            47
           ]
         }
       }
@@ -701979,7 +701979,7 @@
             null,
             null,
             9,
-            38
+            39
           ]
         }
       }
@@ -702344,7 +702344,7 @@
             null,
             null,
             10,
-            29
+            30
           ]
         }
       }
@@ -702709,7 +702709,7 @@
             null,
             null,
             11,
-            40
+            41
           ]
         }
       }
@@ -704899,7 +704899,7 @@
             null,
             null,
             41,
-            30
+            31
           ]
         }
       }
@@ -710009,7 +710009,7 @@
             null,
             null,
             null,
-            32
+            33
           ]
         }
       }
@@ -710374,7 +710374,7 @@
             null,
             null,
             null,
-            41
+            42
           ]
         }
       }
@@ -710739,7 +710739,7 @@
             null,
             null,
             null,
-            49
+            50
           ]
         }
       }
@@ -711835,6 +711835,371 @@
             null,
             null,
             null
+          ]
+        }
+      }
+    },
+    "나는나를육각형으로디자인하기로했다": {
+      "title": "나는 나를 육각형으로 디자인하기로 했다",
+      "author": "박희선 저",
+      "pub": "",
+      "series": {
+        "all": {
+          "kyobo_unlimited": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "kyobo_premium": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "millie": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "yes24_crema": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            29
           ]
         }
       }
