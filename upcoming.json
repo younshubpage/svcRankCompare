@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T12:28:49.655306+09:00",
-  "count": 36,
+  "updated": "2026-11-14T08:08:35.192833+09:00",
+  "count": 44,
   "books": [
     {
       "id": "1fddd4dd6d584861",
@@ -113,16 +113,6 @@
       "is_comic": false
     },
     {
-      "id": "161e0e5ff72246e7",
-      "title": "고양이에게는 날씨의 냄새가 난다",
-      "author": "나쓰나기 소라 지음 / 정혜주 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180185571/0108eae1149949ccaa7f41e51cccae87.jpg",
-      "open_date": "2026-11-14",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "9c1e6ffebdf848f8",
       "title": "캠퍼스 드라이버 1: 슈퍼매드",
       "author": "C.S.퀼 지음 / 차은화 옮김",
@@ -163,22 +153,22 @@
       "is_comic": false
     },
     {
-      "id": "527ef753a7b54e03",
-      "title": "건물주 아빠, 월급쟁이 아빠",
-      "author": "영끌남",
-      "cover": "https://image.millie.co.kr/service/cover/180186331/556033b1ac694442bf3286d541647d79.jpg",
-      "open_date": "2026-11-21",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "3b3f399b2c114197",
       "title": "세입자",
       "author": "프리다 맥파든 지음 / 이경아 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180185051/74ac54d47ed844a5be448e627fb1d5e3.jpg",
       "open_date": "2026-12-21",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "527ef753a7b54e03",
+      "title": "건물주 아빠, 월급쟁이 아빠",
+      "author": "영끌남",
+      "cover": "https://image.millie.co.kr/service/cover/180186331/556033b1ac694442bf3286d541647d79.jpg",
+      "open_date": "2026-11-21",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -323,12 +313,12 @@
       "is_comic": false
     },
     {
-      "id": "464ce10057cf4a0a",
-      "title": "어린이수학동아 Vol.16 : 2026.08.15",
-      "author": "어린이수학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185222/62afb8621ccb406e984803599fa2281f.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": false,
+      "id": "e5e8d7fe0ed24982",
+      "title": "기억의 무늬",
+      "author": "백희성",
+      "cover": "https://image.millie.co.kr/service/cover/180187926/2830764b45574f2d885a72c4c2c7a2d2.jpg",
+      "open_date": "2026-12-09",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -343,12 +333,12 @@
       "is_comic": false
     },
     {
-      "id": "e5e8d7fe0ed24982",
-      "title": "기억의 무늬",
-      "author": "백희성",
-      "cover": "https://image.millie.co.kr/service/cover/180187926/2830764b45574f2d885a72c4c2c7a2d2.jpg",
-      "open_date": "2026-12-09",
-      "is_audiobook": true,
+      "id": "464ce10057cf4a0a",
+      "title": "어린이수학동아 Vol.16 : 2026.08.15",
+      "author": "어린이수학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185222/62afb8621ccb406e984803599fa2281f.jpg",
+      "open_date": "2026-11-16",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -358,6 +348,96 @@
       "author": "밀리의서재",
       "cover": "https://image.millie.co.kr/service/cover/180187594/2b2867b67bb64c8a99d7e80b35cf1187.jpg",
       "open_date": "2026-11-16",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "49ee029060fb4cfb",
+      "title": "세네카 인생수업: 죽음을 두려워하기 전에 제대로 살지 못한 삶을 두려워하라",
+      "author": "세네카 지음 / 김지민 엮음",
+      "cover": "https://image.millie.co.kr/service/cover/180187504/a5ebe4b43bba400989382d026babe15c.jpg",
+      "open_date": "2026-11-28",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ccbab1c9afd444dc",
+      "title": "바다를 엿보다",
+      "author": "이라 세쓰나 지음 / 황요찬 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180187304/e9c5e6a3fada4c99a98fab695e2413eb.jpg",
+      "open_date": "2026-11-29",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "101b27ffb4e945da",
+      "title": "러브버그물풍선폭탄사태",
+      "author": "임희강",
+      "cover": "https://image.millie.co.kr/service/cover/180187200/6d25e57465834d1fa04edf5d67d0bf08.jpg",
+      "open_date": "2026-11-27",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ec83635af9344dc1",
+      "title": "외식경영 Vol. 261 흑돼지",
+      "author": "외식경영 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185722/3b551ed0dc874c9eb349493086f74cfa.jpg",
+      "open_date": "2026-11-15",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "cc8c2f0d17db49f0",
+      "title": "리더의 AI 노트",
+      "author": "김지현",
+      "cover": "https://image.millie.co.kr/service/cover/180187718/186e2a7af07c4713b660e68c2df116a5.jpg",
+      "open_date": "2026-11-26",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "0629a05676194899",
+      "title": "브라보 마이 라이프(2026년 11월호)",
+      "author": "브라보 마이 라이프",
+      "cover": "https://image.millie.co.kr/service/cover/180185672/e09b35faa94e4388b838183fb2f09cfa.jpg",
+      "open_date": "2026-11-15",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ed5771d31ad648b1",
+      "title": "박준면의 낯가리는 레시피",
+      "author": "박준면",
+      "cover": "https://image.millie.co.kr/service/cover/180185691/eff6f006b4984fae8ab4b292a06d37da.jpg",
+      "open_date": "2026-11-24",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "4deaac3aa8424068",
+      "title": "THE 남양주 2026년 11월호",
+      "author": "남양주시청",
+      "cover": "https://image.millie.co.kr/service/cover/180185539/eaf795136f1a418bb8c1b7c3fc35899d.jpg",
+      "open_date": "2026-11-15",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "b0c1aa590f484f0d",
+      "title": "우먼센스 2026년 11월호",
+      "author": "우먼센스 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185632/65e4957a7a5548c2a1c219af18bc831a.jpg",
+      "open_date": "2026-11-15",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
