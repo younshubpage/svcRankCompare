@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T12:25:00.200916+09:00",
-  "count": 44,
+  "updated": "2026-11-15T08:08:32.219883+09:00",
+  "count": 39,
   "books": [
     {
       "id": "1fddd4dd6d584861",
@@ -128,16 +128,6 @@
       "author": "박용우",
       "cover": "https://image.millie.co.kr/service/cover/180186959/222fe22c7fc24677b40e75be7a2c7d60.jpg",
       "open_date": "2026-11-21",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "b33ed50278254be6",
-      "title": "나는 나를 육각형으로 디자인하기로 했다",
-      "author": "박희선",
-      "cover": "https://image.millie.co.kr/service/cover/180185721/b3558064d47645219cda11780504b446.jpg",
-      "open_date": "2026-11-15",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -323,16 +313,6 @@
       "is_comic": false
     },
     {
-      "id": "464ce10057cf4a0a",
-      "title": "어린이수학동아 Vol.16 : 2026.08.15",
-      "author": "어린이수학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185222/62afb8621ccb406e984803599fa2281f.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "8c14101ee7394911",
       "title": "4×4의 세계",
       "author": "조우리 지음 / 노인경 그림",
@@ -343,31 +323,21 @@
       "is_comic": false
     },
     {
-      "id": "2c968bde22b04a51",
-      "title": "언니, 재테크가 뭐야? [짠테크편]",
-      "author": "밀리의서재",
-      "cover": "https://image.millie.co.kr/service/cover/180187594/2b2867b67bb64c8a99d7e80b35cf1187.jpg",
+      "id": "464ce10057cf4a0a",
+      "title": "어린이수학동아 Vol.16 : 2026.08.15",
+      "author": "어린이수학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185222/62afb8621ccb406e984803599fa2281f.jpg",
       "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "101b27ffb4e945da",
-      "title": "러브버그물풍선폭탄사태",
-      "author": "임희강",
-      "cover": "https://image.millie.co.kr/service/cover/180187200/6d25e57465834d1fa04edf5d67d0bf08.jpg",
-      "open_date": "2026-11-27",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "49ee029060fb4cfb",
-      "title": "세네카 인생수업: 죽음을 두려워하기 전에 제대로 살지 못한 삶을 두려워하라",
-      "author": "세네카 지음 / 김지민 엮음",
-      "cover": "https://image.millie.co.kr/service/cover/180187504/a5ebe4b43bba400989382d026babe15c.jpg",
-      "open_date": "2026-11-28",
+      "id": "2c968bde22b04a51",
+      "title": "언니, 재테크가 뭐야? [짠테크편]",
+      "author": "밀리의서재",
+      "cover": "https://image.millie.co.kr/service/cover/180187594/2b2867b67bb64c8a99d7e80b35cf1187.jpg",
+      "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -383,51 +353,31 @@
       "is_comic": false
     },
     {
+      "id": "49ee029060fb4cfb",
+      "title": "세네카 인생수업: 죽음을 두려워하기 전에 제대로 살지 못한 삶을 두려워하라",
+      "author": "세네카 지음 / 김지민 엮음",
+      "cover": "https://image.millie.co.kr/service/cover/180187504/a5ebe4b43bba400989382d026babe15c.jpg",
+      "open_date": "2026-11-28",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "101b27ffb4e945da",
+      "title": "러브버그물풍선폭탄사태",
+      "author": "임희강",
+      "cover": "https://image.millie.co.kr/service/cover/180187200/6d25e57465834d1fa04edf5d67d0bf08.jpg",
+      "open_date": "2026-11-27",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "ed5771d31ad648b1",
       "title": "박준면의 낯가리는 레시피",
       "author": "박준면",
       "cover": "https://image.millie.co.kr/service/cover/180185691/eff6f006b4984fae8ab4b292a06d37da.jpg",
       "open_date": "2026-11-24",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "4deaac3aa8424068",
-      "title": "THE 남양주 2026년 11월호",
-      "author": "남양주시청",
-      "cover": "https://image.millie.co.kr/service/cover/180185539/eaf795136f1a418bb8c1b7c3fc35899d.jpg",
-      "open_date": "2026-11-15",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "b0c1aa590f484f0d",
-      "title": "우먼센스 2026년 11월호",
-      "author": "우먼센스 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185632/65e4957a7a5548c2a1c219af18bc831a.jpg",
-      "open_date": "2026-11-15",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "0629a05676194899",
-      "title": "브라보 마이 라이프(2026년 11월호)",
-      "author": "브라보 마이 라이프",
-      "cover": "https://image.millie.co.kr/service/cover/180185672/e09b35faa94e4388b838183fb2f09cfa.jpg",
-      "open_date": "2026-11-15",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "ec83635af9344dc1",
-      "title": "외식경영 Vol. 261 흑돼지",
-      "author": "외식경영 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185722/3b551ed0dc874c9eb349493086f74cfa.jpg",
-      "open_date": "2026-11-15",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
