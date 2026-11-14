@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:08:35.192833+09:00",
+  "updated": "2026-11-14T12:25:00.200916+09:00",
   "count": 44,
   "books": [
     {
@@ -83,22 +83,22 @@
       "is_comic": false
     },
     {
-      "id": "3cc6f41a72904eb3",
-      "title": "머니 트렌드 2027",
-      "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
-      "cover": "https://image.millie.co.kr/service/cover/180186327/6d8eae089aee4f7586fd19747da9c3e4.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "e46a726f99744c12",
       "title": "돈으로 자유를 사라",
       "author": "댄 록 지음 / 박영준 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180186969/01e99ebf2488457e93e1f4919867b3f0.jpg",
       "open_date": "2026-11-18",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3cc6f41a72904eb3",
+      "title": "머니 트렌드 2027",
+      "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
+      "cover": "https://image.millie.co.kr/service/cover/180186327/6d8eae089aee4f7586fd19747da9c3e4.jpg",
+      "open_date": "2026-11-18",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -153,12 +153,12 @@
       "is_comic": false
     },
     {
-      "id": "3b3f399b2c114197",
-      "title": "세입자",
-      "author": "프리다 맥파든 지음 / 이경아 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180185051/74ac54d47ed844a5be448e627fb1d5e3.jpg",
-      "open_date": "2026-12-21",
-      "is_audiobook": true,
+      "id": "51c489e38c0f4673",
+      "title": "경성 활자 미스터리",
+      "author": "이미정",
+      "cover": "https://image.millie.co.kr/service/cover/180187641/7d37fd4b7d90453fb05f7e09bd988523.jpg",
+      "open_date": "2026-12-03",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -173,12 +173,12 @@
       "is_comic": false
     },
     {
-      "id": "51c489e38c0f4673",
-      "title": "경성 활자 미스터리",
-      "author": "이미정",
-      "cover": "https://image.millie.co.kr/service/cover/180187641/7d37fd4b7d90453fb05f7e09bd988523.jpg",
-      "open_date": "2026-12-03",
-      "is_audiobook": false,
+      "id": "3b3f399b2c114197",
+      "title": "세입자",
+      "author": "프리다 맥파든 지음 / 이경아 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180185051/74ac54d47ed844a5be448e627fb1d5e3.jpg",
+      "open_date": "2026-12-21",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -193,20 +193,20 @@
       "is_comic": false
     },
     {
-      "id": "890b3659a0cf4dc9",
-      "title": "빌 브라이슨 발칙한 미국 횡단기",
-      "author": "빌 브라이슨 지음 / 권상미 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186967/d789390da2a047bdaf4a84d1bed1bd17.jpg",
+      "id": "048bb95b32074148",
+      "title": "어린이과학동아 Vol.16 : 2026.08.15",
+      "author": "어린이과학동아 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
       "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "048bb95b32074148",
-      "title": "어린이과학동아 Vol.16 : 2026.08.15",
-      "author": "어린이과학동아 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185219/5bfc40d1eaa24845a206c90734e849fd.jpg",
+      "id": "890b3659a0cf4dc9",
+      "title": "빌 브라이슨 발칙한 미국 횡단기",
+      "author": "빌 브라이슨 지음 / 권상미 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186967/d789390da2a047bdaf4a84d1bed1bd17.jpg",
       "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
@@ -233,16 +233,6 @@
       "is_comic": false
     },
     {
-      "id": "823330b920074077",
-      "title": "달걀의 온기",
-      "author": "김혜진",
-      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "9e996027695243ca",
       "title": "관점의 기술",
       "author": "타나카 타츠야 지음 / 김윤경 옮김",
@@ -253,10 +243,10 @@
       "is_comic": false
     },
     {
-      "id": "aa08084351504c63",
-      "title": "믿을 수 있을 만큼의 진실",
-      "author": "김유나",
-      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
+      "id": "823330b920074077",
+      "title": "달걀의 온기",
+      "author": "김혜진",
+      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": true,
       "is_series": false,
@@ -273,12 +263,12 @@
       "is_comic": false
     },
     {
-      "id": "33f32711f7304631",
-      "title": "미국 주도 AI 전쟁",
-      "author": "정관영",
-      "cover": "https://image.millie.co.kr/service/cover/180187545/4dc533562aea4639a1f1db10c91a5b15.jpg",
-      "open_date": "2026-11-20",
-      "is_audiobook": false,
+      "id": "aa08084351504c63",
+      "title": "믿을 수 있을 만큼의 진실",
+      "author": "김유나",
+      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -288,16 +278,6 @@
       "author": "박민수(제네시스박)",
       "cover": "https://image.millie.co.kr/service/cover/180187928/3faa9c5384954b1b96f204c3730e0255.jpg",
       "open_date": "2026-11-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3ba86bc468914fbc",
-      "title": "바로바로 파이썬",
-      "author": "셀레나, 박현규",
-      "cover": "https://image.millie.co.kr/service/cover/180187689/6520335cfceb49b68d66c132e8228e20.jpg",
-      "open_date": "2026-11-30",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -313,21 +293,31 @@
       "is_comic": false
     },
     {
+      "id": "33f32711f7304631",
+      "title": "미국 주도 AI 전쟁",
+      "author": "정관영",
+      "cover": "https://image.millie.co.kr/service/cover/180187545/4dc533562aea4639a1f1db10c91a5b15.jpg",
+      "open_date": "2026-11-20",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3ba86bc468914fbc",
+      "title": "바로바로 파이썬",
+      "author": "셀레나, 박현규",
+      "cover": "https://image.millie.co.kr/service/cover/180187689/6520335cfceb49b68d66c132e8228e20.jpg",
+      "open_date": "2026-11-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "e5e8d7fe0ed24982",
       "title": "기억의 무늬",
       "author": "백희성",
       "cover": "https://image.millie.co.kr/service/cover/180187926/2830764b45574f2d885a72c4c2c7a2d2.jpg",
       "open_date": "2026-12-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "8c14101ee7394911",
-      "title": "4×4의 세계",
-      "author": "조우리 지음 / 노인경 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180185480/a3728fc3396c46a4a5a1c9fde5c972d8.jpg",
-      "open_date": "2026-12-07",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -343,11 +333,31 @@
       "is_comic": false
     },
     {
+      "id": "8c14101ee7394911",
+      "title": "4×4의 세계",
+      "author": "조우리 지음 / 노인경 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180185480/a3728fc3396c46a4a5a1c9fde5c972d8.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "2c968bde22b04a51",
       "title": "언니, 재테크가 뭐야? [짠테크편]",
       "author": "밀리의서재",
       "cover": "https://image.millie.co.kr/service/cover/180187594/2b2867b67bb64c8a99d7e80b35cf1187.jpg",
       "open_date": "2026-11-16",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "101b27ffb4e945da",
+      "title": "러브버그물풍선폭탄사태",
+      "author": "임희강",
+      "cover": "https://image.millie.co.kr/service/cover/180187200/6d25e57465834d1fa04edf5d67d0bf08.jpg",
+      "open_date": "2026-11-27",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -368,46 +378,6 @@
       "author": "이라 세쓰나 지음 / 황요찬 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180187304/e9c5e6a3fada4c99a98fab695e2413eb.jpg",
       "open_date": "2026-11-29",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "101b27ffb4e945da",
-      "title": "러브버그물풍선폭탄사태",
-      "author": "임희강",
-      "cover": "https://image.millie.co.kr/service/cover/180187200/6d25e57465834d1fa04edf5d67d0bf08.jpg",
-      "open_date": "2026-11-27",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "ec83635af9344dc1",
-      "title": "외식경영 Vol. 261 흑돼지",
-      "author": "외식경영 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180185722/3b551ed0dc874c9eb349493086f74cfa.jpg",
-      "open_date": "2026-11-15",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "cc8c2f0d17db49f0",
-      "title": "리더의 AI 노트",
-      "author": "김지현",
-      "cover": "https://image.millie.co.kr/service/cover/180187718/186e2a7af07c4713b660e68c2df116a5.jpg",
-      "open_date": "2026-11-26",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "0629a05676194899",
-      "title": "브라보 마이 라이프(2026년 11월호)",
-      "author": "브라보 마이 라이프",
-      "cover": "https://image.millie.co.kr/service/cover/180185672/e09b35faa94e4388b838183fb2f09cfa.jpg",
-      "open_date": "2026-11-15",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -438,6 +408,36 @@
       "author": "우먼센스 편집부",
       "cover": "https://image.millie.co.kr/service/cover/180185632/65e4957a7a5548c2a1c219af18bc831a.jpg",
       "open_date": "2026-11-15",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "0629a05676194899",
+      "title": "브라보 마이 라이프(2026년 11월호)",
+      "author": "브라보 마이 라이프",
+      "cover": "https://image.millie.co.kr/service/cover/180185672/e09b35faa94e4388b838183fb2f09cfa.jpg",
+      "open_date": "2026-11-15",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ec83635af9344dc1",
+      "title": "외식경영 Vol. 261 흑돼지",
+      "author": "외식경영 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185722/3b551ed0dc874c9eb349493086f74cfa.jpg",
+      "open_date": "2026-11-15",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "cc8c2f0d17db49f0",
+      "title": "리더의 AI 노트",
+      "author": "김지현",
+      "cover": "https://image.millie.co.kr/service/cover/180187718/186e2a7af07c4713b660e68c2df116a5.jpg",
+      "open_date": "2026-11-26",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
