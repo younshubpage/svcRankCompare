@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T08:08:32.219883+09:00",
+  "updated": "2026-11-15T11:53:38.008010+09:00",
   "count": 39,
   "books": [
     {
@@ -193,6 +193,16 @@
       "is_comic": false
     },
     {
+      "id": "9e996027695243ca",
+      "title": "관점의 기술",
+      "author": "타나카 타츠야 지음 / 김윤경 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180187927/479772be1fa24fb2ab84d7db24b9a511.jpg",
+      "open_date": "2026-11-24",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "890b3659a0cf4dc9",
       "title": "빌 브라이슨 발칙한 미국 횡단기",
       "author": "빌 브라이슨 지음 / 권상미 옮김",
@@ -223,11 +233,11 @@
       "is_comic": false
     },
     {
-      "id": "9e996027695243ca",
-      "title": "관점의 기술",
-      "author": "타나카 타츠야 지음 / 김윤경 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180187927/479772be1fa24fb2ab84d7db24b9a511.jpg",
-      "open_date": "2026-11-24",
+      "id": "79621e9cd0264150",
+      "title": "첫사랑 혼밥식당",
+      "author": "범유진",
+      "cover": "https://image.millie.co.kr/service/cover/180188384/ed926c99440942c9b56e398a46bc3982.jpg",
+      "open_date": "2026-11-18",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -243,31 +253,11 @@
       "is_comic": false
     },
     {
-      "id": "79621e9cd0264150",
-      "title": "첫사랑 혼밥식당",
-      "author": "범유진",
-      "cover": "https://image.millie.co.kr/service/cover/180188384/ed926c99440942c9b56e398a46bc3982.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "aa08084351504c63",
-      "title": "믿을 수 있을 만큼의 진실",
-      "author": "김유나",
-      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "66cf0db7781248a4",
-      "title": "제네시스박의 부동산 세금 트렌드 2027",
-      "author": "박민수(제네시스박)",
-      "cover": "https://image.millie.co.kr/service/cover/180187928/3faa9c5384954b1b96f204c3730e0255.jpg",
-      "open_date": "2026-11-23",
+      "id": "49ee029060fb4cfb",
+      "title": "세네카 인생수업: 죽음을 두려워하기 전에 제대로 살지 못한 삶을 두려워하라",
+      "author": "세네카 지음 / 김지민 엮음",
+      "cover": "https://image.millie.co.kr/service/cover/180187504/a5ebe4b43bba400989382d026babe15c.jpg",
+      "open_date": "2026-11-28",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -283,11 +273,31 @@
       "is_comic": false
     },
     {
-      "id": "33f32711f7304631",
-      "title": "미국 주도 AI 전쟁",
-      "author": "정관영",
-      "cover": "https://image.millie.co.kr/service/cover/180187545/4dc533562aea4639a1f1db10c91a5b15.jpg",
-      "open_date": "2026-11-20",
+      "id": "66cf0db7781248a4",
+      "title": "제네시스박의 부동산 세금 트렌드 2027",
+      "author": "박민수(제네시스박)",
+      "cover": "https://image.millie.co.kr/service/cover/180187928/3faa9c5384954b1b96f204c3730e0255.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "aa08084351504c63",
+      "title": "믿을 수 있을 만큼의 진실",
+      "author": "김유나",
+      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "101b27ffb4e945da",
+      "title": "러브버그물풍선폭탄사태",
+      "author": "임희강",
+      "cover": "https://image.millie.co.kr/service/cover/180187200/6d25e57465834d1fa04edf5d67d0bf08.jpg",
+      "open_date": "2026-11-27",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -298,6 +308,36 @@
       "author": "셀레나, 박현규",
       "cover": "https://image.millie.co.kr/service/cover/180187689/6520335cfceb49b68d66c132e8228e20.jpg",
       "open_date": "2026-11-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "33f32711f7304631",
+      "title": "미국 주도 AI 전쟁",
+      "author": "정관영",
+      "cover": "https://image.millie.co.kr/service/cover/180187545/4dc533562aea4639a1f1db10c91a5b15.jpg",
+      "open_date": "2026-11-20",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ed5771d31ad648b1",
+      "title": "박준면의 낯가리는 레시피",
+      "author": "박준면",
+      "cover": "https://image.millie.co.kr/service/cover/180185691/eff6f006b4984fae8ab4b292a06d37da.jpg",
+      "open_date": "2026-11-24",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ccbab1c9afd444dc",
+      "title": "바다를 엿보다",
+      "author": "이라 세쓰나 지음 / 황요찬 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180187304/e9c5e6a3fada4c99a98fab695e2413eb.jpg",
+      "open_date": "2026-11-29",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -333,61 +373,21 @@
       "is_comic": false
     },
     {
-      "id": "2c968bde22b04a51",
-      "title": "언니, 재테크가 뭐야? [짠테크편]",
-      "author": "밀리의서재",
-      "cover": "https://image.millie.co.kr/service/cover/180187594/2b2867b67bb64c8a99d7e80b35cf1187.jpg",
-      "open_date": "2026-11-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "ccbab1c9afd444dc",
-      "title": "바다를 엿보다",
-      "author": "이라 세쓰나 지음 / 황요찬 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180187304/e9c5e6a3fada4c99a98fab695e2413eb.jpg",
-      "open_date": "2026-11-29",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "49ee029060fb4cfb",
-      "title": "세네카 인생수업: 죽음을 두려워하기 전에 제대로 살지 못한 삶을 두려워하라",
-      "author": "세네카 지음 / 김지민 엮음",
-      "cover": "https://image.millie.co.kr/service/cover/180187504/a5ebe4b43bba400989382d026babe15c.jpg",
-      "open_date": "2026-11-28",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "101b27ffb4e945da",
-      "title": "러브버그물풍선폭탄사태",
-      "author": "임희강",
-      "cover": "https://image.millie.co.kr/service/cover/180187200/6d25e57465834d1fa04edf5d67d0bf08.jpg",
-      "open_date": "2026-11-27",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "ed5771d31ad648b1",
-      "title": "박준면의 낯가리는 레시피",
-      "author": "박준면",
-      "cover": "https://image.millie.co.kr/service/cover/180185691/eff6f006b4984fae8ab4b292a06d37da.jpg",
-      "open_date": "2026-11-24",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "cc8c2f0d17db49f0",
       "title": "리더의 AI 노트",
       "author": "김지현",
       "cover": "https://image.millie.co.kr/service/cover/180187718/186e2a7af07c4713b660e68c2df116a5.jpg",
       "open_date": "2026-11-26",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "2c968bde22b04a51",
+      "title": "언니, 재테크가 뭐야? [짠테크편]",
+      "author": "밀리의서재",
+      "cover": "https://image.millie.co.kr/service/cover/180187594/2b2867b67bb64c8a99d7e80b35cf1187.jpg",
+      "open_date": "2026-11-16",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
