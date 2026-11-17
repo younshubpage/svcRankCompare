@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T14:09:00.355381+09:00",
-  "count": 45,
+  "updated": "2026-11-18T08:08:00.334427+09:00",
+  "count": 36,
   "books": [
     {
       "id": "1c0bc2ab89534287",
@@ -28,26 +28,6 @@
       "author": "이동원",
       "cover": "https://image.millie.co.kr/service/cover/180183517/221a929ebd184701875a23651a7e69d8.jpg",
       "open_date": "2026-11-23",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "e46a726f99744c12",
-      "title": "돈으로 자유를 사라",
-      "author": "댄 록 지음 / 박영준 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186969/01e99ebf2488457e93e1f4919867b3f0.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3cc6f41a72904eb3",
-      "title": "머니 트렌드 2027",
-      "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
-      "cover": "https://image.millie.co.kr/service/cover/180186327/6d8eae089aee4f7586fd19747da9c3e4.jpg",
-      "open_date": "2026-11-18",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -103,21 +83,21 @@
       "is_comic": false
     },
     {
-      "id": "49ee029060fb4cfb",
-      "title": "세네카 인생수업: 죽음을 두려워하기 전에 제대로 살지 못한 삶을 두려워하라",
-      "author": "세네카 지음 / 김지민 엮음",
-      "cover": "https://image.millie.co.kr/service/cover/180187504/a5ebe4b43bba400989382d026babe15c.jpg",
-      "open_date": "2026-11-28",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "9e996027695243ca",
       "title": "관점의 기술",
       "author": "타나카 타츠야 지음 / 김윤경 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180187927/479772be1fa24fb2ab84d7db24b9a511.jpg",
       "open_date": "2026-11-24",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "49ee029060fb4cfb",
+      "title": "세네카 인생수업: 죽음을 두려워하기 전에 제대로 살지 못한 삶을 두려워하라",
+      "author": "세네카 지음 / 김지민 엮음",
+      "cover": "https://image.millie.co.kr/service/cover/180187504/a5ebe4b43bba400989382d026babe15c.jpg",
+      "open_date": "2026-11-28",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -168,16 +148,6 @@
       "author": "임희강",
       "cover": "https://image.millie.co.kr/service/cover/180187200/6d25e57465834d1fa04edf5d67d0bf08.jpg",
       "open_date": "2026-11-27",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "79621e9cd0264150",
-      "title": "첫사랑 혼밥식당",
-      "author": "범유진",
-      "cover": "https://image.millie.co.kr/service/cover/180188384/ed926c99440942c9b56e398a46bc3982.jpg",
-      "open_date": "2026-11-18",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -263,22 +233,22 @@
       "is_comic": false
     },
     {
-      "id": "e5e8d7fe0ed24982",
-      "title": "기억의 무늬",
-      "author": "백희성",
-      "cover": "https://image.millie.co.kr/service/cover/180187926/2830764b45574f2d885a72c4c2c7a2d2.jpg",
-      "open_date": "2026-12-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "33f32711f7304631",
       "title": "미국 주도 AI 전쟁",
       "author": "정관영",
       "cover": "https://image.millie.co.kr/service/cover/180187545/4dc533562aea4639a1f1db10c91a5b15.jpg",
       "open_date": "2026-11-20",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "e5e8d7fe0ed24982",
+      "title": "기억의 무늬",
+      "author": "백희성",
+      "cover": "https://image.millie.co.kr/service/cover/180187926/2830764b45574f2d885a72c4c2c7a2d2.jpg",
+      "open_date": "2026-12-09",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -303,20 +273,20 @@
       "is_comic": false
     },
     {
-      "id": "751bf2e400c04f56",
-      "title": "침팬지의 친구 제인 구달",
-      "author": "김유리 지음 / 이갑규 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187496/e55651b9a9d54637b555e5e308e5da45.jpg",
+      "id": "9f90182e921c4d13",
+      "title": "무사가 되고 싶은 겐지",
+      "author": "이규희 지음 / 오은하 그림 / 김은숙 감수",
+      "cover": "https://image.millie.co.kr/service/cover/180187494/238e4cac147746ab85d7477b7332a3be.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "c5d90b62bfad4d8c",
-      "title": "백제를 우뚝 세운 근초고왕",
-      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187491/2fe8c5a32cb04d869ea1c61ca6e4002c.jpg",
+      "id": "751bf2e400c04f56",
+      "title": "침팬지의 친구 제인 구달",
+      "author": "김유리 지음 / 이갑규 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187496/e55651b9a9d54637b555e5e308e5da45.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": false,
       "is_series": false,
@@ -333,122 +303,62 @@
       "is_comic": false
     },
     {
-      "id": "9f90182e921c4d13",
-      "title": "무사가 되고 싶은 겐지",
-      "author": "이규희 지음 / 오은하 그림 / 김은숙 감수",
-      "cover": "https://image.millie.co.kr/service/cover/180187494/238e4cac147746ab85d7477b7332a3be.jpg",
+      "id": "c5d90b62bfad4d8c",
+      "title": "백제를 우뚝 세운 근초고왕",
+      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187491/2fe8c5a32cb04d869ea1c61ca6e4002c.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "fa7657d25df943f9",
-      "title": "영문법이 시급합니다",
-      "author": "케네스 채",
-      "cover": "https://img.millie.co.kr/200x/service/cover/179589440/e060d0e2cd7642df9e6ac05776b8c979.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": false,
+      "id": "cfe7e0766b74425f",
+      "title": "백제를 우뚝 세운 근초고왕",
+      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187498/3d3bb2d709f5483f973d9ca90fa34026.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "c55e576f30604783",
-      "title": "AI 시대의 갈등! 심리학이 답하다",
-      "author": "정성훈",
-      "cover": "https://image.millie.co.kr/service/cover/180178898/d915786210754431b19d2721d53da663.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": false,
+      "id": "a1cbd589fd3a410a",
+      "title": "뽕, 뽑혔네!",
+      "author": "이민진 지음 / 이경국 그림 / 노규식 감수",
+      "cover": "https://image.millie.co.kr/service/cover/180187499/02371146a6c34574ae5fdbca6bc29f7e.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "d4616217ead34695",
-      "title": "지역의 섬돌",
-      "author": "여태훈, 조경국",
-      "cover": "https://image.millie.co.kr/service/cover/180178984/b65d7e20efec41f69a22cbebd1aacb25.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": false,
+      "id": "9bebe3d3edf3435c",
+      "title": "무사가 되고 싶은 겐지",
+      "author": "이규희 지음 / 오은하 그림 / 김은숙 감수",
+      "cover": "https://image.millie.co.kr/service/cover/180187500/6006a637142441f4a8a8b421c5bc52da.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "865435cd57364817",
-      "title": "쉬운정보",
-      "author": "백정연",
-      "cover": "https://image.millie.co.kr/service/cover/180161588/b8d9dc965d13485d8b82193dab979168.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": false,
+      "id": "39053c7406ff4dee",
+      "title": "후루룩 후루룩 짜장면",
+      "author": "조재은 지음 / 조은희 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187501/1d5107fa65a1440c94b9a7689577e7f6.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "90fe47105e1146ec",
-      "title": "찰리 멍거 바이블 완결판",
-      "author": "김재현, 이건",
-      "cover": "https://image.millie.co.kr/service/cover/180174190/f325c4ae140b4673b4d5d706f898eb8f.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "d4299308088244d5",
-      "title": "독일식 진로교육, 마이스터를 만나다",
-      "author": "임진",
-      "cover": "https://image.millie.co.kr/service/cover/180178888/ecd9cd91e6a940bbb6258273cc009cd7.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "6f1eba1139b141ba",
-      "title": "당신은 더 잘 쓰게 된다",
-      "author": "이기원",
-      "cover": "https://image.millie.co.kr/service/cover/180173609/0abe024e33154d0880291aeab7ebb763.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "2b45b7f3821f47f4",
-      "title": "데일리 라이팅: 오늘부터 나는 이런 문장을 쓴다",
-      "author": "백선엽",
-      "cover": "https://image.millie.co.kr/service/cover/180176351/8d93874d4ae645539b0b07dcf8638a1a.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "b9322b11f18a45c5",
-      "title": "일상 질문 사전",
-      "author": "전성원",
-      "cover": "https://image.millie.co.kr/service/cover/180172443/ab37823cd8ba4ed3b41615693997923d.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "2aa3085b23f542f4",
-      "title": "번역의 철학",
-      "author": "데이미언 설스 지음 / 홍한별 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180172441/42fd489f8f4f468884687d846a702fb3.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "5b8d4e3d73b849b2",
-      "title": "스트레인지 아미",
-      "author": "이준호",
-      "cover": "https://image.millie.co.kr/service/cover/180170103/ef1fd2922e6d4ddcb035b03fe3051d78.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": false,
+      "id": "80968133d61c495e",
+      "title": "침팬지의 친구 제인 구달",
+      "author": "김유리 지음 / 이갑규 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187502/811b3020888443ae813f93d92b9028ab.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     }
