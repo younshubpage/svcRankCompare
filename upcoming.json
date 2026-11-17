@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T09:03:15.573408+09:00",
-  "count": 34,
+  "updated": "2026-11-17T14:09:00.355381+09:00",
+  "count": 45,
   "books": [
     {
       "id": "1c0bc2ab89534287",
@@ -63,6 +63,16 @@
       "is_comic": false
     },
     {
+      "id": "51c489e38c0f4673",
+      "title": "경성 활자 미스터리",
+      "author": "이미정",
+      "cover": "https://image.millie.co.kr/service/cover/180187641/7d37fd4b7d90453fb05f7e09bd988523.jpg",
+      "open_date": "2026-12-03",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "9c1e6ffebdf848f8",
       "title": "캠퍼스 드라이버 1: 슈퍼매드",
       "author": "C.S.퀼 지음 / 차은화 옮김",
@@ -83,21 +93,41 @@
       "is_comic": false
     },
     {
-      "id": "51c489e38c0f4673",
-      "title": "경성 활자 미스터리",
-      "author": "이미정",
-      "cover": "https://image.millie.co.kr/service/cover/180187641/7d37fd4b7d90453fb05f7e09bd988523.jpg",
-      "open_date": "2026-12-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "780ed62009a24765",
       "title": "더 레이디 인 더 밴",
       "author": "앨런 베넷 지음 / 류초롱 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180186848/ee53d0b5f6c144c9b4525792f8ca91e2.jpg",
       "open_date": "2026-11-22",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "49ee029060fb4cfb",
+      "title": "세네카 인생수업: 죽음을 두려워하기 전에 제대로 살지 못한 삶을 두려워하라",
+      "author": "세네카 지음 / 김지민 엮음",
+      "cover": "https://image.millie.co.kr/service/cover/180187504/a5ebe4b43bba400989382d026babe15c.jpg",
+      "open_date": "2026-11-28",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9e996027695243ca",
+      "title": "관점의 기술",
+      "author": "타나카 타츠야 지음 / 김윤경 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180187927/479772be1fa24fb2ab84d7db24b9a511.jpg",
+      "open_date": "2026-11-24",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "1d6f804c305f44ff",
+      "title": "일일 반출록",
+      "author": "성해나",
+      "cover": "https://image.millie.co.kr/service/cover/180190829/b896c20741ba4d73b1789a7cd6bfca55.jpg",
+      "open_date": "2026-11-23",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -123,61 +153,11 @@
       "is_comic": false
     },
     {
-      "id": "49ee029060fb4cfb",
-      "title": "세네카 인생수업: 죽음을 두려워하기 전에 제대로 살지 못한 삶을 두려워하라",
-      "author": "세네카 지음 / 김지민 엮음",
-      "cover": "https://image.millie.co.kr/service/cover/180187504/a5ebe4b43bba400989382d026babe15c.jpg",
-      "open_date": "2026-11-28",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9e996027695243ca",
-      "title": "관점의 기술",
-      "author": "타나카 타츠야 지음 / 김윤경 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180187927/479772be1fa24fb2ab84d7db24b9a511.jpg",
-      "open_date": "2026-11-24",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "79621e9cd0264150",
-      "title": "첫사랑 혼밥식당",
-      "author": "범유진",
-      "cover": "https://image.millie.co.kr/service/cover/180188384/ed926c99440942c9b56e398a46bc3982.jpg",
-      "open_date": "2026-11-18",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "823330b920074077",
-      "title": "달걀의 온기",
-      "author": "김혜진",
-      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
+      "id": "5683472c80b14ea1",
+      "title": "방을 치웠을 뿐인데 운이 트이기 시작했다",
+      "author": "마스다 미츠히로 지음 / 장은주 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180190910/2717fbaf894d497db3e2c8feebeb808b.jpg",
       "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "66cf0db7781248a4",
-      "title": "제네시스박의 부동산 세금 트렌드 2027",
-      "author": "박민수(제네시스박)",
-      "cover": "https://image.millie.co.kr/service/cover/180187928/3faa9c5384954b1b96f204c3730e0255.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "0ba765fe36c84b92",
-      "title": "사랑을 읽는 타로카드",
-      "author": "문혜정",
-      "cover": "https://image.millie.co.kr/service/cover/180188273/e3ea921b766848c8bceb44596e1b8a23.jpg",
-      "open_date": "2026-11-25",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -193,22 +173,12 @@
       "is_comic": false
     },
     {
-      "id": "3ba86bc468914fbc",
-      "title": "바로바로 파이썬",
-      "author": "셀레나, 박현규",
-      "cover": "https://image.millie.co.kr/service/cover/180187689/6520335cfceb49b68d66c132e8228e20.jpg",
-      "open_date": "2026-11-30",
+      "id": "79621e9cd0264150",
+      "title": "첫사랑 혼밥식당",
+      "author": "범유진",
+      "cover": "https://image.millie.co.kr/service/cover/180188384/ed926c99440942c9b56e398a46bc3982.jpg",
+      "open_date": "2026-11-18",
       "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "aa08084351504c63",
-      "title": "믿을 수 있을 만큼의 진실",
-      "author": "김유나",
-      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -223,22 +193,12 @@
       "is_comic": false
     },
     {
-      "id": "33f32711f7304631",
-      "title": "미국 주도 AI 전쟁",
-      "author": "정관영",
-      "cover": "https://image.millie.co.kr/service/cover/180187545/4dc533562aea4639a1f1db10c91a5b15.jpg",
-      "open_date": "2026-11-20",
+      "id": "0ba765fe36c84b92",
+      "title": "사랑을 읽는 타로카드",
+      "author": "문혜정",
+      "cover": "https://image.millie.co.kr/service/cover/180188273/e3ea921b766848c8bceb44596e1b8a23.jpg",
+      "open_date": "2026-11-25",
       "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "e5e8d7fe0ed24982",
-      "title": "기억의 무늬",
-      "author": "백희성",
-      "cover": "https://image.millie.co.kr/service/cover/180187926/2830764b45574f2d885a72c4c2c7a2d2.jpg",
-      "open_date": "2026-12-09",
-      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -263,6 +223,66 @@
       "is_comic": false
     },
     {
+      "id": "66cf0db7781248a4",
+      "title": "제네시스박의 부동산 세금 트렌드 2027",
+      "author": "박민수(제네시스박)",
+      "cover": "https://image.millie.co.kr/service/cover/180187928/3faa9c5384954b1b96f204c3730e0255.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "823330b920074077",
+      "title": "달걀의 온기",
+      "author": "김혜진",
+      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3ba86bc468914fbc",
+      "title": "바로바로 파이썬",
+      "author": "셀레나, 박현규",
+      "cover": "https://image.millie.co.kr/service/cover/180187689/6520335cfceb49b68d66c132e8228e20.jpg",
+      "open_date": "2026-11-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "aa08084351504c63",
+      "title": "믿을 수 있을 만큼의 진실",
+      "author": "김유나",
+      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "e5e8d7fe0ed24982",
+      "title": "기억의 무늬",
+      "author": "백희성",
+      "cover": "https://image.millie.co.kr/service/cover/180187926/2830764b45574f2d885a72c4c2c7a2d2.jpg",
+      "open_date": "2026-12-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "33f32711f7304631",
+      "title": "미국 주도 AI 전쟁",
+      "author": "정관영",
+      "cover": "https://image.millie.co.kr/service/cover/180187545/4dc533562aea4639a1f1db10c91a5b15.jpg",
+      "open_date": "2026-11-20",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "8c14101ee7394911",
       "title": "4×4의 세계",
       "author": "조우리 지음 / 노인경 그림",
@@ -273,11 +293,21 @@
       "is_comic": false
     },
     {
-      "id": "1d6f804c305f44ff",
-      "title": "일일 반출록",
-      "author": "성해나",
-      "cover": "https://image.millie.co.kr/service/cover/180190829/b896c20741ba4d73b1789a7cd6bfca55.jpg",
-      "open_date": "2026-11-23",
+      "id": "3f966ef7b0f8412c",
+      "title": "후루룩 후루룩 짜장면",
+      "author": "조재은 지음 / 조은희 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187495/df0f9dfd4a4749498e3ac2805628bf0e.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "751bf2e400c04f56",
+      "title": "침팬지의 친구 제인 구달",
+      "author": "김유리 지음 / 이갑규 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187496/e55651b9a9d54637b555e5e308e5da45.jpg",
+      "open_date": "2026-12-07",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -313,31 +343,111 @@
       "is_comic": false
     },
     {
-      "id": "3f966ef7b0f8412c",
-      "title": "후루룩 후루룩 짜장면",
-      "author": "조재은 지음 / 조은희 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187495/df0f9dfd4a4749498e3ac2805628bf0e.jpg",
-      "open_date": "2026-12-07",
+      "id": "fa7657d25df943f9",
+      "title": "영문법이 시급합니다",
+      "author": "케네스 채",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179589440/e060d0e2cd7642df9e6ac05776b8c979.jpg",
+      "open_date": "2026-11-18",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "751bf2e400c04f56",
-      "title": "침팬지의 친구 제인 구달",
-      "author": "김유리 지음 / 이갑규 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187496/e55651b9a9d54637b555e5e308e5da45.jpg",
-      "open_date": "2026-12-07",
+      "id": "c55e576f30604783",
+      "title": "AI 시대의 갈등! 심리학이 답하다",
+      "author": "정성훈",
+      "cover": "https://image.millie.co.kr/service/cover/180178898/d915786210754431b19d2721d53da663.jpg",
+      "open_date": "2026-11-18",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "5683472c80b14ea1",
-      "title": "방을 치웠을 뿐인데 운이 트이기 시작했다",
-      "author": "마스다 미츠히로 지음 / 장은주 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180190910/2717fbaf894d497db3e2c8feebeb808b.jpg",
-      "open_date": "2026-12-07",
+      "id": "d4616217ead34695",
+      "title": "지역의 섬돌",
+      "author": "여태훈, 조경국",
+      "cover": "https://image.millie.co.kr/service/cover/180178984/b65d7e20efec41f69a22cbebd1aacb25.jpg",
+      "open_date": "2026-11-18",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "865435cd57364817",
+      "title": "쉬운정보",
+      "author": "백정연",
+      "cover": "https://image.millie.co.kr/service/cover/180161588/b8d9dc965d13485d8b82193dab979168.jpg",
+      "open_date": "2026-11-18",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "90fe47105e1146ec",
+      "title": "찰리 멍거 바이블 완결판",
+      "author": "김재현, 이건",
+      "cover": "https://image.millie.co.kr/service/cover/180174190/f325c4ae140b4673b4d5d706f898eb8f.jpg",
+      "open_date": "2026-11-18",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "d4299308088244d5",
+      "title": "독일식 진로교육, 마이스터를 만나다",
+      "author": "임진",
+      "cover": "https://image.millie.co.kr/service/cover/180178888/ecd9cd91e6a940bbb6258273cc009cd7.jpg",
+      "open_date": "2026-11-18",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "6f1eba1139b141ba",
+      "title": "당신은 더 잘 쓰게 된다",
+      "author": "이기원",
+      "cover": "https://image.millie.co.kr/service/cover/180173609/0abe024e33154d0880291aeab7ebb763.jpg",
+      "open_date": "2026-11-18",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "2b45b7f3821f47f4",
+      "title": "데일리 라이팅: 오늘부터 나는 이런 문장을 쓴다",
+      "author": "백선엽",
+      "cover": "https://image.millie.co.kr/service/cover/180176351/8d93874d4ae645539b0b07dcf8638a1a.jpg",
+      "open_date": "2026-11-18",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "b9322b11f18a45c5",
+      "title": "일상 질문 사전",
+      "author": "전성원",
+      "cover": "https://image.millie.co.kr/service/cover/180172443/ab37823cd8ba4ed3b41615693997923d.jpg",
+      "open_date": "2026-11-18",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "2aa3085b23f542f4",
+      "title": "번역의 철학",
+      "author": "데이미언 설스 지음 / 홍한별 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180172441/42fd489f8f4f468884687d846a702fb3.jpg",
+      "open_date": "2026-11-18",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "5b8d4e3d73b849b2",
+      "title": "스트레인지 아미",
+      "author": "이준호",
+      "cover": "https://image.millie.co.kr/service/cover/180170103/ef1fd2922e6d4ddcb035b03fe3051d78.jpg",
+      "open_date": "2026-11-18",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
