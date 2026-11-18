@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T13:36:32.225619+09:00",
-  "count": 36,
+  "updated": "2026-11-19T08:46:53.465658+09:00",
+  "count": 35,
   "books": [
     {
       "id": "1c0bc2ab89534287",
@@ -78,16 +78,6 @@
       "author": "타나카 타츠야 지음 / 김윤경 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180187927/479772be1fa24fb2ab84d7db24b9a511.jpg",
       "open_date": "2026-11-24",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9c1e6ffebdf848f8",
-      "title": "캠퍼스 드라이버 1: 슈퍼매드",
-      "author": "C.S.퀼 지음 / 차은화 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186195/205809f2a8a141ea97e3422c7b964b12.jpg",
-      "open_date": "2026-11-19",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -273,6 +263,16 @@
       "is_comic": false
     },
     {
+      "id": "c5d90b62bfad4d8c",
+      "title": "백제를 우뚝 세운 근초고왕",
+      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187491/2fe8c5a32cb04d869ea1c61ca6e4002c.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "c654ee9528c4461b",
       "title": "뽕, 뽑혔네!",
       "author": "이민진 지음 / 이경국 그림 / 노규식 감수",
@@ -349,16 +349,6 @@
       "cover": "https://image.millie.co.kr/service/cover/180187502/811b3020888443ae813f93d92b9028ab.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "c5d90b62bfad4d8c",
-      "title": "백제를 우뚝 세운 근초고왕",
-      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187491/2fe8c5a32cb04d869ea1c61ca6e4002c.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     }
