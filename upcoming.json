@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T09:30:56.494891+09:00",
+  "updated": "2026-11-18T13:36:32.225619+09:00",
   "count": 36,
   "books": [
     {
@@ -33,6 +33,16 @@
       "is_comic": false
     },
     {
+      "id": "1d6f804c305f44ff",
+      "title": "일일 반출록",
+      "author": "성해나",
+      "cover": "https://image.millie.co.kr/service/cover/180190829/b896c20741ba4d73b1789a7cd6bfca55.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "7fb192cc8d124580",
       "title": "우리는 가장 밝은 밤에 헤어졌다",
       "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
@@ -43,11 +53,31 @@
       "is_comic": false
     },
     {
+      "id": "5683472c80b14ea1",
+      "title": "방을 치웠을 뿐인데 운이 트이기 시작했다",
+      "author": "마스다 미츠히로 지음 / 장은주 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180190910/2717fbaf894d497db3e2c8feebeb808b.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "51c489e38c0f4673",
       "title": "경성 활자 미스터리",
       "author": "이미정",
       "cover": "https://image.millie.co.kr/service/cover/180187641/7d37fd4b7d90453fb05f7e09bd988523.jpg",
       "open_date": "2026-12-03",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9e996027695243ca",
+      "title": "관점의 기술",
+      "author": "타나카 타츠야 지음 / 김윤경 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180187927/479772be1fa24fb2ab84d7db24b9a511.jpg",
+      "open_date": "2026-11-24",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -73,26 +103,6 @@
       "is_comic": false
     },
     {
-      "id": "780ed62009a24765",
-      "title": "더 레이디 인 더 밴",
-      "author": "앨런 베넷 지음 / 류초롱 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186848/ee53d0b5f6c144c9b4525792f8ca91e2.jpg",
-      "open_date": "2026-11-22",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9e996027695243ca",
-      "title": "관점의 기술",
-      "author": "타나카 타츠야 지음 / 김윤경 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180187927/479772be1fa24fb2ab84d7db24b9a511.jpg",
-      "open_date": "2026-11-24",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "49ee029060fb4cfb",
       "title": "세네카 인생수업: 죽음을 두려워하기 전에 제대로 살지 못한 삶을 두려워하라",
       "author": "세네카 지음 / 김지민 엮음",
@@ -103,41 +113,11 @@
       "is_comic": false
     },
     {
-      "id": "1d6f804c305f44ff",
-      "title": "일일 반출록",
-      "author": "성해나",
-      "cover": "https://image.millie.co.kr/service/cover/180190829/b896c20741ba4d73b1789a7cd6bfca55.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "527ef753a7b54e03",
-      "title": "건물주 아빠, 월급쟁이 아빠",
-      "author": "영끌남",
-      "cover": "https://image.millie.co.kr/service/cover/180186331/556033b1ac694442bf3286d541647d79.jpg",
-      "open_date": "2026-11-21",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3b3f399b2c114197",
-      "title": "세입자",
-      "author": "프리다 맥파든 지음 / 이경아 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180185051/74ac54d47ed844a5be448e627fb1d5e3.jpg",
-      "open_date": "2026-12-21",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "5683472c80b14ea1",
-      "title": "방을 치웠을 뿐인데 운이 트이기 시작했다",
-      "author": "마스다 미츠히로 지음 / 장은주 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180190910/2717fbaf894d497db3e2c8feebeb808b.jpg",
-      "open_date": "2026-12-07",
+      "id": "780ed62009a24765",
+      "title": "더 레이디 인 더 밴",
+      "author": "앨런 베넷 지음 / 류초롱 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180186848/ee53d0b5f6c144c9b4525792f8ca91e2.jpg",
+      "open_date": "2026-11-22",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -163,11 +143,11 @@
       "is_comic": false
     },
     {
-      "id": "0ba765fe36c84b92",
-      "title": "사랑을 읽는 타로카드",
-      "author": "문혜정",
-      "cover": "https://image.millie.co.kr/service/cover/180188273/e3ea921b766848c8bceb44596e1b8a23.jpg",
-      "open_date": "2026-11-25",
+      "id": "527ef753a7b54e03",
+      "title": "건물주 아빠, 월급쟁이 아빠",
+      "author": "영끌남",
+      "cover": "https://image.millie.co.kr/service/cover/180186331/556033b1ac694442bf3286d541647d79.jpg",
+      "open_date": "2026-11-21",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -179,6 +159,26 @@
       "cover": "https://image.millie.co.kr/service/cover/180185691/eff6f006b4984fae8ab4b292a06d37da.jpg",
       "open_date": "2026-11-24",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "0ba765fe36c84b92",
+      "title": "사랑을 읽는 타로카드",
+      "author": "문혜정",
+      "cover": "https://image.millie.co.kr/service/cover/180188273/e3ea921b766848c8bceb44596e1b8a23.jpg",
+      "open_date": "2026-11-25",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3b3f399b2c114197",
+      "title": "세입자",
+      "author": "프리다 맥파든 지음 / 이경아 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180185051/74ac54d47ed844a5be448e627fb1d5e3.jpg",
+      "open_date": "2026-12-21",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -203,16 +203,6 @@
       "is_comic": false
     },
     {
-      "id": "823330b920074077",
-      "title": "달걀의 온기",
-      "author": "김혜진",
-      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "3ba86bc468914fbc",
       "title": "바로바로 파이썬",
       "author": "셀레나, 박현규",
@@ -223,10 +213,10 @@
       "is_comic": false
     },
     {
-      "id": "aa08084351504c63",
-      "title": "믿을 수 있을 만큼의 진실",
-      "author": "김유나",
-      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
+      "id": "823330b920074077",
+      "title": "달걀의 온기",
+      "author": "김혜진",
+      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": true,
       "is_series": false,
@@ -253,6 +243,16 @@
       "is_comic": false
     },
     {
+      "id": "aa08084351504c63",
+      "title": "믿을 수 있을 만큼의 진실",
+      "author": "김유나",
+      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "8c14101ee7394911",
       "title": "4×4의 세계",
       "author": "조우리 지음 / 노인경 그림",
@@ -273,6 +273,16 @@
       "is_comic": false
     },
     {
+      "id": "c654ee9528c4461b",
+      "title": "뽕, 뽑혔네!",
+      "author": "이민진 지음 / 이경국 그림 / 노규식 감수",
+      "cover": "https://image.millie.co.kr/service/cover/180187492/ecaea1a8d7664398a6ed7818830576f2.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "9f90182e921c4d13",
       "title": "무사가 되고 싶은 겐지",
       "author": "이규희 지음 / 오은하 그림 / 김은숙 감수",
@@ -287,26 +297,6 @@
       "title": "침팬지의 친구 제인 구달",
       "author": "김유리 지음 / 이갑규 그림",
       "cover": "https://image.millie.co.kr/service/cover/180187496/e55651b9a9d54637b555e5e308e5da45.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "c654ee9528c4461b",
-      "title": "뽕, 뽑혔네!",
-      "author": "이민진 지음 / 이경국 그림 / 노규식 감수",
-      "cover": "https://image.millie.co.kr/service/cover/180187492/ecaea1a8d7664398a6ed7818830576f2.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "c5d90b62bfad4d8c",
-      "title": "백제를 우뚝 세운 근초고왕",
-      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187491/2fe8c5a32cb04d869ea1c61ca6e4002c.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": false,
       "is_series": false,
@@ -359,6 +349,16 @@
       "cover": "https://image.millie.co.kr/service/cover/180187502/811b3020888443ae813f93d92b9028ab.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "c5d90b62bfad4d8c",
+      "title": "백제를 우뚝 세운 근초고왕",
+      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187491/2fe8c5a32cb04d869ea1c61ca6e4002c.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     }
