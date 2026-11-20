@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T08:46:08.007881+09:00",
+  "updated": "2026-11-20T13:06:01.970293+09:00",
   "count": 47,
   "books": [
     {
@@ -23,16 +23,6 @@
       "is_comic": false
     },
     {
-      "id": "98cab02f0f074948",
-      "title": "얼굴들",
-      "author": "이동원",
-      "cover": "https://image.millie.co.kr/service/cover/180183517/221a929ebd184701875a23651a7e69d8.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "1d6f804c305f44ff",
       "title": "일일 반출록",
       "author": "성해나",
@@ -43,11 +33,31 @@
       "is_comic": false
     },
     {
+      "id": "98cab02f0f074948",
+      "title": "얼굴들",
+      "author": "이동원",
+      "cover": "https://image.millie.co.kr/service/cover/180183517/221a929ebd184701875a23651a7e69d8.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "5683472c80b14ea1",
       "title": "방을 치웠을 뿐인데 운이 트이기 시작했다",
       "author": "마스다 미츠히로 지음 / 장은주 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180190910/2717fbaf894d497db3e2c8feebeb808b.jpg",
       "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "49ee029060fb4cfb",
+      "title": "세네카 인생수업: 죽음을 두려워하기 전에 제대로 살지 못한 삶을 두려워하라",
+      "author": "세네카 지음 / 김지민 엮음",
+      "cover": "https://image.millie.co.kr/service/cover/180187504/a5ebe4b43bba400989382d026babe15c.jpg",
+      "open_date": "2026-11-28",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -68,16 +78,6 @@
       "author": "이미정",
       "cover": "https://image.millie.co.kr/service/cover/180187641/7d37fd4b7d90453fb05f7e09bd988523.jpg",
       "open_date": "2026-12-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "49ee029060fb4cfb",
-      "title": "세네카 인생수업: 죽음을 두려워하기 전에 제대로 살지 못한 삶을 두려워하라",
-      "author": "세네카 지음 / 김지민 엮음",
-      "cover": "https://image.millie.co.kr/service/cover/180187504/a5ebe4b43bba400989382d026babe15c.jpg",
-      "open_date": "2026-11-28",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -133,16 +133,6 @@
       "is_comic": false
     },
     {
-      "id": "527ef753a7b54e03",
-      "title": "건물주 아빠, 월급쟁이 아빠",
-      "author": "영끌남",
-      "cover": "https://image.millie.co.kr/service/cover/180186331/556033b1ac694442bf3286d541647d79.jpg",
-      "open_date": "2026-11-21",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "ed5771d31ad648b1",
       "title": "박준면의 낯가리는 레시피",
       "author": "박준면",
@@ -168,6 +158,16 @@
       "author": "김지현",
       "cover": "https://image.millie.co.kr/service/cover/180187718/186e2a7af07c4713b660e68c2df116a5.jpg",
       "open_date": "2026-11-26",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "527ef753a7b54e03",
+      "title": "건물주 아빠, 월급쟁이 아빠",
+      "author": "영끌남",
+      "cover": "https://image.millie.co.kr/service/cover/180186331/556033b1ac694442bf3286d541647d79.jpg",
+      "open_date": "2026-11-21",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -233,6 +233,16 @@
       "is_comic": false
     },
     {
+      "id": "6c9429661a9444ff",
+      "title": "일일 반출록",
+      "author": "성해나",
+      "cover": "https://image.millie.co.kr/service/cover/180191178/7f8db32e399c41668f80d1d2304ff399.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "8c14101ee7394911",
       "title": "4×4의 세계",
       "author": "조우리 지음 / 노인경 그림",
@@ -243,40 +253,60 @@
       "is_comic": false
     },
     {
+      "id": "45cb9e76699d4065",
+      "title": "알고리즘 불복종",
+      "author": "주한나",
+      "cover": "https://image.millie.co.kr/service/cover/180190827/16287862eb274a4b8c99f3d4d6ead229.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "816c40b60ed0447f",
+      "title": "주식 공부는 처음이라",
+      "author": "신현욱",
+      "cover": "https://image.millie.co.kr/service/cover/180190811/70dc095568a048c996a26eb2dc1b545d.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "c0df1847d25a4699",
+      "title": "컬러의 감각",
+      "author": "해나 스트롱 지음 / 박예하 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180190826/60726363346e40c090e3c965be4bff2f.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9ca2e010b1e14a43",
+      "title": "자본주의 시스템 해킹 매뉴얼",
+      "author": "전쓰트",
+      "cover": "https://image.millie.co.kr/service/cover/180190873/52708b67ab544aa9a5f9aeb75be5897c.jpg",
+      "open_date": "2026-12-03",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "76a5b79baa7246a2",
+      "title": "남겨진 것들의 기록",
+      "author": "김새별, 전애원",
+      "cover": "https://image.millie.co.kr/service/cover/180192040/44c304a29a2f4243b119d79482962153.jpg",
+      "open_date": "2026-12-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "3f966ef7b0f8412c",
       "title": "후루룩 후루룩 짜장면",
       "author": "조재은 지음 / 조은희 그림",
       "cover": "https://image.millie.co.kr/service/cover/180187495/df0f9dfd4a4749498e3ac2805628bf0e.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9f90182e921c4d13",
-      "title": "무사가 되고 싶은 겐지",
-      "author": "이규희 지음 / 오은하 그림 / 김은숙 감수",
-      "cover": "https://image.millie.co.kr/service/cover/180187494/238e4cac147746ab85d7477b7332a3be.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "c5d90b62bfad4d8c",
-      "title": "백제를 우뚝 세운 근초고왕",
-      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187491/2fe8c5a32cb04d869ea1c61ca6e4002c.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "c654ee9528c4461b",
-      "title": "뽕, 뽑혔네!",
-      "author": "이민진 지음 / 이경국 그림 / 노규식 감수",
-      "cover": "https://image.millie.co.kr/service/cover/180187492/ecaea1a8d7664398a6ed7818830576f2.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": false,
       "is_series": false,
@@ -303,150 +333,10 @@
       "is_comic": false
     },
     {
-      "id": "a1cbd589fd3a410a",
-      "title": "뽕, 뽑혔네!",
-      "author": "이민진 지음 / 이경국 그림 / 노규식 감수",
-      "cover": "https://image.millie.co.kr/service/cover/180187499/02371146a6c34574ae5fdbca6bc29f7e.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9bebe3d3edf3435c",
-      "title": "무사가 되고 싶은 겐지",
-      "author": "이규희 지음 / 오은하 그림 / 김은숙 감수",
-      "cover": "https://image.millie.co.kr/service/cover/180187500/6006a637142441f4a8a8b421c5bc52da.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "39053c7406ff4dee",
-      "title": "후루룩 후루룩 짜장면",
-      "author": "조재은 지음 / 조은희 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187501/1d5107fa65a1440c94b9a7689577e7f6.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "80968133d61c495e",
-      "title": "침팬지의 친구 제인 구달",
-      "author": "김유리 지음 / 이갑규 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187502/811b3020888443ae813f93d92b9028ab.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "76a5b79baa7246a2",
-      "title": "남겨진 것들의 기록",
-      "author": "김새별, 전애원",
-      "cover": "https://image.millie.co.kr/service/cover/180192040/44c304a29a2f4243b119d79482962153.jpg",
-      "open_date": "2026-12-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9ca2e010b1e14a43",
-      "title": "자본주의 시스템 해킹 매뉴얼",
-      "author": "전쓰트",
-      "cover": "https://image.millie.co.kr/service/cover/180190873/52708b67ab544aa9a5f9aeb75be5897c.jpg",
-      "open_date": "2026-12-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "6b58f430721a41aa",
-      "title": "돌고 도는 혈액",
+      "id": "6be1d2c2f4d6442e",
+      "title": "반짝반짝 뇌",
       "author": "조영욱 지음 / 나티 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180190808/4c5b4e6b44844da5ad0f4e9d86a1b9f1.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "78594160f7914122",
-      "title": "아기 면역 이유식 백과",
-      "author": "김지현, 양윤정",
-      "cover": "https://image.millie.co.kr/service/cover/180187480/8677067be8254085b322651822af3a29.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "d558eb70db56453b",
-      "title": "이토록 놀라운 면역의 신비",
-      "author": "신인철",
-      "cover": "https://image.millie.co.kr/service/cover/180187955/4bb6c99d2c51478b870d78dd7fd768ee.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "09e0ead9b7d34db5",
-      "title": "시끌벅적 우리 몸",
-      "author": "박승준 지음 / 서다정 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180190806/3f7af6a6ad3741aa90d5e185bf6497ca.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "6c9429661a9444ff",
-      "title": "일일 반출록",
-      "author": "성해나",
-      "cover": "https://image.millie.co.kr/service/cover/180191178/7f8db32e399c41668f80d1d2304ff399.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "438b363e23d54206",
-      "title": "와글와글 뼈",
-      "author": "박승준 지음 / 안주영 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180190807/15a66a1174e748d9809375d49e0be4d0.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "45cb9e76699d4065",
-      "title": "알고리즘 불복종",
-      "author": "주한나",
-      "cover": "https://image.millie.co.kr/service/cover/180190827/16287862eb274a4b8c99f3d4d6ead229.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "c0df1847d25a4699",
-      "title": "컬러의 감각",
-      "author": "해나 스트롱 지음 / 박예하 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180190826/60726363346e40c090e3c965be4bff2f.jpg",
-      "open_date": "2026-11-23",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "816c40b60ed0447f",
-      "title": "주식 공부는 처음이라",
-      "author": "신현욱",
-      "cover": "https://image.millie.co.kr/service/cover/180190811/70dc095568a048c996a26eb2dc1b545d.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180190809/3c1290cce3c34967b2c274fc2d2f598c.jpg",
       "open_date": "2026-11-23",
       "is_audiobook": false,
       "is_series": false,
@@ -463,10 +353,120 @@
       "is_comic": false
     },
     {
-      "id": "6be1d2c2f4d6442e",
-      "title": "반짝반짝 뇌",
+      "id": "438b363e23d54206",
+      "title": "와글와글 뼈",
+      "author": "박승준 지음 / 안주영 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180190807/15a66a1174e748d9809375d49e0be4d0.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "80968133d61c495e",
+      "title": "침팬지의 친구 제인 구달",
+      "author": "김유리 지음 / 이갑규 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187502/811b3020888443ae813f93d92b9028ab.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "39053c7406ff4dee",
+      "title": "후루룩 후루룩 짜장면",
+      "author": "조재은 지음 / 조은희 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187501/1d5107fa65a1440c94b9a7689577e7f6.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9bebe3d3edf3435c",
+      "title": "무사가 되고 싶은 겐지",
+      "author": "이규희 지음 / 오은하 그림 / 김은숙 감수",
+      "cover": "https://image.millie.co.kr/service/cover/180187500/6006a637142441f4a8a8b421c5bc52da.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "a1cbd589fd3a410a",
+      "title": "뽕, 뽑혔네!",
+      "author": "이민진 지음 / 이경국 그림 / 노규식 감수",
+      "cover": "https://image.millie.co.kr/service/cover/180187499/02371146a6c34574ae5fdbca6bc29f7e.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "6b58f430721a41aa",
+      "title": "돌고 도는 혈액",
       "author": "조영욱 지음 / 나티 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180190809/3c1290cce3c34967b2c274fc2d2f598c.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180190808/4c5b4e6b44844da5ad0f4e9d86a1b9f1.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9f90182e921c4d13",
+      "title": "무사가 되고 싶은 겐지",
+      "author": "이규희 지음 / 오은하 그림 / 김은숙 감수",
+      "cover": "https://image.millie.co.kr/service/cover/180187494/238e4cac147746ab85d7477b7332a3be.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "c654ee9528c4461b",
+      "title": "뽕, 뽑혔네!",
+      "author": "이민진 지음 / 이경국 그림 / 노규식 감수",
+      "cover": "https://image.millie.co.kr/service/cover/180187492/ecaea1a8d7664398a6ed7818830576f2.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "c5d90b62bfad4d8c",
+      "title": "백제를 우뚝 세운 근초고왕",
+      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187491/2fe8c5a32cb04d869ea1c61ca6e4002c.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "09e0ead9b7d34db5",
+      "title": "시끌벅적 우리 몸",
+      "author": "박승준 지음 / 서다정 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180190806/3f7af6a6ad3741aa90d5e185bf6497ca.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "d558eb70db56453b",
+      "title": "이토록 놀라운 면역의 신비",
+      "author": "신인철",
+      "cover": "https://image.millie.co.kr/service/cover/180187955/4bb6c99d2c51478b870d78dd7fd768ee.jpg",
+      "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "78594160f7914122",
+      "title": "아기 면역 이유식 백과",
+      "author": "김지현, 양윤정",
+      "cover": "https://image.millie.co.kr/service/cover/180187480/8677067be8254085b322651822af3a29.jpg",
       "open_date": "2026-11-23",
       "is_audiobook": false,
       "is_series": false,
