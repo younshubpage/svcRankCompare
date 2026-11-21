@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T13:06:16.186823+09:00",
-  "count": 53,
+  "updated": "2026-11-22T08:45:54.815550+09:00",
+  "count": 52,
   "books": [
     {
       "id": "1c0bc2ab89534287",
@@ -98,16 +98,6 @@
       "author": "임희강",
       "cover": "https://image.millie.co.kr/service/cover/180187200/6d25e57465834d1fa04edf5d67d0bf08.jpg",
       "open_date": "2026-11-27",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "780ed62009a24765",
-      "title": "더 레이디 인 더 밴",
-      "author": "앨런 베넷 지음 / 류초롱 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180186848/ee53d0b5f6c144c9b4525792f8ca91e2.jpg",
-      "open_date": "2026-11-22",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -293,22 +283,22 @@
       "is_comic": false
     },
     {
-      "id": "8b5a186740d7474e",
-      "title": "시대를 읽고, 투자하고, 살아남아라",
-      "author": "의교창",
-      "cover": "https://image.millie.co.kr/service/cover/180191323/da3b8e3de3f8412dbc6b610478418cb9.jpg",
-      "open_date": "2026-12-02",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "76a5b79baa7246a2",
       "title": "남겨진 것들의 기록",
       "author": "김새별, 전애원",
       "cover": "https://image.millie.co.kr/service/cover/180192040/44c304a29a2f4243b119d79482962153.jpg",
       "open_date": "2026-12-09",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "8b5a186740d7474e",
+      "title": "시대를 읽고, 투자하고, 살아남아라",
+      "author": "의교창",
+      "cover": "https://image.millie.co.kr/service/cover/180191323/da3b8e3de3f8412dbc6b610478418cb9.jpg",
+      "open_date": "2026-12-02",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -353,16 +343,6 @@
       "is_comic": false
     },
     {
-      "id": "3f966ef7b0f8412c",
-      "title": "후루룩 후루룩 짜장면",
-      "author": "조재은 지음 / 조은희 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187495/df0f9dfd4a4749498e3ac2805628bf0e.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "72dd1b9673c742cd",
       "title": "루이&후이 보물 같은 나날들",
       "author": "류정훈 지음 / 이화 그림",
@@ -378,6 +358,16 @@
       "author": "윤경식 지음 / 김지하 그림",
       "cover": "https://image.millie.co.kr/service/cover/180190810/4e24e157bfe948a7b8d5c0470faebef0.jpg",
       "open_date": "2026-11-23",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3f966ef7b0f8412c",
+      "title": "후루룩 후루룩 짜장면",
+      "author": "조재은 지음 / 조은희 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187495/df0f9dfd4a4749498e3ac2805628bf0e.jpg",
+      "open_date": "2026-12-07",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -473,6 +463,16 @@
       "is_comic": false
     },
     {
+      "id": "c5d90b62bfad4d8c",
+      "title": "백제를 우뚝 세운 근초고왕",
+      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187491/2fe8c5a32cb04d869ea1c61ca6e4002c.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "a1cbd589fd3a410a",
       "title": "뽕, 뽑혔네!",
       "author": "이민진 지음 / 이경국 그림 / 노규식 감수",
@@ -509,16 +509,6 @@
       "cover": "https://image.millie.co.kr/service/cover/180187502/811b3020888443ae813f93d92b9028ab.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "c5d90b62bfad4d8c",
-      "title": "백제를 우뚝 세운 근초고왕",
-      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187491/2fe8c5a32cb04d869ea1c61ca6e4002c.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
