@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T08:46:38.386286+09:00",
-  "count": 41,
+  "updated": "2026-11-24T16:03:47.346599+09:00",
+  "count": 44,
   "books": [
     {
       "id": "d90340986559453e",
@@ -33,21 +33,21 @@
       "is_comic": false
     },
     {
-      "id": "9e996027695243ca",
-      "title": "관점의 기술",
-      "author": "타나카 타츠야 지음 / 김윤경 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180187927/479772be1fa24fb2ab84d7db24b9a511.jpg",
-      "open_date": "2026-11-25",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "51c489e38c0f4673",
       "title": "경성 활자 미스터리",
       "author": "이미정",
       "cover": "https://image.millie.co.kr/service/cover/180187641/7d37fd4b7d90453fb05f7e09bd988523.jpg",
       "open_date": "2026-12-03",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9e996027695243ca",
+      "title": "관점의 기술",
+      "author": "타나카 타츠야 지음 / 김윤경 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180187927/479772be1fa24fb2ab84d7db24b9a511.jpg",
+      "open_date": "2026-11-25",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -59,6 +59,26 @@
       "cover": "https://image.millie.co.kr/service/cover/180185050/1b3a304beaff498683ab8f578aa103af.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "a452160768b945ce",
+      "title": "검은 집",
+      "author": "기시 유스케 지음 / 이선희 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180191437/43cfe4ddc4e34fdc91dbc403eb844206.jpg",
+      "open_date": "2026-12-06",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9ca2e010b1e14a43",
+      "title": "자본주의 시스템 해킹 매뉴얼",
+      "author": "전쓰트",
+      "cover": "https://image.millie.co.kr/service/cover/180190873/52708b67ab544aa9a5f9aeb75be5897c.jpg",
+      "open_date": "2026-12-03",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -93,31 +113,11 @@
       "is_comic": false
     },
     {
-      "id": "9ca2e010b1e14a43",
-      "title": "자본주의 시스템 해킹 매뉴얼",
-      "author": "전쓰트",
-      "cover": "https://image.millie.co.kr/service/cover/180190873/52708b67ab544aa9a5f9aeb75be5897c.jpg",
-      "open_date": "2026-12-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "0ba765fe36c84b92",
       "title": "사랑을 읽는 타로카드",
       "author": "문혜정",
       "cover": "https://image.millie.co.kr/service/cover/180188273/e3ea921b766848c8bceb44596e1b8a23.jpg",
       "open_date": "2026-11-25",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "a452160768b945ce",
-      "title": "검은 집",
-      "author": "기시 유스케 지음 / 이선희 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180191437/43cfe4ddc4e34fdc91dbc403eb844206.jpg",
-      "open_date": "2026-12-06",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -133,32 +133,12 @@
       "is_comic": false
     },
     {
-      "id": "3ba86bc468914fbc",
-      "title": "바로바로 파이썬",
-      "author": "셀레나, 박현규",
-      "cover": "https://image.millie.co.kr/service/cover/180187689/6520335cfceb49b68d66c132e8228e20.jpg",
-      "open_date": "2026-11-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "f9bd4e9ffae5446b",
       "title": "박태웅의 AI 사회",
       "author": "박태웅",
       "cover": "https://image.millie.co.kr/service/cover/180191921/f01c44b17f00453f942b2f315f65dcd5.jpg",
       "open_date": "2026-12-04",
       "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "823330b920074077",
-      "title": "달걀의 온기",
-      "author": "김혜진",
-      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -183,16 +163,6 @@
       "is_comic": false
     },
     {
-      "id": "aa08084351504c63",
-      "title": "믿을 수 있을 만큼의 진실",
-      "author": "김유나",
-      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "a1d3c9346f7c452a",
       "title": "글쓰기 고수의 패턴을 훔쳐라",
       "author": "황상열",
@@ -203,10 +173,20 @@
       "is_comic": false
     },
     {
-      "id": "8c14101ee7394911",
-      "title": "4×4의 세계",
-      "author": "조우리 지음 / 노인경 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180185480/a3728fc3396c46a4a5a1c9fde5c972d8.jpg",
+      "id": "3ba86bc468914fbc",
+      "title": "바로바로 파이썬",
+      "author": "셀레나, 박현규",
+      "cover": "https://image.millie.co.kr/service/cover/180187689/6520335cfceb49b68d66c132e8228e20.jpg",
+      "open_date": "2026-11-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "823330b920074077",
+      "title": "달걀의 온기",
+      "author": "김혜진",
+      "cover": "https://image.millie.co.kr/service/cover/180185478/92717d4b907b4b6081184c080cc0f498.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": true,
       "is_series": false,
@@ -223,11 +203,61 @@
       "is_comic": false
     },
     {
+      "id": "aa08084351504c63",
+      "title": "믿을 수 있을 만큼의 진실",
+      "author": "김유나",
+      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "76a5b79baa7246a2",
+      "title": "남겨진 것들의 기록",
+      "author": "김새별, 전애원",
+      "cover": "https://image.millie.co.kr/service/cover/180192040/44c304a29a2f4243b119d79482962153.jpg",
+      "open_date": "2026-12-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "e3cffbb1bf9b439b",
+      "title": "뉴 잭 스윙",
+      "author": "박서련",
+      "cover": "https://image.millie.co.kr/service/cover/180192322/37aa50384eb9416b815a231502418f69.jpg",
+      "open_date": "2026-12-16",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "8c14101ee7394911",
+      "title": "4×4의 세계",
+      "author": "조우리 지음 / 노인경 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180185480/a3728fc3396c46a4a5a1c9fde5c972d8.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "28c239db980349cd",
       "title": "아픔이 아픔으로 끝나지 않도록",
       "author": "권오중",
       "cover": "https://image.millie.co.kr/service/cover/180191949/5ffa6a01d830413885566ec4488ce504.jpg",
       "open_date": "2026-11-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "02268206c47f43b5",
+      "title": "인공지능이 모두를 잘살게 만들까?",
+      "author": "오승현",
+      "cover": "https://image.millie.co.kr/service/cover/180191282/815abec78a48429f94c5dbbef561c2d2.jpg",
+      "open_date": "2026-12-05",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -243,21 +273,41 @@
       "is_comic": false
     },
     {
-      "id": "76a5b79baa7246a2",
-      "title": "남겨진 것들의 기록",
-      "author": "김새별, 전애원",
-      "cover": "https://image.millie.co.kr/service/cover/180192040/44c304a29a2f4243b119d79482962153.jpg",
-      "open_date": "2026-12-09",
-      "is_audiobook": true,
+      "id": "44bb00f9f69144b0",
+      "title": "엄마 몸 바이블",
+      "author": "닥터 라이블리(최지영)",
+      "cover": "https://image.millie.co.kr/service/cover/180192026/29776237413d494f9a71cb9172d705d6.jpg",
+      "open_date": "2026-12-08",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "02268206c47f43b5",
-      "title": "인공지능이 모두를 잘살게 만들까?",
-      "author": "오승현",
-      "cover": "https://image.millie.co.kr/service/cover/180191282/815abec78a48429f94c5dbbef561c2d2.jpg",
-      "open_date": "2026-12-05",
+      "id": "b35e295155f14290",
+      "title": "고작 잠봉뵈르 하나 먹었을 뿐인데",
+      "author": "해어비",
+      "cover": "https://image.millie.co.kr/service/cover/180192398/4b452e49df6c4886ab93ad0cf6ac432a.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "4c0da5c82f464c9a",
+      "title": "김치: 웃으라는 말 대신에 우리는",
+      "author": "황선우",
+      "cover": "https://image.millie.co.kr/service/cover/180192063/c1d9b9c0588f47ab85e6e4ad8ec02e20.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "a9c0f487c29645a6",
+      "title": "위대한 지성에게 AI를 묻다",
+      "author": "주형철",
+      "cover": "https://image.millie.co.kr/service/cover/180192385/6cd09a933af24205b58e4547e5de6c8b.jpg",
+      "open_date": "2026-11-27",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -273,6 +323,16 @@
       "is_comic": false
     },
     {
+      "id": "cfe7e0766b74425f",
+      "title": "백제를 우뚝 세운 근초고왕",
+      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187498/3d3bb2d709f5483f973d9ca90fa34026.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "751bf2e400c04f56",
       "title": "침팬지의 친구 제인 구달",
       "author": "김유리 지음 / 이갑규 그림",
@@ -283,12 +343,12 @@
       "is_comic": false
     },
     {
-      "id": "cfe7e0766b74425f",
+      "id": "c5d90b62bfad4d8c",
       "title": "백제를 우뚝 세운 근초고왕",
       "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187498/3d3bb2d709f5483f973d9ca90fa34026.jpg",
+      "cover": "https://image.millie.co.kr/service/cover/180187491/2fe8c5a32cb04d869ea1c61ca6e4002c.jpg",
       "open_date": "2026-12-07",
-      "is_audiobook": true,
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -353,61 +413,31 @@
       "is_comic": false
     },
     {
-      "id": "c5d90b62bfad4d8c",
-      "title": "백제를 우뚝 세운 근초고왕",
-      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187491/2fe8c5a32cb04d869ea1c61ca6e4002c.jpg",
-      "open_date": "2026-12-07",
+      "id": "6a50f3e7f9024987",
+      "title": "퍼플필",
+      "author": "진쏠미",
+      "cover": "https://image.millie.co.kr/service/cover/180191899/6ccba7809fe649e0ae2547cdf37def36.jpg",
+      "open_date": "2026-11-25",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3082b85880de48e3",
+      "title": "동전 게임",
+      "author": "김동식",
+      "cover": "https://image.millie.co.kr/service/cover/180192550/2fa6290caa634cdfa4bf2a28eafd2f87.jpg",
+      "open_date": "2026-11-25",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
     {
-      "id": "4c0da5c82f464c9a",
-      "title": "김치: 웃으라는 말 대신에 우리는",
-      "author": "황선우",
-      "cover": "https://image.millie.co.kr/service/cover/180192063/c1d9b9c0588f47ab85e6e4ad8ec02e20.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "b35e295155f14290",
-      "title": "고작 잠봉뵈르 하나 먹었을 뿐인데",
-      "author": "해어비",
-      "cover": "https://image.millie.co.kr/service/cover/180192398/4b452e49df6c4886ab93ad0cf6ac432a.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "44bb00f9f69144b0",
-      "title": "엄마 몸 바이블",
-      "author": "닥터 라이블리(최지영)",
-      "cover": "https://image.millie.co.kr/service/cover/180192026/29776237413d494f9a71cb9172d705d6.jpg",
-      "open_date": "2026-12-08",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "e3cffbb1bf9b439b",
-      "title": "뉴 잭 스윙",
-      "author": "박서련",
-      "cover": "https://image.millie.co.kr/service/cover/180192322/37aa50384eb9416b815a231502418f69.jpg",
-      "open_date": "2026-12-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "a9c0f487c29645a6",
-      "title": "위대한 지성에게 AI를 묻다",
-      "author": "주형철",
-      "cover": "https://image.millie.co.kr/service/cover/180192385/6cd09a933af24205b58e4547e5de6c8b.jpg",
-      "open_date": "2026-11-27",
+      "id": "664b6861f06f408c",
+      "title": "투자와연금 22호",
+      "author": "투자와연금 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180185086/abbf73d032ba4ce49a17c1abce668f44.jpg",
+      "open_date": "2026-11-25",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false

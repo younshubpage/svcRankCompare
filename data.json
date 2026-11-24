@@ -38,7 +38,7 @@
             "p": 1
           },
           "millie": {
-            "t": 1,
+            "t": 2,
             "pid": "3c6a6202ffc142a6",
             "ship": "",
             "audio": false,
@@ -128,13 +128,6 @@
             "audio": false,
             "p": 3
           },
-          "millie": {
-            "t": 43,
-            "pid": "f4d922e5746e485d",
-            "ship": "",
-            "audio": false,
-            "p": 43
-          },
           "hkey": "365일세계미술관도슨트투어"
         },
         {
@@ -164,7 +157,7 @@
             "p": 9
           },
           "millie": {
-            "t": 31,
+            "t": 32,
             "pid": "e3720ba037a74e55",
             "ship": "",
             "audio": false,
@@ -268,6 +261,13 @@
             "audio": false,
             "p": 3
           },
+          "millie": {
+            "t": 50,
+            "pid": "93825dffff6b4439",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
           "hkey": "투명한나선"
         },
         {
@@ -278,6 +278,13 @@
           "yes24_crema": {
             "t": 14,
             "pid": "201611584",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "millie": {
+            "t": 14,
+            "pid": "1c0bc2ab89534287",
             "ship": "",
             "audio": false,
             "p": null
@@ -619,7 +626,7 @@
             "p": 26
           },
           "millie": {
-            "t": 28,
+            "t": 44,
             "pid": "8dbd21376d0b450a",
             "ship": "",
             "audio": false,
@@ -647,7 +654,7 @@
             "p": 15
           },
           "millie": {
-            "t": 40,
+            "t": 23,
             "pid": "30fd54e378d64dae",
             "ship": "",
             "audio": false,
@@ -808,7 +815,7 @@
             "p": 32
           },
           "millie": {
-            "t": 36,
+            "t": 29,
             "pid": "347f0f87f8454452",
             "ship": "",
             "audio": false,
@@ -911,13 +918,6 @@
             "ship": "",
             "audio": false,
             "p": 10
-          },
-          "millie": {
-            "t": 38,
-            "pid": "d598edbe92f44e04",
-            "ship": "",
-            "audio": false,
-            "p": 38
           },
           "hkey": "이기적유전자"
         },
@@ -1066,6 +1066,13 @@
             "audio": false,
             "p": 19
           },
+          "millie": {
+            "t": 45,
+            "pid": "c2cdcb8db2a442cf",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
           "hkey": "테오"
         },
         {
@@ -1095,7 +1102,7 @@
             "p": 19
           },
           "millie": {
-            "t": 6,
+            "t": 8,
             "pid": "2674d1b2b1d749c3",
             "ship": "",
             "audio": false,
@@ -1202,12 +1209,26 @@
           "hkey": "2026시대에듀영양사실제시험보기"
         },
         {
+          "isbn": "일일반출록",
+          "title": "일일 반출록",
+          "author": "성해나",
+          "pub": "무제(Muze)",
+          "millie": {
+            "t": 1,
+            "pid": "1d6f804c305f44ff",
+            "ship": "",
+            "audio": false,
+            "p": 49
+          },
+          "hkey": "일일반출록"
+        },
+        {
           "isbn": "내게무해한사람",
           "title": "내게 무해한 사람",
           "author": "최은영",
           "pub": "문학동네",
           "millie": {
-            "t": 2,
+            "t": 3,
             "pid": "a953049307304bfa",
             "ship": "",
             "audio": false,
@@ -1216,88 +1237,18 @@
           "hkey": "내게무해한사람"
         },
         {
-          "isbn": "칵테일을마시는철학자들",
-          "title": "칵테일을 마시는 철학자들",
-          "author": "세라 베이크웰 지음 / 조영 옮김",
-          "pub": "다산초당",
-          "millie": {
-            "t": 3,
-            "pid": "ed8978048d9b4d2d",
-            "ship": "",
-            "audio": false,
-            "p": 3
-          },
-          "hkey": "칵테일을마시는철학자들"
-        },
-        {
-          "isbn": "공허한십자가",
-          "title": "공허한 십자가",
-          "author": "히가시노 게이고",
-          "pub": "자음과모음",
+          "isbn": "일일반출록__audio",
+          "title": "일일 반출록",
+          "author": "성해나",
+          "pub": "무제(Muze)",
           "millie": {
             "t": 4,
-            "pid": "07482ebabe264eb3",
-            "ship": "",
-            "audio": false,
-            "p": 4
-          },
-          "hkey": "공허한십자가"
-        },
-        {
-          "isbn": "첫사랑혼밥식당",
-          "title": "첫사랑 혼밥식당",
-          "author": "범유진",
-          "pub": "밀리의서재",
-          "millie": {
-            "t": 5,
-            "pid": "79621e9cd0264150",
-            "ship": "",
-            "audio": false,
-            "p": 5
-          },
-          "hkey": "첫사랑혼밥식당"
-        },
-        {
-          "isbn": "쇼코의미소",
-          "title": "쇼코의 미소",
-          "author": "최은영",
-          "pub": "문학동네",
-          "millie": {
-            "t": 7,
-            "pid": "1fddd4dd6d584861",
-            "ship": "",
-            "audio": false,
-            "p": 7
-          },
-          "hkey": "쇼코의미소"
-        },
-        {
-          "isbn": "호신술클럽__audio",
-          "title": "호신술 클럽",
-          "author": "김지윤",
-          "pub": "밀리의서재",
-          "millie": {
-            "t": 8,
-            "pid": "abc62254efdb40ce",
+            "pid": "6c9429661a9444ff",
             "ship": "",
             "audio": true,
-            "p": 8
+            "p": null
           },
-          "hkey": "호신술클럽__audio"
-        },
-        {
-          "isbn": "눈물을마시는새1",
-          "title": "눈물을 마시는 새 1",
-          "author": "이영도",
-          "pub": "황금가지",
-          "millie": {
-            "t": 10,
-            "pid": "b1bc577bd4e34497",
-            "ship": "",
-            "audio": false,
-            "p": 10
-          },
-          "hkey": "눈물을마시는새1"
+          "hkey": "일일반출록__audio"
         },
         {
           "isbn": "한국사이상현상연구원__audio",
@@ -1305,7 +1256,7 @@
           "author": "최인서",
           "pub": "다이브",
           "millie": {
-            "t": 11,
+            "t": 5,
             "pid": "8dd179f435e940cf",
             "ship": "",
             "audio": true,
@@ -1314,32 +1265,116 @@
           "hkey": "한국사이상현상연구원__audio"
         },
         {
-          "isbn": "시간의감촉",
-          "title": "시간의 감촉",
-          "author": "은희경",
-          "pub": "문학동네",
+          "isbn": "아버지의해방일지",
+          "title": "아버지의 해방일지",
+          "author": "정지아",
+          "pub": "창비",
           "millie": {
-            "t": 12,
-            "pid": "19e88cfcf0184062",
+            "t": 6,
+            "pid": "dd9a84b8c9ab4cad",
             "ship": "",
             "audio": false,
-            "p": 12
+            "p": null
           },
-          "hkey": "시간의감촉"
+          "hkey": "아버지의해방일지"
         },
         {
-          "isbn": "행복의기원10주년기념개정판",
-          "title": "행복의 기원(10주년 기념 개정판)",
-          "author": "서은국",
-          "pub": "21세기북스",
+          "isbn": "첫사랑혼밥식당",
+          "title": "첫사랑 혼밥식당",
+          "author": "범유진",
+          "pub": "밀리의서재",
           "millie": {
-            "t": 34,
-            "pid": "de111c7e686f48b9",
+            "t": 7,
+            "pid": "79621e9cd0264150",
             "ship": "",
             "audio": false,
-            "p": 34
+            "p": 5
           },
-          "hkey": "행복의기원10주년기념개정판"
+          "hkey": "첫사랑혼밥식당"
+        },
+        {
+          "isbn": "칵테일을마시는철학자들",
+          "title": "칵테일을 마시는 철학자들",
+          "author": "세라 베이크웰 지음 / 조영 옮김",
+          "pub": "다산초당",
+          "millie": {
+            "t": 10,
+            "pid": "ed8978048d9b4d2d",
+            "ship": "",
+            "audio": false,
+            "p": 3
+          },
+          "hkey": "칵테일을마시는철학자들"
+        },
+        {
+          "isbn": "눈물을마시는새1",
+          "title": "눈물을 마시는 새 1",
+          "author": "이영도",
+          "pub": "황금가지",
+          "millie": {
+            "t": 11,
+            "pid": "b1bc577bd4e34497",
+            "ship": "",
+            "audio": false,
+            "p": 10
+          },
+          "hkey": "눈물을마시는새1"
+        },
+        {
+          "isbn": "공허한십자가",
+          "title": "공허한 십자가",
+          "author": "히가시노 게이고",
+          "pub": "자음과모음",
+          "millie": {
+            "t": 12,
+            "pid": "07482ebabe264eb3",
+            "ship": "",
+            "audio": false,
+            "p": 4
+          },
+          "hkey": "공허한십자가"
+        },
+        {
+          "isbn": "얼굴들__audio",
+          "title": "얼굴들",
+          "author": "이동원",
+          "pub": "라곰",
+          "millie": {
+            "t": 13,
+            "pid": "98cab02f0f074948",
+            "ship": "",
+            "audio": true,
+            "p": null
+          },
+          "hkey": "얼굴들__audio"
+        },
+        {
+          "isbn": "호신술클럽__audio",
+          "title": "호신술 클럽",
+          "author": "김지윤",
+          "pub": "밀리의서재",
+          "millie": {
+            "t": 15,
+            "pid": "abc62254efdb40ce",
+            "ship": "",
+            "audio": true,
+            "p": 8
+          },
+          "hkey": "호신술클럽__audio"
+        },
+        {
+          "isbn": "쇼코의미소",
+          "title": "쇼코의 미소",
+          "author": "최은영",
+          "pub": "문학동네",
+          "millie": {
+            "t": 16,
+            "pid": "1fddd4dd6d584861",
+            "ship": "",
+            "audio": false,
+            "p": 7
+          },
+          "hkey": "쇼코의미소"
         },
         {
           "isbn": "트렌드코리아2027__audio",
@@ -1347,7 +1382,7 @@
           "author": "김난도, 전미영, 최지혜, 권정윤, 한다혜, 이혜원, 전다현, 이수진, 서유현, 이준영, 이향은, 김나은, 문지수",
           "pub": "미래의창",
           "millie": {
-            "t": 14,
+            "t": 17,
             "pid": "88bea0211d5448f9",
             "ship": "",
             "audio": true,
@@ -1356,60 +1391,18 @@
           "hkey": "트렌드코리아2027__audio"
         },
         {
-          "isbn": "이방인",
-          "title": "이방인",
-          "author": "알베르 카뮈 지음 / 김화영 옮김 ",
-          "pub": "민음사",
-          "millie": {
-            "t": 15,
-            "pid": "0032db4361e349a0",
-            "ship": "",
-            "audio": false,
-            "p": 15
-          },
-          "hkey": "이방인"
-        },
-        {
-          "isbn": "퇴근후2시간월급이하나더생긴다__audio",
-          "title": "퇴근 후 2시간, 월급이 하나 더 생긴다",
-          "author": "강병철",
-          "pub": "미디어큐",
-          "millie": {
-            "t": 16,
-            "pid": "4c0adca2ecef4ea8",
-            "ship": "",
-            "audio": true,
-            "p": 16
-          },
-          "hkey": "퇴근후2시간월급이하나더생긴다__audio"
-        },
-        {
-          "isbn": "쇼펜하우어인생수업한번뿐인삶이렇게살아라",
-          "title": "쇼펜하우어 인생수업: 한 번뿐인 삶 이렇게 살아라",
-          "author": "쇼펜하우어",
-          "pub": "하이스트",
-          "millie": {
-            "t": 17,
-            "pid": "93569bb033714d3f",
-            "ship": "",
-            "audio": false,
-            "p": 17
-          },
-          "hkey": "쇼펜하우어인생수업한번뿐인삶이렇게살아라"
-        },
-        {
-          "isbn": "영어패턴500플러스__audio",
-          "title": "영어패턴 500 플러스",
-          "author": "이광수, 이수경",
-          "pub": "넥서스",
+          "isbn": "혼모노",
+          "title": "혼모노",
+          "author": "성해나",
+          "pub": "창비",
           "millie": {
             "t": 18,
-            "pid": "bb35db2ff7be4dc5",
+            "pid": "ee335c0dbe4c4d92",
             "ship": "",
-            "audio": true,
-            "p": 18
+            "audio": false,
+            "p": 24
           },
-          "hkey": "영어패턴500플러스__audio"
+          "hkey": "혼모노"
         },
         {
           "isbn": "데미안",
@@ -1426,270 +1419,18 @@
           "hkey": "데미안"
         },
         {
-          "isbn": "부자의언어",
-          "title": "부자의 언어",
-          "author": "존소포릭 지음 / 이한이 옮김",
-          "pub": "윌북",
+          "isbn": "시간의감촉",
+          "title": "시간의 감촉",
+          "author": "은희경",
+          "pub": "문학동네",
           "millie": {
             "t": 20,
-            "pid": "c6dcca37ae0f4ae2",
+            "pid": "19e88cfcf0184062",
             "ship": "",
             "audio": false,
-            "p": 20
+            "p": 12
           },
-          "hkey": "부자의언어"
-        },
-        {
-          "isbn": "눈물을마시는새1__audio",
-          "title": "눈물을 마시는 새 1",
-          "author": "이영도",
-          "pub": "",
-          "millie": {
-            "t": 21,
-            "pid": "ae789eb411374d32",
-            "ship": "",
-            "audio": true,
-            "p": 21
-          },
-          "hkey": "눈물을마시는새1__audio"
-        },
-        {
-          "isbn": "안개속달빛서점__audio",
-          "title": "안개 속 달빛서점",
-          "author": "낮잠",
-          "pub": "",
-          "millie": {
-            "t": 22,
-            "pid": "cbaaf4af37874197",
-            "ship": "",
-            "audio": true,
-            "p": 22
-          },
-          "hkey": "안개속달빛서점__audio"
-        },
-        {
-          "isbn": "엄마화났어",
-          "title": "엄마 화났어?!",
-          "author": "솔로몬 S. 바게트",
-          "pub": "",
-          "millie": {
-            "t": 23,
-            "pid": "d9273fd3b1f84791",
-            "ship": "",
-            "audio": false,
-            "p": 23
-          },
-          "hkey": "엄마화났어"
-        },
-        {
-          "isbn": "혼모노",
-          "title": "혼모노",
-          "author": "성해나",
-          "pub": "",
-          "millie": {
-            "t": 24,
-            "pid": "ee335c0dbe4c4d92",
-            "ship": "",
-            "audio": false,
-            "p": 24
-          },
-          "hkey": "혼모노"
-        },
-        {
-          "isbn": "머니트렌드2027__audio",
-          "title": "머니 트렌드 2027",
-          "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
-          "pub": "",
-          "millie": {
-            "t": 25,
-            "pid": "3cc6f41a72904eb3",
-            "ship": "",
-            "audio": true,
-            "p": 25
-          },
-          "hkey": "머니트렌드2027__audio"
-        },
-        {
-          "isbn": "제노사이드",
-          "title": "제노사이드",
-          "author": "다카노 가즈아키",
-          "pub": "",
-          "millie": {
-            "t": 26,
-            "pid": "74af426d05764fae",
-            "ship": "",
-            "audio": false,
-            "p": 26
-          },
-          "hkey": "제노사이드"
-        },
-        {
-          "isbn": "젊은베르테르의슬픔",
-          "title": "젊은 베르테르의 슬픔",
-          "author": "요한 볼프강 폰 괴테 지음 / 박찬기 옮김",
-          "pub": "",
-          "millie": {
-            "t": 27,
-            "pid": "9ea6d63516f4448d",
-            "ship": "",
-            "audio": false,
-            "p": 27
-          },
-          "hkey": "젊은베르테르의슬픔"
-        },
-        {
-          "isbn": "가면산장살인사건",
-          "title": "가면 산장 살인 사건",
-          "author": "히가시노 게이고 / 김난주",
-          "pub": "",
-          "millie": {
-            "t": 29,
-            "pid": "e58fadd3365a4bf9",
-            "ship": "",
-            "audio": false,
-            "p": 29
-          },
-          "hkey": "가면산장살인사건"
-        },
-        {
-          "isbn": "품격있는대화를위한지식브리핑",
-          "title": "품격 있는 대화를 위한 지식 브리핑",
-          "author": "김진",
-          "pub": "",
-          "millie": {
-            "t": 30,
-            "pid": "7aa07c7484dc4a38",
-            "ship": "",
-            "audio": false,
-            "p": 30
-          },
-          "hkey": "품격있는대화를위한지식브리핑"
-        },
-        {
-          "isbn": "총균쇠",
-          "title": "총 균 쇠",
-          "author": "재레드 다이아몬드 지음 / 강주헌 옮김",
-          "pub": "",
-          "millie": {
-            "t": 32,
-            "pid": "f597af3b22f74426",
-            "ship": "",
-            "audio": false,
-            "p": 32
-          },
-          "hkey": "총균쇠"
-        },
-        {
-          "isbn": "머니트렌드2027",
-          "title": "머니 트렌드 2027",
-          "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
-          "pub": "",
-          "millie": {
-            "t": 33,
-            "pid": "cbd286c76d13471c",
-            "ship": "",
-            "audio": false,
-            "p": 33
-          },
-          "hkey": "머니트렌드2027"
-        },
-        {
-          "isbn": "방을치웠을뿐인데운이트이기시작했다",
-          "title": "방을 치웠을 뿐인데 운이 트이기 시작했다",
-          "author": "마스다 미츠히로 지음 / 장은주 옮김",
-          "pub": "",
-          "millie": {
-            "t": 35,
-            "pid": "5683472c80b14ea1",
-            "ship": "",
-            "audio": false,
-            "p": 35
-          },
-          "hkey": "방을치웠을뿐인데운이트이기시작했다"
-        },
-        {
-          "isbn": "오래머무는마음__audio",
-          "title": "오래 머무는 마음",
-          "author": "나태주 지음 / 나난 그림",
-          "pub": "",
-          "millie": {
-            "t": 37,
-            "pid": "d95a169feeb34dfa",
-            "ship": "",
-            "audio": true,
-            "p": 37
-          },
-          "hkey": "오래머무는마음__audio"
-        },
-        {
-          "isbn": "지금나를위해해야하는것들",
-          "title": "지금 나를 위해 해야 하는 것들",
-          "author": "김연경",
-          "pub": "",
-          "millie": {
-            "t": 39,
-            "pid": "23b4b395af8f406c",
-            "ship": "",
-            "audio": false,
-            "p": 39
-          },
-          "hkey": "지금나를위해해야하는것들"
-        },
-        {
-          "isbn": "주식의시대",
-          "title": "주식의 시대",
-          "author": "EBS 다큐프라임 〈주식의 시대〉 제작진",
-          "pub": "",
-          "millie": {
-            "t": 41,
-            "pid": "096726ef5de84bf3",
-            "ship": "",
-            "audio": false,
-            "p": 41
-          },
-          "hkey": "주식의시대"
-        },
-        {
-          "isbn": "아주작은습관의힘",
-          "title": "아주 작은 습관의 힘",
-          "author": "제임스 클리어 지음 / 이한이 옮김 ",
-          "pub": "",
-          "millie": {
-            "t": 42,
-            "pid": "d41f1da7fa0b4680",
-            "ship": "",
-            "audio": false,
-            "p": 42
-          },
-          "hkey": "아주작은습관의힘"
-        },
-        {
-          "isbn": "수평으로함께잠겨보려고",
-          "title": "수평으로 함께 잠겨보려고",
-          "author": "강지이",
-          "pub": "",
-          "millie": {
-            "t": 44,
-            "pid": "0563e9a3b2d64c45",
-            "ship": "",
-            "audio": false,
-            "p": 44
-          },
-          "hkey": "수평으로함께잠겨보려고"
-        },
-        {
-          "isbn": "매경이코노미2385호",
-          "title": "매경이코노미 2385호",
-          "author": "매경이코노미 편집부",
-          "pub": "",
-          "millie": {
-            "t": 45,
-            "pid": "623edfbf7f6d4c91",
-            "ship": "",
-            "audio": false,
-            "p": 45
-          },
-          "hkey": "매경이코노미2385호"
+          "hkey": "시간의감촉"
         },
         {
           "isbn": "니체의초월자",
@@ -1697,7 +1438,7 @@
           "author": "프리드리히 니체 지음 / 김철 옮김",
           "pub": "",
           "millie": {
-            "t": 46,
+            "t": 21,
             "pid": "ee0a8a960d254e62",
             "ship": "",
             "audio": false,
@@ -1706,46 +1447,200 @@
           "hkey": "니체의초월자"
         },
         {
-          "isbn": "햇볕쬐기",
-          "title": "햇볕 쬐기",
-          "author": "조온윤",
+          "isbn": "종의기원",
+          "title": "종의 기원",
+          "author": "정유정",
           "pub": "",
           "millie": {
-            "t": 47,
-            "pid": "b49b3c27dac84f82",
+            "t": 22,
+            "pid": "189f025f04e84c4b",
             "ship": "",
             "audio": false,
-            "p": 47
+            "p": null
           },
-          "hkey": "햇볕쬐기"
+          "hkey": "종의기원"
         },
         {
-          "isbn": "토마토컵라면",
-          "title": "토마토 컵라면",
-          "author": "차정은",
+          "isbn": "아주작은습관의힘",
+          "title": "아주 작은 습관의 힘",
+          "author": "제임스 클리어 지음 / 이한이 옮김 ",
           "pub": "",
           "millie": {
-            "t": 48,
-            "pid": "a53a4304f6e84e2b",
+            "t": 24,
+            "pid": "d41f1da7fa0b4680",
             "ship": "",
             "audio": false,
-            "p": 48
+            "p": 42
           },
-          "hkey": "토마토컵라면"
+          "hkey": "아주작은습관의힘"
         },
         {
-          "isbn": "일일반출록",
-          "title": "일일 반출록",
-          "author": "성해나",
+          "isbn": "이방인",
+          "title": "이방인",
+          "author": "알베르 카뮈 지음 / 김화영 옮김 ",
           "pub": "",
           "millie": {
-            "t": 49,
-            "pid": "1d6f804c305f44ff",
+            "t": 25,
+            "pid": "0032db4361e349a0",
             "ship": "",
             "audio": false,
-            "p": 49
+            "p": 15
           },
-          "hkey": "일일반출록"
+          "hkey": "이방인"
+        },
+        {
+          "isbn": "쇼펜하우어인생수업한번뿐인삶이렇게살아라",
+          "title": "쇼펜하우어 인생수업: 한 번뿐인 삶 이렇게 살아라",
+          "author": "쇼펜하우어",
+          "pub": "",
+          "millie": {
+            "t": 26,
+            "pid": "93569bb033714d3f",
+            "ship": "",
+            "audio": false,
+            "p": 17
+          },
+          "hkey": "쇼펜하우어인생수업한번뿐인삶이렇게살아라"
+        },
+        {
+          "isbn": "이정도는알아야할최소한의잡학상식__audio",
+          "title": "이 정도는 알아야 할 최소한의 잡학상식",
+          "author": "문예춘추사 편집부",
+          "pub": "",
+          "millie": {
+            "t": 27,
+            "pid": "12a1c1e366f84b5a",
+            "ship": "",
+            "audio": true,
+            "p": null
+          },
+          "hkey": "이정도는알아야할최소한의잡학상식__audio"
+        },
+        {
+          "isbn": "홍학의자리",
+          "title": "홍학의 자리",
+          "author": "정해연",
+          "pub": "",
+          "millie": {
+            "t": 28,
+            "pid": "806508b09ed74322",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "홍학의자리"
+        },
+        {
+          "isbn": "내면근력",
+          "title": "내면 근력",
+          "author": "짐 머피 지음 / 지여울 옮김",
+          "pub": "",
+          "millie": {
+            "t": 30,
+            "pid": "0cabac1a7dcb4366",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "내면근력"
+        },
+        {
+          "isbn": "눈물을마시는새1__audio",
+          "title": "눈물을 마시는 새 1",
+          "author": "이영도",
+          "pub": "",
+          "millie": {
+            "t": 31,
+            "pid": "ae789eb411374d32",
+            "ship": "",
+            "audio": true,
+            "p": 21
+          },
+          "hkey": "눈물을마시는새1__audio"
+        },
+        {
+          "isbn": "퇴근후2시간월급이하나더생긴다__audio",
+          "title": "퇴근 후 2시간, 월급이 하나 더 생긴다",
+          "author": "강병철",
+          "pub": "",
+          "millie": {
+            "t": 33,
+            "pid": "4c0adca2ecef4ea8",
+            "ship": "",
+            "audio": true,
+            "p": 16
+          },
+          "hkey": "퇴근후2시간월급이하나더생긴다__audio"
+        },
+        {
+          "isbn": "얼굴들",
+          "title": "얼굴들",
+          "author": "이동원",
+          "pub": "",
+          "millie": {
+            "t": 34,
+            "pid": "5969aec829204621",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "얼굴들"
+        },
+        {
+          "isbn": "영어패턴500플러스__audio",
+          "title": "영어패턴 500 플러스",
+          "author": "이광수, 이수경",
+          "pub": "",
+          "millie": {
+            "t": 35,
+            "pid": "bb35db2ff7be4dc5",
+            "ship": "",
+            "audio": true,
+            "p": 18
+          },
+          "hkey": "영어패턴500플러스__audio"
+        },
+        {
+          "isbn": "품격있는대화를위한지식브리핑",
+          "title": "품격 있는 대화를 위한 지식 브리핑",
+          "author": "김진",
+          "pub": "",
+          "millie": {
+            "t": 36,
+            "pid": "7aa07c7484dc4a38",
+            "ship": "",
+            "audio": false,
+            "p": 30
+          },
+          "hkey": "품격있는대화를위한지식브리핑"
+        },
+        {
+          "isbn": "안녕이라그랬어",
+          "title": "안녕이라 그랬어",
+          "author": "김애란",
+          "pub": "",
+          "millie": {
+            "t": 37,
+            "pid": "4e19a19b257f4eef",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "안녕이라그랬어"
+        },
+        {
+          "isbn": "프로젝트헤일메리__audio",
+          "title": "프로젝트 헤일메리",
+          "author": "앤디 위어",
+          "pub": "",
+          "millie": {
+            "t": 38,
+            "pid": "15924be3ab024184",
+            "ship": "",
+            "audio": true,
+            "p": null
+          },
+          "hkey": "프로젝트헤일메리__audio"
         },
         {
           "isbn": "영어패턴500플러스",
@@ -1753,13 +1648,125 @@
           "author": "이광수, 이수경",
           "pub": "",
           "millie": {
-            "t": 50,
+            "t": 39,
             "pid": "5f3c2e4f1d8b4bbe",
             "ship": "",
             "audio": false,
             "p": 50
           },
           "hkey": "영어패턴500플러스"
+        },
+        {
+          "isbn": "나미야잡화점의기적",
+          "title": "나미야 잡화점의 기적",
+          "author": "히가시노 게이고 지음 / 양윤옥 옮김",
+          "pub": "",
+          "millie": {
+            "t": 40,
+            "pid": "73315e3e05784065",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "나미야잡화점의기적"
+        },
+        {
+          "isbn": "돌이킬수있는",
+          "title": "돌이킬 수 있는",
+          "author": "문목하",
+          "pub": "",
+          "millie": {
+            "t": 41,
+            "pid": "5567abb55df04f5e",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "돌이킬수있는"
+        },
+        {
+          "isbn": "머니트렌드2027__audio",
+          "title": "머니 트렌드 2027",
+          "author": "정태익, 김도윤, 김광석, 김용섭, 김학렬, 박세익, 박정호, 이효석",
+          "pub": "",
+          "millie": {
+            "t": 42,
+            "pid": "3cc6f41a72904eb3",
+            "ship": "",
+            "audio": true,
+            "p": 25
+          },
+          "hkey": "머니트렌드2027__audio"
+        },
+        {
+          "isbn": "가면산장살인사건",
+          "title": "가면 산장 살인 사건",
+          "author": "히가시노 게이고 / 김난주",
+          "pub": "",
+          "millie": {
+            "t": 43,
+            "pid": "e58fadd3365a4bf9",
+            "ship": "",
+            "audio": false,
+            "p": 29
+          },
+          "hkey": "가면산장살인사건"
+        },
+        {
+          "isbn": "사랑에대하여",
+          "title": "사랑에 대하여",
+          "author": "안톤 체호프 지음 / 이항재 옮김",
+          "pub": "",
+          "millie": {
+            "t": 46,
+            "pid": "cba91c332d814f6d",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "사랑에대하여"
+        },
+        {
+          "isbn": "방을치웠을뿐인데운이트이기시작했다",
+          "title": "방을 치웠을 뿐인데 운이 트이기 시작했다",
+          "author": "마스다 미츠히로 지음 / 장은주 옮김",
+          "pub": "",
+          "millie": {
+            "t": 47,
+            "pid": "5683472c80b14ea1",
+            "ship": "",
+            "audio": false,
+            "p": 35
+          },
+          "hkey": "방을치웠을뿐인데운이트이기시작했다"
+        },
+        {
+          "isbn": "총균쇠",
+          "title": "총 균 쇠",
+          "author": "재레드 다이아몬드 지음 / 강주헌 옮김",
+          "pub": "",
+          "millie": {
+            "t": 48,
+            "pid": "f597af3b22f74426",
+            "ship": "",
+            "audio": false,
+            "p": 32
+          },
+          "hkey": "총균쇠"
+        },
+        {
+          "isbn": "행복의기원10주년기념개정판",
+          "title": "행복의 기원(10주년 기념 개정판)",
+          "author": "서은국",
+          "pub": "",
+          "millie": {
+            "t": 49,
+            "pid": "90bb5bcac4514151",
+            "ship": "",
+            "audio": false,
+            "p": null
+          },
+          "hkey": "행복의기원10주년기념개정판"
         }
       ]
     }
