@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T09:29:37.807878+09:00",
+  "updated": "2026-11-25T14:31:52.638959+09:00",
   "count": 40,
   "books": [
     {
@@ -19,6 +19,16 @@
       "cover": "https://image.millie.co.kr/service/cover/180190910/2717fbaf894d497db3e2c8feebeb808b.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "7fb192cc8d124580",
+      "title": "우리는 가장 밝은 밤에 헤어졌다",
+      "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180185050/1b3a304beaff498683ab8f578aa103af.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -43,61 +53,11 @@
       "is_comic": false
     },
     {
-      "id": "7fb192cc8d124580",
-      "title": "우리는 가장 밝은 밤에 헤어졌다",
-      "author": "표도르 도스토옙스키 지음 / 김희숙 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180185050/1b3a304beaff498683ab8f578aa103af.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "a452160768b945ce",
       "title": "검은 집",
       "author": "기시 유스케 지음 / 이선희 옮김",
       "cover": "https://image.millie.co.kr/service/cover/180191437/43cfe4ddc4e34fdc91dbc403eb844206.jpg",
       "open_date": "2026-12-06",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9ca2e010b1e14a43",
-      "title": "자본주의 시스템 해킹 매뉴얼",
-      "author": "전쓰트",
-      "cover": "https://image.millie.co.kr/service/cover/180190873/52708b67ab544aa9a5f9aeb75be5897c.jpg",
-      "open_date": "2026-12-03",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "101b27ffb4e945da",
-      "title": "러브버그물풍선폭탄사태",
-      "author": "임희강",
-      "cover": "https://image.millie.co.kr/service/cover/180187200/6d25e57465834d1fa04edf5d67d0bf08.jpg",
-      "open_date": "2026-11-27",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "ccbab1c9afd444dc",
-      "title": "바다를 엿보다",
-      "author": "이라 세쓰나 지음 / 황요찬 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180187304/e9c5e6a3fada4c99a98fab695e2413eb.jpg",
-      "open_date": "2026-11-29",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "cc8c2f0d17db49f0",
-      "title": "리더의 AI 노트",
-      "author": "김지현",
-      "cover": "https://image.millie.co.kr/service/cover/180187718/186e2a7af07c4713b660e68c2df116a5.jpg",
-      "open_date": "2026-11-26",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -113,11 +73,11 @@
       "is_comic": false
     },
     {
-      "id": "f9bd4e9ffae5446b",
-      "title": "박태웅의 AI 사회",
-      "author": "박태웅",
-      "cover": "https://image.millie.co.kr/service/cover/180191921/f01c44b17f00453f942b2f315f65dcd5.jpg",
-      "open_date": "2026-12-04",
+      "id": "9ca2e010b1e14a43",
+      "title": "자본주의 시스템 해킹 매뉴얼",
+      "author": "전쓰트",
+      "cover": "https://image.millie.co.kr/service/cover/180190873/52708b67ab544aa9a5f9aeb75be5897c.jpg",
+      "open_date": "2026-12-03",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -133,11 +93,51 @@
       "is_comic": false
     },
     {
-      "id": "8b5a186740d7474e",
-      "title": "시대를 읽고, 투자하고, 살아남아라",
-      "author": "의교창",
-      "cover": "https://image.millie.co.kr/service/cover/180191323/da3b8e3de3f8412dbc6b610478418cb9.jpg",
-      "open_date": "2026-12-02",
+      "id": "101b27ffb4e945da",
+      "title": "러브버그물풍선폭탄사태",
+      "author": "임희강",
+      "cover": "https://image.millie.co.kr/service/cover/180187200/6d25e57465834d1fa04edf5d67d0bf08.jpg",
+      "open_date": "2026-11-27",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "76a5b79baa7246a2",
+      "title": "남겨진 것들의 기록",
+      "author": "김새별, 전애원",
+      "cover": "https://image.millie.co.kr/service/cover/180192040/44c304a29a2f4243b119d79482962153.jpg",
+      "open_date": "2026-12-09",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "cc8c2f0d17db49f0",
+      "title": "리더의 AI 노트",
+      "author": "김지현",
+      "cover": "https://image.millie.co.kr/service/cover/180187718/186e2a7af07c4713b660e68c2df116a5.jpg",
+      "open_date": "2026-11-26",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ccbab1c9afd444dc",
+      "title": "바다를 엿보다",
+      "author": "이라 세쓰나 지음 / 황요찬 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180187304/e9c5e6a3fada4c99a98fab695e2413eb.jpg",
+      "open_date": "2026-11-29",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "f9bd4e9ffae5446b",
+      "title": "박태웅의 AI 사회",
+      "author": "박태웅",
+      "cover": "https://image.millie.co.kr/service/cover/180191921/f01c44b17f00453f942b2f315f65dcd5.jpg",
+      "open_date": "2026-12-04",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -148,6 +148,36 @@
       "author": "황상열",
       "cover": "https://image.millie.co.kr/service/cover/180192194/57bc991600f14214a4d5f59c34cd0641.jpg",
       "open_date": "2026-12-06",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "8b5a186740d7474e",
+      "title": "시대를 읽고, 투자하고, 살아남아라",
+      "author": "의교창",
+      "cover": "https://image.millie.co.kr/service/cover/180191323/da3b8e3de3f8412dbc6b610478418cb9.jpg",
+      "open_date": "2026-12-02",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "e3cffbb1bf9b439b",
+      "title": "뉴 잭 스윙",
+      "author": "박서련",
+      "cover": "https://image.millie.co.kr/service/cover/180192322/37aa50384eb9416b815a231502418f69.jpg",
+      "open_date": "2026-12-16",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "d2a049f7d3c94b19",
+      "title": "왜 저 사람은 잘 팔릴까",
+      "author": "정성희",
+      "cover": "https://image.millie.co.kr/service/cover/180192043/7b8b8e331b444c2abac6f947b4767c5a.jpg",
+      "open_date": "2026-12-04",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -173,16 +203,6 @@
       "is_comic": false
     },
     {
-      "id": "d2a049f7d3c94b19",
-      "title": "왜 저 사람은 잘 팔릴까",
-      "author": "정성희",
-      "cover": "https://image.millie.co.kr/service/cover/180192043/7b8b8e331b444c2abac6f947b4767c5a.jpg",
-      "open_date": "2026-12-04",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "aa08084351504c63",
       "title": "믿을 수 있을 만큼의 진실",
       "author": "김유나",
@@ -193,31 +213,21 @@
       "is_comic": false
     },
     {
-      "id": "76a5b79baa7246a2",
-      "title": "남겨진 것들의 기록",
-      "author": "김새별, 전애원",
-      "cover": "https://image.millie.co.kr/service/cover/180192040/44c304a29a2f4243b119d79482962153.jpg",
-      "open_date": "2026-12-09",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "e3cffbb1bf9b439b",
-      "title": "뉴 잭 스윙",
-      "author": "박서련",
-      "cover": "https://image.millie.co.kr/service/cover/180192322/37aa50384eb9416b815a231502418f69.jpg",
-      "open_date": "2026-12-16",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "28c239db980349cd",
       "title": "아픔이 아픔으로 끝나지 않도록",
       "author": "권오중",
       "cover": "https://image.millie.co.kr/service/cover/180191949/5ffa6a01d830413885566ec4488ce504.jpg",
       "open_date": "2026-11-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "02268206c47f43b5",
+      "title": "인공지능이 모두를 잘살게 만들까?",
+      "author": "오승현",
+      "cover": "https://image.millie.co.kr/service/cover/180191282/815abec78a48429f94c5dbbef561c2d2.jpg",
+      "open_date": "2026-12-05",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -233,16 +243,6 @@
       "is_comic": false
     },
     {
-      "id": "02268206c47f43b5",
-      "title": "인공지능이 모두를 잘살게 만들까?",
-      "author": "오승현",
-      "cover": "https://image.millie.co.kr/service/cover/180191282/815abec78a48429f94c5dbbef561c2d2.jpg",
-      "open_date": "2026-12-05",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "72dd1b9673c742cd",
       "title": "루이&후이 보물 같은 나날들",
       "author": "류정훈 지음 / 이화 그림",
@@ -253,21 +253,31 @@
       "is_comic": false
     },
     {
-      "id": "44bb00f9f69144b0",
-      "title": "엄마 몸 바이블",
-      "author": "닥터 라이블리(최지영)",
-      "cover": "https://image.millie.co.kr/service/cover/180192026/29776237413d494f9a71cb9172d705d6.jpg",
-      "open_date": "2026-12-08",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "b35e295155f14290",
       "title": "고작 잠봉뵈르 하나 먹었을 뿐인데",
       "author": "해어비",
       "cover": "https://image.millie.co.kr/service/cover/180192398/4b452e49df6c4886ab93ad0cf6ac432a.jpg",
       "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "11e4dbfd1e6149e0",
+      "title": "살",
+      "author": "데이비드 솔로이 지음 / 송예슬 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180192356/71408a4ec635410896ffbb96d2c6438a.jpg",
+      "open_date": "2026-12-09",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "44bb00f9f69144b0",
+      "title": "엄마 몸 바이블",
+      "author": "닥터 라이블리(최지영)",
+      "cover": "https://image.millie.co.kr/service/cover/180192026/29776237413d494f9a71cb9172d705d6.jpg",
+      "open_date": "2026-12-08",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -303,22 +313,22 @@
       "is_comic": false
     },
     {
-      "id": "cfe7e0766b74425f",
-      "title": "백제를 우뚝 세운 근초고왕",
-      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187498/3d3bb2d709f5483f973d9ca90fa34026.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "751bf2e400c04f56",
       "title": "침팬지의 친구 제인 구달",
       "author": "김유리 지음 / 이갑규 그림",
       "cover": "https://image.millie.co.kr/service/cover/180187496/e55651b9a9d54637b555e5e308e5da45.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "cfe7e0766b74425f",
+      "title": "백제를 우뚝 세운 근초고왕",
+      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187498/3d3bb2d709f5483f973d9ca90fa34026.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -337,16 +347,6 @@
       "title": "후루룩 후루룩 짜장면",
       "author": "조재은 지음 / 조은희 그림",
       "cover": "https://image.millie.co.kr/service/cover/180187501/1d5107fa65a1440c94b9a7689577e7f6.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "80968133d61c495e",
-      "title": "침팬지의 친구 제인 구달",
-      "author": "김유리 지음 / 이갑규 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187502/811b3020888443ae813f93d92b9028ab.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": true,
       "is_series": false,
@@ -373,16 +373,6 @@
       "is_comic": false
     },
     {
-      "id": "9f90182e921c4d13",
-      "title": "무사가 되고 싶은 겐지",
-      "author": "이규희 지음 / 오은하 그림 / 김은숙 감수",
-      "cover": "https://image.millie.co.kr/service/cover/180187494/238e4cac147746ab85d7477b7332a3be.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "c654ee9528c4461b",
       "title": "뽕, 뽑혔네!",
       "author": "이민진 지음 / 이경국 그림 / 노규식 감수",
@@ -393,11 +383,21 @@
       "is_comic": false
     },
     {
-      "id": "11e4dbfd1e6149e0",
-      "title": "살",
-      "author": "데이비드 솔로이 지음 / 송예슬 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180192356/71408a4ec635410896ffbb96d2c6438a.jpg",
-      "open_date": "2026-12-09",
+      "id": "80968133d61c495e",
+      "title": "침팬지의 친구 제인 구달",
+      "author": "김유리 지음 / 이갑규 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187502/811b3020888443ae813f93d92b9028ab.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "9f90182e921c4d13",
+      "title": "무사가 되고 싶은 겐지",
+      "author": "이규희 지음 / 오은하 그림 / 김은숙 감수",
+      "cover": "https://image.millie.co.kr/service/cover/180187494/238e4cac147746ab85d7477b7332a3be.jpg",
+      "open_date": "2026-12-07",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
