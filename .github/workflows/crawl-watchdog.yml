@@ -1,0 +1,127 @@
+name: Crawl Watchdog (KST 08:45)
+
+# 기존 Claude 루틴 "svcRankCompare 자동 크롤링 확인"을 GitHub Actions만으로 옮긴 버전.
+# - 매일 KST 08:45(= UTC 23:45, 전날)에 data.json의 today를 확인하고
+#   오늘자가 아니면 crawl.yml을 수동 실행한 뒤 결과를 검증한다.
+# - 성공하면 조용히 종료(성공 표시만), 실패하면 job이 실패 처리되어 GitHub 알림이 간다.
+# - 주의: schedule은 반드시 "기본 브랜치"에 있는 워크플로우 파일만 실행된다.
+#   이 파일은 기본 브랜치의 .github/workflows/ 에 두어야 한다.
+
+on:
+  schedule:
+    - cron: "45 23 * * *"   # KST 08:45
+  workflow_dispatch:         # Actions 탭에서 수동 실행 ("업데이트해줘" 대용)
+
+permissions:
+  contents: read
+  actions: write
+
+env:
+  REPO: younshubpage/svcRankCompare
+  BRANCH: claude/subscription-book-ranking-comparison-yszfto
+  WORKFLOW: crawl.yml
+  GH_TOKEN: ${{ github.token }}
+  TZ: Asia/Seoul
+
+jobs:
+  watchdog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - name: Check data.json and trigger crawl if needed
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          read_json() {
+            # GitHub API로 직접 읽는다 (raw CDN은 캐시 지연이 있음)
+            gh api "repos/${REPO}/contents/data.json?ref=${BRANCH}" --jq '.content' | base64 -d
+          }
+
+          # 1. 예상 라벨: 오늘 실행분은 "KST 오늘 - 1일"로 저장됨
+          EXPECTED="$(date -d 'yesterday' +%F)"
+
+          # 2~3. 현재 today를 읽고 명시적으로 비교
+          JSON="$(read_json)"
+          ACTUAL="$(echo "$JSON" | jq -r '.today')"
+          if [ "$EXPECTED" = "$ACTUAL" ]; then SAME="예"; else SAME="아니오"; fi
+          echo "예상 라벨: ${EXPECTED} / 실제 today: ${ACTUAL} / 두 문자열이 정확히 같은가? ${SAME}"
+
+          run_crawl() {
+            local before run_id status conclusion
+            before="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            gh workflow run "$WORKFLOW" --repo "$REPO" --ref "$BRANCH"
+            sleep 8
+            run_id=""
+            for _ in $(seq 1 10); do
+              run_id="$(gh run list --repo "$REPO" --workflow "$WORKFLOW" \
+                --event workflow_dispatch --branch "$BRANCH" --limit 5 \
+                --json databaseId,createdAt \
+                --jq "[.[] | select(.createdAt >= \"${before}\")] | sort_by(.createdAt) | last | .databaseId // empty")"
+              [ -n "$run_id" ] && break
+              sleep 6
+            done
+            if [ -z "$run_id" ]; then
+              echo "::error::새로 실행된 crawl run을 찾지 못했습니다."
+              exit 1
+            fi
+            echo "crawl run id: ${run_id}"
+            # 20초 간격 폴링으로 completed까지 대기
+            while true; do
+              status="$(gh run view "$run_id" --repo "$REPO" --json status --jq '.status')"
+              [ "$status" = "completed" ] && break
+              sleep 20
+            done
+            conclusion="$(gh run view "$run_id" --repo "$REPO" --json conclusion --jq '.conclusion')"
+            echo "crawl 결과: ${conclusion}"
+            if [ "$conclusion" != "success" ]; then
+              echo "::group::실패 로그"
+              gh run view "$run_id" --repo "$REPO" --log-failed || true
+              echo "::endgroup::"
+              echo "::error::crawl.yml 실행이 ${conclusion}로 끝났습니다."
+              exit 1
+            fi
+          }
+
+          # 4. 불일치면 크롤링 실행 (일치하면 5번처럼 다시 돌리지 않고 이중 확인으로)
+          if [ "$SAME" = "아니오" ]; then
+            run_crawl
+            JSON="$(read_json)"
+            ACTUAL="$(echo "$JSON" | jq -r '.today')"
+            if [ "$EXPECTED" = "$ACTUAL" ]; then SAME="예"; else SAME="아니오"; fi
+            echo "재확인 - 예상 라벨: ${EXPECTED} / 실제 today: ${ACTUAL} / 같은가? ${SAME}"
+          fi
+
+          # 6. 이중 안전망: prev와 today가 정확히 하루 차이인지 확인
+          PREV="$(echo "$JSON" | jq -r '.prev')"
+          DIFF_DAYS="$(( ( $(date -d "$ACTUAL" +%s) - $(date -d "$PREV" +%s) ) / 86400 ))" || DIFF_DAYS="?"
+          echo "prev: ${PREV} / today: ${ACTUAL} / 차이: ${DIFF_DAYS}일"
+          if [ "$SAME" = "예" ] && [ "$DIFF_DAYS" != "1" ]; then
+            echo "하루 차이가 아니므로 크롤링을 다시 실행합니다."
+            run_crawl
+            JSON="$(read_json)"
+            ACTUAL="$(echo "$JSON" | jq -r '.today')"
+            PREV="$(echo "$JSON" | jq -r '.prev')"
+            DIFF_DAYS="$(( ( $(date -d "$ACTUAL" +%s) - $(date -d "$PREV" +%s) ) / 86400 ))" || DIFF_DAYS="?"
+            echo "재실행 후 prev: ${PREV} / today: ${ACTUAL} / 차이: ${DIFF_DAYS}일"
+            if [ "$EXPECTED" = "$ACTUAL" ]; then SAME="예"; else SAME="아니오"; fi
+          fi
+
+          # 7. 최종 판정
+          STALE="$(echo "$JSON" | jq -c '.stale_stores // []')"
+          STALE_N="$(echo "$JSON" | jq '(.stale_stores // []) | length')"
+          echo "stale_stores: ${STALE} (${STALE_N}곳)"
+          if [ "$SAME" != "예" ]; then
+            echo "::error::today(${ACTUAL})가 예상 라벨(${EXPECTED})과 다릅니다."
+            exit 1
+          fi
+          if [ "$DIFF_DAYS" != "1" ]; then
+            echo "::error::prev(${PREV})와 today(${ACTUAL})가 하루 차이가 아닙니다."
+            exit 1
+          fi
+          # 4개 서비스 중 다수(3곳 이상)가 stale이면 실패 처리. 1~2곳은 정상 폴백으로 성공 간주.
+          if [ "$STALE_N" -ge 3 ]; then
+            echo "::error::4개 서비스 중 ${STALE_N}곳이 stale입니다: ${STALE}"
+            exit 1
+          fi
+          echo "정상 완료"
