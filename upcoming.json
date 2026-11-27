@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27T14:12:10.016869+09:00",
-  "count": 68,
+  "updated": "2026-11-28T08:46:38.523290+09:00",
+  "count": 74,
   "books": [
     {
       "id": "d90340986559453e",
@@ -43,16 +43,6 @@
       "is_comic": false
     },
     {
-      "id": "49ee029060fb4cfb",
-      "title": "세네카 인생수업: 죽음을 두려워하기 전에 제대로 살지 못한 삶을 두려워하라",
-      "author": "세네카 지음 / 김지민 엮음",
-      "cover": "https://image.millie.co.kr/service/cover/180187504/a5ebe4b43bba400989382d026babe15c.jpg",
-      "open_date": "2026-11-28",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "a452160768b945ce",
       "title": "검은 집",
       "author": "기시 유스케 지음 / 이선희 옮김",
@@ -63,21 +53,21 @@
       "is_comic": false
     },
     {
-      "id": "3b3f399b2c114197",
-      "title": "세입자",
-      "author": "프리다 맥파든 지음 / 이경아 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180185051/74ac54d47ed844a5be448e627fb1d5e3.jpg",
-      "open_date": "2026-12-21",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "e5e8d7fe0ed24982",
       "title": "기억의 무늬",
       "author": "백희성",
       "cover": "https://image.millie.co.kr/service/cover/180187926/2830764b45574f2d885a72c4c2c7a2d2.jpg",
       "open_date": "2026-12-16",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3b3f399b2c114197",
+      "title": "세입자",
+      "author": "프리다 맥파든 지음 / 이경아 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180185051/74ac54d47ed844a5be448e627fb1d5e3.jpg",
+      "open_date": "2026-12-21",
       "is_audiobook": true,
       "is_series": false,
       "is_comic": false
@@ -113,21 +103,21 @@
       "is_comic": false
     },
     {
-      "id": "ccbab1c9afd444dc",
-      "title": "바다를 엿보다",
-      "author": "이라 세쓰나 지음 / 황요찬 옮김",
-      "cover": "https://image.millie.co.kr/service/cover/180187304/e9c5e6a3fada4c99a98fab695e2413eb.jpg",
-      "open_date": "2026-11-29",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "a1d3c9346f7c452a",
       "title": "글쓰기 고수의 패턴을 훔쳐라",
       "author": "황상열",
       "cover": "https://image.millie.co.kr/service/cover/180192194/57bc991600f14214a4d5f59c34cd0641.jpg",
       "open_date": "2026-12-06",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "ccbab1c9afd444dc",
+      "title": "바다를 엿보다",
+      "author": "이라 세쓰나 지음 / 황요찬 옮김",
+      "cover": "https://image.millie.co.kr/service/cover/180187304/e9c5e6a3fada4c99a98fab695e2413eb.jpg",
+      "open_date": "2026-11-29",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -213,12 +203,12 @@
       "is_comic": false
     },
     {
-      "id": "aa08084351504c63",
-      "title": "믿을 수 있을 만큼의 진실",
-      "author": "김유나",
-      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
+      "id": "44bb00f9f69144b0",
+      "title": "엄마 몸 바이블",
+      "author": "닥터 라이블리(최지영)",
+      "cover": "https://image.millie.co.kr/service/cover/180192026/29776237413d494f9a71cb9172d705d6.jpg",
+      "open_date": "2026-12-08",
+      "is_audiobook": false,
       "is_series": false,
       "is_comic": false
     },
@@ -233,12 +223,12 @@
       "is_comic": false
     },
     {
-      "id": "44bb00f9f69144b0",
-      "title": "엄마 몸 바이블",
-      "author": "닥터 라이블리(최지영)",
-      "cover": "https://image.millie.co.kr/service/cover/180192026/29776237413d494f9a71cb9172d705d6.jpg",
-      "open_date": "2026-12-08",
-      "is_audiobook": false,
+      "id": "aa08084351504c63",
+      "title": "믿을 수 있을 만큼의 진실",
+      "author": "김유나",
+      "cover": "https://image.millie.co.kr/service/cover/180185477/72bac0c7e5b24d97af00f430a4bb5e9f.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -249,16 +239,6 @@
       "cover": "https://image.millie.co.kr/service/cover/180192063/c1d9b9c0588f47ab85e6e4ad8ec02e20.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "8c14101ee7394911",
-      "title": "4×4의 세계",
-      "author": "조우리 지음 / 노인경 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180185480/a3728fc3396c46a4a5a1c9fde5c972d8.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     },
@@ -283,6 +263,26 @@
       "is_comic": false
     },
     {
+      "id": "8c14101ee7394911",
+      "title": "4×4의 세계",
+      "author": "조우리 지음 / 노인경 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180185480/a3728fc3396c46a4a5a1c9fde5c972d8.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "81f7abf321b24fc4",
+      "title": "부의 대격변",
+      "author": "손진석",
+      "cover": "https://image.millie.co.kr/service/cover/180193223/b68a339b700c4f8d9c467765bd97cb3f.jpg",
+      "open_date": "2026-11-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "a1dcbf7ab6e44dfd",
       "title": "날개 연대기",
       "author": "박인주",
@@ -293,11 +293,31 @@
       "is_comic": false
     },
     {
-      "id": "81f7abf321b24fc4",
-      "title": "부의 대격변",
-      "author": "손진석",
-      "cover": "https://image.millie.co.kr/service/cover/180193223/b68a339b700c4f8d9c467765bd97cb3f.jpg",
+      "id": "44c4805f8a87480a",
+      "title": "이것은 천재의 사랑",
+      "author": "양안다",
+      "cover": "https://image.millie.co.kr/service/cover/180191823/9f5130291b7746749fba8ef22fe553a7.jpg",
       "open_date": "2026-11-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "2d13c56c0b9140b5",
+      "title": "오늘부터 나를 사랑하는 엄마가 되기로 했다",
+      "author": "케다맘",
+      "cover": "https://image.millie.co.kr/service/cover/180186921/841c57b5cc664e079829efc54ddf57ef.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3061969d1c4b4c09",
+      "title": "빵, 공원, 농구하는 소녀",
+      "author": "천선란 지음 / 이주향 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180193694/15c53f266d6d40b0a213af22bc24732a.jpg",
+      "open_date": "2026-12-01",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -323,10 +343,40 @@
       "is_comic": false
     },
     {
-      "id": "44c4805f8a87480a",
-      "title": "이것은 천재의 사랑",
-      "author": "양안다",
-      "cover": "https://image.millie.co.kr/service/cover/180191823/9f5130291b7746749fba8ef22fe553a7.jpg",
+      "id": "9016904cb06e464a",
+      "title": "누구나 밤엔 명작을 쓰잖아요",
+      "author": "김이듬",
+      "cover": "https://image.millie.co.kr/service/cover/180191825/5869837a70924acaa41530528e848b66.jpg",
+      "open_date": "2026-11-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "0ff281afcefe4969",
+      "title": "아사코의 거짓말",
+      "author": "박은정",
+      "cover": "https://image.millie.co.kr/service/cover/180191840/2f245659b75a42d6892a5090fc8ba7f2.jpg",
+      "open_date": "2026-11-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "19490c240c7a4686",
+      "title": "불가능을 예측하라",
+      "author": "정두희",
+      "cover": "https://image.millie.co.kr/service/cover/180186872/c4bee5fd08b14ac3a9fb253acbe655cb.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "247cba1231774dd5",
+      "title": "세계-사이",
+      "author": "최정우",
+      "cover": "https://image.millie.co.kr/service/cover/180191842/fa96bdba9e574914bb3ea753c278dcd9.jpg",
       "open_date": "2026-11-30",
       "is_audiobook": false,
       "is_series": false,
@@ -353,61 +403,11 @@
       "is_comic": false
     },
     {
-      "id": "247cba1231774dd5",
-      "title": "세계-사이",
-      "author": "최정우",
-      "cover": "https://image.millie.co.kr/service/cover/180191842/fa96bdba9e574914bb3ea753c278dcd9.jpg",
-      "open_date": "2026-11-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "39053c7406ff4dee",
-      "title": "후루룩 후루룩 짜장면",
-      "author": "조재은 지음 / 조은희 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187501/1d5107fa65a1440c94b9a7689577e7f6.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "0ff281afcefe4969",
-      "title": "아사코의 거짓말",
-      "author": "박은정",
-      "cover": "https://image.millie.co.kr/service/cover/180191840/2f245659b75a42d6892a5090fc8ba7f2.jpg",
-      "open_date": "2026-11-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "2d13c56c0b9140b5",
-      "title": "오늘부터 나를 사랑하는 엄마가 되기로 했다",
-      "author": "케다맘",
-      "cover": "https://image.millie.co.kr/service/cover/180186921/841c57b5cc664e079829efc54ddf57ef.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "cfe7e0766b74425f",
-      "title": "백제를 우뚝 세운 근초고왕",
-      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187498/3d3bb2d709f5483f973d9ca90fa34026.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "751bf2e400c04f56",
-      "title": "침팬지의 친구 제인 구달",
-      "author": "김유리 지음 / 이갑규 그림",
-      "cover": "https://image.millie.co.kr/service/cover/180187496/e55651b9a9d54637b555e5e308e5da45.jpg",
-      "open_date": "2026-12-07",
+      "id": "688c03d9ca5846d3",
+      "title": "AI 프롬프트 어휘 사전",
+      "author": "류한석",
+      "cover": "https://image.millie.co.kr/service/cover/180193220/bf62cc6dfc0b4606aa7270376b47ba19.jpg",
+      "open_date": "2026-12-13",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -423,10 +423,120 @@
       "is_comic": false
     },
     {
+      "id": "751bf2e400c04f56",
+      "title": "침팬지의 친구 제인 구달",
+      "author": "김유리 지음 / 이갑규 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187496/e55651b9a9d54637b555e5e308e5da45.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "39053c7406ff4dee",
+      "title": "후루룩 후루룩 짜장면",
+      "author": "조재은 지음 / 조은희 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187501/1d5107fa65a1440c94b9a7689577e7f6.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "b58090657d394efa",
+      "title": "몽골인들을 위한 클럽",
+      "author": "이주빈",
+      "cover": "https://image.millie.co.kr/service/cover/180191830/a7fdecdd47fb40bea937c469925c2303.jpg",
+      "open_date": "2026-11-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "38e17e988f854a6e",
+      "title": "고전덕질 [이반 일리치의 죽음]",
+      "author": "밀리의서재",
+      "cover": "https://image.millie.co.kr/service/cover/180193315/a13c8d8b4e7b4f5b9f07d38a4f35dbe0.jpg",
+      "open_date": "2026-11-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "3f63167e47174114",
+      "title": "월간산 2026년 12월호",
+      "author": "월간산 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180193222/38d8238dd3694ea8b46eb7eed6c9f2fd.jpg",
+      "open_date": "2026-12-01",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "66724e88db124f45",
+      "title": "전지적 루이&후이 시점 3",
+      "author": "에버랜드 동물원, 송영관(에버랜드 동물원) 지음 / 류정훈(에버랜드 커뮤니케이션 그룹) 사진",
+      "cover": "https://image.millie.co.kr/service/cover/180192529/a686c903bf7841d292809ea37a57fd22.jpg",
+      "open_date": "2026-12-11",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "cfe7e0766b74425f",
+      "title": "백제를 우뚝 세운 근초고왕",
+      "author": "김부식 지음 / 서보현 엮음 / 김태현 그림",
+      "cover": "https://image.millie.co.kr/service/cover/180187498/3d3bb2d709f5483f973d9ca90fa34026.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
       "id": "c471e637931b48f0",
       "title": "건전지 할머니",
       "author": "강인숙, 전승배",
       "cover": "https://image.millie.co.kr/service/cover/180192607/a94ea5fe28f94daca67c3645a73bd4d0.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "fa4d29f852c74ce8",
+      "title": "전지적 루이&후이 시점 2",
+      "author": "에버랜드 동물원, 송영관 (에버랜드 동물원) 지음 / 류정훈 (에버랜드 커뮤니케이션 그룹) 사진",
+      "cover": "https://image.millie.co.kr/service/cover/180192528/4242312e60754355823c618ca4fcb59b.jpg",
+      "open_date": "2026-12-11",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "cef09173ae7049a5",
+      "title": "불행 중독",
+      "author": "마사 하이네만 피퍼, 윌리엄 J. 피퍼 ",
+      "cover": "https://img.millie.co.kr/200x/service/cover/179610932/efbc5e321dbf4d34aa92cb4d21c70ded.jpg",
+      "open_date": "2026-11-30",
+      "is_audiobook": false,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "34fee8cc6d7747da",
+      "title": "고양이 루의 멋진 크리스마스",
+      "author": "셀린 리",
+      "cover": "https://image.millie.co.kr/service/cover/180192609/8717ad612eb4444789a5b6ae18fdb39e.jpg",
+      "open_date": "2026-12-07",
+      "is_audiobook": true,
+      "is_series": false,
+      "is_comic": false
+    },
+    {
+      "id": "cccc98abbebe409d",
+      "title": "따끈따끈 붕어빵 대결",
+      "author": "김원훈",
+      "cover": "https://image.millie.co.kr/service/cover/180192612/b8760b28c1a244519afe022380fe9599.jpg",
       "open_date": "2026-12-07",
       "is_audiobook": true,
       "is_series": false,
@@ -453,11 +563,11 @@
       "is_comic": false
     },
     {
-      "id": "b58090657d394efa",
-      "title": "몽골인들을 위한 클럽",
-      "author": "이주빈",
-      "cover": "https://image.millie.co.kr/service/cover/180191830/a7fdecdd47fb40bea937c469925c2303.jpg",
-      "open_date": "2026-11-30",
+      "id": "ae72ede6df24462c",
+      "title": "매경이코노미 2387호",
+      "author": "매경이코노미 편집부",
+      "cover": "https://image.millie.co.kr/service/cover/180193809/5119290f13b94c94807d0306f82cd5ee.jpg",
+      "open_date": "2026-12-01",
       "is_audiobook": false,
       "is_series": false,
       "is_comic": false
@@ -473,50 +583,10 @@
       "is_comic": false
     },
     {
-      "id": "19490c240c7a4686",
-      "title": "불가능을 예측하라",
-      "author": "정두희",
-      "cover": "https://image.millie.co.kr/service/cover/180186872/c4bee5fd08b14ac3a9fb253acbe655cb.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "9016904cb06e464a",
-      "title": "누구나 밤엔 명작을 쓰잖아요",
-      "author": "김이듬",
-      "cover": "https://image.millie.co.kr/service/cover/180191825/5869837a70924acaa41530528e848b66.jpg",
-      "open_date": "2026-11-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "38e17e988f854a6e",
-      "title": "고전덕질 [이반 일리치의 죽음]",
-      "author": "밀리의서재",
-      "cover": "https://image.millie.co.kr/service/cover/180193315/a13c8d8b4e7b4f5b9f07d38a4f35dbe0.jpg",
-      "open_date": "2026-11-30",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
       "id": "7a9c6c45114941b8",
       "title": "월간 CEO& 2026년 12월호",
       "author": "월간 CEO& 편집국",
       "cover": "https://image.millie.co.kr/service/cover/180193214/1c24d98d9f38490b8ef4ecd848bb22c8.jpg",
-      "open_date": "2026-12-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "3f63167e47174114",
-      "title": "월간산 2026년 12월호",
-      "author": "월간산 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180193222/38d8238dd3694ea8b46eb7eed6c9f2fd.jpg",
       "open_date": "2026-12-01",
       "is_audiobook": false,
       "is_series": false,
@@ -529,76 +599,6 @@
       "cover": "https://image.millie.co.kr/service/cover/180192351/afbdd772dc7f465c84ca0d2b147f9657.jpg",
       "open_date": "2026-12-01",
       "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "cccc98abbebe409d",
-      "title": "따끈따끈 붕어빵 대결",
-      "author": "김원훈",
-      "cover": "https://image.millie.co.kr/service/cover/180192612/b8760b28c1a244519afe022380fe9599.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "2e86e7a0b83947c9",
-      "title": "내맘愛우리안양 2026.12",
-      "author": "안양시 홍보기획관",
-      "cover": "https://image.millie.co.kr/service/cover/180193004/7ccefa3d3c404b9f877160e4a54cf96d.jpg",
-      "open_date": "2026-12-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "8053243099d24436",
-      "title": "우먼센스 2026년 12월호",
-      "author": "우먼센스 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180193081/2d7862abc969450b80c778d54fab2995.jpg",
-      "open_date": "2026-12-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "a60d1bca4a864b85",
-      "title": "여성조선 2026년 12월호",
-      "author": "여성조선 편집부",
-      "cover": "https://image.millie.co.kr/service/cover/180193213/2f06534eac0046ddba7d1fcff4e42eeb.jpg",
-      "open_date": "2026-12-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "002230c83b1f44d9",
-      "title": "청정하남 2026년 12월호",
-      "author": "하남시",
-      "cover": "https://image.millie.co.kr/service/cover/180193235/74cb73b76b2140c28dc4dc6524e666fa.jpg",
-      "open_date": "2026-12-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "f2532b5bf20b42b7",
-      "title": "치프 이그제큐티브 CHIEF EXECUTIVE 2026.12",
-      "author": "KMAC(한국능률협회컨설팅)",
-      "cover": "https://image.millie.co.kr/service/cover/180192742/de9624a83b414b55b832c56b1fedf87d.jpg",
-      "open_date": "2026-12-01",
-      "is_audiobook": false,
-      "is_series": false,
-      "is_comic": false
-    },
-    {
-      "id": "85ed44faab3542cc",
-      "title": "토끼전 대 호랑전",
-      "author": "정현진",
-      "cover": "https://image.millie.co.kr/service/cover/180192616/1dc08dae5d0f4510bfbe1e28ef8c96ef.jpg",
-      "open_date": "2026-12-07",
-      "is_audiobook": true,
       "is_series": false,
       "is_comic": false
     }
